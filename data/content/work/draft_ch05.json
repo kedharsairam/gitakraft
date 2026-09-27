@@ -1,0 +1,527 @@
+{
+ "chapter": 5,
+ "records": [
+  {
+   "id": "5:1",
+   "devanagari": "संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि ।\nयच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्",
+   "iast": "saṃnyāsaṃ karmaṇāṃ kṛṣṇa punaryogaṃ ca śaṃsasi |\nyacchreya etayorekaṃ tanme brūhi suniścitam",
+   "speaker": "अर्जुन",
+   "telang_context": "Ar^una said :\n\nO K/'/shwa ! you praise renunciation of actions  and also the pursuit (of them). Tell me determinately  which one of these two is superior.",
+   "arnold_span": "F01",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Arjuna said: you praise giving up actions, and also doing them. Tell me plainly which of the two is better.",
+   "takeaway": "When two goods compete, ask which is greater.",
+   "provenance": [
+    "sa:5:1",
+    "telang:T00+T01",
+    "arnold:F01"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:2",
+   "devanagari": "संन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ ।\nतयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते",
+   "iast": "saṃnyāsaḥ karmayogaśca niḥśreyasakarāvubhau |\ntayostu karmasaṃnyāsātkarmayogo viśiṣyate",
+   "speaker": null,
+   "telang_context": "The Deity said :\n\nRenunciation and pursuit of action are both  instruments of happiness. But of the two, pursuit  of action is superior to renunciation of action. He  should Tbe understood to be always an ascetic  who has no aversion and no desire. For, O you  of mighty arms! he who is free from the pairs of  opposites is easily released from (all) bonds. Children  not wise men — talk of sdnkhya and yoga as disSutta Nipdia, p. 49. * Cauiious, free from hecdlessness.",
+   "arnold_span": "F02",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Krishna said: both giving up and doing lead to freedom. But of the two, disciplined doing is the better path.",
+   "takeaway": "Act, don't abstain.",
+   "provenance": [
+    "sa:5:2",
+    "telang:T02+T03-head",
+    "arnold:F02"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:3",
+   "devanagari": "ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति ।\nनिर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते",
+   "iast": "jñeyaḥ sa nityasaṃnyāsī yo na dveṣṭi na kāṅkṣati |\nnirdvandvo hi mahābāho sukhaṃ bandhātpramucyate",
+   "speaker": null,
+   "telang_context": "Renunciation and pursuit of action are both  instruments of happiness. But of the two, pursuit  of action is superior to renunciation of action. He  should Tbe understood to be always an ascetic  who has no aversion and no desire. For, O you  of mighty arms! he who is free from the pairs of  opposites is easily released from (all) bonds. Children  not wise men — talk of sdnkhya and yoga as disSutta Nipdia, p. 49. * Cauiious, free from hecdlessness.",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Know that the true renouncer is one with no dislikes and no cravings. Free of opposites, such a one is easily freed from chains.",
+   "takeaway": "Renunciation is a state of mind, not an empty calendar.",
+   "provenance": [
+    "sa:5:3",
+    "telang:T03",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:4",
+   "devanagari": "सांख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः ।\nएकमप्यास्थितः सम्यगुभयोर्विन्दते फलम्",
+   "iast": "sāṃkhyayogau pṛthagbālāḥ pravadanti na paṇḍitāḥ |\nekamapyāsthitaḥ samyagubhayorvindate phalam",
+   "speaker": null,
+   "telang_context": "Renunciation and pursuit of action are both  instruments of happiness. But of the two, pursuit  of action is superior to renunciation of action. He  should Tbe understood to be always an ascetic  who has no aversion and no desire. For, O you  of mighty arms! he who is free from the pairs of  opposites is easily released from (all) bonds. Children  not wise men — talk of sdnkhya and yoga as disSutta Nipdia, p. 49. * Cauiious, free from hecdlessness.\n\ntinct. One who pursues either well obtains the fruit  of both. The seat which the sdhkhyas obtain is  reached by the yogas ^ also. He sees (truly), who  sees the sAhkhya and yoga as one. • Renunciation,  O you of mighty arms ! is difficult to reach without  devotion ; the sage possessed of devotion attains  Brahman * without delay. He who is possessed of  devotion, whose self is pure, who has restrained  his self®, and who has controlled his senses, and  who identifies his self with every being, is not  tainted though he performs (actions). The man of  devotion, who knows the truth, thinks he does  nothing at all, when he secs *, hears, touches,  smells, eats, moves, sleeps, breathes, talks, throws  out ®, takes, opens or closes the eyelids ; he holds  that the senses deal with the objects of the senses.  He who, casting off (all) attachment, performs actions  dedicating them to Brahman, is not tainted by sin,  as the lotus-leaf® (is not tainted) by water. Devotees, casting off attachment, perform actions for  attaining purity of self, with the body, the mind, the  understanding, or even the senses ^ — (all) free (from",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Only children, not wise people, say understanding and disciplined action are different things. Master either one fully and you reap both rewards.",
+   "takeaway": "Different doors, same room.",
+   "provenance": [
+    "sa:5:4",
+    "telang:T03+T04-head",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:5",
+   "devanagari": "यत्सांख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते ।\nएकं सांख्यं च योगं च यः पश्यति स: पश्यति",
+   "iast": "yatsāṃkhyaiḥ prāpyate sthānaṃ tadyogairapi gamyate |\nekaṃ sāṃkhyaṃ ca yogaṃ ca yaḥ paśyati sa: paśyati",
+   "speaker": null,
+   "telang_context": "tinct. One who pursues either well obtains the fruit  of both. The seat which the sdhkhyas obtain is  reached by the yogas ^ also. He sees (truly), who  sees the sAhkhya and yoga as one. • Renunciation,  O you of mighty arms ! is difficult to reach without  devotion ; the sage possessed of devotion attains  Brahman * without delay. He who is possessed of  devotion, whose self is pure, who has restrained  his self®, and who has controlled his senses, and  who identifies his self with every being, is not  tainted though he performs (actions). The man of  devotion, who knows the truth, thinks he does  nothing at all, when he secs *, hears, touches,  smells, eats, moves, sleeps, breathes, talks, throws  out ®, takes, opens or closes the eyelids ; he holds  that the senses deal with the objects of the senses.  He who, casting off (all) attachment, performs actions  dedicating them to Brahman, is not tainted by sin,  as the lotus-leaf® (is not tainted) by water. Devotees, casting off attachment, perform actions for  attaining purity of self, with the body, the mind, the  understanding, or even the senses ^ — (all) free (from\n\ntinct. One who pursues either well obtains the fruit  of both. The seat which the sdhkhyas obtain is  reached by the yogas ^ also. He sees (truly), who  sees the sAhkhya and yoga as one. • Renunciation,  O you of mighty arms ! is difficult to reach without  devotion ; the sage possessed of devotion attains  Brahman * without delay. He who is possessed of  devotion, whose self is pure, who has restrained  his self®, and who has controlled his senses, and  who identifies his self with every being, is not  tainted though he performs (actions). The man of  devotion, who knows the truth, thinks he does  nothing at all, when he secs *, hears, touches,  smells, eats, moves, sleeps, breathes, talks, throws  out ®, takes, opens or closes the eyelids ; he holds  that the senses deal with the objects of the senses.  He who, casting off (all) attachment, performs actions  dedicating them to Brahman, is not tainted by sin,  as the lotus-leaf® (is not tainted) by water. Devotees, casting off attachment, perform actions for  attaining purity of self, with the body, the mind, the  understanding, or even the senses ^ — (all) free (from",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The peace that thinkers reach, doers reach too. Whoever sees understanding and action as one — sees truly.",
+   "takeaway": "Stop choosing between them.",
+   "provenance": [
+    "sa:5:5",
+    "telang:T04",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:6",
+   "devanagari": "संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः ।\nयोगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति",
+   "iast": "saṃnyāsastu mahābāho duḥkhamāptumayogataḥ |\nyogayukto munirbrahma nacireṇādhigacchati",
+   "speaker": null,
+   "telang_context": "tinct. One who pursues either well obtains the fruit  of both. The seat which the sdhkhyas obtain is  reached by the yogas ^ also. He sees (truly), who  sees the sAhkhya and yoga as one. • Renunciation,  O you of mighty arms ! is difficult to reach without  devotion ; the sage possessed of devotion attains  Brahman * without delay. He who is possessed of  devotion, whose self is pure, who has restrained  his self®, and who has controlled his senses, and  who identifies his self with every being, is not  tainted though he performs (actions). The man of  devotion, who knows the truth, thinks he does  nothing at all, when he secs *, hears, touches,  smells, eats, moves, sleeps, breathes, talks, throws  out ®, takes, opens or closes the eyelids ; he holds  that the senses deal with the objects of the senses.  He who, casting off (all) attachment, performs actions  dedicating them to Brahman, is not tainted by sin,  as the lotus-leaf® (is not tainted) by water. Devotees, casting off attachment, perform actions for  attaining purity of self, with the body, the mind, the  understanding, or even the senses ^ — (all) free (from",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Giving up without discipline is hard and painful. But the sage grounded in discipline soon reaches ultimate reality.",
+   "takeaway": "You cannot skip to the end.",
+   "provenance": [
+    "sa:5:6",
+    "telang:T04",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:7",
+   "devanagari": "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः ।\nसर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते",
+   "iast": "yogayukto viśuddhātmā vijitātmā jitendriyaḥ |\nsarvabhūtātmabhūtātmā kurvannapi na lipyate",
+   "speaker": null,
+   "telang_context": "tinct. One who pursues either well obtains the fruit  of both. The seat which the sdhkhyas obtain is  reached by the yogas ^ also. He sees (truly), who  sees the sAhkhya and yoga as one. • Renunciation,  O you of mighty arms ! is difficult to reach without  devotion ; the sage possessed of devotion attains  Brahman * without delay. He who is possessed of  devotion, whose self is pure, who has restrained  his self®, and who has controlled his senses, and  who identifies his self with every being, is not  tainted though he performs (actions). The man of  devotion, who knows the truth, thinks he does  nothing at all, when he secs *, hears, touches,  smells, eats, moves, sleeps, breathes, talks, throws  out ®, takes, opens or closes the eyelids ; he holds  that the senses deal with the objects of the senses.  He who, casting off (all) attachment, performs actions  dedicating them to Brahman, is not tainted by sin,  as the lotus-leaf® (is not tainted) by water. Devotees, casting off attachment, perform actions for  attaining purity of self, with the body, the mind, the  understanding, or even the senses ^ — (all) free (from",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "One whose self is pure. Self controlled. Senses ruled. Who sees the same self in every being. Acts without getting stained.",
+   "takeaway": "Clean hands, full schedule.",
+   "provenance": [
+    "sa:5:7",
+    "telang:T04",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:8",
+   "devanagari": "नैव किंचित्करोमीति युक्तो मन्येत तत्त्ववित् ।\nपश्यञ्श्रृण्वन्स्पृशञ्जिघ्रन्नश्नन्‌गच्छन्स्वपञ्श्वसन्",
+   "iast": "naiva kiṃcitkaromīti yukto manyeta tattvavit |\npaśyañśrṛṇvanspṛśañjighrannaśnan‌gacchansvapañśvasan",
+   "speaker": null,
+   "telang_context": "tinct. One who pursues either well obtains the fruit  of both. The seat which the sdhkhyas obtain is  reached by the yogas ^ also. He sees (truly), who  sees the sAhkhya and yoga as one. • Renunciation,  O you of mighty arms ! is difficult to reach without  devotion ; the sage possessed of devotion attains  Brahman * without delay. He who is possessed of  devotion, whose self is pure, who has restrained  his self®, and who has controlled his senses, and  who identifies his self with every being, is not  tainted though he performs (actions). The man of  devotion, who knows the truth, thinks he does  nothing at all, when he secs *, hears, touches,  smells, eats, moves, sleeps, breathes, talks, throws  out ®, takes, opens or closes the eyelids ; he holds  that the senses deal with the objects of the senses.  He who, casting off (all) attachment, performs actions  dedicating them to Brahman, is not tainted by sin,  as the lotus-leaf® (is not tainted) by water. Devotees, casting off attachment, perform actions for  attaining purity of self, with the body, the mind, the  understanding, or even the senses ^ — (all) free (from",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The disciplined knower thinks 'I do nothing at all.' This while seeing, hearing, touching, smelling, eating, moving. Sleeping, breathing, speaking, excreting, grasping. Opening and closing the eyes.",
+   "takeaway": "Watch yourself live for one hour as a spectator.",
+   "provenance": [
+    "sa:5:8",
+    "telang:T04",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:9",
+   "devanagari": "प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि ।\nइन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन्",
+   "iast": "pralapanvisṛjangṛhṇannunmiṣannimiṣannapi |\nindriyāṇīndriyārtheṣu vartanta iti dhārayan",
+   "speaker": null,
+   "telang_context": "tinct. One who pursues either well obtains the fruit  of both. The seat which the sdhkhyas obtain is  reached by the yogas ^ also. He sees (truly), who  sees the sAhkhya and yoga as one. • Renunciation,  O you of mighty arms ! is difficult to reach without  devotion ; the sage possessed of devotion attains  Brahman * without delay. He who is possessed of  devotion, whose self is pure, who has restrained  his self®, and who has controlled his senses, and  who identifies his self with every being, is not  tainted though he performs (actions). The man of  devotion, who knows the truth, thinks he does  nothing at all, when he secs *, hears, touches,  smells, eats, moves, sleeps, breathes, talks, throws  out ®, takes, opens or closes the eyelids ; he holds  that the senses deal with the objects of the senses.  He who, casting off (all) attachment, performs actions  dedicating them to Brahman, is not tainted by sin,  as the lotus-leaf® (is not tainted) by water. Devotees, casting off attachment, perform actions for  attaining purity of self, with the body, the mind, the  understanding, or even the senses ^ — (all) free (from\n\negoistic notions). He who is possessed of devotion,  abandoning the fruit of actions, attains’ the highest  tranquillity. He' who is without devotion, and  attached to the fruit (of action), is tied down by  (reason of his) acting in consequence of (some)  desire. The self-restrained, embodied (self) lies at  ease within the city of nine portals renouncing all  actions by the mind, not doing nor causing (anything) to be done. The Lord is not the cause of  actions, or of the capacity of performing actions  amongst men, or of the connexion of action and  fruit. But nature only works. The Lord receives  no one’s sin, nor merit either. Knowledge is  enveloped by ignorance, hence all creatures are  deluded *. But to those who have destroyed that  ignorance by knowledge of the self, (such) knowledge, like the , sun, shows forth that supreme  (principle). And those whose mind is (centred) on  it, whose (very) self it is, who are thoroughly  devoted to it, and whose final goal it is, go  never to return, having their sins destroyed by  knowledge. The wise look upon a Brahma«a  possessed of learning and humility, on a cow, an  elephant, a dog, and a ►S'vapdka, as alike®. Even  here, those have conquered the material world,  whose mind rests in equability * ; since Brahman is  free from^ defects and equable, therefore they rest in",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Casting off clinging, one who acts as an offering to ultimate reality stays unstained. Like a lotus leaf untouched by water.",
+   "takeaway": "The book's most beautiful image of freedom.",
+   "provenance": [
+    "sa:5:9",
+    "telang:T04+T10-head",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:10",
+   "devanagari": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः ।\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा",
+   "iast": "brahmaṇyādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ |\nlipyate na sa pāpena padmapatramivāmbhasā",
+   "speaker": null,
+   "telang_context": "egoistic notions). He who is possessed of devotion,  abandoning the fruit of actions, attains’ the highest  tranquillity. He' who is without devotion, and  attached to the fruit (of action), is tied down by  (reason of his) acting in consequence of (some)  desire. The self-restrained, embodied (self) lies at  ease within the city of nine portals renouncing all  actions by the mind, not doing nor causing (anything) to be done. The Lord is not the cause of  actions, or of the capacity of performing actions  amongst men, or of the connexion of action and  fruit. But nature only works. The Lord receives  no one’s sin, nor merit either. Knowledge is  enveloped by ignorance, hence all creatures are  deluded *. But to those who have destroyed that  ignorance by knowledge of the self, (such) knowledge, like the , sun, shows forth that supreme  (principle). And those whose mind is (centred) on  it, whose (very) self it is, who are thoroughly  devoted to it, and whose final goal it is, go  never to return, having their sins destroyed by  knowledge. The wise look upon a Brahma«a  possessed of learning and humility, on a cow, an  elephant, a dog, and a ►S'vapdka, as alike®. Even  here, those have conquered the material world,  whose mind rests in equability * ; since Brahman is  free from^ defects and equable, therefore they rest in",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Devotees act for self-purification alone. With body, mind, understanding — even senses. Dropping all clinging.",
+   "takeaway": "Use everything you have. Cling to nothing.",
+   "provenance": [
+    "sa:5:10",
+    "telang:T10",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:11",
+   "devanagari": "कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि ।\nयोगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये",
+   "iast": "kāyena manasā buddhyā kevalairindriyairapi |\nyoginaḥ karma kurvanti saṅgaṃ tyaktvātmaśuddhaye",
+   "speaker": null,
+   "telang_context": "egoistic notions). He who is possessed of devotion,  abandoning the fruit of actions, attains’ the highest  tranquillity. He' who is without devotion, and  attached to the fruit (of action), is tied down by  (reason of his) acting in consequence of (some)  desire. The self-restrained, embodied (self) lies at  ease within the city of nine portals renouncing all  actions by the mind, not doing nor causing (anything) to be done. The Lord is not the cause of  actions, or of the capacity of performing actions  amongst men, or of the connexion of action and  fruit. But nature only works. The Lord receives  no one’s sin, nor merit either. Knowledge is  enveloped by ignorance, hence all creatures are  deluded *. But to those who have destroyed that  ignorance by knowledge of the self, (such) knowledge, like the , sun, shows forth that supreme  (principle). And those whose mind is (centred) on  it, whose (very) self it is, who are thoroughly  devoted to it, and whose final goal it is, go  never to return, having their sins destroyed by  knowledge. The wise look upon a Brahma«a  possessed of learning and humility, on a cow, an  elephant, a dog, and a ►S'vapdka, as alike®. Even  here, those have conquered the material world,  whose mind rests in equability * ; since Brahman is  free from^ defects and equable, therefore they rest in",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Dropping results, one gains the highest peace. But the undisciplined, hungry for results, stay chained by desire.",
+   "takeaway": "Two workers, same work, opposite fates.",
+   "provenance": [
+    "sa:5:11",
+    "telang:T10",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:12",
+   "devanagari": "युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् ।\nअयुक्तः कामकारेण फले सक्तो निबध्यते",
+   "iast": "yuktaḥ karmaphalaṃ tyaktvā śāntimāpnoti naiṣṭhikīm |\nayuktaḥ kāmakāreṇa phale sakto nibadhyate",
+   "speaker": null,
+   "telang_context": "egoistic notions). He who is possessed of devotion,  abandoning the fruit of actions, attains’ the highest  tranquillity. He' who is without devotion, and  attached to the fruit (of action), is tied down by  (reason of his) acting in consequence of (some)  desire. The self-restrained, embodied (self) lies at  ease within the city of nine portals renouncing all  actions by the mind, not doing nor causing (anything) to be done. The Lord is not the cause of  actions, or of the capacity of performing actions  amongst men, or of the connexion of action and  fruit. But nature only works. The Lord receives  no one’s sin, nor merit either. Knowledge is  enveloped by ignorance, hence all creatures are  deluded *. But to those who have destroyed that  ignorance by knowledge of the self, (such) knowledge, like the , sun, shows forth that supreme  (principle). And those whose mind is (centred) on  it, whose (very) self it is, who are thoroughly  devoted to it, and whose final goal it is, go  never to return, having their sins destroyed by  knowledge. The wise look upon a Brahma«a  possessed of learning and humility, on a cow, an  elephant, a dog, and a ►S'vapdka, as alike®. Even  here, those have conquered the material world,  whose mind rests in equability * ; since Brahman is  free from^ defects and equable, therefore they rest in",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The self-ruled self sits at ease in the nine-gated city of the body. Neither acting. Nor causing action.",
+   "takeaway": "You are the resident, not the building.",
+   "provenance": [
+    "sa:5:12",
+    "telang:T10",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:13",
+   "devanagari": "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।\nनवद्वारे पुरे देही नैव कुर्वन्न कारयन्",
+   "iast": "sarvakarmāṇi manasā saṃnyasyāste sukhaṃ vaśī |\nnavadvāre pure dehī naiva kurvanna kārayan",
+   "speaker": null,
+   "telang_context": "egoistic notions). He who is possessed of devotion,  abandoning the fruit of actions, attains’ the highest  tranquillity. He' who is without devotion, and  attached to the fruit (of action), is tied down by  (reason of his) acting in consequence of (some)  desire. The self-restrained, embodied (self) lies at  ease within the city of nine portals renouncing all  actions by the mind, not doing nor causing (anything) to be done. The Lord is not the cause of  actions, or of the capacity of performing actions  amongst men, or of the connexion of action and  fruit. But nature only works. The Lord receives  no one’s sin, nor merit either. Knowledge is  enveloped by ignorance, hence all creatures are  deluded *. But to those who have destroyed that  ignorance by knowledge of the self, (such) knowledge, like the , sun, shows forth that supreme  (principle). And those whose mind is (centred) on  it, whose (very) self it is, who are thoroughly  devoted to it, and whose final goal it is, go  never to return, having their sins destroyed by  knowledge. The wise look upon a Brahma«a  possessed of learning and humility, on a cow, an  elephant, a dog, and a ►S'vapdka, as alike®. Even  here, those have conquered the material world,  whose mind rests in equability * ; since Brahman is  free from^ defects and equable, therefore they rest in",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The Lord starts no one's actions, nor anyone's capacity to act, nor links deeds to results. Nature alone does all that.",
+   "takeaway": "God doesn't micromanage. Nature runs the office.",
+   "provenance": [
+    "sa:5:13",
+    "telang:T10",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:14",
+   "devanagari": "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः ।\nन कर्मफलसंयोगं स्वभावस्तु प्रवर्तते",
+   "iast": "na kartṛtvaṃ na karmāṇi lokasya sṛjati prabhuḥ |\nna karmaphalasaṃyogaṃ svabhāvastu pravartate",
+   "speaker": null,
+   "telang_context": "egoistic notions). He who is possessed of devotion,  abandoning the fruit of actions, attains’ the highest  tranquillity. He' who is without devotion, and  attached to the fruit (of action), is tied down by  (reason of his) acting in consequence of (some)  desire. The self-restrained, embodied (self) lies at  ease within the city of nine portals renouncing all  actions by the mind, not doing nor causing (anything) to be done. The Lord is not the cause of  actions, or of the capacity of performing actions  amongst men, or of the connexion of action and  fruit. But nature only works. The Lord receives  no one’s sin, nor merit either. Knowledge is  enveloped by ignorance, hence all creatures are  deluded *. But to those who have destroyed that  ignorance by knowledge of the self, (such) knowledge, like the , sun, shows forth that supreme  (principle). And those whose mind is (centred) on  it, whose (very) self it is, who are thoroughly  devoted to it, and whose final goal it is, go  never to return, having their sins destroyed by  knowledge. The wise look upon a Brahma«a  possessed of learning and humility, on a cow, an  elephant, a dog, and a ►S'vapdka, as alike®. Even  here, those have conquered the material world,  whose mind rests in equability * ; since Brahman is  free from^ defects and equable, therefore they rest in",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The Lord takes on no one's sin or merit. Wisdom lies covered by ignorance — and so all beings wander confused.",
+   "takeaway": "The sun is shining. The curtains are yours.",
+   "provenance": [
+    "sa:5:14",
+    "telang:T10",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:15",
+   "devanagari": "नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः ।\nअज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः",
+   "iast": "nādatte kasyacitpāpaṃ na caiva sukṛtaṃ vibhuḥ |\najñānenāvṛtaṃ jñānaṃ tena muhyanti jantavaḥ",
+   "speaker": null,
+   "telang_context": "egoistic notions). He who is possessed of devotion,  abandoning the fruit of actions, attains’ the highest  tranquillity. He' who is without devotion, and  attached to the fruit (of action), is tied down by  (reason of his) acting in consequence of (some)  desire. The self-restrained, embodied (self) lies at  ease within the city of nine portals renouncing all  actions by the mind, not doing nor causing (anything) to be done. The Lord is not the cause of  actions, or of the capacity of performing actions  amongst men, or of the connexion of action and  fruit. But nature only works. The Lord receives  no one’s sin, nor merit either. Knowledge is  enveloped by ignorance, hence all creatures are  deluded *. But to those who have destroyed that  ignorance by knowledge of the self, (such) knowledge, like the , sun, shows forth that supreme  (principle). And those whose mind is (centred) on  it, whose (very) self it is, who are thoroughly  devoted to it, and whose final goal it is, go  never to return, having their sins destroyed by  knowledge. The wise look upon a Brahma«a  possessed of learning and humility, on a cow, an  elephant, a dog, and a ►S'vapdka, as alike®. Even  here, those have conquered the material world,  whose mind rests in equability * ; since Brahman is  free from^ defects and equable, therefore they rest in",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "But those whose ignorance wisdom destroys — for them, wisdom shines like the sun on the highest truth.",
+   "takeaway": "Light doesn't argue with darkness. It just arrives.",
+   "provenance": [
+    "sa:5:15",
+    "telang:T10",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:16",
+   "devanagari": "ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः ।\nतेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम्",
+   "iast": "jñānena tu tadajñānaṃ yeṣāṃ nāśitamātmanaḥ |\nteṣāmādityavajjñānaṃ prakāśayati tatparam",
+   "speaker": null,
+   "telang_context": "egoistic notions). He who is possessed of devotion,  abandoning the fruit of actions, attains’ the highest  tranquillity. He' who is without devotion, and  attached to the fruit (of action), is tied down by  (reason of his) acting in consequence of (some)  desire. The self-restrained, embodied (self) lies at  ease within the city of nine portals renouncing all  actions by the mind, not doing nor causing (anything) to be done. The Lord is not the cause of  actions, or of the capacity of performing actions  amongst men, or of the connexion of action and  fruit. But nature only works. The Lord receives  no one’s sin, nor merit either. Knowledge is  enveloped by ignorance, hence all creatures are  deluded *. But to those who have destroyed that  ignorance by knowledge of the self, (such) knowledge, like the , sun, shows forth that supreme  (principle). And those whose mind is (centred) on  it, whose (very) self it is, who are thoroughly  devoted to it, and whose final goal it is, go  never to return, having their sins destroyed by  knowledge. The wise look upon a Brahma«a  possessed of learning and humility, on a cow, an  elephant, a dog, and a ►S'vapdka, as alike®. Even  here, those have conquered the material world,  whose mind rests in equability * ; since Brahman is  free from^ defects and equable, therefore they rest in",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Minds fixed on That. Selves merged in That. Devoted to That. That as their final goal. They never return, their wrongs washed away by wisdom.",
+   "takeaway": "Point everything at one thing.",
+   "provenance": [
+    "sa:5:16",
+    "telang:T10",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:17",
+   "devanagari": "तद्‌बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः ।\nगच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः",
+   "iast": "tad‌buddhayastadātmānastanniṣṭhāstatparāyaṇāḥ |\ngacchantyapunarāvṛttiṃ jñānanirdhūtakalmaṣāḥ",
+   "speaker": null,
+   "telang_context": "egoistic notions). He who is possessed of devotion,  abandoning the fruit of actions, attains’ the highest  tranquillity. He' who is without devotion, and  attached to the fruit (of action), is tied down by  (reason of his) acting in consequence of (some)  desire. The self-restrained, embodied (self) lies at  ease within the city of nine portals renouncing all  actions by the mind, not doing nor causing (anything) to be done. The Lord is not the cause of  actions, or of the capacity of performing actions  amongst men, or of the connexion of action and  fruit. But nature only works. The Lord receives  no one’s sin, nor merit either. Knowledge is  enveloped by ignorance, hence all creatures are  deluded *. But to those who have destroyed that  ignorance by knowledge of the self, (such) knowledge, like the , sun, shows forth that supreme  (principle). And those whose mind is (centred) on  it, whose (very) self it is, who are thoroughly  devoted to it, and whose final goal it is, go  never to return, having their sins destroyed by  knowledge. The wise look upon a Brahma«a  possessed of learning and humility, on a cow, an  elephant, a dog, and a ►S'vapdka, as alike®. Even  here, those have conquered the material world,  whose mind rests in equability * ; since Brahman is  free from^ defects and equable, therefore they rest in",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The wise see the same in a learned humble priest, a cow, an elephant, a dog — even a dog-eating outcast.",
+   "takeaway": "The book's most radical sentence. Sit with it.",
+   "provenance": [
+    "sa:5:17",
+    "telang:T10",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:18",
+   "devanagari": "विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि ।\nशुनि चैव श्वपाके च पण्डिताः समदर्शिनः",
+   "iast": "vidyāvinayasaṃpanne brāhmaṇe gavi hastini |\nśuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ",
+   "speaker": null,
+   "telang_context": "egoistic notions). He who is possessed of devotion,  abandoning the fruit of actions, attains’ the highest  tranquillity. He' who is without devotion, and  attached to the fruit (of action), is tied down by  (reason of his) acting in consequence of (some)  desire. The self-restrained, embodied (self) lies at  ease within the city of nine portals renouncing all  actions by the mind, not doing nor causing (anything) to be done. The Lord is not the cause of  actions, or of the capacity of performing actions  amongst men, or of the connexion of action and  fruit. But nature only works. The Lord receives  no one’s sin, nor merit either. Knowledge is  enveloped by ignorance, hence all creatures are  deluded *. But to those who have destroyed that  ignorance by knowledge of the self, (such) knowledge, like the , sun, shows forth that supreme  (principle). And those whose mind is (centred) on  it, whose (very) self it is, who are thoroughly  devoted to it, and whose final goal it is, go  never to return, having their sins destroyed by  knowledge. The wise look upon a Brahma«a  possessed of learning and humility, on a cow, an  elephant, a dog, and a ►S'vapdka, as alike®. Even  here, those have conquered the material world,  whose mind rests in equability * ; since Brahman is  free from^ defects and equable, therefore they rest in\n\nBrahman. He who knows Brahman, whose mind  is steady, who is not deluded, and who rests in  .Brahman, does not exult on finding anything agreeable, nor does he grieve on finding anything disagreeable One whose self is not attached to external  objects, obtains the happiness that is in (one’s) self ;  and by means of concentration of mind, joining one’s  self (with the Brahman), one obtains indestructible  happiness. For the enjoyments bom of contact (between senses and their objects) are, indeed, sources  of misery ; they have a beginning as well as an end^.  O son of Kuntf ! a wise man feels no pleasure  in them. He who even in this world, before his  release from the body, is able to bear the agitations  produced from desire and wrath, is a devoted man,  he is a happy man. The devotee whose happiness  is within (himself), whose recreation is within (himself), and whose light (of knowledge) also is within  (himself), becoming (one with) the Brahman®, obtains  the Brahmic bliss ■*. The sages whose sins have  perished, whose misgivings are destroyed, who are  self-restrained, and who are intent on the welfare  of all beings®, obtain the Brahmic bliss. To the  ascetics, who are free from desire and wrath ®, and  whose minds are restrained, and who have knowledge of the self, the Brahmic bliss is on both sides  (of death). The sage who excludes (from Jiis mind)",
+   "arnold_span": "F03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Even here on earth, the steady-minded conquer rebirth. For ultimate reality is flawless and steady. And in it they rest.",
+   "takeaway": "Win the war before the battlefield.",
+   "provenance": [
+    "sa:5:18",
+    "telang:T10+T11-head",
+    "arnold:F03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:19",
+   "devanagari": "इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः ।\nनिर्दोषं हि समं ब्रह्म तस्माद्ब्रह्मणि ते स्थिताः",
+   "iast": "ihaiva tairjitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ |\nnirdoṣaṃ hi samaṃ brahma tasmādbrahmaṇi te sthitāḥ",
+   "speaker": null,
+   "telang_context": "Brahman. He who knows Brahman, whose mind  is steady, who is not deluded, and who rests in  .Brahman, does not exult on finding anything agreeable, nor does he grieve on finding anything disagreeable One whose self is not attached to external  objects, obtains the happiness that is in (one’s) self ;  and by means of concentration of mind, joining one’s  self (with the Brahman), one obtains indestructible  happiness. For the enjoyments bom of contact (between senses and their objects) are, indeed, sources  of misery ; they have a beginning as well as an end^.  O son of Kuntf ! a wise man feels no pleasure  in them. He who even in this world, before his  release from the body, is able to bear the agitations  produced from desire and wrath, is a devoted man,  he is a happy man. The devotee whose happiness  is within (himself), whose recreation is within (himself), and whose light (of knowledge) also is within  (himself), becoming (one with) the Brahman®, obtains  the Brahmic bliss ■*. The sages whose sins have  perished, whose misgivings are destroyed, who are  self-restrained, and who are intent on the welfare  of all beings®, obtain the Brahmic bliss. To the  ascetics, who are free from desire and wrath ®, and  whose minds are restrained, and who have knowledge of the self, the Brahmic bliss is on both sides  (of death). The sage who excludes (from Jiis mind)",
+   "arnold_span": "F04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "One who knows ultimate reality, mind steady, undeluded, resting in it. Such a one neither cheers at pleasant things nor mourns unpleasant ones.",
+   "takeaway": "Good news and bad news get the same face.",
+   "provenance": [
+    "sa:5:19",
+    "telang:T11",
+    "arnold:F04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:20",
+   "devanagari": "न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् ।\nस्थिरबुद्धिरसंमूढो ब्रह्मविद्ब्रह्मणि स्थितः",
+   "iast": "na prahṛṣyetpriyaṃ prāpya nodvijetprāpya cāpriyam |\nsthirabuddhirasaṃmūḍho brahmavidbrahmaṇi sthitaḥ",
+   "speaker": null,
+   "telang_context": "Brahman. He who knows Brahman, whose mind  is steady, who is not deluded, and who rests in  .Brahman, does not exult on finding anything agreeable, nor does he grieve on finding anything disagreeable One whose self is not attached to external  objects, obtains the happiness that is in (one’s) self ;  and by means of concentration of mind, joining one’s  self (with the Brahman), one obtains indestructible  happiness. For the enjoyments bom of contact (between senses and their objects) are, indeed, sources  of misery ; they have a beginning as well as an end^.  O son of Kuntf ! a wise man feels no pleasure  in them. He who even in this world, before his  release from the body, is able to bear the agitations  produced from desire and wrath, is a devoted man,  he is a happy man. The devotee whose happiness  is within (himself), whose recreation is within (himself), and whose light (of knowledge) also is within  (himself), becoming (one with) the Brahman®, obtains  the Brahmic bliss ■*. The sages whose sins have  perished, whose misgivings are destroyed, who are  self-restrained, and who are intent on the welfare  of all beings®, obtain the Brahmic bliss. To the  ascetics, who are free from desire and wrath ®, and  whose minds are restrained, and who have knowledge of the self, the Brahmic bliss is on both sides  (of death). The sage who excludes (from Jiis mind)",
+   "arnold_span": "F04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Detached from outer contacts, one finds the happiness inside the self. Joined to ultimate reality through focus. Unbreakable happiness.",
+   "takeaway": "The happiness that needs nothing external.",
+   "provenance": [
+    "sa:5:20",
+    "telang:T11",
+    "arnold:F04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:21",
+   "devanagari": "बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत् सुखम् ।\nस ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते",
+   "iast": "bāhyasparśeṣvasaktātmā vindatyātmani yat sukham |\nsa brahmayogayuktātmā sukhamakṣayamaśnute",
+   "speaker": null,
+   "telang_context": "Brahman. He who knows Brahman, whose mind  is steady, who is not deluded, and who rests in  .Brahman, does not exult on finding anything agreeable, nor does he grieve on finding anything disagreeable One whose self is not attached to external  objects, obtains the happiness that is in (one’s) self ;  and by means of concentration of mind, joining one’s  self (with the Brahman), one obtains indestructible  happiness. For the enjoyments bom of contact (between senses and their objects) are, indeed, sources  of misery ; they have a beginning as well as an end^.  O son of Kuntf ! a wise man feels no pleasure  in them. He who even in this world, before his  release from the body, is able to bear the agitations  produced from desire and wrath, is a devoted man,  he is a happy man. The devotee whose happiness  is within (himself), whose recreation is within (himself), and whose light (of knowledge) also is within  (himself), becoming (one with) the Brahman®, obtains  the Brahmic bliss ■*. The sages whose sins have  perished, whose misgivings are destroyed, who are  self-restrained, and who are intent on the welfare  of all beings®, obtain the Brahmic bliss. To the  ascetics, who are free from desire and wrath ®, and  whose minds are restrained, and who have knowledge of the self, the Brahmic bliss is on both sides  (of death). The sage who excludes (from Jiis mind)",
+   "arnold_span": "F04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Pleasures born of contact are wombs of suffering — they begin and they end. The wise take no delight in them.",
+   "takeaway": "Everything with a start date has an expiry date.",
+   "provenance": [
+    "sa:5:21",
+    "telang:T11",
+    "arnold:F04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:22",
+   "devanagari": "ये हि संस्पर्शजा भोगा दुःखयोनय एव ते ।\nआद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः",
+   "iast": "ye hi saṃsparśajā bhogā duḥkhayonaya eva te |\nādyantavantaḥ kaunteya na teṣu ramate budhaḥ",
+   "speaker": null,
+   "telang_context": "Brahman. He who knows Brahman, whose mind  is steady, who is not deluded, and who rests in  .Brahman, does not exult on finding anything agreeable, nor does he grieve on finding anything disagreeable One whose self is not attached to external  objects, obtains the happiness that is in (one’s) self ;  and by means of concentration of mind, joining one’s  self (with the Brahman), one obtains indestructible  happiness. For the enjoyments bom of contact (between senses and their objects) are, indeed, sources  of misery ; they have a beginning as well as an end^.  O son of Kuntf ! a wise man feels no pleasure  in them. He who even in this world, before his  release from the body, is able to bear the agitations  produced from desire and wrath, is a devoted man,  he is a happy man. The devotee whose happiness  is within (himself), whose recreation is within (himself), and whose light (of knowledge) also is within  (himself), becoming (one with) the Brahman®, obtains  the Brahmic bliss ■*. The sages whose sins have  perished, whose misgivings are destroyed, who are  self-restrained, and who are intent on the welfare  of all beings®, obtain the Brahmic bliss. To the  ascetics, who are free from desire and wrath ®, and  whose minds are restrained, and who have knowledge of the self, the Brahmic bliss is on both sides  (of death). The sage who excludes (from Jiis mind)",
+   "arnold_span": "F04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Whoever can bear, even in this life before death, the surges of desire and anger — that person is disciplined. That person is happy.",
+   "takeaway": "Bear it now, not later.",
+   "provenance": [
+    "sa:5:22",
+    "telang:T11",
+    "arnold:F04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:23",
+   "devanagari": "शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात् ।\nकामक्रोधोद्भवं वेगं स युक्तः स सुखी नरः",
+   "iast": "śaknotīhaiva yaḥ soḍhuṃ prākśarīravimokṣaṇāt |\nkāmakrodhodbhavaṃ vegaṃ sa yuktaḥ sa sukhī naraḥ",
+   "speaker": null,
+   "telang_context": "Brahman. He who knows Brahman, whose mind  is steady, who is not deluded, and who rests in  .Brahman, does not exult on finding anything agreeable, nor does he grieve on finding anything disagreeable One whose self is not attached to external  objects, obtains the happiness that is in (one’s) self ;  and by means of concentration of mind, joining one’s  self (with the Brahman), one obtains indestructible  happiness. For the enjoyments bom of contact (between senses and their objects) are, indeed, sources  of misery ; they have a beginning as well as an end^.  O son of Kuntf ! a wise man feels no pleasure  in them. He who even in this world, before his  release from the body, is able to bear the agitations  produced from desire and wrath, is a devoted man,  he is a happy man. The devotee whose happiness  is within (himself), whose recreation is within (himself), and whose light (of knowledge) also is within  (himself), becoming (one with) the Brahman®, obtains  the Brahmic bliss ■*. The sages whose sins have  perished, whose misgivings are destroyed, who are  self-restrained, and who are intent on the welfare  of all beings®, obtain the Brahmic bliss. To the  ascetics, who are free from desire and wrath ®, and  whose minds are restrained, and who have knowledge of the self, the Brahmic bliss is on both sides  (of death). The sage who excludes (from Jiis mind)",
+   "arnold_span": "F04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Happy within. Sporting within. Lit from within. Such a devotee, one with ultimate reality, reaches ultimate peace.",
+   "takeaway": "Three 'withins' in one verse. The direction is clear.",
+   "provenance": [
+    "sa:5:23",
+    "telang:T11",
+    "arnold:F04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:24",
+   "devanagari": "योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः ।\nस योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति",
+   "iast": "yo'ntaḥsukho'ntarārāmastathāntarjyotireva yaḥ |\nsa yogī brahmanirvāṇaṃ brahmabhūto'dhigacchati",
+   "speaker": null,
+   "telang_context": "Brahman. He who knows Brahman, whose mind  is steady, who is not deluded, and who rests in  .Brahman, does not exult on finding anything agreeable, nor does he grieve on finding anything disagreeable One whose self is not attached to external  objects, obtains the happiness that is in (one’s) self ;  and by means of concentration of mind, joining one’s  self (with the Brahman), one obtains indestructible  happiness. For the enjoyments bom of contact (between senses and their objects) are, indeed, sources  of misery ; they have a beginning as well as an end^.  O son of Kuntf ! a wise man feels no pleasure  in them. He who even in this world, before his  release from the body, is able to bear the agitations  produced from desire and wrath, is a devoted man,  he is a happy man. The devotee whose happiness  is within (himself), whose recreation is within (himself), and whose light (of knowledge) also is within  (himself), becoming (one with) the Brahman®, obtains  the Brahmic bliss ■*. The sages whose sins have  perished, whose misgivings are destroyed, who are  self-restrained, and who are intent on the welfare  of all beings®, obtain the Brahmic bliss. To the  ascetics, who are free from desire and wrath ®, and  whose minds are restrained, and who have knowledge of the self, the Brahmic bliss is on both sides  (of death). The sage who excludes (from Jiis mind)",
+   "arnold_span": "F04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Sages whose wrongs have ended. Doubts cut away. Selves ruled. Devoted to every being's welfare. They reach ultimate peace.",
+   "takeaway": "Freedom that includes everyone, or it isn't freedom.",
+   "provenance": [
+    "sa:5:24",
+    "telang:T11",
+    "arnold:F04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:25",
+   "devanagari": "लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः ।\nछिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः",
+   "iast": "labhante brahmanirvāṇamṛṣayaḥ kṣīṇakalmaṣāḥ |\nchinnadvaidhā yatātmānaḥ sarvabhūtahite ratāḥ",
+   "speaker": null,
+   "telang_context": "Brahman. He who knows Brahman, whose mind  is steady, who is not deluded, and who rests in  .Brahman, does not exult on finding anything agreeable, nor does he grieve on finding anything disagreeable One whose self is not attached to external  objects, obtains the happiness that is in (one’s) self ;  and by means of concentration of mind, joining one’s  self (with the Brahman), one obtains indestructible  happiness. For the enjoyments bom of contact (between senses and their objects) are, indeed, sources  of misery ; they have a beginning as well as an end^.  O son of Kuntf ! a wise man feels no pleasure  in them. He who even in this world, before his  release from the body, is able to bear the agitations  produced from desire and wrath, is a devoted man,  he is a happy man. The devotee whose happiness  is within (himself), whose recreation is within (himself), and whose light (of knowledge) also is within  (himself), becoming (one with) the Brahman®, obtains  the Brahmic bliss ■*. The sages whose sins have  perished, whose misgivings are destroyed, who are  self-restrained, and who are intent on the welfare  of all beings®, obtain the Brahmic bliss. To the  ascetics, who are free from desire and wrath ®, and  whose minds are restrained, and who have knowledge of the self, the Brahmic bliss is on both sides  (of death). The sage who excludes (from Jiis mind)",
+   "arnold_span": "F04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Ascetics free of desire and anger. Minds ruled. Knowers of the self. Ultimate peace surrounds them — in life and after.",
+   "takeaway": "Peace on both sides of death.",
+   "provenance": [
+    "sa:5:25",
+    "telang:T11",
+    "arnold:F04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:26",
+   "devanagari": "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् ।\nअभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम्",
+   "iast": "kāmakrodhaviyuktānāṃ yatīnāṃ yatacetasām |\nabhito brahmanirvāṇaṃ vartate viditātmanām",
+   "speaker": null,
+   "telang_context": "Brahman. He who knows Brahman, whose mind  is steady, who is not deluded, and who rests in  .Brahman, does not exult on finding anything agreeable, nor does he grieve on finding anything disagreeable One whose self is not attached to external  objects, obtains the happiness that is in (one’s) self ;  and by means of concentration of mind, joining one’s  self (with the Brahman), one obtains indestructible  happiness. For the enjoyments bom of contact (between senses and their objects) are, indeed, sources  of misery ; they have a beginning as well as an end^.  O son of Kuntf ! a wise man feels no pleasure  in them. He who even in this world, before his  release from the body, is able to bear the agitations  produced from desire and wrath, is a devoted man,  he is a happy man. The devotee whose happiness  is within (himself), whose recreation is within (himself), and whose light (of knowledge) also is within  (himself), becoming (one with) the Brahman®, obtains  the Brahmic bliss ■*. The sages whose sins have  perished, whose misgivings are destroyed, who are  self-restrained, and who are intent on the welfare  of all beings®, obtain the Brahmic bliss. To the  ascetics, who are free from desire and wrath ®, and  whose minds are restrained, and who have knowledge of the self, the Brahmic bliss is on both sides  (of death). The sage who excludes (from Jiis mind)\n\nexternal objects, (concentrates) the visual power  between the brows and making the upward and  downward life-breaths even, confines their movements within the nose, who restrains senses, mind,  and understanding whose highest goal is final  emancipation, from whom desire, fear, and wrath  have departed, is, indeed, for ever released (from  birth and death). He knowing me to be the enjoyer  of all sacrifices and penances, the great Lord of all  worlds, and the friend of all beings, attains tranquillity.",
+   "arnold_span": "F04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The sage shuts out outer contacts. Gaze fixed between the brows. Breath in and out made even, held within the nose.",
+   "takeaway": "The book gives actual instructions here. Follow them literally once.",
+   "provenance": [
+    "sa:5:26",
+    "telang:T11+T12-head",
+    "arnold:F05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:27",
+   "devanagari": "स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः ।\nप्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ",
+   "iast": "sparśānkṛtvā bahirbāhyāṃścakṣuścaivāntare bhruvoḥ |\nprāṇāpānau samau kṛtvā nāsābhyantaracāriṇau",
+   "speaker": null,
+   "telang_context": "external objects, (concentrates) the visual power  between the brows and making the upward and  downward life-breaths even, confines their movements within the nose, who restrains senses, mind,  and understanding whose highest goal is final  emancipation, from whom desire, fear, and wrath  have departed, is, indeed, for ever released (from  birth and death). He knowing me to be the enjoyer  of all sacrifices and penances, the great Lord of all  worlds, and the friend of all beings, attains tranquillity.",
+   "arnold_span": "F05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Senses, mind, understanding restrained. Aimed at liberation. Rid of desire, fear, anger. Such a one is forever free.",
+   "takeaway": "The full setup, stated as one sentence.",
+   "provenance": [
+    "sa:5:27",
+    "telang:T12",
+    "arnold:F05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:28",
+   "devanagari": "यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः ।\nविगतेच्छाभयक्रोधो यः सदा मुक्त एव सः",
+   "iast": "yatendriyamanobuddhirmunirmokṣaparāyaṇaḥ |\nvigatecchābhayakrodho yaḥ sadā mukta eva saḥ",
+   "speaker": null,
+   "telang_context": "external objects, (concentrates) the visual power  between the brows and making the upward and  downward life-breaths even, confines their movements within the nose, who restrains senses, mind,  and understanding whose highest goal is final  emancipation, from whom desire, fear, and wrath  have departed, is, indeed, for ever released (from  birth and death). He knowing me to be the enjoyer  of all sacrifices and penances, the great Lord of all  worlds, and the friend of all beings, attains tranquillity.",
+   "arnold_span": "F05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Knowing Me as enjoyer of all sacrifices and penances, great lord of all worlds, friend of all beings — one finds peace.",
+   "takeaway": "The friend line changes everything. Read it twice.",
+   "provenance": [
+    "sa:5:28",
+    "telang:T12",
+    "arnold:F05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "5:29",
+   "devanagari": "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।\nसुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति",
+   "iast": "bhoktāraṃ yajñatapasāṃ sarvalokamaheśvaram |\nsuhṛdaṃ sarvabhūtānāṃ jñātvā māṃ śāntimṛcchati",
+   "speaker": null,
+   "telang_context": "external objects, (concentrates) the visual power  between the brows and making the upward and  downward life-breaths even, confines their movements within the nose, who restrains senses, mind,  and understanding whose highest goal is final  emancipation, from whom desire, fear, and wrath  have departed, is, indeed, for ever released (from  birth and death). He knowing me to be the enjoyer  of all sacrifices and penances, the great Lord of all  worlds, and the friend of all beings, attains tranquillity.",
+   "arnold_span": "F05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Knowing Me as enjoyer of all sacrifices and penances, great lord of all worlds, friend of all beings — one finds peace.",
+   "takeaway": "The friend line changes everything. Read it twice.",
+   "provenance": [
+    "sa:5:29",
+    "telang:T12",
+    "arnold:F05-shared"
+   ],
+   "status": "approved"
+  }
+ ]
+}

@@ -1,0 +1,496 @@
+{
+ "chapter": 5,
+ "records": [
+  {
+   "id": "5:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "Ar^una said :"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "praise renunciation",
+      "superior"
+     ]
+    }
+   ],
+   "arnold": "F01",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "5:2",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T03",
+     "anchors": [
+      "instruments of happiness"
+     ]
+    }
+   ],
+   "arnold": "F02",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "5:3",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "always an ascetic",
+      "released from"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:4",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "Children"
+     ]
+    },
+    {
+     "para": "T04",
+     "anchors": [
+      "tinct",
+      "fruit  of both"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:5",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "seat",
+      "as one"
+     ]
+    },
+    {
+     "para": "T04",
+     "anchors": [
+      "fruit  of both"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:6",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "difficult to reach",
+      "without delay"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:7",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "pure",
+      "not tainted"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:8",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "thinks he does  nothing"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:9",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "casting off",
+      "lotus-leaf"
+     ]
+    },
+    {
+     "para": "T10",
+     "anchors": [
+      "egoistic notions"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:10",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "abandoning the fruit",
+      "tranquillity"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:11",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "without devotion",
+      "tied down"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:12",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "city of nine portals",
+      "causing"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:13",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "not the cause",
+      "nature only works"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:14",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "receives  no one"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:15",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "destroyed that  ignorance"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:16",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "mind is",
+      "never to return"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:17",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "look upon",
+      "as alike"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:18",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "conquered",
+      "rest in"
+     ]
+    },
+    {
+     "para": "T11",
+     "anchors": [
+      "Brahman"
+     ]
+    }
+   ],
+   "arnold": "F03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:19",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "does he grieve"
+     ]
+    }
+   ],
+   "arnold": "F04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:20",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "indestructible  happiness"
+     ]
+    }
+   ],
+   "arnold": "F04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:21",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "bom of contact"
+     ]
+    }
+   ],
+   "arnold": "F04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:22",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "bear the agitations",
+      "happy man"
+     ]
+    }
+   ],
+   "arnold": "F04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:23",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "happiness  is within"
+     ]
+    }
+   ],
+   "arnold": "F04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:24",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "sins have  perished"
+     ]
+    }
+   ],
+   "arnold": "F04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:25",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "free from desire",
+      "both sides"
+     ]
+    }
+   ],
+   "arnold": "F04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:26",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "excludes"
+     ]
+    },
+    {
+     "para": "T12",
+     "anchors": [
+      "external objects",
+      "between the brows"
+     ]
+    }
+   ],
+   "arnold": "F04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:27",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "confines",
+      "released"
+     ]
+    }
+   ],
+   "arnold": "F05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:28",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "restrains senses",
+      "highest goal",
+      "departed"
+     ]
+    }
+   ],
+   "arnold": "F05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "5:29",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "knowing me",
+      "tranquillity"
+     ]
+    }
+   ],
+   "arnold": "F05",
+   "arnold_shared": true,
+   "notes": ""
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T05",
+   "reason": "Gloss on self-as-body, not verse prose."
+  },
+  {
+   "para": "T06",
+   "reason": "Fragment."
+  },
+  {
+   "para": "T07",
+   "reason": "Fragment."
+  },
+  {
+   "para": "T08",
+   "reason": "Glossary fragment."
+  },
+  {
+   "para": "T09",
+   "reason": "Glossary fragment."
+  }
+ ]
+}
