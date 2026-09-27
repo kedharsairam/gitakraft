@@ -1,0 +1,766 @@
+{
+ "chapter": 6,
+ "records": [
+  {
+   "id": "6:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "ought to be performed",
+      "renonnccr"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:2",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "renunciation is  devotion"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:3",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "wishes  to rise",
+      "means"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:4",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "does not attach",
+      "risen to devotion"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:5",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "elevate",
+      "own self is his"
+     ]
+    },
+    {
+     "para": "T03",
+     "anchors": [
+      "friend",
+      "enemy"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:6",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "subjugated",
+      "like an  enemy"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:7",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "concentrated",
+      "honour and dishonour"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:8",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "contented with knowledge",
+      "devoted"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:9",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "thinks alike",
+      "good and  the sinful"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:10",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "secret place",
+      "belongings"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:11",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "Fixing his  seat",
+      "grass"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:12",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "exclusively on one"
+     ]
+    },
+    {
+     "para": "T05",
+     "anchors": [
+      "point, with the workings"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:13",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "tip of  his own nose"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:14",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "tranquil self",
+      "final goal"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:15",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "constantly devoting",
+      "assimilation"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:16",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "(ever) awake"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:17",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "takes due food",
+      "(in) due (time)"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:18",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "indifferent",
+      "devoted"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:19",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "flickers not",
+      "abstraction"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:20",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "ceases to work"
+     ]
+    },
+    {
+     "para": "T07",
+     "anchors": [
+      "seeing the self by the self"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:21",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "infinite happiness",
+      "understanding only"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:22",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "never swerves",
+      "higher than it"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:23",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "great misery",
+      "severance"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:24",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "steadiness",
+      "undesponding"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:25",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "slow steps",
+      "think of nothing"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:26",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "breaks  forth",
+      "self alone"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:27",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "highest happiness",
+      "become  (one with) the Brahman"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:28",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "looking alike on everything"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:29",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": []
+    },
+    {
+     "para": "T08",
+     "anchors": [
+      "abiding in all beings",
+      "all beings in  the self"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": "T07-tail shared into T08-head span."
+  },
+  {
+   "id": "6:30",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "never lost"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:31",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "worships me",
+      "lives in me"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:32",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "deemed to be the best",
+      "pleasure or pain"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:33",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "Ar^ma said;"
+     ]
+    },
+    {
+     "para": "T10",
+     "anchors": [
+      "sustained existence"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:34",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "fickle",
+      "restrain it is as"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:35",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T12",
+     "anchors": [
+      "Doubtless",
+      "fickle"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:36",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "Still"
+     ]
+    },
+    {
+     "para": "T13",
+     "anchors": [
+      "assiduous"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:37",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "Ar^ina said :"
+     ]
+    },
+    {
+     "para": "T15",
+     "anchors": [
+      "What is the end",
+      "destroy this doubt"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:38",
+   "telang": [],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "QUARANTINE: Telang print p72 missing from IA scan; Arnold skips 6:38-39. Sanskrit-only provenance; draft with extra care."
+  },
+  {
+   "id": "6:39",
+   "telang": [
+    {
+     "para": "T15",
+     "anchors": [
+      "Be  pleased",
+      "destroy this doubt"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "6:40",
+   "telang": [
+    {
+     "para": "T16",
+     "anchors": [
+      "The Deity said ;"
+     ]
+    },
+    {
+     "para": "T17",
+     "anchors": [
+      "neither in this world"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:41",
+   "telang": [
+    {
+     "para": "T17",
+     "anchors": [
+      "fallen from devotion",
+      "holy and"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:42",
+   "telang": [
+    {
+     "para": "T17",
+     "anchors": [
+      "talented devotees",
+      "works for perfection"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:43",
+   "telang": [
+    {
+     "para": "T17",
+     "anchors": [
+      "contact",
+      "former body"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:44",
+   "telang": [
+    {
+     "para": "T17",
+     "anchors": [
+      "led awa^"
+     ]
+    },
+    {
+     "para": "T18",
+     "anchors": [
+      "former practice",
+      "rises above"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:45",
+   "telang": [
+    {
+     "para": "T18",
+     "anchors": [
+      "great efforts",
+      "supreme goal"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:46",
+   "telang": [
+    {
+     "para": "T18",
+     "anchors": [
+      "higher than",
+      "become a devotee"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "6:47",
+   "telang": [
+    {
+     "para": "T18",
+     "anchors": [
+      "most devoted"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T02",
+   "reason": "Spurious speaker header (Krishna speaks continuously); no verse home."
+  },
+  {
+   "para": "T06",
+   "reason": "Footnote fragment (P5/Dhammapada)."
+  }
+ ]
+}
