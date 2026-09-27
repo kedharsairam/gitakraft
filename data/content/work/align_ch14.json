@@ -1,0 +1,462 @@
+{
+ "chapter": 14,
+ "records": [
+  {
+   "id": "14:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "highest knowledge"
+     ]
+    },
+    {
+     "para": "T02",
+     "anchors": [
+      "reached perfection"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": "Split across T01-tail/T02-head ('having'/'learnt which')."
+  },
+  {
+   "id": "14:2",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "assimilation",
+      "not born at the creation"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:3",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "cast the seed",
+      "birth of all things"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:4",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "born from all wombs",
+      "father"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:5",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "these qualities",
+      "inexhaustible soul"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:6",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "enlightening",
+      "pleasure and the bond"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:7",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "enamoured",
+      "craving and attachment"
+     ]
+    },
+    {
+     "para": "T04",
+     "anchors": [
+      "bond of action"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": "Split across T02-tail/T04-head (page-108 break)."
+  },
+  {
+   "id": "14:8",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "deludes all",
+      "heedlessness"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:9",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "unites",
+      "shrouding"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:10",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "repressed",
+      "stands"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:11",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "portals",
+      "goodness to be developed"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:12",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "Avarice",
+      "want of tranquillity"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:13",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "Want of light",
+      "delusion"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:14",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "encounters death, while goodness",
+      "untainted worlds"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:15",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "during (the preva-"
+     ]
+    },
+    {
+     "para": "T06",
+     "anchors": [
+      "born among those attached"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": "Split across T04-tail/T06-head ('preva-'/'lence of) passion')."
+  },
+  {
+   "id": "14:16",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "untainted",
+      "misery"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:17",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "produced knowledge",
+      "avarice"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:18",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "go up",
+      "remain in the  middle"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:19",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "doers",
+      "above the qualities"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "14:20",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "transcends",
+      "attains immortality"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "14:21",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "Ar^ma said :"
+     ]
+    },
+    {
+     "para": "T08",
+     "anchors": [
+      "characteristics",
+      "his  conduct"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "14:22",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T11",
+     "anchors": [
+      "not averse",
+      "does not desire"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:23",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "unconcerned",
+      "merely"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:24",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "self-contained",
+      "discernment"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:25",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "honour and dishonour",
+      "abandons all  action"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "14:26",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "unswerving",
+      "fit for"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "14:27",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "indefeasible",
+      "unbroken happiness"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": false,
+   "notes": ""
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T03",
+   "reason": "Page number ('jo8' = print p108)."
+  },
+  {
+   "para": "T05",
+   "reason": "Footnote tail on 14:10 alternation ('when the other two are held in check')."
+  },
+  {
+   "para": "T09",
+   "reason": "Running-head residue ('no' = print p110 head)."
+  },
+  {
+   "para": "T12",
+   "reason": "Page number ('Ill' = print p111)."
+  }
+ ]
+}
