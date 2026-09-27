@@ -49,6 +49,8 @@ private val LightColorScheme = lightColorScheme(
     surfaceVariant = Paper,
     onSurfaceVariant = InkMuted,
     outlineVariant = Color(0xFFE2DACA),
+    tertiaryContainer = TakeawayTintLight,
+    onTertiaryContainer = Ink,
 )
 
 private val DarkColorScheme = darkColorScheme(
@@ -63,6 +65,8 @@ private val DarkColorScheme = darkColorScheme(
     surfaceVariant = SurfaceHighDark,
     onSurfaceVariant = TextSecondaryDark,
     outlineVariant = Color(0xFF2E2E33),
+    tertiaryContainer = TakeawayTintDark,
+    onTertiaryContainer = Color(0xFFF5EFE4),
 )
 
 val GitaShapes = Shapes(

@@ -19,6 +19,7 @@ import androidx.compose.material3.IconButton
 import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
@@ -69,14 +70,22 @@ fun ChapterScreen(
                 .padding(padding),
             verticalArrangement = Arrangement.spacedBy(4.dp),
         ) {
-            item {
-                LinearProgressIndicator(
-                    progress = { Reading.fraction(read, verseCount) },
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .padding(horizontal = 16.dp, vertical = 8.dp)
-                        .clip(MaterialTheme.shapes.small),
-                )
+            stickyHeader {
+                Surface(shadowElevation = 2.dp) {
+                    Column(modifier = Modifier.padding(horizontal = 16.dp, vertical = 8.dp)) {
+                        Text(
+                            text = "$read of $verseCount verses read",
+                            style = MaterialTheme.typography.titleMedium,
+                        )
+                        LinearProgressIndicator(
+                            progress = { Reading.fraction(read, verseCount) },
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .padding(top = 8.dp)
+                                .clip(MaterialTheme.shapes.small),
+                        )
+                    }
+                }
             }
             items(verses, key = { it.id }) { v ->
                 VerseListRow(
@@ -90,7 +99,12 @@ fun ChapterScreen(
 }
 
 @Composable
-fun VerseListRow(verse: VerseRow, read: Boolean, onOpen: () -> Unit) {
+fun VerseListRow(
+    verse: VerseRow,
+    read: Boolean,
+    onOpen: () -> Unit,
+    numberLabel: String = "${verse.n}",
+) {
     Card(
         modifier = Modifier
             .fillMaxWidth()
@@ -105,7 +119,7 @@ fun VerseListRow(verse: VerseRow, read: Boolean, onOpen: () -> Unit) {
             horizontalArrangement = Arrangement.spacedBy(12.dp),
         ) {
             Text(
-                text = "${verse.n}",
+                text = numberLabel,
                 style = MaterialTheme.typography.titleMedium,
                 fontWeight = FontWeight.SemiBold,
                 color = MaterialTheme.colorScheme.primary,

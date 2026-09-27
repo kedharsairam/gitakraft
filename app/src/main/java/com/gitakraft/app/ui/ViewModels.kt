@@ -58,12 +58,34 @@ class LibraryViewModel(private val repo: GitaRepository) : ViewModel() {
     private val reads = repo.readPerChapter()
 
     val rows: StateFlow<List<ChapterProgress>> =
-        combine(chapters, reads, repo.readIds()) { chs, rds, ids ->
-            libraryProgress(chs, rds, ids.toSet())
+        combine(chapters, reads) { chs, rds ->
+            libraryProgress(chs, rds)
         }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), emptyList())
 
     val totalRead: StateFlow<Int> =
         reads.map { list -> list.sumOf { it.read } }
+            .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 0)
+
+    /** First unread verse id ("ch:n"), null when the whole Gita is read. */
+    val continueTo: StateFlow<String?> =
+        combine(chapters, repo.readIds()) { chs, ids ->
+            Reading.continueFrom(
+                ids.toSet(),
+                chs.associate { it.n to it.verseCount },
+            )
+        }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), null)
+
+    /** Chapters fully read — for the stats line. */
+    val completedCount: StateFlow<Int> =
+        combine(chapters, repo.readIds()) { chs, ids ->
+            Reading.completedChapters(
+                ids.toSet(),
+                chs.associate { it.n to it.verseCount },
+            ).size
+        }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 0)
+
+    val savedCount: StateFlow<Int> =
+        repo.bookmarks().map { it.size }
             .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 0)
 
     /** Deterministic verse-of-the-day with its loaded row. */

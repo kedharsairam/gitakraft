@@ -1,19 +1,7 @@
 package com.gitakraft.app.domain
 
-/** Pure reading rules — the only logic the unlock/progress system needs. */
+/** Pure reading rules — progress math and journey helpers. */
 object Reading {
-
-    /**
-     * Chapter [ch] (1-based) is unlocked iff it is the first chapter or the
-     * previous chapter is fully read. Derived from read-verse ids only —
-     * unlock state is never stored, so it cannot drift out of sync.
-     */
-    fun isUnlocked(ch: Int, readIds: Set<String>, counts: Map<Int, Int>): Boolean {
-        if (ch <= 1) return true
-        val prev = ch - 1
-        val want = counts[prev] ?: return false
-        return (1..want).all { "$prev:$it" in readIds }
-    }
 
     /** Chapters fully read, in ascending order. */
     fun completedChapters(readIds: Set<String>, counts: Map<Int, Int>): List<Int> =
@@ -21,6 +9,17 @@ object Reading {
             val want = counts[ch] ?: return@filter false
             (1..want).all { "$ch:$it" in readIds }
         }
+
+    /** First unread verse id ("ch:n"), earliest chapter first; null when done. */
+    fun continueFrom(readIds: Set<String>, counts: Map<Int, Int>): String? {
+        for (ch in counts.keys.sorted()) {
+            val want = counts[ch] ?: continue
+            for (n in 1..want) {
+                if ("$ch:$n" !in readIds) return "$ch:$n"
+            }
+        }
+        return null
+    }
 
     /** 0..1 fraction of [read] over [total]. Guards divide-by-zero. */
     fun fraction(read: Int, total: Int): Float =

@@ -31,7 +31,7 @@ import com.gitakraft.app.data.VerseRow
 
 @Composable
 fun VerseSearchRow(verse: VerseRow, onOpen: () -> Unit) {
-    VerseListRow(verse = verse, read = false, onOpen = onOpen)
+    VerseListRow(verse = verse, read = false, onOpen = onOpen, numberLabel = verse.id)
 }
 
 @Composable
@@ -41,7 +41,7 @@ fun BookmarkRow(verse: VerseRow, onOpen: () -> Unit, onRemove: () -> Unit) {
         verticalAlignment = Alignment.CenterVertically,
     ) {
         androidx.compose.foundation.layout.Box(modifier = Modifier.weight(1f)) {
-            VerseListRow(verse = verse, read = true, onOpen = onOpen)
+            VerseListRow(verse = verse, read = true, onOpen = onOpen, numberLabel = verse.id)
         }
         IconButton(onClick = onRemove) {
             Icon(

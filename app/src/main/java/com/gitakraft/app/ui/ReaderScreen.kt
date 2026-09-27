@@ -25,6 +25,7 @@ import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
+import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Scaffold
@@ -197,14 +198,14 @@ fun ReaderScreen(
                     .fillMaxWidth()
                     .padding(top = 16.dp),
                 colors = CardDefaults.cardColors(
-                    containerColor = MaterialTheme.colorScheme.secondaryContainer,
+                    containerColor = MaterialTheme.colorScheme.tertiaryContainer,
                 ),
             ) {
                 Column(modifier = Modifier.padding(16.dp)) {
                     Text(
                         text = "TAKEAWAY",
                         style = MaterialTheme.typography.labelMedium,
-                        color = MaterialTheme.colorScheme.onSecondaryContainer,
+                        color = MaterialTheme.colorScheme.onTertiaryContainer,
                     )
                     Text(
                         text = v.takeaway,
@@ -217,6 +218,14 @@ fun ReaderScreen(
                 }
             }
             Spacer(modifier = Modifier.height(24.dp))
+            // Hairline: position within this chapter.
+            if (siblings.isNotEmpty()) {
+                LinearProgressIndicator(
+                    progress = { (idx + 1).toFloat() / siblings.size },
+                    modifier = Modifier.fillMaxWidth(),
+                )
+                Spacer(modifier = Modifier.height(8.dp))
+            }
             Row(
                 modifier = Modifier.fillMaxWidth(),
                 horizontalArrangement = Arrangement.SpaceBetween,
@@ -261,7 +270,7 @@ private fun ChapterCompleteGate(
         AlertDialog(
             onDismissRequest = onCelebrate,
             title = { Text("Chapter $ch complete") },
-            text = { Text("The next chapter is now unlocked.") },
+            text = { Text("Well read. The journey continues.") },
             confirmButton = {
                 if (ch < 18) {
                     Button(

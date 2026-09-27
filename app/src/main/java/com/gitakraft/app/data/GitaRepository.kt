@@ -12,7 +12,6 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.combine
-import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.launch
 
 private const val META_BUNDLE = "bundle_generated"
@@ -84,13 +83,6 @@ class GitaRepository private constructor(private val db: GitaDatabase) {
         else dao.removeBookmark(id)
     }
 
-    /** Chapter unlock map, derived from read ids — never stored. */
-    fun unlocks(counts: Map<Int, Int>): Flow<Map<Int, Boolean>> =
-        dao.readIds().map { ids ->
-            val set = ids.toSet()
-            counts.keys.associateWith { Reading.isUnlocked(it, set, counts) }
-        }
-
     fun readPerChapter(): Flow<List<ChapterRead>> = dao.readPerChapter()
 
     fun readIds(): Flow<List<String>> = dao.readIds()
@@ -118,21 +110,16 @@ class GitaRepository private constructor(private val db: GitaDatabase) {
     }
 }
 
-/** Per-chapter progress with unlock flags for the library screen. */
+/** Per-chapter progress for the library screen. */
 data class ChapterProgress(
     val chapter: ChapterRow,
     val read: Int,
-    val unlocked: Boolean,
 )
 
 fun libraryProgress(
     chapters: List<ChapterRow>,
     reads: List<ChapterRead>,
-    readIds: Set<String>,
 ): List<ChapterProgress> {
-    val counts = chapters.associate { it.n to it.verseCount }
     val byCh = reads.associate { it.ch to it.read }
-    return chapters.map {
-        ChapterProgress(it, byCh[it.n] ?: 0, Reading.isUnlocked(it.n, readIds, counts))
-    }
+    return chapters.map { ChapterProgress(it, byCh[it.n] ?: 0) }
 }
