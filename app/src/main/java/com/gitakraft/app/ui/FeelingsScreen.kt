@@ -29,40 +29,6 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 
-@OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
-@Composable
-fun FeelingsScreen(vm: FeelingsViewModel, onFeeling: (String) -> Unit) {
-    val feelings by vm.feelings().collectAsState(initial = emptyList())
-    Scaffold(topBar = { TopAppBar(title = { Text("How are you feeling?") }) }) { padding ->
-        Column(modifier = Modifier.padding(padding)) {
-            Text(
-                text = "Choose what weighs on you. Verses gathered for that state.",
-                style = MaterialTheme.typography.bodyMedium,
-                color = MaterialTheme.colorScheme.onSurfaceVariant,
-                modifier = Modifier.padding(horizontal = 16.dp, vertical = 8.dp),
-            )
-            FlowRow(
-                modifier = Modifier.padding(horizontal = 12.dp),
-                horizontalArrangement = Arrangement.spacedBy(8.dp),
-                verticalArrangement = Arrangement.spacedBy(8.dp),
-            ) {
-                for (f in feelings) {
-                    FilterChip(
-                        selected = false,
-                        onClick = { onFeeling(f.name) },
-                        label = { Text(f.name) },
-                        leadingIcon = {
-                            FEELING_ICONS[f.name]?.let {
-                                Icon(imageVector = it, contentDescription = null)
-                            }
-                        },
-                    )
-                }
-            }
-        }
-    }
-}
-
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun FeelingDetailScreen(
