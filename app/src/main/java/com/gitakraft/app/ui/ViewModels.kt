@@ -33,8 +33,10 @@ class RepoFactory(
     @Suppress("UNCHECKED_CAST")
     override fun <T : ViewModel> create(modelClass: Class<T>, extras: CreationExtras): T =
         when {
-            modelClass.isAssignableFrom(LibraryViewModel::class.java) ->
-                LibraryViewModel(repo) as T
+            modelClass.isAssignableFrom(HomeViewModel::class.java) ->
+                HomeViewModel(repo) as T
+            modelClass.isAssignableFrom(ChaptersViewModel::class.java) ->
+                ChaptersViewModel(repo) as T
             modelClass.isAssignableFrom(ChapterViewModel::class.java) ->
                 ChapterViewModel(repo) as T
             modelClass.isAssignableFrom(ReaderViewModel::class.java) ->
@@ -51,16 +53,11 @@ class RepoFactory(
         }
 }
 
-class LibraryViewModel(private val repo: GitaRepository) : ViewModel() {
+class HomeViewModel(private val repo: GitaRepository) : ViewModel() {
     val ready: StateFlow<Boolean> = repo.ready
 
     private val chapters = repo.chapters()
     private val reads = repo.readPerChapter()
-
-    val rows: StateFlow<List<ChapterProgress>> =
-        combine(chapters, reads) { chs, rds ->
-            libraryProgress(chs, rds)
-        }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), emptyList())
 
     val totalRead: StateFlow<Int> =
         reads.map { list -> list.sumOf { it.read } }
@@ -98,6 +95,22 @@ class LibraryViewModel(private val repo: GitaRepository) : ViewModel() {
                 repo.verse(Reading.verseOfDay(day, counts)).collect { out.value = it }
             }
         }
+
+    fun feelings() = repo.feelings()
+}
+
+class ChaptersViewModel(private val repo: GitaRepository) : ViewModel() {
+    private val chapters = repo.chapters()
+    private val reads = repo.readPerChapter()
+
+    val rows: StateFlow<List<ChapterProgress>> =
+        combine(chapters, reads) { chs, rds ->
+            libraryProgress(chs, rds)
+        }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), emptyList())
+
+    val totalRead: StateFlow<Int> =
+        reads.map { list -> list.sumOf { it.read } }
+            .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 0)
 }
 
 class ChapterViewModel(private val repo: GitaRepository) : ViewModel() {

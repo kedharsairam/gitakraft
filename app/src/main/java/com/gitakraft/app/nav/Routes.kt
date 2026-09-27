@@ -1,9 +1,9 @@
 package com.gitakraft.app.nav
 
-/** Full app map: three tabs (read · feelings · saved) + detail routes. */
+/** Three tabs (home · chapters · saved) + detail routes. */
 object Routes {
-    const val LIBRARY = "library"
-    const val FEELINGS = "feelings"
+    const val HOME = "home"
+    const val CHAPTERS = "chapters"
     const val BOOKMARKS = "bookmarks"
     const val CHAPTER = "chapter/{n}"
     const val READER = "reader/{id}"

@@ -4,7 +4,7 @@ import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Book
-import androidx.compose.material.icons.filled.Favorite
+import androidx.compose.material.icons.filled.Bookmarks
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
@@ -22,15 +22,16 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.gitakraft.app.ui.LibraryScreen
 import com.gitakraft.app.ui.BookmarksScreen
 import com.gitakraft.app.ui.BookmarksViewModel
 import com.gitakraft.app.ui.ChapterScreen
+import com.gitakraft.app.ui.ChaptersScreen
+import com.gitakraft.app.ui.ChaptersViewModel
 import com.gitakraft.app.ui.ChapterViewModel
 import com.gitakraft.app.ui.FeelingDetailScreen
-import com.gitakraft.app.ui.FeelingsScreen
 import com.gitakraft.app.ui.FeelingsViewModel
-import com.gitakraft.app.ui.LibraryViewModel
+import com.gitakraft.app.ui.HomeScreen
+import com.gitakraft.app.ui.HomeViewModel
 import com.gitakraft.app.ui.ReaderScreen
 import com.gitakraft.app.ui.ReaderViewModel
 import com.gitakraft.app.ui.RepoFactory
@@ -44,9 +45,9 @@ fun AppNav(factory: RepoFactory, iastDefault: Boolean) {
     val nav = rememberNavController()
     val entry by nav.currentBackStackEntryAsState()
     val tabs = listOf(
-        Triple(Routes.LIBRARY, "Read", Icons.Filled.Home),
-        Triple(Routes.FEELINGS, "Feelings", Icons.Filled.Favorite),
-        Triple(Routes.BOOKMARKS, "Saved", Icons.Filled.Book),
+        Triple(Routes.HOME, "Home", Icons.Filled.Home),
+        Triple(Routes.CHAPTERS, "Chapters", Icons.Filled.Book),
+        Triple(Routes.BOOKMARKS, "Saved", Icons.Filled.Bookmarks),
     )
     val showBar = entry?.destination?.route in tabs.map { it.first }
     Scaffold(
@@ -79,22 +80,26 @@ fun AppNav(factory: RepoFactory, iastDefault: Boolean) {
     ) { padding ->
         NavHost(
             navController = nav,
-            startDestination = Routes.LIBRARY,
+            startDestination = Routes.HOME,
             modifier = Modifier.padding(padding),
         ) {
-            composable(Routes.LIBRARY) {
-                val vm: LibraryViewModel = viewModel(factory = factory)
-                LibraryScreen(
+            composable(Routes.HOME) {
+                val vm: HomeViewModel = viewModel(factory = factory)
+                HomeScreen(
                     vm = vm,
-                    onChapter = { nav.navigate(Routes.chapter(it)) },
                     onVerse = { nav.navigate(Routes.reader(it)) },
+                    onFeeling = { nav.navigate(Routes.feeling(it)) },
                     onSearch = { nav.navigate(Routes.SEARCH) },
                     onSettings = { nav.navigate(Routes.SETTINGS) },
                 )
             }
-            composable(Routes.FEELINGS) {
-                val vm: FeelingsViewModel = viewModel(factory = factory)
-                FeelingsScreen(vm = vm, onFeeling = { nav.navigate(Routes.feeling(it)) })
+            composable(Routes.CHAPTERS) {
+                val vm: ChaptersViewModel = viewModel(factory = factory)
+                ChaptersScreen(
+                    vm = vm,
+                    onChapter = { nav.navigate(Routes.chapter(it)) },
+                    onSearch = { nav.navigate(Routes.SEARCH) },
+                )
             }
             composable(Routes.BOOKMARKS) {
                 val vm: BookmarksViewModel = viewModel(factory = factory)
