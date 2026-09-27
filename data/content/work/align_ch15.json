@@ -1,0 +1,346 @@
+{
+ "chapter": 15,
+ "records": [
+  {
+   "id": "15:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "roots above",
+      "leaves"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "15:2",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "extend its branches",
+      "lead  on to action"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "15:3",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "nor beginning",
+      "weapon of unconcern"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": "Arnold 15:3 runs D03->D04 ('and, then'/'How it must end')."
+  },
+  {
+   "id": "15:4",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "never  return",
+      "ancient course"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "15:5",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "free from pride",
+      "imperishable seat"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": "Arnold 15:5 runs D06->D07 ('To the eternal world pass such as these!')."
+  },
+  {
+   "id": "15:6",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "The sun"
+     ]
+    },
+    {
+     "para": "T04",
+     "anchors": [
+      "nor the moon",
+      "none returns"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": false,
+   "notes": "Split across T01-tail/T04-head (page-112 break)."
+  },
+  {
+   "id": "15:7",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "eternal portion",
+      "sixth"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "15:8",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "obtains or quits",
+      "wind"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "15:9",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "hearing and seeing",
+      "enjoys"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "15:10",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "deluded",
+      "eyes  of knowledge"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "15:11",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "abiding within",
+      "no discernment"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "15:12",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "dwelling in the  sun",
+      "moon or fire"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "15:13",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "support all  things",
+      "nourish"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "15:14",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "dwelling in the  bodies",
+      "fourfold food"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "15:15",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "memory, knowledge",
+      "author of the Vedantas"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 15:15 (memory/knowledge/Vedas-author verse); Telang + Sanskrit only."
+  },
+  {
+   "id": "15:16",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "destructible (includes)",
+      "indestructible"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "15:17",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "highest self",
+      "three worlds"
+     ]
+    }
+   ],
+   "arnold": "D13",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "15:18",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "transcend the destructible",
+      "therefore"
+     ]
+    },
+    {
+     "para": "T09",
+     "anchors": [
+      "celebrated",
+      "best of beings"
+     ]
+    }
+   ],
+   "arnold": "D13",
+   "arnold_shared": true,
+   "notes": "Split across T06-tail/T09-head."
+  },
+  {
+   "id": "15:19",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "undeluded",
+      "every way"
+     ]
+    }
+   ],
+   "arnold": "D14",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "15:20",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "mysterious science",
+      "done all"
+     ]
+    }
+   ],
+   "arnold": "D15",
+   "arnold_shared": false,
+   "notes": ""
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T02",
+   "reason": "Page number ('JJ2' = print p112)."
+  },
+  {
+   "para": "T03",
+   "reason": "Running-head residue ('miAGAVADChl')."
+  },
+  {
+   "para": "T05",
+   "reason": "Footnote commentary on 15:3-4 ('knowledge of the tree is knowledge of the Vedas...')."
+  },
+  {
+   "para": "T07",
+   "reason": "Footnote commentary on transmigration ('how souls do come back...')."
+  },
+  {
+   "para": "T08",
+   "reason": "Running-head residue ('rm AGAVA dgJtA.')."
+  }
+ ]
+}

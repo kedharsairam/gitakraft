@@ -1,0 +1,365 @@
+{
+ "chapter": 15,
+ "records": [
+  {
+   "id": "15:1",
+   "devanagari": "छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित्",
+   "iast": "chandāṃsi yasya parṇāni yastaṃ veda sa vedavit",
+   "speaker": null,
+   "telang_context": "The Deity said :\n\nThey say the inexhaustible Awattha ^ has (its)  roots above, (its) branches below; the Af^andas  are its leaves. He who knows it knows the Vedas.  Upwards and downwards extend its branches, which  are enlarged by the qualities, and the sprouts of  which are sensuous objects. And downwards to  this human world are continued its roots which lead  on to action. Its form is not thus known here, nor  (its) end, nor beginning, nor support. But having  with the firm weapon of unconcern, cut this A^vattha,  whose roots are firmly fixed, then should one seek  for that seat from which those that go there never  return, (thinking) that one rests on that same primal  being from whom the ancient course (of worldly  life) emanated. Those who are free from pride  and delusion, w'ho have overcome the evils of  attachment, who are constant in (contemplating)  the relation of the supreme and individual self,  from whom desire has departed, who are free from  the pairs (of opposites) called pleasure and pain,  go undeluded to that imperishable seat \\ The sun",
+   "arnold_span": "D01",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Krishna said: roots above, branches below. The timeless fig tree. Its leaves are hymns. Who knows it knows all sacred lore.",
+   "takeaway": "The upside-down tree. Roots in heaven.",
+   "provenance": [
+    "sa:15:1",
+    "telang:T00+T01-head",
+    "arnold:D01"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:2",
+   "devanagari": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा\nगुणप्रवृद्धा विषयप्रवालाः ।\nअधश्च मूलान्यनुसंततानि\nकर्मानुबन्धीनि मनुष्यलोके",
+   "iast": "adhaścordhvaṃ prasṛtāstasya śākhā\nguṇapravṛddhā viṣayapravālāḥ |\nadhaśca mūlānyanusaṃtatāni\nkarmānubandhīni manuṣyaloke",
+   "speaker": null,
+   "telang_context": "They say the inexhaustible Awattha ^ has (its)  roots above, (its) branches below; the Af^andas  are its leaves. He who knows it knows the Vedas.  Upwards and downwards extend its branches, which  are enlarged by the qualities, and the sprouts of  which are sensuous objects. And downwards to  this human world are continued its roots which lead  on to action. Its form is not thus known here, nor  (its) end, nor beginning, nor support. But having  with the firm weapon of unconcern, cut this A^vattha,  whose roots are firmly fixed, then should one seek  for that seat from which those that go there never  return, (thinking) that one rests on that same primal  being from whom the ancient course (of worldly  life) emanated. Those who are free from pride  and delusion, w'ho have overcome the evils of  attachment, who are constant in (contemplating)  the relation of the supreme and individual self,  from whom desire has departed, who are free from  the pairs (of opposites) called pleasure and pain,  go undeluded to that imperishable seat \\ The sun",
+   "arnold_span": "D02",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Its branches spread high and low, fed by nature's moods. Sense-objects are its shoots. Down in the human world, action-growing roots spread wide.",
+   "takeaway": "Botany as biography.",
+   "provenance": [
+    "sa:15:2",
+    "telang:T01",
+    "arnold:D02"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:3",
+   "devanagari": "न रूपमस्येह तथोपलभ्यते\nनान्तो न चादिर्न च संप्रतिष्ठा ।\nअश्वत्थमेनं सुविरूढमूल-\nमसङ्गशस्त्रेण दृढेन छित्त्वा",
+   "iast": "na rūpamasyeha tathopalabhyate\nnānto na cādirna ca saṃpratiṣṭhā |\naśvatthamenaṃ suvirūḍhamūla-\nmasaṅgaśastreṇa dṛḍhena chittvā",
+   "speaker": null,
+   "telang_context": "They say the inexhaustible Awattha ^ has (its)  roots above, (its) branches below; the Af^andas  are its leaves. He who knows it knows the Vedas.  Upwards and downwards extend its branches, which  are enlarged by the qualities, and the sprouts of  which are sensuous objects. And downwards to  this human world are continued its roots which lead  on to action. Its form is not thus known here, nor  (its) end, nor beginning, nor support. But having  with the firm weapon of unconcern, cut this A^vattha,  whose roots are firmly fixed, then should one seek  for that seat from which those that go there never  return, (thinking) that one rests on that same primal  being from whom the ancient course (of worldly  life) emanated. Those who are free from pride  and delusion, w'ho have overcome the evils of  attachment, who are constant in (contemplating)  the relation of the supreme and individual self,  from whom desire has departed, who are free from  the pairs (of opposites) called pleasure and pain,  go undeluded to that imperishable seat \\ The sun",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "Arnold 15:3 runs D03->D04 ('and, then'/'How it must end').",
+   "meaning_simple": "Neither its form, nor end, nor beginning, nor ground is seen here. So cut this deep-rooted tree with the tough axe of detachment.",
+   "takeaway": "Wield the axe. The tree is your own life.",
+   "provenance": [
+    "sa:15:3",
+    "telang:T01",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:4",
+   "devanagari": "ततः पदं तत्परिमार्गितव्यं\nयस्मिन्गता न निवर्तन्ति भूयः ।\nतमेव चाद्यं पुरुषं प्रपद्ये\nयतः प्रवृत्तिः प्रसृता पुराणी",
+   "iast": "tataḥ padaṃ tatparimārgitavyaṃ\nyasmingatā na nivartanti bhūyaḥ |\ntameva cādyaṃ puruṣaṃ prapadye\nyataḥ pravṛttiḥ prasṛtā purāṇī",
+   "speaker": null,
+   "telang_context": "They say the inexhaustible Awattha ^ has (its)  roots above, (its) branches below; the Af^andas  are its leaves. He who knows it knows the Vedas.  Upwards and downwards extend its branches, which  are enlarged by the qualities, and the sprouts of  which are sensuous objects. And downwards to  this human world are continued its roots which lead  on to action. Its form is not thus known here, nor  (its) end, nor beginning, nor support. But having  with the firm weapon of unconcern, cut this A^vattha,  whose roots are firmly fixed, then should one seek  for that seat from which those that go there never  return, (thinking) that one rests on that same primal  being from whom the ancient course (of worldly  life) emanated. Those who are free from pride  and delusion, w'ho have overcome the evils of  attachment, who are constant in (contemplating)  the relation of the supreme and individual self,  from whom desire has departed, who are free from  the pairs (of opposites) called pleasure and pain,  go undeluded to that imperishable seat \\ The sun",
+   "arnold_span": "D05",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Then seek the place of no return — resting on the primal being from whom this ancient world-tree grew.",
+   "takeaway": "Cut, then seek. In that order.",
+   "provenance": [
+    "sa:15:4",
+    "telang:T01",
+    "arnold:D05"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:5",
+   "devanagari": "निर्मानमोहा जितसङ्गदोषा\nअध्यात्मनित्या विनिवृत्तकामाः ।\nद्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञै-\nर्गच्छन्त्यमूढाः पदमव्ययं तत्",
+   "iast": "nirmānamohā jitasaṅgadoṣā\nadhyātmanityā vinivṛttakāmāḥ |\ndvandvairvimuktāḥ sukhaduḥkhasaṃjñai-\nrgacchantyamūḍhāḥ padamavyayaṃ tat",
+   "speaker": null,
+   "telang_context": "They say the inexhaustible Awattha ^ has (its)  roots above, (its) branches below; the Af^andas  are its leaves. He who knows it knows the Vedas.  Upwards and downwards extend its branches, which  are enlarged by the qualities, and the sprouts of  which are sensuous objects. And downwards to  this human world are continued its roots which lead  on to action. Its form is not thus known here, nor  (its) end, nor beginning, nor support. But having  with the firm weapon of unconcern, cut this A^vattha,  whose roots are firmly fixed, then should one seek  for that seat from which those that go there never  return, (thinking) that one rests on that same primal  being from whom the ancient course (of worldly  life) emanated. Those who are free from pride  and delusion, w'ho have overcome the evils of  attachment, who are constant in (contemplating)  the relation of the supreme and individual self,  from whom desire has departed, who are free from  the pairs (of opposites) called pleasure and pain,  go undeluded to that imperishable seat \\ The sun",
+   "arnold_span": "D06",
+   "arnold_shared": true,
+   "align_notes": "Arnold 15:5 runs D06->D07 ('To the eternal world pass such as these!').",
+   "meaning_simple": "The proud-free, delusion-free, attachment-conquered. Constant in self-knowledge. Wanting nothing. Beyond pleasure and pain. They reach the imperishable home, undeluded.",
+   "takeaway": "The passenger list for no-return.",
+   "provenance": [
+    "sa:15:5",
+    "telang:T01",
+    "arnold:D06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:6",
+   "devanagari": "न तद्भासयते सूर्यो न शशाङ्को न पावकः ।\nयद्गत्वा न निवर्तन्ते तद्धाम परमं मम",
+   "iast": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ |\nyadgatvā na nivartante taddhāma paramaṃ mama",
+   "speaker": null,
+   "telang_context": "They say the inexhaustible Awattha ^ has (its)  roots above, (its) branches below; the Af^andas  are its leaves. He who knows it knows the Vedas.  Upwards and downwards extend its branches, which  are enlarged by the qualities, and the sprouts of  which are sensuous objects. And downwards to  this human world are continued its roots which lead  on to action. Its form is not thus known here, nor  (its) end, nor beginning, nor support. But having  with the firm weapon of unconcern, cut this A^vattha,  whose roots are firmly fixed, then should one seek  for that seat from which those that go there never  return, (thinking) that one rests on that same primal  being from whom the ancient course (of worldly  life) emanated. Those who are free from pride  and delusion, w'ho have overcome the evils of  attachment, who are constant in (contemplating)  the relation of the supreme and individual self,  from whom desire has departed, who are free from  the pairs (of opposites) called pleasure and pain,  go undeluded to that imperishable seat \\ The sun\n\ndoes not light it, nor the moon, nor fire That  is my highest abode, going to which none returns.  An eternal portion of me it is, which, becoming an  individual soul in the mortal world, draws (to itself)  the senses with the mind as the sixth Whenever the ruler (of the bodily frame) obtains or quits  a body, he goes taking these (with him) as the wind  (takes) perfumes from (their) seats And presiding  over the senses of hearing and seeing, and touch,  and taste, and smell, and the mind, he enjoys  sensuous objects. Those who are deluded do not  see (him) remaining in or quitting (a body), enjoying  or joined to the qualities*; they see, who have eyes  of knowledge. Devotees making efforts perceive him  abiding within their seifs®. But those whose seifs  have not been refined, and who have no discernment, do not perceive him even (after) making efforts.  Know that glory (to be) mine which, dwelling in the  sun, lights up the whole world, or in the moon or fire\".",
+   "arnold_span": "D08",
+   "arnold_shared": false,
+   "align_notes": "Split across T01-tail/T04-head (page-112 break).",
+   "meaning_simple": "Neither sun, nor moon, nor fire lights that highest home of Mine. Going there, none return.",
+   "takeaway": "Unlit by every known light.",
+   "provenance": [
+    "sa:15:6",
+    "telang:T01+T04-head",
+    "arnold:D08"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:7",
+   "devanagari": "ममैवांशो जीवलोके जीवभूतः सनातनः ।\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति",
+   "iast": "mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ |\nmanaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati",
+   "speaker": null,
+   "telang_context": "does not light it, nor the moon, nor fire That  is my highest abode, going to which none returns.  An eternal portion of me it is, which, becoming an  individual soul in the mortal world, draws (to itself)  the senses with the mind as the sixth Whenever the ruler (of the bodily frame) obtains or quits  a body, he goes taking these (with him) as the wind  (takes) perfumes from (their) seats And presiding  over the senses of hearing and seeing, and touch,  and taste, and smell, and the mind, he enjoys  sensuous objects. Those who are deluded do not  see (him) remaining in or quitting (a body), enjoying  or joined to the qualities*; they see, who have eyes  of knowledge. Devotees making efforts perceive him  abiding within their seifs®. But those whose seifs  have not been refined, and who have no discernment, do not perceive him even (after) making efforts.  Know that glory (to be) mine which, dwelling in the  sun, lights up the whole world, or in the moon or fire\".",
+   "arnold_span": "D09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "A spark of Me becomes the living soul in this mortal world — drawing mind and five senses along.",
+   "takeaway": "You are a fragment of the infinite, gathering instruments.",
+   "provenance": [
+    "sa:15:7",
+    "telang:T04",
+    "arnold:D09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:8",
+   "devanagari": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः ।\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात्",
+   "iast": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ |\ngṛhītvaitāni saṃyāti vāyurgandhānivāśayāt",
+   "speaker": null,
+   "telang_context": "does not light it, nor the moon, nor fire That  is my highest abode, going to which none returns.  An eternal portion of me it is, which, becoming an  individual soul in the mortal world, draws (to itself)  the senses with the mind as the sixth Whenever the ruler (of the bodily frame) obtains or quits  a body, he goes taking these (with him) as the wind  (takes) perfumes from (their) seats And presiding  over the senses of hearing and seeing, and touch,  and taste, and smell, and the mind, he enjoys  sensuous objects. Those who are deluded do not  see (him) remaining in or quitting (a body), enjoying  or joined to the qualities*; they see, who have eyes  of knowledge. Devotees making efforts perceive him  abiding within their seifs®. But those whose seifs  have not been refined, and who have no discernment, do not perceive him even (after) making efforts.  Know that glory (to be) mine which, dwelling in the  sun, lights up the whole world, or in the moon or fire\".",
+   "arnold_span": "D09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Moving house between bodies, the soul carries its senses along — as wind carries scent from flowers.",
+   "takeaway": "The gentlest simile for transmigration.",
+   "provenance": [
+    "sa:15:8",
+    "telang:T04",
+    "arnold:D09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:9",
+   "devanagari": "श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च ।\nअधिष्ठाय मनश्चायं विषयानुपसेवते",
+   "iast": "śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca |\nadhiṣṭhāya manaścāyaṃ viṣayānupasevate",
+   "speaker": null,
+   "telang_context": "does not light it, nor the moon, nor fire That  is my highest abode, going to which none returns.  An eternal portion of me it is, which, becoming an  individual soul in the mortal world, draws (to itself)  the senses with the mind as the sixth Whenever the ruler (of the bodily frame) obtains or quits  a body, he goes taking these (with him) as the wind  (takes) perfumes from (their) seats And presiding  over the senses of hearing and seeing, and touch,  and taste, and smell, and the mind, he enjoys  sensuous objects. Those who are deluded do not  see (him) remaining in or quitting (a body), enjoying  or joined to the qualities*; they see, who have eyes  of knowledge. Devotees making efforts perceive him  abiding within their seifs®. But those whose seifs  have not been refined, and who have no discernment, do not perceive him even (after) making efforts.  Know that glory (to be) mine which, dwelling in the  sun, lights up the whole world, or in the moon or fire\".",
+   "arnold_span": "D09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Through ear, eye, touch, taste, smell, and mind, the soul enjoys the sense-world.",
+   "takeaway": "Six windows. One watcher.",
+   "provenance": [
+    "sa:15:9",
+    "telang:T04",
+    "arnold:D09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:10",
+   "devanagari": "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् ।\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः",
+   "iast": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam |\nvimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ",
+   "speaker": null,
+   "telang_context": "does not light it, nor the moon, nor fire That  is my highest abode, going to which none returns.  An eternal portion of me it is, which, becoming an  individual soul in the mortal world, draws (to itself)  the senses with the mind as the sixth Whenever the ruler (of the bodily frame) obtains or quits  a body, he goes taking these (with him) as the wind  (takes) perfumes from (their) seats And presiding  over the senses of hearing and seeing, and touch,  and taste, and smell, and the mind, he enjoys  sensuous objects. Those who are deluded do not  see (him) remaining in or quitting (a body), enjoying  or joined to the qualities*; they see, who have eyes  of knowledge. Devotees making efforts perceive him  abiding within their seifs®. But those whose seifs  have not been refined, and who have no discernment, do not perceive him even (after) making efforts.  Know that glory (to be) mine which, dwelling in the  sun, lights up the whole world, or in the moon or fire\".",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The deluded never notice the soul arriving, leaving, or enjoying. Those with wisdom's eyes see.",
+   "takeaway": "Eyesight, not absence, is the issue.",
+   "provenance": [
+    "sa:15:10",
+    "telang:T04",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:11",
+   "devanagari": "यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् ।\nयतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः",
+   "iast": "yatanto yoginaścainaṃ paśyantyātmanyavasthitam |\nyatanto'pyakṛtātmāno nainaṃ paśyantyacetasaḥ",
+   "speaker": null,
+   "telang_context": "does not light it, nor the moon, nor fire That  is my highest abode, going to which none returns.  An eternal portion of me it is, which, becoming an  individual soul in the mortal world, draws (to itself)  the senses with the mind as the sixth Whenever the ruler (of the bodily frame) obtains or quits  a body, he goes taking these (with him) as the wind  (takes) perfumes from (their) seats And presiding  over the senses of hearing and seeing, and touch,  and taste, and smell, and the mind, he enjoys  sensuous objects. Those who are deluded do not  see (him) remaining in or quitting (a body), enjoying  or joined to the qualities*; they see, who have eyes  of knowledge. Devotees making efforts perceive him  abiding within their seifs®. But those whose seifs  have not been refined, and who have no discernment, do not perceive him even (after) making efforts.  Know that glory (to be) mine which, dwelling in the  sun, lights up the whole world, or in the moon or fire\".",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Striving seers perceive the soul within. The unrefined and undiscerning never do — strive as they might.",
+   "takeaway": "Effort without refinement misses.",
+   "provenance": [
+    "sa:15:11",
+    "telang:T04",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:12",
+   "devanagari": "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् ।\nयच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्",
+   "iast": "yadādityagataṃ tejo jagadbhāsayate'khilam |\nyaccandramasi yaccāgnau tattejo viddhi māmakam",
+   "speaker": null,
+   "telang_context": "does not light it, nor the moon, nor fire That  is my highest abode, going to which none returns.  An eternal portion of me it is, which, becoming an  individual soul in the mortal world, draws (to itself)  the senses with the mind as the sixth Whenever the ruler (of the bodily frame) obtains or quits  a body, he goes taking these (with him) as the wind  (takes) perfumes from (their) seats And presiding  over the senses of hearing and seeing, and touch,  and taste, and smell, and the mind, he enjoys  sensuous objects. Those who are deluded do not  see (him) remaining in or quitting (a body), enjoying  or joined to the qualities*; they see, who have eyes  of knowledge. Devotees making efforts perceive him  abiding within their seifs®. But those whose seifs  have not been refined, and who have no discernment, do not perceive him even (after) making efforts.  Know that glory (to be) mine which, dwelling in the  sun, lights up the whole world, or in the moon or fire\".",
+   "arnold_span": "D11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The light in sun, moon, and fire that fills the world — know that glory as Mine.",
+   "takeaway": "Every photon on loan.",
+   "provenance": [
+    "sa:15:12",
+    "telang:T04",
+    "arnold:D11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:13",
+   "devanagari": "गामाविश्य च भूतानि धारयाम्यहमोजसा ।\nपुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः",
+   "iast": "gāmāviśya ca bhūtāni dhārayāmyahamojasā |\npuṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ",
+   "speaker": null,
+   "telang_context": "Entering the earth \\ I by my power support all  things ; and becoming the juicy moon, I nourish  all herbs. I becoming the fire, and dwelling in the  bodies of (all) creatures, and united with the upward  and downward life-breaths, cause digestion of the  fourfold food**. And I am placed in the heart of  all**; from me (come) memory, knowledge, and their  removal ; I alone am to be learnt from all the  Vedas; I am the author of the Vedantas'*; and  I alone know the Vedas. There are these two  beings in the world, the destructible and the indestructible The destructible (includes) all things.  The unconcerned one is (what is) called the indestructible. But the being supreme is yet another,  called the highest self, who as the inexhaustible  lord, pervading the three worlds, supports (them).  And since I transcend the destructible, and since  I am higher also than the indestructible ®, therefore",
+   "arnold_span": "D11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "I enter the earth and uphold all life. As the moon, I feed every plant.",
+   "takeaway": "Support from below, nourishment from above.",
+   "provenance": [
+    "sa:15:13",
+    "telang:T06",
+    "arnold:D11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:14",
+   "devanagari": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः ।\nप्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्",
+   "iast": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ |\nprāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham",
+   "speaker": null,
+   "telang_context": "Entering the earth \\ I by my power support all  things ; and becoming the juicy moon, I nourish  all herbs. I becoming the fire, and dwelling in the  bodies of (all) creatures, and united with the upward  and downward life-breaths, cause digestion of the  fourfold food**. And I am placed in the heart of  all**; from me (come) memory, knowledge, and their  removal ; I alone am to be learnt from all the  Vedas; I am the author of the Vedantas'*; and  I alone know the Vedas. There are these two  beings in the world, the destructible and the indestructible The destructible (includes) all things.  The unconcerned one is (what is) called the indestructible. But the being supreme is yet another,  called the highest self, who as the inexhaustible  lord, pervading the three worlds, supports (them).  And since I transcend the destructible, and since  I am higher also than the indestructible ®, therefore",
+   "arnold_span": "D11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "As digestive fire in every body. Joined with every breath. I cook all four kinds of food.",
+   "takeaway": "The eater behind every eating.",
+   "provenance": [
+    "sa:15:14",
+    "telang:T06",
+    "arnold:D11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:15",
+   "devanagari": "सर्वस्य चाहं हृदि संनिविष्टो\nमत्तः स्मृतिर्ज्ञानमपोहनं च ।\nवेदैश्च सर्वैरहमेव वेद्यो\nवेदान्तकृद्वेदविदेव चाहम्",
+   "iast": "sarvasya cāhaṃ hṛdi saṃniviṣṭo\nmattaḥ smṛtirjñānamapohanaṃ ca |\nvedaiśca sarvairahameva vedyo\nvedāntakṛdvedavideva cāham",
+   "speaker": null,
+   "telang_context": "Entering the earth \\ I by my power support all  things ; and becoming the juicy moon, I nourish  all herbs. I becoming the fire, and dwelling in the  bodies of (all) creatures, and united with the upward  and downward life-breaths, cause digestion of the  fourfold food**. And I am placed in the heart of  all**; from me (come) memory, knowledge, and their  removal ; I alone am to be learnt from all the  Vedas; I am the author of the Vedantas'*; and  I alone know the Vedas. There are these two  beings in the world, the destructible and the indestructible The destructible (includes) all things.  The unconcerned one is (what is) called the indestructible. But the being supreme is yet another,  called the highest self, who as the inexhaustible  lord, pervading the three worlds, supports (them).  And since I transcend the destructible, and since  I am higher also than the indestructible ®, therefore",
+   "arnold_span": null,
+   "arnold_shared": false,
+   "align_notes": "Arnold omits 15:15 (memory/knowledge/Vedas-author verse); Telang + Sanskrit only.",
+   "meaning_simple": "I sit in every heart — source of memory, wisdom, and forgetting. I am the meaning of all scriptures, their author, their knower.",
+   "takeaway": "Memory, meaning, and their erasure — one resident.",
+   "provenance": [
+    "sa:15:15",
+    "telang:T06",
+    "arnold:none-omitted"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:16",
+   "devanagari": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च ।\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते",
+   "iast": "dvāvimau puruṣau loke kṣaraścākṣara eva ca |\nkṣaraḥ sarvāṇi bhūtāni kūṭastho'kṣara ucyate",
+   "speaker": null,
+   "telang_context": "Entering the earth \\ I by my power support all  things ; and becoming the juicy moon, I nourish  all herbs. I becoming the fire, and dwelling in the  bodies of (all) creatures, and united with the upward  and downward life-breaths, cause digestion of the  fourfold food**. And I am placed in the heart of  all**; from me (come) memory, knowledge, and their  removal ; I alone am to be learnt from all the  Vedas; I am the author of the Vedantas'*; and  I alone know the Vedas. There are these two  beings in the world, the destructible and the indestructible The destructible (includes) all things.  The unconcerned one is (what is) called the indestructible. But the being supreme is yet another,  called the highest self, who as the inexhaustible  lord, pervading the three worlds, supports (them).  And since I transcend the destructible, and since  I am higher also than the indestructible ®, therefore",
+   "arnold_span": "D12",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Two persons walk this world: the perishable many and the imperishable one.",
+   "takeaway": "The census has two entries.",
+   "provenance": [
+    "sa:15:16",
+    "telang:T06",
+    "arnold:D12"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:17",
+   "devanagari": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः ।\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः",
+   "iast": "uttamaḥ puruṣastvanyaḥ paramātmetyudāhṛtaḥ |\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ",
+   "speaker": null,
+   "telang_context": "Entering the earth \\ I by my power support all  things ; and becoming the juicy moon, I nourish  all herbs. I becoming the fire, and dwelling in the  bodies of (all) creatures, and united with the upward  and downward life-breaths, cause digestion of the  fourfold food**. And I am placed in the heart of  all**; from me (come) memory, knowledge, and their  removal ; I alone am to be learnt from all the  Vedas; I am the author of the Vedantas'*; and  I alone know the Vedas. There are these two  beings in the world, the destructible and the indestructible The destructible (includes) all things.  The unconcerned one is (what is) called the indestructible. But the being supreme is yet another,  called the highest self, who as the inexhaustible  lord, pervading the three worlds, supports (them).  And since I transcend the destructible, and since  I am higher also than the indestructible ®, therefore",
+   "arnold_span": "D13",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Beyond both stands the highest Self — the undying Lord filling three worlds, upholding all.",
+   "takeaway": "The third who transcends the pair.",
+   "provenance": [
+    "sa:15:17",
+    "telang:T06",
+    "arnold:D13-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:18",
+   "devanagari": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः ।\nअतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः",
+   "iast": "yasmātkṣaramatīto'hamakṣarādapi cottamaḥ |\nato'smi loke vede ca prathitaḥ puruṣottamaḥ",
+   "speaker": null,
+   "telang_context": "Entering the earth \\ I by my power support all  things ; and becoming the juicy moon, I nourish  all herbs. I becoming the fire, and dwelling in the  bodies of (all) creatures, and united with the upward  and downward life-breaths, cause digestion of the  fourfold food**. And I am placed in the heart of  all**; from me (come) memory, knowledge, and their  removal ; I alone am to be learnt from all the  Vedas; I am the author of the Vedantas'*; and  I alone know the Vedas. There are these two  beings in the world, the destructible and the indestructible The destructible (includes) all things.  The unconcerned one is (what is) called the indestructible. But the being supreme is yet another,  called the highest self, who as the inexhaustible  lord, pervading the three worlds, supports (them).  And since I transcend the destructible, and since  I am higher also than the indestructible ®, therefore\n\nam I celebrated in the world and in the Vedas as the  best of beings. He who, undeluded, thus knows  me the best of beings, worships me every way *, 0  descendant of Bharata ! knowing everything. Thus,  O sinless one ! have I proclaimed this most mysterious science. He who knows this, has done all he  need do, and he becomes possessed of discernment.",
+   "arnold_span": "D13",
+   "arnold_shared": true,
+   "align_notes": "Split across T06-tail/T09-head.",
+   "meaning_simple": "Transcending the perishable. Surpassing even the imperishable. I am famed as the highest Person. In scripture and world.",
+   "takeaway": "The name above both names.",
+   "provenance": [
+    "sa:15:18",
+    "telang:T06+T09-head",
+    "arnold:D13-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:19",
+   "devanagari": "यो मामेवमसंमूढो जानाति पुरुषोत्तमम् ।\nस सर्वविद्भजति मां सर्वभावेन भारत",
+   "iast": "yo māmevamasaṃmūḍho jānāti puruṣottamam |\nsa sarvavidbhajati māṃ sarvabhāvena bhārata",
+   "speaker": null,
+   "telang_context": "am I celebrated in the world and in the Vedas as the  best of beings. He who, undeluded, thus knows  me the best of beings, worships me every way *, 0  descendant of Bharata ! knowing everything. Thus,  O sinless one ! have I proclaimed this most mysterious science. He who knows this, has done all he  need do, and he becomes possessed of discernment.",
+   "arnold_span": "D14",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Whoever knows Me thus, undeluded — highest Person — worships Me wholly, knowing all.",
+   "takeaway": "One recognition. Total worship. Full knowledge.",
+   "provenance": [
+    "sa:15:19",
+    "telang:T09",
+    "arnold:D14"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "15:20",
+   "devanagari": "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ ।\nएतद्‌बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत",
+   "iast": "iti guhyatamaṃ śāstramidamuktaṃ mayānagha |\netad‌buddhvā buddhimānsyātkṛtakṛtyaśca bhārata",
+   "speaker": null,
+   "telang_context": "am I celebrated in the world and in the Vedas as the  best of beings. He who, undeluded, thus knows  me the best of beings, worships me every way *, 0  descendant of Bharata ! knowing everything. Thus,  O sinless one ! have I proclaimed this most mysterious science. He who knows this, has done all he  need do, and he becomes possessed of discernment.",
+   "arnold_span": "D15",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Thus I have taught the most hidden teaching. Grasp it and all is done; wisdom is won.",
+   "takeaway": "The diploma verse. Course complete — for this chapter.",
+   "provenance": [
+    "sa:15:20",
+    "telang:T09",
+    "arnold:D15"
+   ],
+   "status": "approved"
+  }
+ ]
+}
