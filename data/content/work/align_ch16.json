@@ -1,0 +1,398 @@
+{
+ "chapter": 16,
+ "records": [
+  {
+   "id": "16:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "purity of heart",
+      "abstraction"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:2",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "straightforwardness",
+      "tranquillity"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:3",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "compassion",
+      "godlike"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:4",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "harshness",
+      "demoniac"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "16:5",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "bondage",
+      "Grieve  not"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "16:6",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "two classes",
+      "described at length"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "16:7",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "inaction",
+      "veracity"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:8",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "fixed principle",
+      "caused by lust"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:9",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "little knowledge",
+      "destruction"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:10",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "insatiable",
+      "unholy observances"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:11",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "ending with death",
+      "resolved"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:12",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "nets of hopes",
+      "they wish"
+     ]
+    },
+    {
+     "para": "T07",
+     "anchors": [
+      "unfairly"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": "Split across T02-tail/T07-head (glosses + p116 between)."
+  },
+  {
+   "id": "16:13",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "obtained to-day",
+      "is mine"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:14",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "I am lord",
+      "like me"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:15",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "net of delusion",
+      "impure hell"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:16",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "void  of humility",
+      "only in name"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:17",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "arrogance",
+      "in  those of others"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:18",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "meanest  of men",
+      "hurl down"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:19",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "every birth",
+      "ever coming to me"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:20",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "Threefold"
+     ]
+    },
+    {
+     "para": "T08",
+     "anchors": [
+      "ruinous to the self"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": "Split across T07-tail/T08-head."
+  },
+  {
+   "id": "16:21",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "lust, anger",
+      "abandon this triad"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:22",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "own salvation",
+      "highest goal"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "16:23",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "impulse of desire",
+      "perfection"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 16:23-24 (G08 ellipsis divider); Telang + Sanskrit only."
+  },
+  {
+   "id": "16:24",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "authority",
+      "perform action"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 16:23-24 (G08 ellipsis divider); Telang + Sanskrit only."
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T01",
+   "reason": "Page number (\"I'5\" = print p115)."
+  },
+  {
+   "para": "T03",
+   "reason": "Footnote gloss restating 16:8 ('no unseen cause... lust... cause')."
+  },
+  {
+   "para": "T04",
+   "reason": "Footnote example gloss ('propitiating a divinity... obtain treasure')."
+  },
+  {
+   "para": "T05",
+   "reason": "Footnote gloss on hoarding ('new acquisitions and preserving old')."
+  },
+  {
+   "para": "T06",
+   "reason": "Page number ('if6' = print p116)."
+  }
+ ]
+}
