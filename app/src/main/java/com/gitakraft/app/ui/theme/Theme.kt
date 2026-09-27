@@ -1,10 +1,12 @@
 package com.gitakraft.app.ui.theme
 
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Shapes
 import androidx.compose.material3.Typography
 import androidx.compose.material3.darkColorScheme
+import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle
@@ -12,33 +14,54 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
-// -- Accents (dark-tuned) --
+// -- Brand --
 val Saffron = Color(0xFFFF9F0A)
-val AccentBlue = Color(0xFF0A84FF)
-val AccentGreen = Color(0xFF30D158)
-val AccentRed = Color(0xFFFF453A)
 
-// -- Surfaces (dark-only, OLED) --
-val BackgroundDark = Color(0xFF000000)
+// Light: deep amber fill so white label text clears 4.5:1.
+val AmberDeep = Color(0xFF8A5200)
+
+// Dark: saffron fill with near-black label text (≈9:1).
+val InkOnSaffron = Color(0xFF1A1207)
+
+// -- Light: warm paper, deep ink --
+val Paper = Color(0xFFFAF7F0)
+val PaperSurface = Color(0xFFFFFFFF)
+val Ink = Color(0xFF1C1A16)
+val InkMuted = Color(0xFF6B6257)
+val TakeawayTintLight = Color(0xFFFFF3DF)
+
+// -- Dark: near-black, warm gray --
+val BackgroundDark = Color(0xFF121212)
 val SurfaceDark = Color(0xFF1C1C1E)
 val SurfaceHighDark = Color(0xFF2E2E33)
-val TextSecondaryDark = Color(0x99EBEBF5)
+val TextSecondaryDark = Color(0xFFB8B0A4)
+val TakeawayTintDark = Color(0xFF2A2118)
+
+private val LightColorScheme = lightColorScheme(
+    primary = AmberDeep,
+    onPrimary = Color.White,
+    secondary = Saffron,
+    onSecondary = InkOnSaffron,
+    background = Paper,
+    onBackground = Ink,
+    surface = PaperSurface,
+    onSurface = Ink,
+    surfaceVariant = Paper,
+    onSurfaceVariant = InkMuted,
+    outlineVariant = Color(0xFFE2DACA),
+)
 
 private val DarkColorScheme = darkColorScheme(
     primary = Saffron,
-    onPrimary = Color.Black,
-    secondary = AccentBlue,
-    onSecondary = Color.White,
-    error = AccentRed,
-    onError = Color.White,
+    onPrimary = InkOnSaffron,
+    secondary = Saffron,
+    onSecondary = InkOnSaffron,
     background = BackgroundDark,
-    onBackground = Color.White,
+    onBackground = Color(0xFFF5EFE4),
     surface = SurfaceDark,
-    onSurface = Color.White,
+    onSurface = Color(0xFFF5EFE4),
     surfaceVariant = SurfaceHighDark,
     onSurfaceVariant = TextSecondaryDark,
-    surfaceContainerLow = SurfaceDark,
-    surfaceContainerHigh = SurfaceHighDark,
     outlineVariant = Color(0xFF2E2E33),
 )
 
@@ -59,10 +82,19 @@ val GitaTypography = Typography(
     labelMedium = TextStyle(fontSize = 12.sp, fontWeight = FontWeight.Medium, letterSpacing = 0.8.sp),
 )
 
+/** Devanagari verse: large with liturgical air. */
+val VerseSanskrit = TextStyle(fontSize = 28.sp, fontWeight = FontWeight.Medium, lineHeight = 42.sp)
+
+/** IAST transliteration: quiet companion line. */
+val VerseIast = TextStyle(fontSize = 15.sp, fontWeight = FontWeight.Normal, lineHeight = 22.sp)
+
 @Composable
-fun GitaKraftTheme(content: @Composable () -> Unit) {
+fun GitaKraftTheme(
+    darkTheme: Boolean = isSystemInDarkTheme(),
+    content: @Composable () -> Unit,
+) {
     MaterialTheme(
-        colorScheme = DarkColorScheme,
+        colorScheme = if (darkTheme) DarkColorScheme else LightColorScheme,
         typography = GitaTypography,
         shapes = GitaShapes,
         content = content,
