@@ -31,3 +31,8 @@ CHAPTERS = {
 EXPECTED_TOTAL = 700
 
 WIKISOURCE_API = "https://sa.wikisource.org/w/api.php"
+EN_WIKISOURCE_API = "https://en.wikisource.org/w/api.php"
+TELANG_INDEX = "Sacred Books of the East - Volume VIII.djvu"
+# Gita text spans these DjVu pages (from the volume transclusion tag).
+TELANG_PAGE_FROM = 43
+TELANG_PAGE_TO = 137

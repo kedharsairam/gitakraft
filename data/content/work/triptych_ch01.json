@@ -1,0 +1,434 @@
+{
+ "chapter": 1,
+ "sanskrit": [
+  {
+   "id": "1:1",
+   "speaker": "धृतराष्ट्र",
+   "devanagari": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत संजय",
+   "iast": "dharmakṣetre kurukṣetre samavetā yuyutsavaḥ |\nmāmakāḥ pāṇḍavāścaiva kimakurvata saṃjaya"
+  },
+  {
+   "id": "1:2",
+   "speaker": "सञ्जय",
+   "devanagari": "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\nआचार्यमुपसंगम्य राजा वचनमब्रवीत्",
+   "iast": "dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā |\nācāryamupasaṃgamya rājā vacanamabravīt"
+  },
+  {
+   "id": "1:3",
+   "speaker": null,
+   "devanagari": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता",
+   "iast": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm |\nvyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā"
+  },
+  {
+   "id": "1:4",
+   "speaker": null,
+   "devanagari": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।\nयुयुधानो विराटश्च द्रुपदश्च महारथः",
+   "iast": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi |\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ"
+  },
+  {
+   "id": "1:5",
+   "speaker": null,
+   "devanagari": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः",
+   "iast": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān |\npurujitkuntibhojaśca śaibyaśca narapuṅgavaḥ"
+  },
+  {
+   "id": "1:6",
+   "speaker": null,
+   "devanagari": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः",
+   "iast": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān |\nsaubhadro draupadeyāśca sarva eva mahārathāḥ"
+  },
+  {
+   "id": "1:7",
+   "speaker": null,
+   "devanagari": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते",
+   "iast": "asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama |\nnāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te"
+  },
+  {
+   "id": "1:8",
+   "speaker": null,
+   "devanagari": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिंजयः ।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च",
+   "iast": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiṃjayaḥ |\naśvatthāmā vikarṇaśca saumadattistathaiva ca"
+  },
+  {
+   "id": "1:9",
+   "speaker": null,
+   "devanagari": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः ।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः",
+   "iast": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ |\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ"
+  },
+  {
+   "id": "1:10",
+   "speaker": null,
+   "devanagari": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्",
+   "iast": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam |\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam"
+  },
+  {
+   "id": "1:11",
+   "speaker": null,
+   "devanagari": "अयनेषु च सर्वेषु यथाभागमवस्थिताः ।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि",
+   "iast": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ |\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi"
+  },
+  {
+   "id": "1:12",
+   "speaker": null,
+   "devanagari": "तस्य संजनयन्हर्षं कुरुवृद्धः पितामहः ।\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्",
+   "iast": "tasya saṃjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ |\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān"
+  },
+  {
+   "id": "1:13",
+   "speaker": null,
+   "devanagari": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्",
+   "iast": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ |\nsahasaivābhyahanyanta sa śabdastumulo'bhavat"
+  },
+  {
+   "id": "1:14",
+   "speaker": null,
+   "devanagari": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः",
+   "iast": "tataḥ śvetairhayairyukte mahati syandane sthitau |\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ"
+  },
+  {
+   "id": "1:15",
+   "speaker": null,
+   "devanagari": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः",
+   "iast": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ |\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ"
+  },
+  {
+   "id": "1:16",
+   "speaker": null,
+   "devanagari": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ",
+   "iast": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ |\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau"
+  },
+  {
+   "id": "1:17",
+   "speaker": null,
+   "devanagari": "काश्यश्च परमेष्वासः शिखण्डी च महारथः ।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः",
+   "iast": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ |\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ"
+  },
+  {
+   "id": "1:18",
+   "speaker": null,
+   "devanagari": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते ।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्",
+   "iast": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate |\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak"
+  },
+  {
+   "id": "1:19",
+   "speaker": null,
+   "devanagari": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।\nनभश्च पृथिवीं चैव तुमुलो व्यनुनादयन्",
+   "iast": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat |\nnabhaśca pṛthivīṃ caiva tumulo vyanunādayan"
+  },
+  {
+   "id": "1:20",
+   "speaker": null,
+   "devanagari": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः ।\nप्रवृत्ते शस्त्रसंपाते धनुरुद्यम्य पाण्डवः",
+   "iast": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrānkapidhvajaḥ |\npravṛtte śastrasaṃpāte dhanurudyamya pāṇḍavaḥ"
+  },
+  {
+   "id": "1:21",
+   "speaker": "अर्जुन",
+   "devanagari": "हृषीकेशं तदा वाक्यमिदमाह महीपते ।\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत",
+   "iast": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate |\nsenayorubhayormadhye rathaṃ sthāpaya me'cyuta"
+  },
+  {
+   "id": "1:22",
+   "speaker": null,
+   "devanagari": "यावदेतान्निरिक्षेऽहं योद्‌धुकामानवस्थितान् ।\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे",
+   "iast": "yāvadetānnirikṣe'haṃ yod‌dhukāmānavasthitān |\nkairmayā saha yoddhavyamasmin raṇasamudyame"
+  },
+  {
+   "id": "1:23",
+   "speaker": null,
+   "devanagari": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः",
+   "iast": "yotsyamānānavekṣe'haṃ ya ete'tra samāgatāḥ |\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ"
+  },
+  {
+   "id": "1:24",
+   "speaker": "सञ्जय",
+   "devanagari": "एवमुक्तो हृषीकेशो गुडाकेशेन भारत ।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्",
+   "iast": "evamukto hṛṣīkeśo guḍākeśena bhārata |\nsenayorubhayormadhye sthāpayitvā rathottamam"
+  },
+  {
+   "id": "1:25",
+   "speaker": null,
+   "devanagari": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति",
+   "iast": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām |\nuvāca pārtha paśyaitānsamavetānkurūniti"
+  },
+  {
+   "id": "1:26",
+   "speaker": null,
+   "devanagari": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् ।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा",
+   "iast": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān |\nācāryānmātulānbhrātṝnputrānpautrānsakhīṃstathā"
+  },
+  {
+   "id": "1:27",
+   "speaker": null,
+   "devanagari": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ।\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्",
+   "iast": "śvaśurānsuhṛdaścaiva senayorubhayorapi |\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān"
+  },
+  {
+   "id": "1:28",
+   "speaker": "अर्जुन",
+   "devanagari": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् ।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्",
+   "iast": "kṛpayā parayāviṣṭo viṣīdannidamabravīt |\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam"
+  },
+  {
+   "id": "1:29",
+   "speaker": null,
+   "devanagari": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति ।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते",
+   "iast": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati |\nvepathuśca śarīre me romaharṣaśca jāyate"
+  },
+  {
+   "id": "1:30",
+   "speaker": null,
+   "devanagari": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते ।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः",
+   "iast": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate |\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ"
+  },
+  {
+   "id": "1:31",
+   "speaker": null,
+   "devanagari": "निमित्तानि च पश्यामि विपरीतानि केशव ।\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे",
+   "iast": "nimittāni ca paśyāmi viparītāni keśava |\nna ca śreyo'nupaśyāmi hatvā svajanamāhave"
+  },
+  {
+   "id": "1:32",
+   "speaker": null,
+   "devanagari": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ।\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा",
+   "iast": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca |\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā"
+  },
+  {
+   "id": "1:33",
+   "speaker": null,
+   "devanagari": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च",
+   "iast": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca |\nta ime'vasthitā yuddhe prāṇāṃstyaktvā dhanāni ca"
+  },
+  {
+   "id": "1:34",
+   "speaker": null,
+   "devanagari": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः ।\nमातुलाः श्वशुराः पौत्राः श्यालाः संबन्धिनस्तथा",
+   "iast": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ |\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ saṃbandhinastathā"
+  },
+  {
+   "id": "1:35",
+   "speaker": null,
+   "devanagari": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ।\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते",
+   "iast": "etānna hantumicchāmi ghnato'pi madhusūdana |\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte"
+  },
+  {
+   "id": "1:36",
+   "speaker": null,
+   "devanagari": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ।\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः",
+   "iast": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana |\npāpamevāśrayedasmānhatvaitānātatāyinaḥ"
+  },
+  {
+   "id": "1:37",
+   "speaker": null,
+   "devanagari": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् ।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव",
+   "iast": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān |\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava"
+  },
+  {
+   "id": "1:38",
+   "speaker": null,
+   "devanagari": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्",
+   "iast": "yadyapyete na paśyanti lobhopahatacetasaḥ |\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam"
+  },
+  {
+   "id": "1:39",
+   "speaker": null,
+   "devanagari": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् ।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन",
+   "iast": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum |\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana"
+  },
+  {
+   "id": "1:40",
+   "speaker": null,
+   "devanagari": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत",
+   "iast": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ |\ndharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta"
+  },
+  {
+   "id": "1:41",
+   "speaker": null,
+   "devanagari": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसंकरः",
+   "iast": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ |\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṃkaraḥ"
+  },
+  {
+   "id": "1:42",
+   "speaker": null,
+   "devanagari": "संकरो नरकायैव कुलघ्नानां कुलस्य च ।\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः",
+   "iast": "saṃkaro narakāyaiva kulaghnānāṃ kulasya ca |\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ"
+  },
+  {
+   "id": "1:43",
+   "speaker": null,
+   "devanagari": "दोषैरेतैः कुलघ्नानां वर्णसंकरकारकैः ।\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः",
+   "iast": "doṣairetaiḥ kulaghnānāṃ varṇasaṃkarakārakaiḥ |\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ"
+  },
+  {
+   "id": "1:44",
+   "speaker": null,
+   "devanagari": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।\nनरकेऽनियतं वासो भवतीत्यनुशुश्रुम",
+   "iast": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana |\nnarake'niyataṃ vāso bhavatītyanuśuśruma"
+  },
+  {
+   "id": "1:45",
+   "speaker": null,
+   "devanagari": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् ।\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः",
+   "iast": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam |\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ"
+  },
+  {
+   "id": "1:46",
+   "speaker": null,
+   "devanagari": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः ।\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्",
+   "iast": "yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ |\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet"
+  },
+  {
+   "id": "1:47",
+   "speaker": "सञ्जय",
+   "devanagari": "एवमुक्त्वार्जुनः संख्ये रथोपस्थ उपाविशत् ।\nविसृज्य सशरं चापं शोकसंविग्नमानसः",
+   "iast": "evamuktvārjunaḥ saṃkhye rathopastha upāviśat |\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ"
+  }
+ ],
+ "telang_paras": [
+  {
+   "text": "Dhr/tarish/ra said ;",
+   "footnote?": false
+  },
+  {
+   "text": "What did my (people) and the Pfiwflfavas do,  O Sa»^ya ! when they assembled together on the  holy field of Kurukshetra, desirous to do battle ?",
+   "footnote?": false
+  },
+  {
+   "text": "Saw^ya said :",
+   "footnote?": false
+  },
+  {
+   "text": "Seeing the army of the Pd«^!favas drawn up in  battle-array the prince Duryodhana approachctl  his preceptor, and spoke (these) words : ‘ O preceptor! observe this grand army of the sons of  Pa«a?u, drawn up in battle-array by your talented  pupil, the son of Drupada. In it are heroes  (bearing) large bows, the equals of Bhima and  Ar^una in battle — (namely), Yuyudhdna, Vird/a,  and Drupada, the master of a great car-, and  Dhr/sh/aketu, A'ekitdna, and the valiant king of  Kd^i, Purii^it and Kuntibhq^a, and that eminent  man Yaibya; the heroic Yudhdmanyu, the valiant  Uttamau^as, the son of Subhadrd, and the sons of",
+   "footnote?": false
+  },
+  {
+   "text": "' Several of these inodes of array are described in Manu VII, 187,  like a staff, like a wain, like a boar, &c. That of the PaHcfavas, here  referred to, appears to have been like the thunderbolt, as to which  see Manu VII, 191.",
+   "footnote?": true
+  },
+  {
+   "text": "® This is a literal rendering ; the technical meaning is ‘ a warrior  proficient in military science, who single-handed can fight a thousand archers.’",
+   "footnote?": true
+  },
+  {
+   "text": "Draupadt — all masters of great cars. And now,",
+   "footnote?": false
+  },
+  {
+   "text": "best of Brihmawas! learn who are most distinguished among us, and are leaders of my army.",
+   "footnote?": false
+  },
+  {
+   "text": "will name them to you, in order that you may  know them well. Yourself, and Bhishma, and Karwa,  and K;7pa the victor of (many) battles ; Ai'vatthdman, and Vikar«a, and also the son of Somadatta,  and many other brave men, who have given up  their lives for me, who fight with various weapons,  (and are) all dexterous in battle. Thus our army  which is protected by Bhishma is unlimited ; while  this army of theirs which is protected by Bhima is  very limited. And therefore do ye all, occupying  respectively the positions' assigned to you, protect  Bhishma ^ only.’",
+   "footnote?": false
+  },
+  {
+   "text": "Then his powerful grandsire, Bhishma, the oldest  of the Kauravas, roaring aloud like a lion, blew his  conch, (thereby) affording delight to Duryodhana.  And then all at once, conch.s, and kettledrums, and  tabors, and trumpets were played upon ; and there  was a tumultuous din. Then, too, Madhava and the  son of Vtndw (Ar^ima), seated in a grand chariot to  which white steeds were yoked, blew their heavenly  conchs. Hrfshike^a blew the Pa«/’a^anya and  Dhanaw^aya the Devadatta, and Bhima, (the doer) of  fearful deeds, blew' the great conch Pau/^flfra. King  Yudhish/y^ira, the .son of Kunti ®, blew' the^Anan-",
+   "footnote?": false
+  },
+  {
+   "text": "' The original word means, according to A'ridliara, ‘ the ways of  entrance into a Vyiiiia 01 phalanx.’",
+   "footnote?": true
+  },
+  {
+   "text": "^ Who, as ger.cralissimo, remained in the centre of the army.",
+   "footnote?": true
+  },
+  {
+   "text": "•' Literally, according to the commentators, ‘ lord of the senses of  perception.’",
+   "footnote?": true
+  },
+  {
+   "text": "SeWeg' 1 renders tlic names of these conchs by Gigantea,  Thcodote-s, Arundiuca, Triumplialrix, Dulcisona, and Gemmiflorca  res|)ectively. ' Sditcalled, par excellence, api>arently.",
+   "footnote?": true
+  },
+  {
+   "text": "tavi^aya, and Nakula and Sahadeva (respectively)  the Sughosha and Ma«ipushpaka. And the king  of Kad, too, who has an excellent bow, and ^ikhaw-  /fin, the master of a great car, and Dhrz'sh/adyumna,  Vird/a, and the unconquered S^tyaki, and Drupada,  and the sons of Draupadi, and the son of Subhadr^,  of mighty arms, blew conchs severally from all sides,  O king of the earth ! That tumultuous din rent  the hearts of all (the people) of Dhmardsh/ra’s  (party), causing reverberations throughout heaven  and earth. Then seeing (the people of) Dhretarash/ra’s party regularly marshalled, the son of  Pa;m\\i, whose standard is the ape, raised his bow  after the discharge of missiles had commenced, and  O king of the earth ! spake these words to Hmhike^a : ‘ O undegraded one ! station my chariot  between the two armies, while I observe those,  who stand here desirous to engage in battle, and  with whom, in the labours of this struggle, I must  do battle. I will observe those who are assembled  here and who are about to engage in battle, wishing  to do service in battle ^ to the evil-minded son of  Dh^/tarishAa.’",
+   "footnote?": false
+  },
+  {
+   "text": "Saw^a} a said :",
+   "footnote?": false
+  },
+  {
+   "text": "Thus addressed by Gui/ake^a O descendant of  Bharata^! Hrfshike^a stationed that e.xcellent chariot between the two armies, in front of Bhishma",
+   "footnote?": false
+  },
+  {
+   "text": "* l.e. to join in the fight.",
+   "footnote?": true
+  },
+  {
+   "text": "In the original, several derivatives from the root yuilh, meaning ‘ to fight,’ occur with the same frequency as ‘ battle ’ here.",
+   "footnote?": true
+  },
+  {
+   "text": "^ Generally interpreted 'lord of sleep,’ i.e. not indolent. Nilalta«///a also suggest.s, that it may mean ‘of thiek hair.’",
+   "footnote?": true
+  },
+  {
+   "text": "* The son of Dushyanta and .^akuntald, after whom India is called  ‘ BhSratavarsha,’ and from whom both PaWavas and Kauravas  were descended.",
+   "footnote?": true
+  },
+  {
+   "text": "and Drowa and of all the kings of the earth, and  said : ‘ O son of Prfthd ! look at these assembled  Kauravas.' There the son of PWthS saw in both  armies, fathers and grandfathers, preceptors, maternal uncles, brothers, sons’, grandsons, companions,  fathers-in-law, as well as friends. And seeing all  those kinsmen standing (there), the son of Kunti  was overcome by excessive pity, and spake thus  despondingly.",
+   "footnote?": false
+  },
+  {
+   "text": "Ar^una said ;",
+   "footnote?": false
+  },
+  {
+   "text": "Seeing these kinsmen, O Kmh«a ! standing (here)  anxious to engage in battle, my limbs droop down ;  my mouth is quite dried up ; a tremor comes over  my bodj- ; and my hairs stand on end ; the Gawrt^iva  (bow) slips from my hand ; my skin burns intensely,  I am unable, too, to stand up ; my mind whirls  round, as it were; O KeJava ! I see adverse omens-;  and I do not perceive any good (likely to accrue)  after killing (my) kinsmen in the battle, I do not  wish for victory, O Krfsh«a ! nor sovereignty, nor  pleasures ; what is .sovereignty to us, O Govinda !  what enjoyments, and even life ? Even those, for  whose sake we desire .sovereignty, enjoyments, and  pleasures, are standing here for battle, abandoning  life and wealth — preceptors, fathers, sons as well as  grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, as also (other) relatives., These  1 do not wish to kill, though they kill (me), O destroyer  of Madhu ® ! even for the sake of sovereignty over",
+   "footnote?": false
+  },
+  {
+   "text": "’ The words in this list include all standing in similar relationships to those directly signified.",
+   "footnote?": true
+  },
+  {
+   "text": "* Such as the appearance of vultures, cars moving without horses,  &c., mentioned in the Bhishma Parvan 11,17. Cf.SuttaNipfita,p.ioo.",
+   "footnote?": true
+  },
+  {
+   "text": "^ A demon of this nam^.",
+   "footnote?": true
+  },
+  {
+   "text": "the three worlds, how much less then for this earth  (alone) ? What joy shall be ours, O G^anArdana !  after killing Dhrztardsh/ra’s sons ? Killing these  felons ^ we shall only incur sin. Therefore it is not  proper for us to kill our own kinsmen, the sons of  Dhrftar&sh/ra. For how, O MAdhava! shall wc be  happy after killing our own relatives ? Although  they have their consciences corrupted by avarice,  they do not see the* evils flowing from the extinction  of a family, and the sin in treachery to friends ; still,  O 6'anardana ! should not we, who do see the evils  flowing from the extinction of a family, learn to  refrain from that sin ? On the extinction of a family,  the eternal rites of families are destroyed 'I'hose  rites being destroyed, impiety predominates over the  whole family®. In consequence of the predominance  of impiety, O Kmh«a 1 the women of the family  become corrupt^; and the women becoming corrupt,  O descendant of Vr/sh/^i! intermingling of castes  results ; that intermingling necessarily leads the  family and the destroyers of the family to hell ; for  when the ceremonies of (offering) the balls of food  and water (to them) fail their ancestors fall down  (to hell). By these transgressions of the destroyers  of families, which occasion interminglings of castes,  the eternal rites of castes and rites of families are",
+   "footnote?": false
+  },
+  {
+   "text": "' Six Classes are mentioned : an incendiary ; one who administers  poison ; one who assaults another — weapon in hand ; one who  destroys property ; one who robs another of his wife ; or his fields.",
+   "footnote?": true
+  },
+  {
+   "text": "“ l.e.thercbeingnonc to attend tothe' rites,’ women being ineligible.",
+   "footnote?": true
+  },
+  {
+   "text": "’ I.e. the surviving members.",
+   "footnote?": true
+  },
+  {
+   "text": "‘ I.p. either by the mere fact of relationship to such men, or by  following their bad example. '*",
+   "footnote?": true
+  },
+  {
+   "text": "• There being no qualified person to perform them ; ‘ their  ancestors’ — that is to say, of the ‘ destroyers of families.'",
+   "footnote?": true
+  },
+  {
+   "text": "subverted. And O <9andrdana ! we have heard  that men whose family-rites are subverted, must  necessarily live in hell. Alas ! we are engaged in  committing a heinous sin, seeing that we are making  efforts for killing our own kinsmen out of greed of  the pleasures of sovereignty. If the sons of DhrAarash/ra, weapon in hand, were to kill me in battle,  me being weaponless and not defending (myself),  that would be better for me.",
+   "footnote?": false
+  },
+  {
+   "text": "Saw^aya said:",
+   "footnote?": false
+  },
+  {
+   "text": "Having spoken thus. Arfuna cast aside his bow  together with the arrows, on the battle-field, and  sat down in (his) chariot, with a mind agitated by  grief.",
+   "footnote?": false
+  }
+ ],
+ "arnold": "CHAPTER I\n\n  Dhritirashtra:\n  Ranged thus for battle on the sacred plain--\n  On Kurukshetra--say, Sanjaya! say\n  What wrought my people, and the Pandavas?\n\n  Sanjaya:\n  When he beheld the host of Pandavas,\n  Raja Duryodhana to Drona drew,\n  And spake these words: \"Ah, Guru! see this line,\n  How vast it is of Pandu fighting-men,\n  Embattled by the son of Drupada,\n  Thy scholar in the war! Therein stand ranked\n  Chiefs like Arjuna, like to Bhima chiefs,\n  Benders of bows; Virata, Yuyudhan,\n  Drupada, eminent upon his car,\n  Dhrishtaket, Chekitan, Kasi's stout lord,\n  Purujit, Kuntibhoj, and Saivya,\n  With Yudhamanyu, and Uttamauj\n  Subhadra's child; and Drupadi's;-all famed!\n  All mounted on their shining chariots!\n  On our side, too,--thou best of Brahmans! see\n  Excellent chiefs, commanders of my line,\n  Whose names I joy to count: thyself the first,\n  Then Bhishma, Karna, Kripa fierce in fight,\n  Vikarna, Aswatthaman; next to these\n  Strong Saumadatti, with full many more\n  Valiant and tried, ready this day to die\n  For me their king, each with his weapon grasped,\n  Each skilful in the field. Weakest-meseems-\n  Our battle shows where Bhishma holds command,\n  And Bhima, fronting him, something too strong!\n  Have care our captains nigh to Bhishma's ranks\n  Prepare what help they may! Now, blow my shell!\"\n\n  Then, at the signal of the aged king,\n  With blare to wake the blood, rolling around\n  Like to a lion's roar, the trumpeter\n  Blew the great Conch; and, at the noise of it,\n  Trumpets and drums, cymbals and gongs and horns\n  Burst into sudden clamour; as the blasts\n  Of loosened tempest, such the tumult seemed!\n  Then might be seen, upon their car of gold\n  Yoked with white steeds, blowing their battle-shells,\n  Krishna the God, Arjuna at his side:\n  Krishna, with knotted locks, blew his great conch\n  Carved of the \"Giant's bone;\" Arjuna blew\n  Indra's loud gift; Bhima the terrible--\n  Wolf-bellied Bhima-blew a long reed-conch;\n  And Yudhisthira, Kunti's blameless son,\n  Winded a mighty shell, \"Victory's Voice;\"\n  And Nakula blew shrill upon his conch\n  Named the \"Sweet-sounding,\" Sahadev on his\n  Called\"Gem-bedecked,\" and Kasi's Prince on his.\n  Sikhandi on his car, Dhrishtadyumn,\n  Virata, Satyaki the Unsubdued,\n  Drupada, with his sons, (O Lord of Earth!)\n  Long-armed Subhadra's children, all blew loud,\n  So that the clangour shook their foemen's hearts,\n  With quaking earth and thundering heav'n.\n\n  Then 'twas-\n  Beholding Dhritirashtra's battle set,\n  Weapons unsheathing, bows drawn forth, the war\n  Instant to break-Arjun, whose ensign-badge\n  Was Hanuman the monkey, spake this thing\n  To Krishna the Divine, his charioteer:\n  \"Drive, Dauntless One! to yonder open ground\n  Betwixt the armies; I would see more nigh\n  These who will fight with us, those we must slay\n  To-day, in war's arbitrament; for, sure,\n  On bloodshed all are bent who throng this plain,\n  Obeying Dhritirashtra's sinful son.\"\n\n  Thus, by Arjuna prayed, (O Bharata!)\n  Between the hosts that heavenly Charioteer\n  Drove the bright car, reining its milk-white steeds\n  Where Bhishma led,and Drona,and their Lords.\n  \"See!\" spake he to Arjuna, \"where they stand,\n  Thy kindred of the Kurus:\" and the Prince\n  Marked on each hand the kinsmen of his house,\n  Grandsires and sires, uncles and brothers and sons,\n  Cousins and sons-in-law and nephews, mixed\n  With friends and honoured elders; some this side,\n  Some that side ranged: and, seeing those opposed,\n  Such kith grown enemies-Arjuna's heart\n  Melted with pity, while he uttered this:\n\n  Arjuna.\n  Krishna! as I behold, come here to shed\n  Their common blood, yon concourse of our kin,\n  My members fail, my tongue dries in my mouth,\n  A shudder thrills my body, and my hair\n  Bristles with horror; from my weak hand slips\n  Gandiv, the goodly bow; a fever burns\n  My skin to parching; hardly may I stand;\n  The life within me seems to swim and faint;\n  Nothing do I foresee save woe and wail!\n  It is not good, O Keshav! nought of good\n  Can spring from mutual slaughter! Lo, I hate\n  Triumph and domination, wealth and ease,\n  Thus sadly won! Aho! what victory\n  Can bring delight, Govinda! what rich spoils\n  Could profit; what rule recompense; what span\n  Of life itself seem sweet, bought with such blood?\n  Seeing that these stand here, ready to die,\n  For whose sake life was fair, and pleasure pleased,\n  And power grew precious:-grandsires, sires, and sons,\n  Brothers, and fathers-in-law, and sons-in-law,\n  Elders and friends! Shall I deal death on these\n  Even though they seek to slay us? Not one blow,\n  O Madhusudan! will I strike to gain\n\n  The rule of all Three Worlds; then, how much less\n  To seize an earthly kingdom! Killing these\n  Must breed but anguish, Krishna! If they be\n  Guilty, we shall grow guilty by their deaths;\n  Their sins will light on us, if we shall slay\n  Those sons of Dhritirashtra, and our kin;\n  What peace could come of that, O Madhava?\n  For if indeed, blinded by lust and wrath,\n  These cannot see, or will not see, the sin\n  Of kingly lines o'erthrown and kinsmen slain,\n  How should not we, who see, shun such a crime--\n  We who perceive the guilt and feel the shame--\n  O thou Delight of Men, Janardana?\n  By overthrow of houses perisheth\n  Their sweet continuous household piety,\n  And-rites neglected, piety extinct--\n  Enters impiety upon that home;\n  Its women grow unwomaned, whence there spring\n  Mad passions, and the mingling-up of castes,\n  Sending a Hell-ward road that family,\n  And whoso wrought its doom by wicked wrath.\n  Nay, and the souls of honoured ancestors\n  Fall from their place of peace, being bereft\n  Of funeral-cakes and the wan death-water.[FN#1]\n  So teach our holy hymns. Thus, if we slay\n  Kinsfolk and friends for love of earthly power,\n  Ahovat! what an evil fault it were!\n  Better I deem it, if my kinsmen strike,\n  To face them weaponless, and bare my breast\n  To shaft and spear, than answer blow with blow.\n\n  So speaking, in the face of those two hosts,\n  Arjuna sank upon his chariot-seat,\n  And let fall bow and arrows, sick at heart.\n\n  HERE ENDETH CHAPTER I. OF THE BHAGAVAD-GITA,\n  Entitled \"Arjun-Vishad,\"\n  Or \"The Book of the Distress of Arjuna.\""
+}

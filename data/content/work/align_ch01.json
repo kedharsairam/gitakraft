@@ -1,0 +1,769 @@
+{
+ "chapter": 1,
+ "records": [
+  {
+   "id": "1:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "Dhr/tarish/ra said ;"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "What did my",
+      "desirous to do battle"
+     ]
+    }
+   ],
+   "arnold": "A01",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "1:2",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "Saw^ya said :"
+     ]
+    },
+    {
+     "para": "T03",
+     "anchors": [
+      "Seeing the army",
+      "spoke (these) words"
+     ]
+    }
+   ],
+   "arnold": "A02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:3",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "O preceptor! observe",
+      "son of Drupada"
+     ]
+    }
+   ],
+   "arnold": "A02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:4",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "In it are heroes",
+      "master of a great car"
+     ]
+    }
+   ],
+   "arnold": "A02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:5",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "Dhr/sh/aketu",
+      "eminent  man"
+     ]
+    }
+   ],
+   "arnold": "A02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:6",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "Yudhdmanyu",
+      "sons of"
+     ]
+    },
+    {
+     "para": "T04",
+     "anchors": [
+      "Draupadt"
+     ]
+    }
+   ],
+   "arnold": "A02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:7",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "best of Brihmawas!"
+     ]
+    },
+    {
+     "para": "T06",
+     "anchors": [
+      "will name them",
+      "Yourself, and Bhishma"
+     ]
+    }
+   ],
+   "arnold": "A02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:8",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "Karwa",
+      "son of Somadatta"
+     ]
+    }
+   ],
+   "arnold": "A02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:9",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "many other brave men",
+      "dexterous in battle"
+     ]
+    }
+   ],
+   "arnold": "A02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:10",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "Thus our army",
+      "very limited"
+     ]
+    }
+   ],
+   "arnold": "A02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:11",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "And therefore",
+      "Bhishma ^ only"
+     ]
+    }
+   ],
+   "arnold": "A02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:12",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "powerful grandsire",
+      "delight to Duryodhana"
+     ]
+    }
+   ],
+   "arnold": "A03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:13",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "all at once",
+      "tumultuous din"
+     ]
+    }
+   ],
+   "arnold": "A03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:14",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "Madhava",
+      "heavenly",
+      "conchs"
+     ]
+    }
+   ],
+   "arnold": "A03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:15",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "Hrfshike^a blew",
+      "Pau/^flfra"
+     ]
+    }
+   ],
+   "arnold": "A03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:16",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "Yudhish/y^ira"
+     ]
+    },
+    {
+     "para": "T08",
+     "anchors": [
+      "Ma«ipushpaka"
+     ]
+    }
+   ],
+   "arnold": "A03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:17",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "king  of Kad",
+      "S^tyaki"
+     ]
+    }
+   ],
+   "arnold": "A03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:18",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "sons of Draupadi",
+      "severally"
+     ]
+    }
+   ],
+   "arnold": "A03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:19",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "tumultuous din rent",
+      "heaven  and earth"
+     ]
+    }
+   ],
+   "arnold": "A03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:20",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "Then seeing",
+      "missiles had commenced"
+     ]
+    }
+   ],
+   "arnold": "A03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:21",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "spake these words to Hmhike^a"
+     ]
+    }
+   ],
+   "arnold": "A04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:22",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "station my chariot",
+      "must  do battle"
+     ]
+    }
+   ],
+   "arnold": "A04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:23",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "I will observe those",
+      "Dh^/tarishAa"
+     ]
+    }
+   ],
+   "arnold": "A04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:24",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "Saw^a} a said :"
+     ]
+    },
+    {
+     "para": "T10",
+     "anchors": [
+      "Thus addressed",
+      "between the two armies"
+     ]
+    }
+   ],
+   "arnold": "A04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:25",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "said :",
+      "assembled  Kauravas"
+     ]
+    }
+   ],
+   "arnold": "A05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:26",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "There the son of PWthS",
+      "as well as friends"
+     ]
+    }
+   ],
+   "arnold": "A05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:27",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "And seeing all  those kinsmen",
+      "spake thus  despondingly"
+     ]
+    }
+   ],
+   "arnold": "A05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:28",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "Ar^una said ;"
+     ]
+    },
+    {
+     "para": "T13",
+     "anchors": [
+      "Seeing these kinsmen",
+      "engage in battle"
+     ]
+    }
+   ],
+   "arnold": "A05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:29",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "limbs droop",
+      "hairs stand on end"
+     ]
+    }
+   ],
+   "arnold": "A06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:30",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "Gawrt^iva",
+      "unable, too, to stand up"
+     ]
+    }
+   ],
+   "arnold": "A06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:31",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "mind whirls",
+      "perceive any good"
+     ]
+    }
+   ],
+   "arnold": "A06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:32",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "do not  wish for victory",
+      "pleasures"
+     ]
+    }
+   ],
+   "arnold": "A06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:33",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "sovereignty to us",
+      "as also (other) relatives"
+     ]
+    }
+   ],
+   "arnold": "A06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:34",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "do not wish to kill",
+      "sovereignty over"
+     ]
+    },
+    {
+     "para": "T14",
+     "anchors": [
+      "three worlds",
+      "earth"
+     ]
+    }
+   ],
+   "arnold": "A06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:35",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "What joy",
+      "incur sin"
+     ]
+    }
+   ],
+   "arnold": "A06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:36",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "not  proper",
+      "shall wc be  happy"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:37",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "Although  they",
+      "do not see"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:38",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "should not we",
+      "refrain"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:39",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "extinction of a family",
+      "rites of families are destroyed"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:40",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "impiety predominates",
+      "become corrupt"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:41",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "intermingling",
+      "to hell"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:42",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "ceremonies",
+      "are"
+     ]
+    },
+    {
+     "para": "T15",
+     "anchors": [
+      "subverted"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:43",
+   "telang": [
+    {
+     "para": "T15",
+     "anchors": [
+      "we have heard",
+      "family-rites are subverted"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": "Telang renders the 43/44 transition in one flow; span shared."
+  },
+  {
+   "id": "1:44",
+   "telang": [
+    {
+     "para": "T15",
+     "anchors": [
+      "live in hell"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": "Telang renders the 43/44 transition in one flow; span shared."
+  },
+  {
+   "id": "1:45",
+   "telang": [
+    {
+     "para": "T15",
+     "anchors": [
+      "Alas",
+      "greed of"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:46",
+   "telang": [
+    {
+     "para": "T15",
+     "anchors": [
+      "If the sons of DhrAarash/ra",
+      "better for me"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "1:47",
+   "telang": [
+    {
+     "para": "T16",
+     "anchors": [
+      "Saw^aya said:"
+     ]
+    },
+    {
+     "para": "T17",
+     "anchors": [
+      "cast aside his bow",
+      "agitated by  grief"
+     ]
+    }
+   ],
+   "arnold": "A07",
+   "arnold_shared": true,
+   "notes": ""
+  }
+ ]
+}
