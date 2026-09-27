@@ -1,0 +1,475 @@
+{
+ "chapter": 1,
+ "verses": [
+  {
+   "id": "1:1",
+   "marker": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "speaker": "धृतराष्ट्र",
+   "devanagari": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत संजय",
+   "iast": "dharmakṣetre kurukṣetre samavetā yuyutsavaḥ |\nmāmakāḥ pāṇḍavāścaiva kimakurvata saṃjaya"
+  },
+  {
+   "id": "1:2",
+   "marker": {
+    "chapter": 1,
+    "verse": 2
+   },
+   "speaker": "सञ्जय",
+   "devanagari": "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\nआचार्यमुपसंगम्य राजा वचनमब्रवीत्",
+   "iast": "dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā |\nācāryamupasaṃgamya rājā vacanamabravīt"
+  },
+  {
+   "id": "1:3",
+   "marker": {
+    "chapter": 1,
+    "verse": 3
+   },
+   "speaker": null,
+   "devanagari": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता",
+   "iast": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm |\nvyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā"
+  },
+  {
+   "id": "1:4",
+   "marker": {
+    "chapter": 1,
+    "verse": 4
+   },
+   "speaker": null,
+   "devanagari": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।\nयुयुधानो विराटश्च द्रुपदश्च महारथः",
+   "iast": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi |\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ"
+  },
+  {
+   "id": "1:5",
+   "marker": {
+    "chapter": 1,
+    "verse": 5
+   },
+   "speaker": null,
+   "devanagari": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः",
+   "iast": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān |\npurujitkuntibhojaśca śaibyaśca narapuṅgavaḥ"
+  },
+  {
+   "id": "1:6",
+   "marker": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "speaker": null,
+   "devanagari": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः",
+   "iast": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān |\nsaubhadro draupadeyāśca sarva eva mahārathāḥ"
+  },
+  {
+   "id": "1:7",
+   "marker": {
+    "chapter": 1,
+    "verse": 7
+   },
+   "speaker": null,
+   "devanagari": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते",
+   "iast": "asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama |\nnāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te"
+  },
+  {
+   "id": "1:8",
+   "marker": {
+    "chapter": 1,
+    "verse": 8
+   },
+   "speaker": null,
+   "devanagari": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिंजयः ।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च",
+   "iast": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiṃjayaḥ |\naśvatthāmā vikarṇaśca saumadattistathaiva ca"
+  },
+  {
+   "id": "1:9",
+   "marker": {
+    "chapter": 1,
+    "verse": 9
+   },
+   "speaker": null,
+   "devanagari": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः ।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः",
+   "iast": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ |\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ"
+  },
+  {
+   "id": "1:10",
+   "marker": {
+    "chapter": 1,
+    "verse": 10
+   },
+   "speaker": null,
+   "devanagari": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्",
+   "iast": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam |\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam"
+  },
+  {
+   "id": "1:11",
+   "marker": {
+    "chapter": 1,
+    "verse": 11
+   },
+   "speaker": null,
+   "devanagari": "अयनेषु च सर्वेषु यथाभागमवस्थिताः ।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि",
+   "iast": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ |\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi"
+  },
+  {
+   "id": "1:12",
+   "marker": {
+    "chapter": 1,
+    "verse": 12
+   },
+   "speaker": null,
+   "devanagari": "तस्य संजनयन्हर्षं कुरुवृद्धः पितामहः ।\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्",
+   "iast": "tasya saṃjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ |\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān"
+  },
+  {
+   "id": "1:13",
+   "marker": {
+    "chapter": 1,
+    "verse": 13
+   },
+   "speaker": null,
+   "devanagari": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्",
+   "iast": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ |\nsahasaivābhyahanyanta sa śabdastumulo'bhavat"
+  },
+  {
+   "id": "1:14",
+   "marker": {
+    "chapter": 1,
+    "verse": 14
+   },
+   "speaker": null,
+   "devanagari": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः",
+   "iast": "tataḥ śvetairhayairyukte mahati syandane sthitau |\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ"
+  },
+  {
+   "id": "1:15",
+   "marker": {
+    "chapter": 1,
+    "verse": 15
+   },
+   "speaker": null,
+   "devanagari": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः",
+   "iast": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ |\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ"
+  },
+  {
+   "id": "1:16",
+   "marker": {
+    "chapter": 1,
+    "verse": 16
+   },
+   "speaker": null,
+   "devanagari": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ",
+   "iast": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ |\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau"
+  },
+  {
+   "id": "1:17",
+   "marker": {
+    "chapter": 1,
+    "verse": 17
+   },
+   "speaker": null,
+   "devanagari": "काश्यश्च परमेष्वासः शिखण्डी च महारथः ।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः",
+   "iast": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ |\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ"
+  },
+  {
+   "id": "1:18",
+   "marker": {
+    "chapter": 1,
+    "verse": 18
+   },
+   "speaker": null,
+   "devanagari": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते ।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्",
+   "iast": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate |\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak"
+  },
+  {
+   "id": "1:19",
+   "marker": {
+    "chapter": 1,
+    "verse": 19
+   },
+   "speaker": null,
+   "devanagari": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।\nनभश्च पृथिवीं चैव तुमुलो व्यनुनादयन्",
+   "iast": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat |\nnabhaśca pṛthivīṃ caiva tumulo vyanunādayan"
+  },
+  {
+   "id": "1:20",
+   "marker": {
+    "chapter": 1,
+    "verse": 20
+   },
+   "speaker": null,
+   "devanagari": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः ।\nप्रवृत्ते शस्त्रसंपाते धनुरुद्यम्य पाण्डवः",
+   "iast": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrānkapidhvajaḥ |\npravṛtte śastrasaṃpāte dhanurudyamya pāṇḍavaḥ"
+  },
+  {
+   "id": "1:21",
+   "marker": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "speaker": "अर्जुन",
+   "devanagari": "हृषीकेशं तदा वाक्यमिदमाह महीपते ।\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत",
+   "iast": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate |\nsenayorubhayormadhye rathaṃ sthāpaya me'cyuta"
+  },
+  {
+   "id": "1:22",
+   "marker": {
+    "chapter": 1,
+    "verse": 22
+   },
+   "speaker": null,
+   "devanagari": "यावदेतान्निरिक्षेऽहं योद्‌धुकामानवस्थितान् ।\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे",
+   "iast": "yāvadetānnirikṣe'haṃ yod‌dhukāmānavasthitān |\nkairmayā saha yoddhavyamasmin raṇasamudyame"
+  },
+  {
+   "id": "1:23",
+   "marker": {
+    "chapter": 1,
+    "verse": 23
+   },
+   "speaker": null,
+   "devanagari": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः",
+   "iast": "yotsyamānānavekṣe'haṃ ya ete'tra samāgatāḥ |\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ"
+  },
+  {
+   "id": "1:24",
+   "marker": {
+    "chapter": 1,
+    "verse": 24
+   },
+   "speaker": "सञ्जय",
+   "devanagari": "एवमुक्तो हृषीकेशो गुडाकेशेन भारत ।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्",
+   "iast": "evamukto hṛṣīkeśo guḍākeśena bhārata |\nsenayorubhayormadhye sthāpayitvā rathottamam"
+  },
+  {
+   "id": "1:25",
+   "marker": {
+    "chapter": 1,
+    "verse": 25
+   },
+   "speaker": null,
+   "devanagari": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति",
+   "iast": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām |\nuvāca pārtha paśyaitānsamavetānkurūniti"
+  },
+  {
+   "id": "1:26",
+   "marker": {
+    "chapter": 1,
+    "verse": 26
+   },
+   "speaker": null,
+   "devanagari": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् ।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा",
+   "iast": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān |\nācāryānmātulānbhrātṝnputrānpautrānsakhīṃstathā"
+  },
+  {
+   "id": "1:27",
+   "marker": {
+    "chapter": 1,
+    "verse": 27
+   },
+   "speaker": null,
+   "devanagari": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ।\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्",
+   "iast": "śvaśurānsuhṛdaścaiva senayorubhayorapi |\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān"
+  },
+  {
+   "id": "1:28",
+   "marker": {
+    "chapter": 1,
+    "verse": 28
+   },
+   "speaker": "अर्जुन",
+   "devanagari": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् ।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्",
+   "iast": "kṛpayā parayāviṣṭo viṣīdannidamabravīt |\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam"
+  },
+  {
+   "id": "1:29",
+   "marker": {
+    "chapter": 1,
+    "verse": 29
+   },
+   "speaker": null,
+   "devanagari": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति ।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते",
+   "iast": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati |\nvepathuśca śarīre me romaharṣaśca jāyate"
+  },
+  {
+   "id": "1:30",
+   "marker": {
+    "chapter": 1,
+    "verse": 30
+   },
+   "speaker": null,
+   "devanagari": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते ।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः",
+   "iast": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate |\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ"
+  },
+  {
+   "id": "1:31",
+   "marker": {
+    "chapter": 1,
+    "verse": 31
+   },
+   "speaker": null,
+   "devanagari": "निमित्तानि च पश्यामि विपरीतानि केशव ।\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे",
+   "iast": "nimittāni ca paśyāmi viparītāni keśava |\nna ca śreyo'nupaśyāmi hatvā svajanamāhave"
+  },
+  {
+   "id": "1:32",
+   "marker": {
+    "chapter": 1,
+    "verse": 32
+   },
+   "speaker": null,
+   "devanagari": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ।\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा",
+   "iast": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca |\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā"
+  },
+  {
+   "id": "1:33",
+   "marker": {
+    "chapter": 1,
+    "verse": 33
+   },
+   "speaker": null,
+   "devanagari": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च",
+   "iast": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca |\nta ime'vasthitā yuddhe prāṇāṃstyaktvā dhanāni ca"
+  },
+  {
+   "id": "1:34",
+   "marker": {
+    "chapter": 1,
+    "verse": 34
+   },
+   "speaker": null,
+   "devanagari": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः ।\nमातुलाः श्वशुराः पौत्राः श्यालाः संबन्धिनस्तथा",
+   "iast": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ |\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ saṃbandhinastathā"
+  },
+  {
+   "id": "1:35",
+   "marker": {
+    "chapter": 1,
+    "verse": 35
+   },
+   "speaker": null,
+   "devanagari": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ।\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते",
+   "iast": "etānna hantumicchāmi ghnato'pi madhusūdana |\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte"
+  },
+  {
+   "id": "1:36",
+   "marker": {
+    "chapter": 1,
+    "verse": 36
+   },
+   "speaker": null,
+   "devanagari": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ।\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः",
+   "iast": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana |\npāpamevāśrayedasmānhatvaitānātatāyinaḥ"
+  },
+  {
+   "id": "1:37",
+   "marker": {
+    "chapter": 1,
+    "verse": 37
+   },
+   "speaker": null,
+   "devanagari": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् ।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव",
+   "iast": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān |\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava"
+  },
+  {
+   "id": "1:38",
+   "marker": {
+    "chapter": 1,
+    "verse": 38
+   },
+   "speaker": null,
+   "devanagari": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्",
+   "iast": "yadyapyete na paśyanti lobhopahatacetasaḥ |\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam"
+  },
+  {
+   "id": "1:39",
+   "marker": {
+    "chapter": 1,
+    "verse": 39
+   },
+   "speaker": null,
+   "devanagari": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् ।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन",
+   "iast": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum |\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana"
+  },
+  {
+   "id": "1:40",
+   "marker": {
+    "chapter": 1,
+    "verse": 40
+   },
+   "speaker": null,
+   "devanagari": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत",
+   "iast": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ |\ndharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta"
+  },
+  {
+   "id": "1:41",
+   "marker": {
+    "chapter": 1,
+    "verse": 41
+   },
+   "speaker": null,
+   "devanagari": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसंकरः",
+   "iast": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ |\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṃkaraḥ"
+  },
+  {
+   "id": "1:42",
+   "marker": {
+    "chapter": 1,
+    "verse": 42
+   },
+   "speaker": null,
+   "devanagari": "संकरो नरकायैव कुलघ्नानां कुलस्य च ।\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः",
+   "iast": "saṃkaro narakāyaiva kulaghnānāṃ kulasya ca |\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ"
+  },
+  {
+   "id": "1:43",
+   "marker": {
+    "chapter": 1,
+    "verse": 43
+   },
+   "speaker": null,
+   "devanagari": "दोषैरेतैः कुलघ्नानां वर्णसंकरकारकैः ।\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः",
+   "iast": "doṣairetaiḥ kulaghnānāṃ varṇasaṃkarakārakaiḥ |\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ"
+  },
+  {
+   "id": "1:44",
+   "marker": {
+    "chapter": 1,
+    "verse": 44
+   },
+   "speaker": null,
+   "devanagari": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।\nनरकेऽनियतं वासो भवतीत्यनुशुश्रुम",
+   "iast": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana |\nnarake'niyataṃ vāso bhavatītyanuśuśruma"
+  },
+  {
+   "id": "1:45",
+   "marker": {
+    "chapter": 1,
+    "verse": 45
+   },
+   "speaker": null,
+   "devanagari": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् ।\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः",
+   "iast": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam |\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ"
+  },
+  {
+   "id": "1:46",
+   "marker": {
+    "chapter": 1,
+    "verse": 46
+   },
+   "speaker": null,
+   "devanagari": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः ।\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्",
+   "iast": "yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ |\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet"
+  },
+  {
+   "id": "1:47",
+   "marker": {
+    "chapter": 1,
+    "verse": 47
+   },
+   "speaker": "सञ्जय",
+   "devanagari": "एवमुक्त्वार्जुनः संख्ये रथोपस्थ उपाविशत् ।\nविसृज्य सशरं चापं शोकसंविग्नमानसः",
+   "iast": "evamuktvārjunaḥ saṃkhye rathopastha upāviśat |\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ"
+  }
+ ]
+}

@@ -1,0 +1,785 @@
+{
+ "chapter": 18,
+ "verses": [
+  {
+   "id": "18:1",
+   "marker": {
+    "chapter": 18,
+    "verse": 1
+   },
+   "speaker": "अर्जुन",
+   "devanagari": "संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् ।\nत्यागस्य च हृषीकेश पृथक्केशिनिषूदन",
+   "iast": "saṃnyāsasya mahābāho tattvamicchāmi veditum |\ntyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana"
+  },
+  {
+   "id": "18:2",
+   "marker": {
+    "chapter": 18,
+    "verse": 2
+   },
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच\nकाम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः ।\nसर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः",
+   "iast": "śrībhagavānuvāca\nkāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ |\nsarvakarmaphalatyāgaṃ prāhustyāgaṃ vicakṣaṇāḥ"
+  },
+  {
+   "id": "18:3",
+   "marker": {
+    "chapter": 18,
+    "verse": 3
+   },
+   "speaker": null,
+   "devanagari": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः ।\nयज्ञदानतपःकर्म न त्याज्यमिति चापरे",
+   "iast": "tyājyaṃ doṣavadityeke karma prāhurmanīṣiṇaḥ |\nyajñadānatapaḥkarma na tyājyamiti cāpare"
+  },
+  {
+   "id": "18:4",
+   "marker": {
+    "chapter": 18,
+    "verse": 4
+   },
+   "speaker": null,
+   "devanagari": "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम ।\nत्यागो हि पुरुषव्याघ्र त्रिविधः संप्रकीर्तितः",
+   "iast": "niścayaṃ śṛṇu me tatra tyāge bharatasattama |\ntyāgo hi puruṣavyāghra trividhaḥ saṃprakīrtitaḥ"
+  },
+  {
+   "id": "18:5",
+   "marker": {
+    "chapter": 18,
+    "verse": 5
+   },
+   "speaker": null,
+   "devanagari": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् ।\nयज्ञो दानं तपश्चैव पावनानि मनीषिणाम्",
+   "iast": "yajñadānatapaḥkarma na tyājyaṃ kāryameva tat |\nyajño dānaṃ tapaścaiva pāvanāni manīṣiṇām"
+  },
+  {
+   "id": "18:6",
+   "marker": {
+    "chapter": 18,
+    "verse": 6
+   },
+   "speaker": null,
+   "devanagari": "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च ।\nकर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम्",
+   "iast": "etānyapi tu karmāṇi saṅgaṃ tyaktvā phalāni ca |\nkartavyānīti me pārtha niścitaṃ matamuttamam"
+  },
+  {
+   "id": "18:7",
+   "marker": {
+    "chapter": 18,
+    "verse": 7
+   },
+   "speaker": null,
+   "devanagari": "नियतस्य तु संन्यासः कर्मणो नोपपद्यते ।\nमोहात्तस्य परित्यागस्तामसः परिकीर्तितः",
+   "iast": "niyatasya tu saṃnyāsaḥ karmaṇo nopapadyate |\nmohāttasya parityāgastāmasaḥ parikīrtitaḥ"
+  },
+  {
+   "id": "18:8",
+   "marker": {
+    "chapter": 18,
+    "verse": 8
+   },
+   "speaker": null,
+   "devanagari": "दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् ।\nस कृत्वा राजसं त्यागं नैव त्यागफलं लभेत्",
+   "iast": "duḥkhamityeva yatkarma kāyakleśabhayāttyajet |\nsa kṛtvā rājasaṃ tyāgaṃ naiva tyāgaphalaṃ labhet"
+  },
+  {
+   "id": "18:9",
+   "marker": {
+    "chapter": 18,
+    "verse": 9
+   },
+   "speaker": null,
+   "devanagari": "कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन ।\nसङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः",
+   "iast": "kāryamityeva yatkarma niyataṃ kriyate'rjuna |\nsaṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ"
+  },
+  {
+   "id": "18:10",
+   "marker": {
+    "chapter": 18,
+    "verse": 10
+   },
+   "speaker": null,
+   "devanagari": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते ।\nत्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः",
+   "iast": "na dveṣṭyakuśalaṃ karma kuśale nānuṣajjate |\ntyāgī sattvasamāviṣṭo medhāvī chinnasaṃśayaḥ"
+  },
+  {
+   "id": "18:11",
+   "marker": {
+    "chapter": 18,
+    "verse": 11
+   },
+   "speaker": null,
+   "devanagari": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः ।\nयस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते",
+   "iast": "na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇyaśeṣataḥ |\nyastu karmaphalatyāgī sa tyāgītyabhidhīyate"
+  },
+  {
+   "id": "18:12",
+   "marker": {
+    "chapter": 18,
+    "verse": 12
+   },
+   "speaker": null,
+   "devanagari": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् ।\nभवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित्",
+   "iast": "aniṣṭamiṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam |\nbhavatyatyāgināṃ pretya na tu saṃnyāsināṃ kvacit"
+  },
+  {
+   "id": "18:13",
+   "marker": {
+    "chapter": 18,
+    "verse": 13
+   },
+   "speaker": null,
+   "devanagari": "पञ्चैतानि महाबाहो कारणानि निबोध मे ।\nसांख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम्",
+   "iast": "pañcaitāni mahābāho kāraṇāni nibodha me |\nsāṃkhye kṛtānte proktāni siddhaye sarvakarmaṇām"
+  },
+  {
+   "id": "18:14",
+   "marker": {
+    "chapter": 18,
+    "verse": 14
+   },
+   "speaker": null,
+   "devanagari": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् ।\nविविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम्",
+   "iast": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham |\nvividhāśca pṛthakceṣṭā daivaṃ caivātra pañcamam"
+  },
+  {
+   "id": "18:15",
+   "marker": {
+    "chapter": 18,
+    "verse": 15
+   },
+   "speaker": null,
+   "devanagari": "शरीरवाङ्‌मनोभिर्यत्कर्म प्रारभते नरः ।\nन्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः",
+   "iast": "śarīravāṅ‌manobhiryatkarma prārabhate naraḥ |\nnyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ"
+  },
+  {
+   "id": "18:16",
+   "marker": {
+    "chapter": 18,
+    "verse": 16
+   },
+   "speaker": null,
+   "devanagari": "तत्रैवं सति कर्तारमात्मानं केवलं तु यः ।\nपश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः",
+   "iast": "tatraivaṃ sati kartāramātmānaṃ kevalaṃ tu yaḥ |\npaśyatyakṛtabuddhitvānna sa paśyati durmatiḥ"
+  },
+  {
+   "id": "18:17",
+   "marker": {
+    "chapter": 18,
+    "verse": 17
+   },
+   "speaker": null,
+   "devanagari": "यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते ।\nहत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते",
+   "iast": "yasya nāhaṃkṛto bhāvo buddhiryasya na lipyate |\nhatvāpi sa imām̐llokānna hanti na nibadhyate"
+  },
+  {
+   "id": "18:18",
+   "marker": {
+    "chapter": 18,
+    "verse": 18
+   },
+   "speaker": null,
+   "devanagari": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना ।\nकरणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः",
+   "iast": "jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā |\nkaraṇaṃ karma karteti trividhaḥ karmasaṃgrahaḥ"
+  },
+  {
+   "id": "18:19",
+   "marker": {
+    "chapter": 18,
+    "verse": 19
+   },
+   "speaker": null,
+   "devanagari": "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः ।\nप्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि",
+   "iast": "jñānaṃ karma ca kartā ca tridhaiva guṇabhedataḥ |\nprocyate guṇasaṃkhyāne yathāvacchṛṇu tānyapi"
+  },
+  {
+   "id": "18:20",
+   "marker": {
+    "chapter": 18,
+    "verse": 20
+   },
+   "speaker": null,
+   "devanagari": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते ।\nअविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम्",
+   "iast": "sarvabhūteṣu yenaikaṃ bhāvamavyayamīkṣate |\navibhaktaṃ vibhakteṣu tajjñānaṃ viddhi sāttvikam"
+  },
+  {
+   "id": "18:21",
+   "marker": {
+    "chapter": 18,
+    "verse": 21
+   },
+   "speaker": null,
+   "devanagari": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् ।\nवेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम्",
+   "iast": "pṛthaktvena tu yajjñānaṃ nānābhāvānpṛthagvidhān |\nvetti sarveṣu bhūteṣu tajjñānaṃ viddhi rājasam"
+  },
+  {
+   "id": "18:22",
+   "marker": {
+    "chapter": 18,
+    "verse": 22
+   },
+   "speaker": null,
+   "devanagari": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् ।\nअतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम्",
+   "iast": "yattu kṛtsnavadekasminkārye saktamahaitukam |\natattvārthavadalpaṃ ca tattāmasamudāhṛtam"
+  },
+  {
+   "id": "18:23",
+   "marker": {
+    "chapter": 18,
+    "verse": 23
+   },
+   "speaker": null,
+   "devanagari": "नियतं सङ्गरहितमरागद्वेषतः कृतम् ।\nअफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते",
+   "iast": "niyataṃ saṅgarahitamarāgadveṣataḥ kṛtam |\naphalaprepsunā karma yattatsāttvikamucyate"
+  },
+  {
+   "id": "18:24",
+   "marker": {
+    "chapter": 18,
+    "verse": 24
+   },
+   "speaker": null,
+   "devanagari": "यत्तु कामेप्सुना कर्म साहंकारेण वा पुनः ।\nक्रियते बहुलायासं तद्राजसमुदाहृतम्",
+   "iast": "yattu kāmepsunā karma sāhaṃkāreṇa vā punaḥ |\nkriyate bahulāyāsaṃ tadrājasamudāhṛtam"
+  },
+  {
+   "id": "18:25",
+   "marker": {
+    "chapter": 18,
+    "verse": 25
+   },
+   "speaker": null,
+   "devanagari": "अनुबन्धं क्षयं हिंसामनवेक्ष्य च पौरुषम् ।\nमोहादारभ्यते कर्म यत्तत्तामसमुच्यते",
+   "iast": "anubandhaṃ kṣayaṃ hiṃsāmanavekṣya ca pauruṣam |\nmohādārabhyate karma yattattāmasamucyate"
+  },
+  {
+   "id": "18:26",
+   "marker": {
+    "chapter": 18,
+    "verse": 26
+   },
+   "speaker": null,
+   "devanagari": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः ।\nसिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते",
+   "iast": "muktasaṅgo'nahaṃvādī dhṛtyutsāhasamanvitaḥ |\nsiddhyasiddhyornirvikāraḥ kartā sāttvika ucyate"
+  },
+  {
+   "id": "18:27",
+   "marker": {
+    "chapter": 18,
+    "verse": 27
+   },
+   "speaker": null,
+   "devanagari": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः ।\nहर्षशोकान्वितः कर्ता राजसः परिकीर्तितः",
+   "iast": "rāgī karmaphalaprepsurlubdho hiṃsātmako'śuciḥ |\nharṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ"
+  },
+  {
+   "id": "18:28",
+   "marker": {
+    "chapter": 18,
+    "verse": 28
+   },
+   "speaker": null,
+   "devanagari": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः ।\nविषादी दीर्घसूत्री च कर्ता तामस उच्यते",
+   "iast": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko'lasaḥ |\nviṣādī dīrghasūtrī ca kartā tāmasa ucyate"
+  },
+  {
+   "id": "18:29",
+   "marker": {
+    "chapter": 18,
+    "verse": 29
+   },
+   "speaker": null,
+   "devanagari": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु ।\nप्रोच्यमानमशेषेण पृथक्त्वेन धनंजय",
+   "iast": "buddherbhedaṃ dhṛteścaiva guṇatastrividhaṃ śṛṇu |\nprocyamānamaśeṣeṇa pṛthaktvena dhanaṃjaya"
+  },
+  {
+   "id": "18:30",
+   "marker": {
+    "chapter": 18,
+    "verse": 30
+   },
+   "speaker": null,
+   "devanagari": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये ।\nबन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी",
+   "iast": "pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye |\nbandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī"
+  },
+  {
+   "id": "18:31",
+   "marker": {
+    "chapter": 18,
+    "verse": 31
+   },
+   "speaker": null,
+   "devanagari": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च ।\nअयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी",
+   "iast": "yayā dharmamadharmaṃ ca kāryaṃ cākāryameva ca |\nayathāvatprajānāti buddhiḥ sā pārtha rājasī"
+  },
+  {
+   "id": "18:32",
+   "marker": {
+    "chapter": 18,
+    "verse": 32
+   },
+   "speaker": null,
+   "devanagari": "अधर्मं धर्ममिति या मन्यते तमसावृता ।\nसर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी",
+   "iast": "adharmaṃ dharmamiti yā manyate tamasāvṛtā |\nsarvārthānviparītāṃśca buddhiḥ sā pārtha tāmasī"
+  },
+  {
+   "id": "18:33",
+   "marker": {
+    "chapter": 18,
+    "verse": 33
+   },
+   "speaker": null,
+   "devanagari": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः ।\nयोगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी",
+   "iast": "dhṛtyā yayā dhārayate manaḥprāṇendriyakriyāḥ |\nyogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī"
+  },
+  {
+   "id": "18:34",
+   "marker": {
+    "chapter": 18,
+    "verse": 34
+   },
+   "speaker": null,
+   "devanagari": "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन ।\nप्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी",
+   "iast": "yayā tu dharmakāmārthāndhṛtyā dhārayate'rjuna |\nprasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī"
+  },
+  {
+   "id": "18:35",
+   "marker": {
+    "chapter": 18,
+    "verse": 35
+   },
+   "speaker": null,
+   "devanagari": "यया स्वप्नं भयं शोकं विषादं मदमेव च ।\nन विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी",
+   "iast": "yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madameva ca |\nna vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī"
+  },
+  {
+   "id": "18:36",
+   "marker": {
+    "chapter": 18,
+    "verse": 36
+   },
+   "speaker": null,
+   "devanagari": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ ।\nअभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति",
+   "iast": "sukhaṃ tvidānīṃ trividhaṃ śṛṇu me bharatarṣabha |\nabhyāsādramate yatra duḥkhāntaṃ ca nigacchati"
+  },
+  {
+   "id": "18:37",
+   "marker": {
+    "chapter": 18,
+    "verse": 37
+   },
+   "speaker": null,
+   "devanagari": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम् ।\nतत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम्",
+   "iast": "yattadagre viṣamiva pariṇāme'mṛtopamam |\ntatsukhaṃ sāttvikaṃ proktamātmabuddhiprasādajam"
+  },
+  {
+   "id": "18:38",
+   "marker": {
+    "chapter": 18,
+    "verse": 38
+   },
+   "speaker": null,
+   "devanagari": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् ।\nपरिणामे विषमिव तत्सुखं राजसं स्मृतम्",
+   "iast": "viṣayendriyasaṃyogādyattadagre'mṛtopamam |\npariṇāme viṣamiva tatsukhaṃ rājasaṃ smṛtam"
+  },
+  {
+   "id": "18:39",
+   "marker": {
+    "chapter": 18,
+    "verse": 39
+   },
+   "speaker": null,
+   "devanagari": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः ।\nनिद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम्",
+   "iast": "yadagre cānubandhe ca sukhaṃ mohanamātmanaḥ |\nnidrālasyapramādotthaṃ tattāmasamudāhṛtam"
+  },
+  {
+   "id": "18:40",
+   "marker": {
+    "chapter": 18,
+    "verse": 40
+   },
+   "speaker": null,
+   "devanagari": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः ।\nसत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः",
+   "iast": "na tadasti pṛthivyāṃ vā divi deveṣu vā punaḥ |\nsattvaṃ prakṛtijairmuktaṃ yadebhiḥ syāttribhirguṇaiḥ"
+  },
+  {
+   "id": "18:41",
+   "marker": {
+    "chapter": 18,
+    "verse": 41
+   },
+   "speaker": null,
+   "devanagari": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप ।\nकर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः",
+   "iast": "brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca parantapa |\nkarmāṇi pravibhaktāni svabhāvaprabhavairguṇaiḥ"
+  },
+  {
+   "id": "18:42",
+   "marker": {
+    "chapter": 18,
+    "verse": 42
+   },
+   "speaker": null,
+   "devanagari": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च ।\nज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम्",
+   "iast": "śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca |\njñānaṃ vijñānamāstikyaṃ brahmakarma svabhāvajam"
+  },
+  {
+   "id": "18:43",
+   "marker": {
+    "chapter": 18,
+    "verse": 43
+   },
+   "speaker": null,
+   "devanagari": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् ।\nदानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्",
+   "iast": "śauryaṃ tejo dhṛtirdākṣyaṃ yuddhe cāpyapalāyanam |\ndānamīśvarabhāvaśca kṣātraṃ karma svabhāvajam"
+  },
+  {
+   "id": "18:44",
+   "marker": {
+    "chapter": 18,
+    "verse": 44
+   },
+   "speaker": null,
+   "devanagari": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् ।\nपरिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम्",
+   "iast": "kṛṣigaurakṣyavāṇijyaṃ vaiśyakarma svabhāvajam |\nparicaryātmakaṃ karma śūdrasyāpi svabhāvajam"
+  },
+  {
+   "id": "18:45",
+   "marker": {
+    "chapter": 18,
+    "verse": 45
+   },
+   "speaker": null,
+   "devanagari": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः ।\nस्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु",
+   "iast": "sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ |\nsvakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu"
+  },
+  {
+   "id": "18:46",
+   "marker": {
+    "chapter": 18,
+    "verse": 46
+   },
+   "speaker": null,
+   "devanagari": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् ।\nस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः",
+   "iast": "yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam |\nsvakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ"
+  },
+  {
+   "id": "18:47",
+   "marker": {
+    "chapter": 18,
+    "verse": 47
+   },
+   "speaker": null,
+   "devanagari": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\nस्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम्",
+   "iast": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt |\nsvabhāvaniyataṃ karma kurvannāpnoti kilbiṣam"
+  },
+  {
+   "id": "18:48",
+   "marker": {
+    "chapter": 18,
+    "verse": 48
+   },
+   "speaker": null,
+   "devanagari": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् ।\nसर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः",
+   "iast": "sahajaṃ karma kaunteya sadoṣamapi na tyajet |\nsarvārambhā hi doṣeṇa dhūmenāgnirivāvṛtāḥ"
+  },
+  {
+   "id": "18:49",
+   "marker": {
+    "chapter": 18,
+    "verse": 49
+   },
+   "speaker": null,
+   "devanagari": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः ।\nनैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति",
+   "iast": "asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ |\nnaiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati"
+  },
+  {
+   "id": "18:50",
+   "marker": {
+    "chapter": 18,
+    "verse": 50
+   },
+   "speaker": null,
+   "devanagari": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे ।\nसमासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा",
+   "iast": "siddhiṃ prāpto yathā brahma tathāpnoti nibodha me |\nsamāsenaiva kaunteya niṣṭhā jñānasya yā parā"
+  },
+  {
+   "id": "18:51",
+   "marker": {
+    "chapter": 18,
+    "verse": 51
+   },
+   "speaker": null,
+   "devanagari": "बुद्ध्या विशुद्ध्या युक्तो धृत्यात्मानं नियम्य च ।\nशब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च",
+   "iast": "buddhyā viśuddhyā yukto dhṛtyātmānaṃ niyamya ca |\nśabdādīnviṣayāṃstyaktvā rāgadveṣau vyudasya ca"
+  },
+  {
+   "id": "18:52",
+   "marker": {
+    "chapter": 18,
+    "verse": 52
+   },
+   "speaker": null,
+   "devanagari": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः ।\nध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः",
+   "iast": "viviktasevī laghvāśī yatavākkāyamānasaḥ |\ndhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ"
+  },
+  {
+   "id": "18:53",
+   "marker": {
+    "chapter": 18,
+    "verse": 53
+   },
+   "speaker": null,
+   "devanagari": "अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् ।\nविमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते",
+   "iast": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham |\nvimucya nirmamaḥ śānto brahmabhūyāya kalpate"
+  },
+  {
+   "id": "18:54",
+   "marker": {
+    "chapter": 18,
+    "verse": 54
+   },
+   "speaker": null,
+   "devanagari": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति ।\nसमः सर्वेषु भूतेषु मद्भक्तिं लभते पराम्",
+   "iast": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati |\nsamaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām"
+  },
+  {
+   "id": "18:55",
+   "marker": {
+    "chapter": 18,
+    "verse": 55
+   },
+   "speaker": null,
+   "devanagari": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः ।\nततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम्",
+   "iast": "bhaktyā māmabhijānāti yāvānyaścāsmi tattvataḥ |\ntato māṃ tattvato jñātvā viśate tadanantaram"
+  },
+  {
+   "id": "18:56",
+   "marker": {
+    "chapter": 18,
+    "verse": 56
+   },
+   "speaker": null,
+   "devanagari": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः ।\nमत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम्",
+   "iast": "sarvakarmāṇyapi sadā kurvāṇo madvyapāśrayaḥ |\nmatprasādādavāpnoti śāśvataṃ padamavyayam"
+  },
+  {
+   "id": "18:57",
+   "marker": {
+    "chapter": 18,
+    "verse": 57
+   },
+   "speaker": null,
+   "devanagari": "चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः ।\nबुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव",
+   "iast": "cetasā sarvakarmāṇi mayi saṃnyasya matparaḥ |\nbuddhiyogamupāśritya maccittaḥ satataṃ bhava"
+  },
+  {
+   "id": "18:58",
+   "marker": {
+    "chapter": 18,
+    "verse": 58
+   },
+   "speaker": null,
+   "devanagari": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि ।\nअथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि",
+   "iast": "maccittaḥ sarvadurgāṇi matprasādāttariṣyasi |\natha cettvamahaṃkārānna śroṣyasi vinaṅkṣyasi"
+  },
+  {
+   "id": "18:59",
+   "marker": {
+    "chapter": 18,
+    "verse": 59
+   },
+   "speaker": null,
+   "devanagari": "यदहंकारमाश्रित्य न योत्स्य इति मन्यसे ।\nमिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति",
+   "iast": "yadahaṃkāramāśritya na yotsya iti manyase |\nmithyaiṣa vyavasāyaste prakṛtistvāṃ niyokṣyati"
+  },
+  {
+   "id": "18:60",
+   "marker": {
+    "chapter": 18,
+    "verse": 60
+   },
+   "speaker": null,
+   "devanagari": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा ।\nकर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत्",
+   "iast": "svabhāvajena kaunteya nibaddhaḥ svena karmaṇā |\nkartuṃ necchasi yanmohātkariṣyasyavaśo'pi tat"
+  },
+  {
+   "id": "18:61",
+   "marker": {
+    "chapter": 18,
+    "verse": 61
+   },
+   "speaker": null,
+   "devanagari": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।\nभ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया",
+   "iast": "īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati |\nbhrāmayansarvabhūtāni yantrārūḍhāni māyayā"
+  },
+  {
+   "id": "18:62",
+   "marker": {
+    "chapter": 18,
+    "verse": 62
+   },
+   "speaker": null,
+   "devanagari": "तमेव शरणं गच्छ सर्वभावेन भारत ।\nतत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम्",
+   "iast": "tameva śaraṇaṃ gaccha sarvabhāvena bhārata |\ntatprasādātparāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam"
+  },
+  {
+   "id": "18:63",
+   "marker": {
+    "chapter": 18,
+    "verse": 63
+   },
+   "speaker": null,
+   "devanagari": "इति ते ज्ञानमाख्यातं गुह्याद्‌गुह्यतरं मया ।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु",
+   "iast": "iti te jñānamākhyātaṃ guhyād‌guhyataraṃ mayā |\nvimṛśyaitadaśeṣeṇa yathecchasi tathā kuru"
+  },
+  {
+   "id": "18:64",
+   "marker": {
+    "chapter": 18,
+    "verse": 64
+   },
+   "speaker": null,
+   "devanagari": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः ।\nइष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम्",
+   "iast": "sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ |\niṣṭo'si me dṛḍhamiti tato vakṣyāmi te hitam"
+  },
+  {
+   "id": "18:65",
+   "marker": {
+    "chapter": 18,
+    "verse": 65
+   },
+   "speaker": null,
+   "devanagari": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।\nमामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे",
+   "iast": "manmanā bhava madbhakto madyājī māṃ namaskuru |\nmāmevaiṣyasi satyaṃ te pratijāne priyo'si me"
+  },
+  {
+   "id": "18:66",
+   "marker": {
+    "chapter": 18,
+    "verse": 66
+   },
+   "speaker": null,
+   "devanagari": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः",
+   "iast": "sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja |\nahaṃ tvāṃ sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ"
+  },
+  {
+   "id": "18:67",
+   "marker": {
+    "chapter": 18,
+    "verse": 67
+   },
+   "speaker": null,
+   "devanagari": "इदं ते नातपस्काय नाभक्ताय कदाचन ।\nन चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति",
+   "iast": "idaṃ te nātapaskāya nābhaktāya kadācana |\nna cāśuśrūṣave vācyaṃ na ca māṃ yo'bhyasūyati"
+  },
+  {
+   "id": "18:68",
+   "marker": {
+    "chapter": 18,
+    "verse": 68
+   },
+   "speaker": null,
+   "devanagari": "य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति ।\nभक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः",
+   "iast": "ya imaṃ paramaṃ guhyaṃ madbhakteṣvabhidhāsyati |\nbhaktiṃ mayi parāṃ kṛtvā māmevaiṣyatyasaṃśayaḥ"
+  },
+  {
+   "id": "18:69",
+   "marker": {
+    "chapter": 18,
+    "verse": 69
+   },
+   "speaker": null,
+   "devanagari": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः ।\nभविता न च मे तस्मादन्यः प्रियतरो भुवि",
+   "iast": "na ca tasmānmanuṣyeṣu kaścinme priyakṛttamaḥ |\nbhavitā na ca me tasmādanyaḥ priyataro bhuvi"
+  },
+  {
+   "id": "18:70",
+   "marker": {
+    "chapter": 18,
+    "verse": 70
+   },
+   "speaker": null,
+   "devanagari": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः ।\nज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः",
+   "iast": "adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādamāvayoḥ |\njñānayajñena tenāhamiṣṭaḥ syāmiti me matiḥ"
+  },
+  {
+   "id": "18:71",
+   "marker": {
+    "chapter": 18,
+    "verse": 71
+   },
+   "speaker": null,
+   "devanagari": "श्रद्धावाननसूयश्च शृणुयादपि यो नरः ।\nसोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्",
+   "iast": "śraddhāvānanasūyaśca śṛṇuyādapi yo naraḥ |\nso'pi muktaḥ śubhām̐llokānprāpnuyātpuṇyakarmaṇām"
+  },
+  {
+   "id": "18:72",
+   "marker": {
+    "chapter": 18,
+    "verse": 72
+   },
+   "speaker": null,
+   "devanagari": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा ।\nकच्चिदज्ञानसंमोहः प्रनष्टस्ते धनंजय",
+   "iast": "kaccidetacchrutaṃ pārtha tvayaikāgreṇa cetasā |\nkaccidajñānasaṃmohaḥ pranaṣṭaste dhanaṃjaya"
+  },
+  {
+   "id": "18:73",
+   "marker": {
+    "chapter": 18,
+    "verse": 73
+   },
+   "speaker": "अर्जुन",
+   "devanagari": "नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत ।\nस्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव",
+   "iast": "naṣṭo mohaḥ smṛtirlabdhā tvatprasādānmayācyuta |\nsthito'smi gatasandehaḥ kariṣye vacanaṃ tava"
+  },
+  {
+   "id": "18:74",
+   "marker": {
+    "chapter": 18,
+    "verse": 74
+   },
+   "speaker": "सञ्जय",
+   "devanagari": "इत्यहं वासुदेवस्य पार्थस्य च महात्मनः ।\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम्",
+   "iast": "ityahaṃ vāsudevasya pārthasya ca mahātmanaḥ |\nsaṃvādamimamaśrauṣamadbhutaṃ romaharṣaṇam"
+  },
+  {
+   "id": "18:75",
+   "marker": {
+    "chapter": 18,
+    "verse": 75
+   },
+   "speaker": null,
+   "devanagari": "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् ।\nयोगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम्",
+   "iast": "vyāsaprasādācchrutavānetadguhyamahaṃ param |\nyogaṃ yogeśvarātkṛṣṇātsākṣātkathayataḥ svayam"
+  },
+  {
+   "id": "18:76",
+   "marker": {
+    "chapter": 18,
+    "verse": 76
+   },
+   "speaker": null,
+   "devanagari": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् ।\nकेशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः",
+   "iast": "rājansaṃsmṛtya saṃsmṛtya saṃvādamimamadbhutam |\nkeśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhurmuhuḥ"
+  },
+  {
+   "id": "18:77",
+   "marker": {
+    "chapter": 18,
+    "verse": 77
+   },
+   "speaker": null,
+   "devanagari": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः ।\nविस्मयो मे महान् राजन्हृष्यामि च पुनः पुनः",
+   "iast": "tacca saṃsmṛtya saṃsmṛtya rūpamatyadbhutaṃ hareḥ |\nvismayo me mahān rājanhṛṣyāmi ca punaḥ punaḥ"
+  },
+  {
+   "id": "18:78",
+   "marker": {
+    "chapter": 18,
+    "verse": 78
+   },
+   "speaker": null,
+   "devanagari": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम",
+   "iast": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ |\ntatra śrīrvijayo bhūtirdhruvā nītirmatirmama"
+  }
+ ]
+}

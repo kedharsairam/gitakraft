@@ -1,0 +1,475 @@
+{
+ "chapter": 6,
+ "verses": [
+  {
+   "id": "6:1",
+   "marker": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "speaker": null,
+   "devanagari": "स संन्यासी च योगी च न निरग्निर्न चाक्रियः",
+   "iast": "sa saṃnyāsī ca yogī ca na niragnirna cākriyaḥ"
+  },
+  {
+   "id": "6:2",
+   "marker": {
+    "chapter": 6,
+    "verse": 2
+   },
+   "speaker": null,
+   "devanagari": "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव ।\nन ह्यसंन्यस्तसंकल्पो योगी भवति कश्चन",
+   "iast": "yaṃ saṃnyāsamiti prāhuryogaṃ taṃ viddhi pāṇḍava |\nna hyasaṃnyastasaṃkalpo yogī bhavati kaścana"
+  },
+  {
+   "id": "6:3",
+   "marker": {
+    "chapter": 6,
+    "verse": 3
+   },
+   "speaker": null,
+   "devanagari": "आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते ।\nयोगारूढस्य तस्यैव शमः कारणमुच्यते",
+   "iast": "ārurukṣormuneryogaṃ karma kāraṇamucyate |\nyogārūḍhasya tasyaiva śamaḥ kāraṇamucyate"
+  },
+  {
+   "id": "6:4",
+   "marker": {
+    "chapter": 6,
+    "verse": 4
+   },
+   "speaker": null,
+   "devanagari": "यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते ।\nसर्वसंकल्पसंन्यासी योगारूढस्तदोच्यते",
+   "iast": "yadā hi nendriyārtheṣu na karmasvanuṣajjate |\nsarvasaṃkalpasaṃnyāsī yogārūḍhastadocyate"
+  },
+  {
+   "id": "6:5",
+   "marker": {
+    "chapter": 6,
+    "verse": 5
+   },
+   "speaker": null,
+   "devanagari": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः",
+   "iast": "uddharedātmanātmānaṃ nātmānamavasādayet |\nātmaiva hyātmano bandhurātmaiva ripurātmanaḥ"
+  },
+  {
+   "id": "6:6",
+   "marker": {
+    "chapter": 6,
+    "verse": 6
+   },
+   "speaker": null,
+   "devanagari": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः ।\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्",
+   "iast": "bandhurātmātmanastasya yenātmaivātmanā jitaḥ |\nanātmanastu śatrutve vartetātmaiva śatruvat"
+  },
+  {
+   "id": "6:7",
+   "marker": {
+    "chapter": 6,
+    "verse": 7
+   },
+   "speaker": null,
+   "devanagari": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः ।\nशीतोष्णसुखदुःखेषु तथा मानापमानयोः",
+   "iast": "jitātmanaḥ praśāntasya paramātmā samāhitaḥ |\nśītoṣṇasukhaduḥkheṣu tathā mānāpamānayoḥ"
+  },
+  {
+   "id": "6:8",
+   "marker": {
+    "chapter": 6,
+    "verse": 8
+   },
+   "speaker": null,
+   "devanagari": "ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः ।\nयुक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः",
+   "iast": "jñānavijñānatṛptātmā kūṭastho vijitendriyaḥ |\nyukta ityucyate yogī samaloṣṭāśmakāñcanaḥ"
+  },
+  {
+   "id": "6:9",
+   "marker": {
+    "chapter": 6,
+    "verse": 9
+   },
+   "speaker": null,
+   "devanagari": "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु ।\nसाधुष्वपि च पापेषु समबुद्धिर्विशिष्यते",
+   "iast": "suhṛnmitrāryudāsīnamadhyasthadveṣyabandhuṣu |\nsādhuṣvapi ca pāpeṣu samabuddhirviśiṣyate"
+  },
+  {
+   "id": "6:10",
+   "marker": {
+    "chapter": 6,
+    "verse": 10
+   },
+   "speaker": null,
+   "devanagari": "योगी युञ्जीत सततमात्मानं रहसि स्थितः ।\nएकाकी यतचित्तात्मा निराशीरपरिग्रहः",
+   "iast": "yogī yuñjīta satatamātmānaṃ rahasi sthitaḥ |\nekākī yatacittātmā nirāśīraparigrahaḥ"
+  },
+  {
+   "id": "6:11",
+   "marker": {
+    "chapter": 6,
+    "verse": 11
+   },
+   "speaker": null,
+   "devanagari": "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः ।\nनात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम्",
+   "iast": "śucau deśe pratiṣṭhāpya sthiramāsanamātmanaḥ |\nnātyucchritaṃ nātinīcaṃ cailājinakuśottaram"
+  },
+  {
+   "id": "6:12",
+   "marker": {
+    "chapter": 6,
+    "verse": 12
+   },
+   "speaker": null,
+   "devanagari": "तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः ।\nउपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये",
+   "iast": "tatraikāgraṃ manaḥ kṛtvā yatacittendriyakriyaḥ |\nupaviśyāsane yuñjyādyogamātmaviśuddhaye"
+  },
+  {
+   "id": "6:13",
+   "marker": {
+    "chapter": 6,
+    "verse": 13
+   },
+   "speaker": null,
+   "devanagari": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः ।\nसम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन्",
+   "iast": "samaṃ kāyaśirogrīvaṃ dhārayannacalaṃ sthiraḥ |\nsamprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan"
+  },
+  {
+   "id": "6:14",
+   "marker": {
+    "chapter": 6,
+    "verse": 14
+   },
+   "speaker": null,
+   "devanagari": "प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः ।\nमनः संयम्य मच्चित्तो युक्त आसीत मत्परः",
+   "iast": "praśāntātmā vigatabhīrbrahmacārivrate sthitaḥ |\nmanaḥ saṃyamya maccitto yukta āsīta matparaḥ"
+  },
+  {
+   "id": "6:15",
+   "marker": {
+    "chapter": 6,
+    "verse": 15
+   },
+   "speaker": null,
+   "devanagari": "युञ्जन्नेवं सदात्मानं योगी नियतमानसः ।\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति",
+   "iast": "yuñjannevaṃ sadātmānaṃ yogī niyatamānasaḥ |\nśāntiṃ nirvāṇaparamāṃ matsaṃsthāmadhigacchati"
+  },
+  {
+   "id": "6:16",
+   "marker": {
+    "chapter": 6,
+    "verse": 16
+   },
+   "speaker": null,
+   "devanagari": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः ।\nन चाति स्वप्नशीलस्य जाग्रतो नैव चार्जुन",
+   "iast": "nātyaśnatastu yogo'sti na caikāntamanaśnataḥ |\nna cāti svapnaśīlasya jāgrato naiva cārjuna"
+  },
+  {
+   "id": "6:17",
+   "marker": {
+    "chapter": 6,
+    "verse": 17
+   },
+   "speaker": null,
+   "devanagari": "युक्ताहारविहारस्य  युक्तचेष्टस्य कर्मसु ।\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा",
+   "iast": "yuktāhāravihārasya  yuktaceṣṭasya karmasu |\nyuktasvapnāvabodhasya yogo bhavati duḥkhahā"
+  },
+  {
+   "id": "6:18",
+   "marker": {
+    "chapter": 6,
+    "verse": 18
+   },
+   "speaker": null,
+   "devanagari": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते ।\nनिःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा",
+   "iast": "yadā viniyataṃ cittamātmanyevāvatiṣṭhate |\nniḥspṛhaḥ sarvakāmebhyo yukta ityucyate tadā"
+  },
+  {
+   "id": "6:19",
+   "marker": {
+    "chapter": 6,
+    "verse": 19
+   },
+   "speaker": null,
+   "devanagari": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता ।\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः",
+   "iast": "yathā dīpo nivātastho neṅgate sopamā smṛtā |\nyogino yatacittasya yuñjato yogamātmanaḥ"
+  },
+  {
+   "id": "6:20",
+   "marker": {
+    "chapter": 6,
+    "verse": 20
+   },
+   "speaker": null,
+   "devanagari": "यत्रोपरमते चित्तं निरुद्धं योगसेवया ।\nयत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति",
+   "iast": "yatroparamate cittaṃ niruddhaṃ yogasevayā |\nyatra caivātmanātmānaṃ paśyannātmani tuṣyati"
+  },
+  {
+   "id": "6:21",
+   "marker": {
+    "chapter": 6,
+    "verse": 21
+   },
+   "speaker": null,
+   "devanagari": "सुखमात्यन्तिकं यत्तद् बुद्धिग्राह्यमतीन्द्रियम् ।\nवेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः",
+   "iast": "sukhamātyantikaṃ yattad buddhigrāhyamatīndriyam |\nvetti yatra na caivāyaṃ sthitaścalati tattvataḥ"
+  },
+  {
+   "id": "6:22",
+   "marker": {
+    "chapter": 6,
+    "verse": 22
+   },
+   "speaker": null,
+   "devanagari": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः ।\nयस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते",
+   "iast": "yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ |\nyasminsthito na duḥkhena guruṇāpi vicālyate"
+  },
+  {
+   "id": "6:23",
+   "marker": {
+    "chapter": 6,
+    "verse": 23
+   },
+   "speaker": null,
+   "devanagari": "तं विद्याद्‌दुःखसंयोगवियोगं योगसंज्ञितम् ।\nस निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा",
+   "iast": "taṃ vidyād‌duḥkhasaṃyogaviyogaṃ yogasaṃjñitam |\nsa niścayena yoktavyo yogo'nirviṇṇacetasā"
+  },
+  {
+   "id": "6:24",
+   "marker": {
+    "chapter": 6,
+    "verse": 24
+   },
+   "speaker": null,
+   "devanagari": "संकल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः ।\nमनसैवेन्द्रियग्रामं विनियम्य समन्ततः",
+   "iast": "saṃkalpaprabhavānkāmāṃstyaktvā sarvānaśeṣataḥ |\nmanasaivendriyagrāmaṃ viniyamya samantataḥ"
+  },
+  {
+   "id": "6:25",
+   "marker": {
+    "chapter": 6,
+    "verse": 25
+   },
+   "speaker": null,
+   "devanagari": "शनैः शनैरुपरमेद्‌बुद्ध्या धृतिगृहीतया ।\nआत्मसंस्थं मनः कृत्वा न किंचिदपि चिन्तयेत्",
+   "iast": "śanaiḥ śanairuparamed‌buddhyā dhṛtigṛhītayā |\nātmasaṃsthaṃ manaḥ kṛtvā na kiṃcidapi cintayet"
+  },
+  {
+   "id": "6:26",
+   "marker": {
+    "chapter": 6,
+    "verse": 26
+   },
+   "speaker": null,
+   "devanagari": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत्",
+   "iast": "yato yato niścarati manaścañcalamasthiram |\ntatastato niyamyaitadātmanyeva vaśaṃ nayet"
+  },
+  {
+   "id": "6:27",
+   "marker": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "speaker": null,
+   "devanagari": "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् ।\nउपैति शान्तरजसं ब्रह्मभूतमकल्मषम्",
+   "iast": "praśāntamanasaṃ hyenaṃ yoginaṃ sukhamuttamam |\nupaiti śāntarajasaṃ brahmabhūtamakalmaṣam"
+  },
+  {
+   "id": "6:28",
+   "marker": {
+    "chapter": 6,
+    "verse": 28
+   },
+   "speaker": null,
+   "devanagari": "युञ्जन्नेवं सदात्मानं योगी विगतकल्मषः ।\nसुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते",
+   "iast": "yuñjannevaṃ sadātmānaṃ yogī vigatakalmaṣaḥ |\nsukhena brahmasaṃsparśamatyantaṃ sukhamaśnute"
+  },
+  {
+   "id": "6:29",
+   "marker": {
+    "chapter": 6,
+    "verse": 29
+   },
+   "speaker": null,
+   "devanagari": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि ।\nईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः",
+   "iast": "sarvabhūtasthamātmānaṃ sarvabhūtāni cātmani |\nīkṣate yogayuktātmā sarvatra samadarśanaḥ"
+  },
+  {
+   "id": "6:30",
+   "marker": {
+    "chapter": 6,
+    "verse": 30
+   },
+   "speaker": null,
+   "devanagari": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति ।\nतस्याहं न प्रणश्यामि स च मे न प्रणश्यति",
+   "iast": "yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati |\ntasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati"
+  },
+  {
+   "id": "6:31",
+   "marker": {
+    "chapter": 6,
+    "verse": 31
+   },
+   "speaker": null,
+   "devanagari": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः ।\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते",
+   "iast": "sarvabhūtasthitaṃ yo māṃ bhajatyekatvamāsthitaḥ |\nsarvathā vartamāno'pi sa yogī mayi vartate"
+  },
+  {
+   "id": "6:32",
+   "marker": {
+    "chapter": 6,
+    "verse": 32
+   },
+   "speaker": null,
+   "devanagari": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन ।\nसुखं वा यदि वा दुःखं स योगी परमो मतः",
+   "iast": "ātmaupamyena sarvatra samaṃ paśyati yo'rjuna |\nsukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ"
+  },
+  {
+   "id": "6:33",
+   "marker": {
+    "chapter": 6,
+    "verse": 33
+   },
+   "speaker": "अर्जुन",
+   "devanagari": "योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन ।\nएतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम्",
+   "iast": "yo'yaṃ yogastvayā proktaḥ sāmyena madhusūdana |\netasyāhaṃ na paśyāmi cañcalatvātsthitiṃ sthirām"
+  },
+  {
+   "id": "6:34",
+   "marker": {
+    "chapter": 6,
+    "verse": 34
+   },
+   "speaker": null,
+   "devanagari": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्‌दृढम् ।\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्",
+   "iast": "cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad‌dṛḍham |\ntasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram"
+  },
+  {
+   "id": "6:35",
+   "marker": {
+    "chapter": 6,
+    "verse": 35
+   },
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच\nअसंशयं महाबाहो मनो दुर्निग्रहं चलम् ।\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते",
+   "iast": "śrībhagavānuvāca\nasaṃśayaṃ mahābāho mano durnigrahaṃ calam |\nabhyāsena tu kaunteya vairāgyeṇa ca gṛhyate"
+  },
+  {
+   "id": "6:36",
+   "marker": {
+    "chapter": 6,
+    "verse": 36
+   },
+   "speaker": null,
+   "devanagari": "असंयतात्मना योगो दुष्प्राप इति मे मतिः ।\nवश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः",
+   "iast": "asaṃyatātmanā yogo duṣprāpa iti me matiḥ |\nvaśyātmanā tu yatatā śakyo'vāptumupāyataḥ"
+  },
+  {
+   "id": "6:37",
+   "marker": {
+    "chapter": 6,
+    "verse": 37
+   },
+   "speaker": "अर्जुन",
+   "devanagari": "अयतिः श्रद्धयोपेतो योगाच्चलितमानसः ।\nअप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति",
+   "iast": "ayatiḥ śraddhayopeto yogāccalitamānasaḥ |\naprāpya yogasaṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati"
+  },
+  {
+   "id": "6:38",
+   "marker": {
+    "chapter": 6,
+    "verse": 38
+   },
+   "speaker": null,
+   "devanagari": "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति ।\nअप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि",
+   "iast": "kaccinnobhayavibhraṣṭaśchinnābhramiva naśyati |\napratiṣṭho mahābāho vimūḍho brahmaṇaḥ pathi"
+  },
+  {
+   "id": "6:39",
+   "marker": {
+    "chapter": 6,
+    "verse": 39
+   },
+   "speaker": null,
+   "devanagari": "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः ।\nत्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते",
+   "iast": "etanme saṃśayaṃ kṛṣṇa chettumarhasyaśeṣataḥ |\ntvadanyaḥ saṃśayasyāsya chettā na hyupapadyate"
+  },
+  {
+   "id": "6:40",
+   "marker": {
+    "chapter": 6,
+    "verse": 40
+   },
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच\nपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते ।\nन हि कल्याणकृत्कश्चिद्‌दुर्गतिं तात गच्छति",
+   "iast": "śrībhagavānuvāca\npārtha naiveha nāmutra vināśastasya vidyate |\nna hi kalyāṇakṛtkaścid‌durgatiṃ tāta gacchati"
+  },
+  {
+   "id": "6:41",
+   "marker": {
+    "chapter": 6,
+    "verse": 41
+   },
+   "speaker": null,
+   "devanagari": "प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः ।\nशुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते",
+   "iast": "prāpya puṇyakṛtāṃ lokānuṣitvā śāśvatīḥ samāḥ |\nśucīnāṃ śrīmatāṃ gehe yogabhraṣṭo'bhijāyate"
+  },
+  {
+   "id": "6:42",
+   "marker": {
+    "chapter": 6,
+    "verse": 42
+   },
+   "speaker": null,
+   "devanagari": "अथवा योगिनामेव कुले भवति धीमताम् ।\nएतद्धि दुर्लभतरं लोके जन्म यदीदृशम्",
+   "iast": "athavā yogināmeva kule bhavati dhīmatām |\netaddhi durlabhataraṃ loke janma yadīdṛśam"
+  },
+  {
+   "id": "6:43",
+   "marker": {
+    "chapter": 6,
+    "verse": 43
+   },
+   "speaker": null,
+   "devanagari": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् ।\nयतते च ततो भूयः संसिद्धौ कुरुनन्दन",
+   "iast": "tatra taṃ buddhisaṃyogaṃ labhate paurvadehikam |\nyatate ca tato bhūyaḥ saṃsiddhau kurunandana"
+  },
+  {
+   "id": "6:44",
+   "marker": {
+    "chapter": 6,
+    "verse": 44
+   },
+   "speaker": null,
+   "devanagari": "पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः ।\nजिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते",
+   "iast": "pūrvābhyāsena tenaiva hriyate hyavaśo'pi saḥ |\njijñāsurapi yogasya śabdabrahmātivartate"
+  },
+  {
+   "id": "6:45",
+   "marker": {
+    "chapter": 6,
+    "verse": 45
+   },
+   "speaker": null,
+   "devanagari": "प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः ।\nअनेकजन्मसंसिद्धस्ततो याति परां गतिम्",
+   "iast": "prayatnādyatamānastu yogī saṃśuddhakilbiṣaḥ |\nanekajanmasaṃsiddhastato yāti parāṃ gatim"
+  },
+  {
+   "id": "6:46",
+   "marker": {
+    "chapter": 6,
+    "verse": 46
+   },
+   "speaker": null,
+   "devanagari": "तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः ।\nकर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन",
+   "iast": "tapasvibhyo'dhiko yogī jñānibhyo'pi mato'dhikaḥ |\nkarmibhyaścādhiko yogī tasmādyogī bhavārjuna"
+  },
+  {
+   "id": "6:47",
+   "marker": {
+    "chapter": 6,
+    "verse": 47
+   },
+   "speaker": null,
+   "devanagari": "योगिनामपि सर्वेषां मद्गतेनान्तरात्मना ।\nश्रद्धावान् भजते यो मां स मे युक्ततमो मतः",
+   "iast": "yogināmapi sarveṣāṃ madgatenāntarātmanā |\nśraddhāvān bhajate yo māṃ sa me yuktatamo mataḥ"
+  }
+ ]
+}
