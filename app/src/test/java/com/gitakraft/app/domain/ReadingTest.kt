@@ -9,26 +9,13 @@ class ReadingTest {
     private val counts = mapOf(1 to 47, 2 to 72, 3 to 43)
 
     @Test
-    fun chapterOneAlwaysUnlocked() {
-        assertTrue(Reading.isUnlocked(1, emptySet(), counts))
-    }
-
-    @Test
-    fun chapterTwoLockedUntilOneComplete() {
-        assertFalse(Reading.isUnlocked(2, emptySet(), counts))
-        val partial = (1..46).map { "1:$it" }.toSet()
-        assertFalse(Reading.isUnlocked(2, partial, counts))
-        val full = (1..47).map { "1:$it" }.toSet()
-        assertTrue(Reading.isUnlocked(2, full, counts))
-    }
-
-    @Test
-    fun unlockChainNeedsImmediatePredecessor() {
-        // Ch1+Ch2 done unlocks 3; Ch1 alone does not unlock 3.
+    fun journeyHelpers() {
         val one = (1..47).map { "1:$it" }.toSet()
-        assertFalse(Reading.isUnlocked(3, one, counts))
-        val two = one + (1..72).map { "2:$it" }.toSet()
-        assertTrue(Reading.isUnlocked(3, two, counts))
+        assertEquals(listOf(1), Reading.completedChapters(one, counts))
+        assertEquals("2:1", Reading.continueFrom(one, counts))
+        assertEquals(null, Reading.continueFrom(
+            one + (1..72).map { "2:$it" } + (1..43).map { "3:$it" }, counts))
+        assertEquals("1:1", Reading.continueFrom(emptySet(), counts))
     }
 
     @Test
