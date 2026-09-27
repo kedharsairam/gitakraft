@@ -1,0 +1,851 @@
+{
+ "chapter": 1,
+ "records": [
+  {
+   "id": "1:1",
+   "devanagari": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत संजय",
+   "iast": "dharmakṣetre kurukṣetre samavetā yuyutsavaḥ |\nmāmakāḥ pāṇḍavāścaiva kimakurvata saṃjaya",
+   "speaker": "धृतराष्ट्र",
+   "telang_context": "Dhr/tarish/ra said ;\n\nWhat did my (people) and the Pfiwflfavas do,  O Sa»^ya ! when they assembled together on the  holy field of Kurukshetra, desirous to do battle ?",
+   "arnold_span": "A01",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "The blind king Dhritarashtra asks Sanjaya: what did my sons and Pandu's sons do when they gathered to fight on the holy field of Kurukshetra?",
+   "takeaway": "Every story starts with an honest question.",
+   "provenance": [
+    "sa:1:1",
+    "telang:T00+T01",
+    "arnold:A01"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:2",
+   "devanagari": "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\nआचार्यमुपसंगम्य राजा वचनमब्रवीत्",
+   "iast": "dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā |\nācāryamupasaṃgamya rājā vacanamabravīt",
+   "speaker": "सञ्जय",
+   "telang_context": "Saw^ya said :\n\nSeeing the army of the Pd«^!favas drawn up in  battle-array the prince Duryodhana approachctl  his preceptor, and spoke (these) words : ‘ O preceptor! observe this grand army of the sons of  Pa«a?u, drawn up in battle-array by your talented  pupil, the son of Drupada. In it are heroes  (bearing) large bows, the equals of Bhima and  Ar^una in battle — (namely), Yuyudhdna, Vird/a,  and Drupada, the master of a great car-, and  Dhr/sh/aketu, A'ekitdna, and the valiant king of  Kd^i, Purii^it and Kuntibhq^a, and that eminent  man Yaibya; the heroic Yudhdmanyu, the valiant  Uttamau^as, the son of Subhadrd, and the sons of",
+   "arnold_span": "A02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Sanjaya answers: seeing the Pandava army drawn up for battle, Prince Duryodhana went to his teacher Drona and spoke.",
+   "takeaway": "Look at the field before you speak.",
+   "provenance": [
+    "sa:1:2",
+    "telang:T02+T03-head",
+    "arnold:A02"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:3",
+   "devanagari": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता",
+   "iast": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm |\nvyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā",
+   "speaker": null,
+   "telang_context": "Seeing the army of the Pd«^!favas drawn up in  battle-array the prince Duryodhana approachctl  his preceptor, and spoke (these) words : ‘ O preceptor! observe this grand army of the sons of  Pa«a?u, drawn up in battle-array by your talented  pupil, the son of Drupada. In it are heroes  (bearing) large bows, the equals of Bhima and  Ar^una in battle — (namely), Yuyudhdna, Vird/a,  and Drupada, the master of a great car-, and  Dhr/sh/aketu, A'ekitdna, and the valiant king of  Kd^i, Purii^it and Kuntibhq^a, and that eminent  man Yaibya; the heroic Yudhdmanyu, the valiant  Uttamau^as, the son of Subhadrd, and the sons of",
+   "arnold_span": "A02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Duryodhana says: O teacher, look at this mighty Pandava army, drawn up by your clever pupil, Drupada's son.",
+   "takeaway": "Give credit where it is due — even to rivals.",
+   "provenance": [
+    "sa:1:3",
+    "telang:T03",
+    "arnold:A02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:4",
+   "devanagari": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।\nयुयुधानो विराटश्च द्रुपदश्च महारथः",
+   "iast": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi |\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ",
+   "speaker": null,
+   "telang_context": "Seeing the army of the Pd«^!favas drawn up in  battle-array the prince Duryodhana approachctl  his preceptor, and spoke (these) words : ‘ O preceptor! observe this grand army of the sons of  Pa«a?u, drawn up in battle-array by your talented  pupil, the son of Drupada. In it are heroes  (bearing) large bows, the equals of Bhima and  Ar^una in battle — (namely), Yuyudhdna, Vird/a,  and Drupada, the master of a great car-, and  Dhr/sh/aketu, A'ekitdna, and the valiant king of  Kd^i, Purii^it and Kuntibhq^a, and that eminent  man Yaibya; the heroic Yudhdmanyu, the valiant  Uttamau^as, the son of Subhadrd, and the sons of",
+   "arnold_span": "A02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Here are heroes, great archers, the equals of Bhima and Arjuna in battle: Yuyudhana, Virata, and Drupada the great warrior.",
+   "takeaway": "Know the strengths across the field.",
+   "provenance": [
+    "sa:1:4",
+    "telang:T03",
+    "arnold:A02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:5",
+   "devanagari": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः",
+   "iast": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān |\npurujitkuntibhojaśca śaibyaśca narapuṅgavaḥ",
+   "speaker": null,
+   "telang_context": "Seeing the army of the Pd«^!favas drawn up in  battle-array the prince Duryodhana approachctl  his preceptor, and spoke (these) words : ‘ O preceptor! observe this grand army of the sons of  Pa«a?u, drawn up in battle-array by your talented  pupil, the son of Drupada. In it are heroes  (bearing) large bows, the equals of Bhima and  Ar^una in battle — (namely), Yuyudhdna, Vird/a,  and Drupada, the master of a great car-, and  Dhr/sh/aketu, A'ekitdna, and the valiant king of  Kd^i, Purii^it and Kuntibhq^a, and that eminent  man Yaibya; the heroic Yudhdmanyu, the valiant  Uttamau^as, the son of Subhadrd, and the sons of",
+   "arnold_span": "A02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Dhrishtaketu, Chekitana, the brave king of Kashi, Purujit, Kuntibhoja, and Shaibya, the best of men.",
+   "takeaway": "Count carefully before you conclude.",
+   "provenance": [
+    "sa:1:5",
+    "telang:T03",
+    "arnold:A02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:6",
+   "devanagari": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः",
+   "iast": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān |\nsaubhadro draupadeyāśca sarva eva mahārathāḥ",
+   "speaker": null,
+   "telang_context": "Seeing the army of the Pd«^!favas drawn up in  battle-array the prince Duryodhana approachctl  his preceptor, and spoke (these) words : ‘ O preceptor! observe this grand army of the sons of  Pa«a?u, drawn up in battle-array by your talented  pupil, the son of Drupada. In it are heroes  (bearing) large bows, the equals of Bhima and  Ar^una in battle — (namely), Yuyudhdna, Vird/a,  and Drupada, the master of a great car-, and  Dhr/sh/aketu, A'ekitdna, and the valiant king of  Kd^i, Purii^it and Kuntibhq^a, and that eminent  man Yaibya; the heroic Yudhdmanyu, the valiant  Uttamau^as, the son of Subhadrd, and the sons of\n\nDraupadt — all masters of great cars. And now,",
+   "arnold_span": "A02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Yudhamanyu and the strong Uttamaujas, Abhimanyu, and Draupadi's sons — all of them great warriors.",
+   "takeaway": "Finish the count before you judge.",
+   "provenance": [
+    "sa:1:6",
+    "telang:T03+T04",
+    "arnold:A02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:7",
+   "devanagari": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते",
+   "iast": "asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama |\nnāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te",
+   "speaker": null,
+   "telang_context": "best of Brihmawas! learn who are most distinguished among us, and are leaders of my army.\n\nwill name them to you, in order that you may  know them well. Yourself, and Bhishma, and Karwa,  and K;7pa the victor of (many) battles ; Ai'vatthdman, and Vikar«a, and also the son of Somadatta,  and many other brave men, who have given up  their lives for me, who fight with various weapons,  (and are) all dexterous in battle. Thus our army  which is protected by Bhishma is unlimited ; while  this army of theirs which is protected by Bhima is  very limited. And therefore do ye all, occupying  respectively the positions' assigned to you, protect  Bhishma ^ only.’",
+   "arnold_span": "A02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Now hear about our own chiefs, O best of learned men. I will name the leaders of my army so you know them.",
+   "takeaway": "Know your own team as well as the other side.",
+   "provenance": [
+    "sa:1:7",
+    "telang:T05+T06-head",
+    "arnold:A02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:8",
+   "devanagari": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिंजयः ।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च",
+   "iast": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiṃjayaḥ |\naśvatthāmā vikarṇaśca saumadattistathaiva ca",
+   "speaker": null,
+   "telang_context": "will name them to you, in order that you may  know them well. Yourself, and Bhishma, and Karwa,  and K;7pa the victor of (many) battles ; Ai'vatthdman, and Vikar«a, and also the son of Somadatta,  and many other brave men, who have given up  their lives for me, who fight with various weapons,  (and are) all dexterous in battle. Thus our army  which is protected by Bhishma is unlimited ; while  this army of theirs which is protected by Bhima is  very limited. And therefore do ye all, occupying  respectively the positions' assigned to you, protect  Bhishma ^ only.’",
+   "arnold_span": "A02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Yourself, and Bhishma, Karna, Kripa the winner of battles, Ashvatthama, Vikarna, and Somadatta's son.",
+   "takeaway": "Name the pillars that hold you up.",
+   "provenance": [
+    "sa:1:8",
+    "telang:T06",
+    "arnold:A02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:9",
+   "devanagari": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः ।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः",
+   "iast": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ |\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ",
+   "speaker": null,
+   "telang_context": "will name them to you, in order that you may  know them well. Yourself, and Bhishma, and Karwa,  and K;7pa the victor of (many) battles ; Ai'vatthdman, and Vikar«a, and also the son of Somadatta,  and many other brave men, who have given up  their lives for me, who fight with various weapons,  (and are) all dexterous in battle. Thus our army  which is protected by Bhishma is unlimited ; while  this army of theirs which is protected by Bhima is  very limited. And therefore do ye all, occupying  respectively the positions' assigned to you, protect  Bhishma ^ only.’",
+   "arnold_span": "A02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "And many other heroes, skilled with every kind of weapon. They have given up their lives for me.",
+   "takeaway": "Loyalty itself is a kind of strength.",
+   "provenance": [
+    "sa:1:9",
+    "telang:T06",
+    "arnold:A02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:10",
+   "devanagari": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्",
+   "iast": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam |\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam",
+   "speaker": null,
+   "telang_context": "will name them to you, in order that you may  know them well. Yourself, and Bhishma, and Karwa,  and K;7pa the victor of (many) battles ; Ai'vatthdman, and Vikar«a, and also the son of Somadatta,  and many other brave men, who have given up  their lives for me, who fight with various weapons,  (and are) all dexterous in battle. Thus our army  which is protected by Bhishma is unlimited ; while  this army of theirs which is protected by Bhima is  very limited. And therefore do ye all, occupying  respectively the positions' assigned to you, protect  Bhishma ^ only.’",
+   "arnold_span": "A02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Our army, guarded by Bhishma, is beyond measure; theirs, guarded by Bhima, is small.",
+   "takeaway": "Notice how each leader counts strength in his own favor.",
+   "provenance": [
+    "sa:1:10",
+    "telang:T06",
+    "arnold:A02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:11",
+   "devanagari": "अयनेषु च सर्वेषु यथाभागमवस्थिताः ।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि",
+   "iast": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ |\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi",
+   "speaker": null,
+   "telang_context": "will name them to you, in order that you may  know them well. Yourself, and Bhishma, and Karwa,  and K;7pa the victor of (many) battles ; Ai'vatthdman, and Vikar«a, and also the son of Somadatta,  and many other brave men, who have given up  their lives for me, who fight with various weapons,  (and are) all dexterous in battle. Thus our army  which is protected by Bhishma is unlimited ; while  this army of theirs which is protected by Bhima is  very limited. And therefore do ye all, occupying  respectively the positions' assigned to you, protect  Bhishma ^ only.’",
+   "arnold_span": "A02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "So hold the positions given to you, all of you. And protect Bhishma above everything.",
+   "takeaway": "Guard whatever holds everything else together.",
+   "provenance": [
+    "sa:1:11",
+    "telang:T06",
+    "arnold:A02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:12",
+   "devanagari": "तस्य संजनयन्हर्षं कुरुवृद्धः पितामहः ।\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्",
+   "iast": "tasya saṃjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ |\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān",
+   "speaker": null,
+   "telang_context": "Then his powerful grandsire, Bhishma, the oldest  of the Kauravas, roaring aloud like a lion, blew his  conch, (thereby) affording delight to Duryodhana.  And then all at once, conch.s, and kettledrums, and  tabors, and trumpets were played upon ; and there  was a tumultuous din. Then, too, Madhava and the  son of Vtndw (Ar^ima), seated in a grand chariot to  which white steeds were yoked, blew their heavenly  conchs. Hrfshike^a blew the Pa«/’a^anya and  Dhanaw^aya the Devadatta, and Bhima, (the doer) of  fearful deeds, blew' the great conch Pau/^flfra. King  Yudhish/y^ira, the .son of Kunti ®, blew' the^Anan-",
+   "arnold_span": "A03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "To cheer Duryodhana up, old grandsire Bhishma roared like a lion and blew his conch.",
+   "takeaway": "A small signal can lift a whole side.",
+   "provenance": [
+    "sa:1:12",
+    "telang:T07-head",
+    "arnold:A03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:13",
+   "devanagari": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्",
+   "iast": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ |\nsahasaivābhyahanyanta sa śabdastumulo'bhavat",
+   "speaker": null,
+   "telang_context": "Then his powerful grandsire, Bhishma, the oldest  of the Kauravas, roaring aloud like a lion, blew his  conch, (thereby) affording delight to Duryodhana.  And then all at once, conch.s, and kettledrums, and  tabors, and trumpets were played upon ; and there  was a tumultuous din. Then, too, Madhava and the  son of Vtndw (Ar^ima), seated in a grand chariot to  which white steeds were yoked, blew their heavenly  conchs. Hrfshike^a blew the Pa«/’a^anya and  Dhanaw^aya the Devadatta, and Bhima, (the doer) of  fearful deeds, blew' the great conch Pau/^flfra. King  Yudhish/y^ira, the .son of Kunti ®, blew' the^Anan-",
+   "arnold_span": "A03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Then all at once conches, drums, cymbals and horns sounded, and the noise was tremendous.",
+   "takeaway": "Momentum has a sound.",
+   "provenance": [
+    "sa:1:13",
+    "telang:T07",
+    "arnold:A03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:14",
+   "devanagari": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः",
+   "iast": "tataḥ śvetairhayairyukte mahati syandane sthitau |\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ",
+   "speaker": null,
+   "telang_context": "Then his powerful grandsire, Bhishma, the oldest  of the Kauravas, roaring aloud like a lion, blew his  conch, (thereby) affording delight to Duryodhana.  And then all at once, conch.s, and kettledrums, and  tabors, and trumpets were played upon ; and there  was a tumultuous din. Then, too, Madhava and the  son of Vtndw (Ar^ima), seated in a grand chariot to  which white steeds were yoked, blew their heavenly  conchs. Hrfshike^a blew the Pa«/’a^anya and  Dhanaw^aya the Devadatta, and Bhima, (the doer) of  fearful deeds, blew' the great conch Pau/^flfra. King  Yudhish/y^ira, the .son of Kunti ®, blew' the^Anan-",
+   "arnold_span": "A03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Then Krishna and Arjuna, standing in their grand chariot yoked with white horses, blew their divine conches.",
+   "takeaway": "Answer noise with presence.",
+   "provenance": [
+    "sa:1:14",
+    "telang:T07",
+    "arnold:A03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:15",
+   "devanagari": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः",
+   "iast": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ |\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ",
+   "speaker": null,
+   "telang_context": "Then his powerful grandsire, Bhishma, the oldest  of the Kauravas, roaring aloud like a lion, blew his  conch, (thereby) affording delight to Duryodhana.  And then all at once, conch.s, and kettledrums, and  tabors, and trumpets were played upon ; and there  was a tumultuous din. Then, too, Madhava and the  son of Vtndw (Ar^ima), seated in a grand chariot to  which white steeds were yoked, blew their heavenly  conchs. Hrfshike^a blew the Pa«/’a^anya and  Dhanaw^aya the Devadatta, and Bhima, (the doer) of  fearful deeds, blew' the great conch Pau/^flfra. King  Yudhish/y^ira, the .son of Kunti ®, blew' the^Anan-",
+   "arnold_span": "A03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Hrishikesha blew Panchajanya, Arjuna blew Devadatta, and fearsome Bhima blew the great Paundra.",
+   "takeaway": "In this army, even the instruments have names.",
+   "provenance": [
+    "sa:1:15",
+    "telang:T07",
+    "arnold:A03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:16",
+   "devanagari": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ",
+   "iast": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ |\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau",
+   "speaker": null,
+   "telang_context": "Then his powerful grandsire, Bhishma, the oldest  of the Kauravas, roaring aloud like a lion, blew his  conch, (thereby) affording delight to Duryodhana.  And then all at once, conch.s, and kettledrums, and  tabors, and trumpets were played upon ; and there  was a tumultuous din. Then, too, Madhava and the  son of Vtndw (Ar^ima), seated in a grand chariot to  which white steeds were yoked, blew their heavenly  conchs. Hrfshike^a blew the Pa«/’a^anya and  Dhanaw^aya the Devadatta, and Bhima, (the doer) of  fearful deeds, blew' the great conch Pau/^flfra. King  Yudhish/y^ira, the .son of Kunti ®, blew' the^Anan-\n\ntavi^aya, and Nakula and Sahadeva (respectively)  the Sughosha and Ma«ipushpaka. And the king  of Kad, too, who has an excellent bow, and ^ikhaw-  /fin, the master of a great car, and Dhrz'sh/adyumna,  Vird/a, and the unconquered S^tyaki, and Drupada,  and the sons of Draupadi, and the son of Subhadr^,  of mighty arms, blew conchs severally from all sides,  O king of the earth ! That tumultuous din rent  the hearts of all (the people) of Dhmardsh/ra’s  (party), causing reverberations throughout heaven  and earth. Then seeing (the people of) Dhretarash/ra’s party regularly marshalled, the son of  Pa;m\\i, whose standard is the ape, raised his bow  after the discharge of missiles had commenced, and  O king of the earth ! spake these words to Hmhike^a : ‘ O undegraded one ! station my chariot  between the two armies, while I observe those,  who stand here desirous to engage in battle, and  with whom, in the labours of this struggle, I must  do battle. I will observe those who are assembled  here and who are about to engage in battle, wishing  to do service in battle ^ to the evil-minded son of  Dh^/tarishAa.’",
+   "arnold_span": "A03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Yudhishthira blew Anantavijaya; Nakula and Sahadeva blew Sughosha and Manipushpaka.",
+   "takeaway": "Everyone sounds their part.",
+   "provenance": [
+    "sa:1:16",
+    "telang:T07+T08-head",
+    "arnold:A03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:17",
+   "devanagari": "काश्यश्च परमेष्वासः शिखण्डी च महारथः ।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः",
+   "iast": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ |\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ",
+   "speaker": null,
+   "telang_context": "tavi^aya, and Nakula and Sahadeva (respectively)  the Sughosha and Ma«ipushpaka. And the king  of Kad, too, who has an excellent bow, and ^ikhaw-  /fin, the master of a great car, and Dhrz'sh/adyumna,  Vird/a, and the unconquered S^tyaki, and Drupada,  and the sons of Draupadi, and the son of Subhadr^,  of mighty arms, blew conchs severally from all sides,  O king of the earth ! That tumultuous din rent  the hearts of all (the people) of Dhmardsh/ra’s  (party), causing reverberations throughout heaven  and earth. Then seeing (the people of) Dhretarash/ra’s party regularly marshalled, the son of  Pa;m\\i, whose standard is the ape, raised his bow  after the discharge of missiles had commenced, and  O king of the earth ! spake these words to Hmhike^a : ‘ O undegraded one ! station my chariot  between the two armies, while I observe those,  who stand here desirous to engage in battle, and  with whom, in the labours of this struggle, I must  do battle. I will observe those who are assembled  here and who are about to engage in battle, wishing  to do service in battle ^ to the evil-minded son of  Dh^/tarishAa.’",
+   "arnold_span": "A03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The king of Kashi with his fine bow, Shikhandi, Dhrishtadyumna, Virata, and the unbeaten Satyaki.",
+   "takeaway": "No one on that field is nameless.",
+   "provenance": [
+    "sa:1:17",
+    "telang:T08",
+    "arnold:A03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:18",
+   "devanagari": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते ।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्",
+   "iast": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate |\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak",
+   "speaker": null,
+   "telang_context": "tavi^aya, and Nakula and Sahadeva (respectively)  the Sughosha and Ma«ipushpaka. And the king  of Kad, too, who has an excellent bow, and ^ikhaw-  /fin, the master of a great car, and Dhrz'sh/adyumna,  Vird/a, and the unconquered S^tyaki, and Drupada,  and the sons of Draupadi, and the son of Subhadr^,  of mighty arms, blew conchs severally from all sides,  O king of the earth ! That tumultuous din rent  the hearts of all (the people) of Dhmardsh/ra’s  (party), causing reverberations throughout heaven  and earth. Then seeing (the people of) Dhretarash/ra’s party regularly marshalled, the son of  Pa;m\\i, whose standard is the ape, raised his bow  after the discharge of missiles had commenced, and  O king of the earth ! spake these words to Hmhike^a : ‘ O undegraded one ! station my chariot  between the two armies, while I observe those,  who stand here desirous to engage in battle, and  with whom, in the labours of this struggle, I must  do battle. I will observe those who are assembled  here and who are about to engage in battle, wishing  to do service in battle ^ to the evil-minded son of  Dh^/tarishAa.’",
+   "arnold_span": "A03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Drupada, Draupadi's sons, and mighty-armed Abhimanyu blew their conches, each apart.",
+   "takeaway": "Each voice joins in turn.",
+   "provenance": [
+    "sa:1:18",
+    "telang:T08",
+    "arnold:A03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:19",
+   "devanagari": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।\nनभश्च पृथिवीं चैव तुमुलो व्यनुनादयन्",
+   "iast": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat |\nnabhaśca pṛthivīṃ caiva tumulo vyanunādayan",
+   "speaker": null,
+   "telang_context": "tavi^aya, and Nakula and Sahadeva (respectively)  the Sughosha and Ma«ipushpaka. And the king  of Kad, too, who has an excellent bow, and ^ikhaw-  /fin, the master of a great car, and Dhrz'sh/adyumna,  Vird/a, and the unconquered S^tyaki, and Drupada,  and the sons of Draupadi, and the son of Subhadr^,  of mighty arms, blew conchs severally from all sides,  O king of the earth ! That tumultuous din rent  the hearts of all (the people) of Dhmardsh/ra’s  (party), causing reverberations throughout heaven  and earth. Then seeing (the people of) Dhretarash/ra’s party regularly marshalled, the son of  Pa;m\\i, whose standard is the ape, raised his bow  after the discharge of missiles had commenced, and  O king of the earth ! spake these words to Hmhike^a : ‘ O undegraded one ! station my chariot  between the two armies, while I observe those,  who stand here desirous to engage in battle, and  with whom, in the labours of this struggle, I must  do battle. I will observe those who are assembled  here and who are about to engage in battle, wishing  to do service in battle ^ to the evil-minded son of  Dh^/tarishAa.’",
+   "arnold_span": "A03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "That din tore the hearts of Dhritarashtra's men, echoing through the sky and the earth.",
+   "takeaway": "Sound alone can shake an army.",
+   "provenance": [
+    "sa:1:19",
+    "telang:T08",
+    "arnold:A03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:20",
+   "devanagari": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः ।\nप्रवृत्ते शस्त्रसंपाते धनुरुद्यम्य पाण्डवः",
+   "iast": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrānkapidhvajaḥ |\npravṛtte śastrasaṃpāte dhanurudyamya pāṇḍavaḥ",
+   "speaker": null,
+   "telang_context": "tavi^aya, and Nakula and Sahadeva (respectively)  the Sughosha and Ma«ipushpaka. And the king  of Kad, too, who has an excellent bow, and ^ikhaw-  /fin, the master of a great car, and Dhrz'sh/adyumna,  Vird/a, and the unconquered S^tyaki, and Drupada,  and the sons of Draupadi, and the son of Subhadr^,  of mighty arms, blew conchs severally from all sides,  O king of the earth ! That tumultuous din rent  the hearts of all (the people) of Dhmardsh/ra’s  (party), causing reverberations throughout heaven  and earth. Then seeing (the people of) Dhretarash/ra’s party regularly marshalled, the son of  Pa;m\\i, whose standard is the ape, raised his bow  after the discharge of missiles had commenced, and  O king of the earth ! spake these words to Hmhike^a : ‘ O undegraded one ! station my chariot  between the two armies, while I observe those,  who stand here desirous to engage in battle, and  with whom, in the labours of this struggle, I must  do battle. I will observe those who are assembled  here and who are about to engage in battle, wishing  to do service in battle ^ to the evil-minded son of  Dh^/tarishAa.’",
+   "arnold_span": "A03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Then Arjuna, whose banner bears Hanuman, raised his bow as the weapons began to fly.",
+   "takeaway": "When the moment comes, positions get taken.",
+   "provenance": [
+    "sa:1:20",
+    "telang:T08",
+    "arnold:A04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:21",
+   "devanagari": "हृषीकेशं तदा वाक्यमिदमाह महीपते ।\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत",
+   "iast": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate |\nsenayorubhayormadhye rathaṃ sthāpaya me'cyuta",
+   "speaker": "अर्जुन",
+   "telang_context": "tavi^aya, and Nakula and Sahadeva (respectively)  the Sughosha and Ma«ipushpaka. And the king  of Kad, too, who has an excellent bow, and ^ikhaw-  /fin, the master of a great car, and Dhrz'sh/adyumna,  Vird/a, and the unconquered S^tyaki, and Drupada,  and the sons of Draupadi, and the son of Subhadr^,  of mighty arms, blew conchs severally from all sides,  O king of the earth ! That tumultuous din rent  the hearts of all (the people) of Dhmardsh/ra’s  (party), causing reverberations throughout heaven  and earth. Then seeing (the people of) Dhretarash/ra’s party regularly marshalled, the son of  Pa;m\\i, whose standard is the ape, raised his bow  after the discharge of missiles had commenced, and  O king of the earth ! spake these words to Hmhike^a : ‘ O undegraded one ! station my chariot  between the two armies, while I observe those,  who stand here desirous to engage in battle, and  with whom, in the labours of this struggle, I must  do battle. I will observe those who are assembled  here and who are about to engage in battle, wishing  to do service in battle ^ to the evil-minded son of  Dh^/tarishAa.’",
+   "arnold_span": "A04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Arjuna addressed these words to Krishna.",
+   "takeaway": "Ask clearly for what you need.",
+   "provenance": [
+    "sa:1:21",
+    "telang:T08",
+    "arnold:A04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:22",
+   "devanagari": "यावदेतान्निरिक्षेऽहं योद्‌धुकामानवस्थितान् ।\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे",
+   "iast": "yāvadetānnirikṣe'haṃ yod‌dhukāmānavasthitān |\nkairmayā saha yoddhavyamasmin raṇasamudyame",
+   "speaker": null,
+   "telang_context": "tavi^aya, and Nakula and Sahadeva (respectively)  the Sughosha and Ma«ipushpaka. And the king  of Kad, too, who has an excellent bow, and ^ikhaw-  /fin, the master of a great car, and Dhrz'sh/adyumna,  Vird/a, and the unconquered S^tyaki, and Drupada,  and the sons of Draupadi, and the son of Subhadr^,  of mighty arms, blew conchs severally from all sides,  O king of the earth ! That tumultuous din rent  the hearts of all (the people) of Dhmardsh/ra’s  (party), causing reverberations throughout heaven  and earth. Then seeing (the people of) Dhretarash/ra’s party regularly marshalled, the son of  Pa;m\\i, whose standard is the ape, raised his bow  after the discharge of missiles had commenced, and  O king of the earth ! spake these words to Hmhike^a : ‘ O undegraded one ! station my chariot  between the two armies, while I observe those,  who stand here desirous to engage in battle, and  with whom, in the labours of this struggle, I must  do battle. I will observe those who are assembled  here and who are about to engage in battle, wishing  to do service in battle ^ to the evil-minded son of  Dh^/tarishAa.’",
+   "arnold_span": "A04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "O faultless Krishna, drive my chariot between the two armies. Let me see who stands here eager to fight, and with whom I must do battle.",
+   "takeaway": "Look first. Fight later — if at all.",
+   "provenance": [
+    "sa:1:22",
+    "telang:T08",
+    "arnold:A04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:23",
+   "devanagari": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः",
+   "iast": "yotsyamānānavekṣe'haṃ ya ete'tra samāgatāḥ |\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ",
+   "speaker": null,
+   "telang_context": "tavi^aya, and Nakula and Sahadeva (respectively)  the Sughosha and Ma«ipushpaka. And the king  of Kad, too, who has an excellent bow, and ^ikhaw-  /fin, the master of a great car, and Dhrz'sh/adyumna,  Vird/a, and the unconquered S^tyaki, and Drupada,  and the sons of Draupadi, and the son of Subhadr^,  of mighty arms, blew conchs severally from all sides,  O king of the earth ! That tumultuous din rent  the hearts of all (the people) of Dhmardsh/ra’s  (party), causing reverberations throughout heaven  and earth. Then seeing (the people of) Dhretarash/ra’s party regularly marshalled, the son of  Pa;m\\i, whose standard is the ape, raised his bow  after the discharge of missiles had commenced, and  O king of the earth ! spake these words to Hmhike^a : ‘ O undegraded one ! station my chariot  between the two armies, while I observe those,  who stand here desirous to engage in battle, and  with whom, in the labours of this struggle, I must  do battle. I will observe those who are assembled  here and who are about to engage in battle, wishing  to do service in battle ^ to the evil-minded son of  Dh^/tarishAa.’",
+   "arnold_span": "A04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "I will observe all those gathered here to fight, wishing to serve Duryodhana, the ill-minded son of Dhritarashtra, in battle.",
+   "takeaway": "Name why everyone is here — even the uncomfortable parts.",
+   "provenance": [
+    "sa:1:23",
+    "telang:T08",
+    "arnold:A04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:24",
+   "devanagari": "एवमुक्तो हृषीकेशो गुडाकेशेन भारत ।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्",
+   "iast": "evamukto hṛṣīkeśo guḍākeśena bhārata |\nsenayorubhayormadhye sthāpayitvā rathottamam",
+   "speaker": "सञ्जय",
+   "telang_context": "Saw^a} a said :\n\nThus addressed by Gui/ake^a O descendant of  Bharata^! Hrfshike^a stationed that e.xcellent chariot between the two armies, in front of Bhishma",
+   "arnold_span": "A04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Sanjaya said: so addressed by Arjuna, conqueror of sleep, Krishna stationed the splendid chariot between the two armies. It faced Bhishma.",
+   "takeaway": "A good friend does what you ask, no questions yet.",
+   "provenance": [
+    "sa:1:24",
+    "telang:T09+T10",
+    "arnold:A05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:25",
+   "devanagari": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति",
+   "iast": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām |\nuvāca pārtha paśyaitānsamavetānkurūniti",
+   "speaker": null,
+   "telang_context": "and Drowa and of all the kings of the earth, and  said : ‘ O son of Prfthd ! look at these assembled  Kauravas.' There the son of PWthS saw in both  armies, fathers and grandfathers, preceptors, maternal uncles, brothers, sons’, grandsons, companions,  fathers-in-law, as well as friends. And seeing all  those kinsmen standing (there), the son of Kunti  was overcome by excessive pity, and spake thus  despondingly.",
+   "arnold_span": "A05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "And before Bhishma, Drona and all the kings of the earth, Krishna said: O Arjuna, behold these Kurus gathered together.",
+   "takeaway": "Sometimes you have to look, even when it hurts.",
+   "provenance": [
+    "sa:1:25",
+    "telang:T11",
+    "arnold:A05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:26",
+   "devanagari": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् ।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा",
+   "iast": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān |\nācāryānmātulānbhrātṝnputrānpautrānsakhīṃstathā",
+   "speaker": null,
+   "telang_context": "and Drowa and of all the kings of the earth, and  said : ‘ O son of Prfthd ! look at these assembled  Kauravas.' There the son of PWthS saw in both  armies, fathers and grandfathers, preceptors, maternal uncles, brothers, sons’, grandsons, companions,  fathers-in-law, as well as friends. And seeing all  those kinsmen standing (there), the son of Kunti  was overcome by excessive pity, and spake thus  despondingly.",
+   "arnold_span": "A05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "There Arjuna saw fathers and grandfathers. Teachers, uncles, brothers, sons and grandsons — and comrades.",
+   "takeaway": "The enemy has faces you know.",
+   "provenance": [
+    "sa:1:26",
+    "telang:T11",
+    "arnold:A05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:27",
+   "devanagari": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ।\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्",
+   "iast": "śvaśurānsuhṛdaścaiva senayorubhayorapi |\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān",
+   "speaker": null,
+   "telang_context": "and Drowa and of all the kings of the earth, and  said : ‘ O son of Prfthd ! look at these assembled  Kauravas.' There the son of PWthS saw in both  armies, fathers and grandfathers, preceptors, maternal uncles, brothers, sons’, grandsons, companions,  fathers-in-law, as well as friends. And seeing all  those kinsmen standing (there), the son of Kunti  was overcome by excessive pity, and spake thus  despondingly.",
+   "arnold_span": "A05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Arjuna saw fathers-in-law and friends on both sides — all his kin arrayed for war. Pity overwhelmed him, and he spoke in despair.",
+   "takeaway": "Strength that cannot feel is just armor.",
+   "provenance": [
+    "sa:1:27",
+    "telang:T11",
+    "arnold:A05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:28",
+   "devanagari": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् ।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्",
+   "iast": "kṛpayā parayāviṣṭo viṣīdannidamabravīt |\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam",
+   "speaker": "अर्जुन",
+   "telang_context": "Ar^una said ;\n\nSeeing these kinsmen, O Kmh«a ! standing (here)  anxious to engage in battle, my limbs droop down ;  my mouth is quite dried up ; a tremor comes over  my bodj- ; and my hairs stand on end ; the Gawrt^iva  (bow) slips from my hand ; my skin burns intensely,  I am unable, too, to stand up ; my mind whirls  round, as it were; O KeJava ! I see adverse omens-;  and I do not perceive any good (likely to accrue)  after killing (my) kinsmen in the battle, I do not  wish for victory, O Krfsh«a ! nor sovereignty, nor  pleasures ; what is .sovereignty to us, O Govinda !  what enjoyments, and even life ? Even those, for  whose sake we desire .sovereignty, enjoyments, and  pleasures, are standing here for battle, abandoning  life and wealth — preceptors, fathers, sons as well as  grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, as also (other) relatives., These  1 do not wish to kill, though they kill (me), O destroyer  of Madhu ® ! even for the sake of sovereignty over",
+   "arnold_span": "A05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Arjuna said: seeing these kinsmen come to fight, Krishna, my limbs fail me and my mouth goes dry.",
+   "takeaway": "The body speaks before the mind catches up.",
+   "provenance": [
+    "sa:1:28",
+    "telang:T12+T13-head",
+    "arnold:A06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:29",
+   "devanagari": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति ।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते",
+   "iast": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati |\nvepathuśca śarīre me romaharṣaśca jāyate",
+   "speaker": null,
+   "telang_context": "Seeing these kinsmen, O Kmh«a ! standing (here)  anxious to engage in battle, my limbs droop down ;  my mouth is quite dried up ; a tremor comes over  my bodj- ; and my hairs stand on end ; the Gawrt^iva  (bow) slips from my hand ; my skin burns intensely,  I am unable, too, to stand up ; my mind whirls  round, as it were; O KeJava ! I see adverse omens-;  and I do not perceive any good (likely to accrue)  after killing (my) kinsmen in the battle, I do not  wish for victory, O Krfsh«a ! nor sovereignty, nor  pleasures ; what is .sovereignty to us, O Govinda !  what enjoyments, and even life ? Even those, for  whose sake we desire .sovereignty, enjoyments, and  pleasures, are standing here for battle, abandoning  life and wealth — preceptors, fathers, sons as well as  grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, as also (other) relatives., These  1 do not wish to kill, though they kill (me), O destroyer  of Madhu ® ! even for the sake of sovereignty over",
+   "arnold_span": "A06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "My body trembles and my hair stands on end.",
+   "takeaway": "Fear has a physiology.",
+   "provenance": [
+    "sa:1:29",
+    "telang:T13",
+    "arnold:A06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:30",
+   "devanagari": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते ।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः",
+   "iast": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate |\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ",
+   "speaker": null,
+   "telang_context": "Seeing these kinsmen, O Kmh«a ! standing (here)  anxious to engage in battle, my limbs droop down ;  my mouth is quite dried up ; a tremor comes over  my bodj- ; and my hairs stand on end ; the Gawrt^iva  (bow) slips from my hand ; my skin burns intensely,  I am unable, too, to stand up ; my mind whirls  round, as it were; O KeJava ! I see adverse omens-;  and I do not perceive any good (likely to accrue)  after killing (my) kinsmen in the battle, I do not  wish for victory, O Krfsh«a ! nor sovereignty, nor  pleasures ; what is .sovereignty to us, O Govinda !  what enjoyments, and even life ? Even those, for  whose sake we desire .sovereignty, enjoyments, and  pleasures, are standing here for battle, abandoning  life and wealth — preceptors, fathers, sons as well as  grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, as also (other) relatives., These  1 do not wish to kill, though they kill (me), O destroyer  of Madhu ® ! even for the sake of sovereignty over",
+   "arnold_span": "A06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "My great bow slips from my hand, my skin burns, and I cannot even stand steady.",
+   "takeaway": "Collapse is data, not disgrace.",
+   "provenance": [
+    "sa:1:30",
+    "telang:T13",
+    "arnold:A06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:31",
+   "devanagari": "निमित्तानि च पश्यामि विपरीतानि केशव ।\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे",
+   "iast": "nimittāni ca paśyāmi viparītāni keśava |\nna ca śreyo'nupaśyāmi hatvā svajanamāhave",
+   "speaker": null,
+   "telang_context": "Seeing these kinsmen, O Kmh«a ! standing (here)  anxious to engage in battle, my limbs droop down ;  my mouth is quite dried up ; a tremor comes over  my bodj- ; and my hairs stand on end ; the Gawrt^iva  (bow) slips from my hand ; my skin burns intensely,  I am unable, too, to stand up ; my mind whirls  round, as it were; O KeJava ! I see adverse omens-;  and I do not perceive any good (likely to accrue)  after killing (my) kinsmen in the battle, I do not  wish for victory, O Krfsh«a ! nor sovereignty, nor  pleasures ; what is .sovereignty to us, O Govinda !  what enjoyments, and even life ? Even those, for  whose sake we desire .sovereignty, enjoyments, and  pleasures, are standing here for battle, abandoning  life and wealth — preceptors, fathers, sons as well as  grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, as also (other) relatives., These  1 do not wish to kill, though they kill (me), O destroyer  of Madhu ® ! even for the sake of sovereignty over",
+   "arnold_span": "A06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "My mind reels as if drunk. I see bad omens, Krishna, and no good at all in killing my own kin.",
+   "takeaway": "When the mind spins, name exactly what you see.",
+   "provenance": [
+    "sa:1:31",
+    "telang:T13",
+    "arnold:A06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:32",
+   "devanagari": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ।\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा",
+   "iast": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca |\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā",
+   "speaker": null,
+   "telang_context": "Seeing these kinsmen, O Kmh«a ! standing (here)  anxious to engage in battle, my limbs droop down ;  my mouth is quite dried up ; a tremor comes over  my bodj- ; and my hairs stand on end ; the Gawrt^iva  (bow) slips from my hand ; my skin burns intensely,  I am unable, too, to stand up ; my mind whirls  round, as it were; O KeJava ! I see adverse omens-;  and I do not perceive any good (likely to accrue)  after killing (my) kinsmen in the battle, I do not  wish for victory, O Krfsh«a ! nor sovereignty, nor  pleasures ; what is .sovereignty to us, O Govinda !  what enjoyments, and even life ? Even those, for  whose sake we desire .sovereignty, enjoyments, and  pleasures, are standing here for battle, abandoning  life and wealth — preceptors, fathers, sons as well as  grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, as also (other) relatives., These  1 do not wish to kill, though they kill (me), O destroyer  of Madhu ® ! even for the sake of sovereignty over",
+   "arnold_span": "A06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "I want no victory, Krishna, no kingdom, no pleasures.",
+   "takeaway": "Ask what the prize is actually worth.",
+   "provenance": [
+    "sa:1:32",
+    "telang:T13",
+    "arnold:A06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:33",
+   "devanagari": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च",
+   "iast": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca |\nta ime'vasthitā yuddhe prāṇāṃstyaktvā dhanāni ca",
+   "speaker": null,
+   "telang_context": "Seeing these kinsmen, O Kmh«a ! standing (here)  anxious to engage in battle, my limbs droop down ;  my mouth is quite dried up ; a tremor comes over  my bodj- ; and my hairs stand on end ; the Gawrt^iva  (bow) slips from my hand ; my skin burns intensely,  I am unable, too, to stand up ; my mind whirls  round, as it were; O KeJava ! I see adverse omens-;  and I do not perceive any good (likely to accrue)  after killing (my) kinsmen in the battle, I do not  wish for victory, O Krfsh«a ! nor sovereignty, nor  pleasures ; what is .sovereignty to us, O Govinda !  what enjoyments, and even life ? Even those, for  whose sake we desire .sovereignty, enjoyments, and  pleasures, are standing here for battle, abandoning  life and wealth — preceptors, fathers, sons as well as  grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, as also (other) relatives., These  1 do not wish to kill, though they kill (me), O destroyer  of Madhu ® ! even for the sake of sovereignty over",
+   "arnold_span": "A06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Of what use is a kingdom to us, Govinda? What use are pleasures, or even life?",
+   "takeaway": "Count the cost before you name the prize.",
+   "provenance": [
+    "sa:1:33",
+    "telang:T13",
+    "arnold:A06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:34",
+   "devanagari": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः ।\nमातुलाः श्वशुराः पौत्राः श्यालाः संबन्धिनस्तथा",
+   "iast": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ |\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ saṃbandhinastathā",
+   "speaker": null,
+   "telang_context": "Seeing these kinsmen, O Kmh«a ! standing (here)  anxious to engage in battle, my limbs droop down ;  my mouth is quite dried up ; a tremor comes over  my bodj- ; and my hairs stand on end ; the Gawrt^iva  (bow) slips from my hand ; my skin burns intensely,  I am unable, too, to stand up ; my mind whirls  round, as it were; O KeJava ! I see adverse omens-;  and I do not perceive any good (likely to accrue)  after killing (my) kinsmen in the battle, I do not  wish for victory, O Krfsh«a ! nor sovereignty, nor  pleasures ; what is .sovereignty to us, O Govinda !  what enjoyments, and even life ? Even those, for  whose sake we desire .sovereignty, enjoyments, and  pleasures, are standing here for battle, abandoning  life and wealth — preceptors, fathers, sons as well as  grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, as also (other) relatives., These  1 do not wish to kill, though they kill (me), O destroyer  of Madhu ® ! even for the sake of sovereignty over\n\nthe three worlds, how much less then for this earth  (alone) ? What joy shall be ours, O G^anArdana !  after killing Dhrztardsh/ra’s sons ? Killing these  felons ^ we shall only incur sin. Therefore it is not  proper for us to kill our own kinsmen, the sons of  Dhrftar&sh/ra. For how, O MAdhava! shall wc be  happy after killing our own relatives ? Although  they have their consciences corrupted by avarice,  they do not see the* evils flowing from the extinction  of a family, and the sin in treachery to friends ; still,  O 6'anardana ! should not we, who do see the evils  flowing from the extinction of a family, learn to  refrain from that sin ? On the extinction of a family,  the eternal rites of families are destroyed 'I'hose  rites being destroyed, impiety predominates over the  whole family®. In consequence of the predominance  of impiety, O Kmh«a 1 the women of the family  become corrupt^; and the women becoming corrupt,  O descendant of Vr/sh/^i! intermingling of castes  results ; that intermingling necessarily leads the  family and the destroyers of the family to hell ; for  when the ceremonies of (offering) the balls of food  and water (to them) fail their ancestors fall down  (to hell). By these transgressions of the destroyers  of families, which occasion interminglings of castes,  the eternal rites of castes and rites of families are",
+   "arnold_span": "A06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The very people we want kingdoms and pleasures for stand here ready to die. Teachers, fathers, sons, grandfathers, uncles, in-laws, grandsons, brothers-in-law, kin.",
+   "takeaway": "Look at who pays for your win.",
+   "provenance": [
+    "sa:1:34",
+    "telang:T13",
+    "arnold:A06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:35",
+   "devanagari": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ।\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते",
+   "iast": "etānna hantumicchāmi ghnato'pi madhusūdana |\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte",
+   "speaker": null,
+   "telang_context": "the three worlds, how much less then for this earth  (alone) ? What joy shall be ours, O G^anArdana !  after killing Dhrztardsh/ra’s sons ? Killing these  felons ^ we shall only incur sin. Therefore it is not  proper for us to kill our own kinsmen, the sons of  Dhrftar&sh/ra. For how, O MAdhava! shall wc be  happy after killing our own relatives ? Although  they have their consciences corrupted by avarice,  they do not see the* evils flowing from the extinction  of a family, and the sin in treachery to friends ; still,  O 6'anardana ! should not we, who do see the evils  flowing from the extinction of a family, learn to  refrain from that sin ? On the extinction of a family,  the eternal rites of families are destroyed 'I'hose  rites being destroyed, impiety predominates over the  whole family®. In consequence of the predominance  of impiety, O Kmh«a 1 the women of the family  become corrupt^; and the women becoming corrupt,  O descendant of Vr/sh/^i! intermingling of castes  results ; that intermingling necessarily leads the  family and the destroyers of the family to hell ; for  when the ceremonies of (offering) the balls of food  and water (to them) fail their ancestors fall down  (to hell). By these transgressions of the destroyers  of families, which occasion interminglings of castes,  the eternal rites of castes and rites of families are",
+   "arnold_span": "A06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "I do not wish to kill these men, though they would kill me — not even to rule the three worlds, let alone this earth.",
+   "takeaway": "Some prices are too high at any scale.",
+   "provenance": [
+    "sa:1:35",
+    "telang:T13+T14-head",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:36",
+   "devanagari": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ।\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः",
+   "iast": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana |\npāpamevāśrayedasmānhatvaitānātatāyinaḥ",
+   "speaker": null,
+   "telang_context": "the three worlds, how much less then for this earth  (alone) ? What joy shall be ours, O G^anArdana !  after killing Dhrztardsh/ra’s sons ? Killing these  felons ^ we shall only incur sin. Therefore it is not  proper for us to kill our own kinsmen, the sons of  Dhrftar&sh/ra. For how, O MAdhava! shall wc be  happy after killing our own relatives ? Although  they have their consciences corrupted by avarice,  they do not see the* evils flowing from the extinction  of a family, and the sin in treachery to friends ; still,  O 6'anardana ! should not we, who do see the evils  flowing from the extinction of a family, learn to  refrain from that sin ? On the extinction of a family,  the eternal rites of families are destroyed 'I'hose  rites being destroyed, impiety predominates over the  whole family®. In consequence of the predominance  of impiety, O Kmh«a 1 the women of the family  become corrupt^; and the women becoming corrupt,  O descendant of Vr/sh/^i! intermingling of castes  results ; that intermingling necessarily leads the  family and the destroyers of the family to hell ; for  when the ceremonies of (offering) the balls of food  and water (to them) fail their ancestors fall down  (to hell). By these transgressions of the destroyers  of families, which occasion interminglings of castes,  the eternal rites of castes and rites of families are",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "What joy would be ours, Janardana, after killing Dhritarashtra's sons? Killing these criminals, sin alone would cling to us.",
+   "takeaway": "A victory that costs your conscience isn't one.",
+   "provenance": [
+    "sa:1:36",
+    "telang:T14",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:37",
+   "devanagari": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् ।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव",
+   "iast": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān |\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava",
+   "speaker": null,
+   "telang_context": "the three worlds, how much less then for this earth  (alone) ? What joy shall be ours, O G^anArdana !  after killing Dhrztardsh/ra’s sons ? Killing these  felons ^ we shall only incur sin. Therefore it is not  proper for us to kill our own kinsmen, the sons of  Dhrftar&sh/ra. For how, O MAdhava! shall wc be  happy after killing our own relatives ? Although  they have their consciences corrupted by avarice,  they do not see the* evils flowing from the extinction  of a family, and the sin in treachery to friends ; still,  O 6'anardana ! should not we, who do see the evils  flowing from the extinction of a family, learn to  refrain from that sin ? On the extinction of a family,  the eternal rites of families are destroyed 'I'hose  rites being destroyed, impiety predominates over the  whole family®. In consequence of the predominance  of impiety, O Kmh«a 1 the women of the family  become corrupt^; and the women becoming corrupt,  O descendant of Vr/sh/^i! intermingling of castes  results ; that intermingling necessarily leads the  family and the destroyers of the family to hell ; for  when the ceremonies of (offering) the balls of food  and water (to them) fail their ancestors fall down  (to hell). By these transgressions of the destroyers  of families, which occasion interminglings of castes,  the eternal rites of castes and rites of families are",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "So we must not kill our kinsmen. How could we ever be happy, Madhava, after killing our own people?",
+   "takeaway": "Ask the morning-after question before, not after.",
+   "provenance": [
+    "sa:1:37",
+    "telang:T14",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:38",
+   "devanagari": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्",
+   "iast": "yadyapyete na paśyanti lobhopahatacetasaḥ |\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam",
+   "speaker": null,
+   "telang_context": "the three worlds, how much less then for this earth  (alone) ? What joy shall be ours, O G^anArdana !  after killing Dhrztardsh/ra’s sons ? Killing these  felons ^ we shall only incur sin. Therefore it is not  proper for us to kill our own kinsmen, the sons of  Dhrftar&sh/ra. For how, O MAdhava! shall wc be  happy after killing our own relatives ? Although  they have their consciences corrupted by avarice,  they do not see the* evils flowing from the extinction  of a family, and the sin in treachery to friends ; still,  O 6'anardana ! should not we, who do see the evils  flowing from the extinction of a family, learn to  refrain from that sin ? On the extinction of a family,  the eternal rites of families are destroyed 'I'hose  rites being destroyed, impiety predominates over the  whole family®. In consequence of the predominance  of impiety, O Kmh«a 1 the women of the family  become corrupt^; and the women becoming corrupt,  O descendant of Vr/sh/^i! intermingling of castes  results ; that intermingling necessarily leads the  family and the destroyers of the family to hell ; for  when the ceremonies of (offering) the balls of food  and water (to them) fail their ancestors fall down  (to hell). By these transgressions of the destroyers  of families, which occasion interminglings of castes,  the eternal rites of castes and rites of families are",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Even though these men, blinded by greed, see no evil in wiping out a family or betraying friends —",
+   "takeaway": "Someone else's blindness doesn't excuse yours.",
+   "provenance": [
+    "sa:1:38",
+    "telang:T14",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:39",
+   "devanagari": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् ।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन",
+   "iast": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum |\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana",
+   "speaker": null,
+   "telang_context": "the three worlds, how much less then for this earth  (alone) ? What joy shall be ours, O G^anArdana !  after killing Dhrztardsh/ra’s sons ? Killing these  felons ^ we shall only incur sin. Therefore it is not  proper for us to kill our own kinsmen, the sons of  Dhrftar&sh/ra. For how, O MAdhava! shall wc be  happy after killing our own relatives ? Although  they have their consciences corrupted by avarice,  they do not see the* evils flowing from the extinction  of a family, and the sin in treachery to friends ; still,  O 6'anardana ! should not we, who do see the evils  flowing from the extinction of a family, learn to  refrain from that sin ? On the extinction of a family,  the eternal rites of families are destroyed 'I'hose  rites being destroyed, impiety predominates over the  whole family®. In consequence of the predominance  of impiety, O Kmh«a 1 the women of the family  become corrupt^; and the women becoming corrupt,  O descendant of Vr/sh/^i! intermingling of castes  results ; that intermingling necessarily leads the  family and the destroyers of the family to hell ; for  when the ceremonies of (offering) the balls of food  and water (to them) fail their ancestors fall down  (to hell). By these transgressions of the destroyers  of families, which occasion interminglings of castes,  the eternal rites of castes and rites of families are",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "should not we, who DO see the evil in destroying a family, turn back from this sin?",
+   "takeaway": "Seeing clearly obligates you.",
+   "provenance": [
+    "sa:1:39",
+    "telang:T14",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:40",
+   "devanagari": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत",
+   "iast": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ |\ndharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta",
+   "speaker": null,
+   "telang_context": "the three worlds, how much less then for this earth  (alone) ? What joy shall be ours, O G^anArdana !  after killing Dhrztardsh/ra’s sons ? Killing these  felons ^ we shall only incur sin. Therefore it is not  proper for us to kill our own kinsmen, the sons of  Dhrftar&sh/ra. For how, O MAdhava! shall wc be  happy after killing our own relatives ? Although  they have their consciences corrupted by avarice,  they do not see the* evils flowing from the extinction  of a family, and the sin in treachery to friends ; still,  O 6'anardana ! should not we, who do see the evils  flowing from the extinction of a family, learn to  refrain from that sin ? On the extinction of a family,  the eternal rites of families are destroyed 'I'hose  rites being destroyed, impiety predominates over the  whole family®. In consequence of the predominance  of impiety, O Kmh«a 1 the women of the family  become corrupt^; and the women becoming corrupt,  O descendant of Vr/sh/^i! intermingling of castes  results ; that intermingling necessarily leads the  family and the destroyers of the family to hell ; for  when the ceremonies of (offering) the balls of food  and water (to them) fail their ancestors fall down  (to hell). By these transgressions of the destroyers  of families, which occasion interminglings of castes,  the eternal rites of castes and rites of families are",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "When a family dies out, its timeless duties die with it. And when duty dies, lawlessness takes over the whole clan.",
+   "takeaway": "What holds people together needs tending, or it rots.",
+   "provenance": [
+    "sa:1:40",
+    "telang:T14",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:41",
+   "devanagari": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसंकरः",
+   "iast": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ |\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṃkaraḥ",
+   "speaker": null,
+   "telang_context": "the three worlds, how much less then for this earth  (alone) ? What joy shall be ours, O G^anArdana !  after killing Dhrztardsh/ra’s sons ? Killing these  felons ^ we shall only incur sin. Therefore it is not  proper for us to kill our own kinsmen, the sons of  Dhrftar&sh/ra. For how, O MAdhava! shall wc be  happy after killing our own relatives ? Although  they have their consciences corrupted by avarice,  they do not see the* evils flowing from the extinction  of a family, and the sin in treachery to friends ; still,  O 6'anardana ! should not we, who do see the evils  flowing from the extinction of a family, learn to  refrain from that sin ? On the extinction of a family,  the eternal rites of families are destroyed 'I'hose  rites being destroyed, impiety predominates over the  whole family®. In consequence of the predominance  of impiety, O Kmh«a 1 the women of the family  become corrupt^; and the women becoming corrupt,  O descendant of Vr/sh/^i! intermingling of castes  results ; that intermingling necessarily leads the  family and the destroyers of the family to hell ; for  when the ceremonies of (offering) the balls of food  and water (to them) fail their ancestors fall down  (to hell). By these transgressions of the destroyers  of families, which occasion interminglings of castes,  the eternal rites of castes and rites of families are",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "When lawlessness wins, Krishna, the women of the house go astray, and from that comes the mixing of duties.",
+   "takeaway": "He traces one crack as it spreads through the whole wall.",
+   "provenance": [
+    "sa:1:41",
+    "telang:T14",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:42",
+   "devanagari": "संकरो नरकायैव कुलघ्नानां कुलस्य च ।\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः",
+   "iast": "saṃkaro narakāyaiva kulaghnānāṃ kulasya ca |\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ",
+   "speaker": null,
+   "telang_context": "the three worlds, how much less then for this earth  (alone) ? What joy shall be ours, O G^anArdana !  after killing Dhrztardsh/ra’s sons ? Killing these  felons ^ we shall only incur sin. Therefore it is not  proper for us to kill our own kinsmen, the sons of  Dhrftar&sh/ra. For how, O MAdhava! shall wc be  happy after killing our own relatives ? Although  they have their consciences corrupted by avarice,  they do not see the* evils flowing from the extinction  of a family, and the sin in treachery to friends ; still,  O 6'anardana ! should not we, who do see the evils  flowing from the extinction of a family, learn to  refrain from that sin ? On the extinction of a family,  the eternal rites of families are destroyed 'I'hose  rites being destroyed, impiety predominates over the  whole family®. In consequence of the predominance  of impiety, O Kmh«a 1 the women of the family  become corrupt^; and the women becoming corrupt,  O descendant of Vr/sh/^i! intermingling of castes  results ; that intermingling necessarily leads the  family and the destroyers of the family to hell ; for  when the ceremonies of (offering) the balls of food  and water (to them) fail their ancestors fall down  (to hell). By these transgressions of the destroyers  of families, which occasion interminglings of castes,  the eternal rites of castes and rites of families are\n\nsubverted. And O <9andrdana ! we have heard  that men whose family-rites are subverted, must  necessarily live in hell. Alas ! we are engaged in  committing a heinous sin, seeing that we are making  efforts for killing our own kinsmen out of greed of  the pleasures of sovereignty. If the sons of DhrAarash/ra, weapon in hand, were to kill me in battle,  me being weaponless and not defending (myself),  that would be better for me.",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "That mixing drags the family and its destroyers down to hell. The forefathers fall, their offerings of food and water cut off.",
+   "takeaway": "Actions outlive their moment.",
+   "provenance": [
+    "sa:1:42",
+    "telang:T14",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:43",
+   "devanagari": "दोषैरेतैः कुलघ्नानां वर्णसंकरकारकैः ।\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः",
+   "iast": "doṣairetaiḥ kulaghnānāṃ varṇasaṃkarakārakaiḥ |\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ",
+   "speaker": null,
+   "telang_context": "subverted. And O <9andrdana ! we have heard  that men whose family-rites are subverted, must  necessarily live in hell. Alas ! we are engaged in  committing a heinous sin, seeing that we are making  efforts for killing our own kinsmen out of greed of  the pleasures of sovereignty. If the sons of DhrAarash/ra, weapon in hand, were to kill me in battle,  me being weaponless and not defending (myself),  that would be better for me.",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "Telang renders the 43/44 transition in one flow; span shared.",
+   "meaning_simple": "The destroyers' misdeeds wipe out the timeless duties of ranks and families.",
+   "takeaway": "Small breaks compound.",
+   "provenance": [
+    "sa:1:43",
+    "telang:T14+T15-head",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:44",
+   "devanagari": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।\nनरकेऽनियतं वासो भवतीत्यनुशुश्रुम",
+   "iast": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana |\nnarake'niyataṃ vāso bhavatītyanuśuśruma",
+   "speaker": null,
+   "telang_context": "subverted. And O <9andrdana ! we have heard  that men whose family-rites are subverted, must  necessarily live in hell. Alas ! we are engaged in  committing a heinous sin, seeing that we are making  efforts for killing our own kinsmen out of greed of  the pleasures of sovereignty. If the sons of DhrAarash/ra, weapon in hand, were to kill me in battle,  me being weaponless and not defending (myself),  that would be better for me.",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "Telang renders the 43/44 transition in one flow; span shared.",
+   "meaning_simple": "And we have heard, Janardana, that men without family duties must live in hell.",
+   "takeaway": "Tradition is cited as witness, not proof — note the honesty in 'we have heard.'",
+   "provenance": [
+    "sa:1:44",
+    "telang:T15",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:45",
+   "devanagari": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् ।\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः",
+   "iast": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam |\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ",
+   "speaker": null,
+   "telang_context": "subverted. And O <9andrdana ! we have heard  that men whose family-rites are subverted, must  necessarily live in hell. Alas ! we are engaged in  committing a heinous sin, seeing that we are making  efforts for killing our own kinsmen out of greed of  the pleasures of sovereignty. If the sons of DhrAarash/ra, weapon in hand, were to kill me in battle,  me being weaponless and not defending (myself),  that would be better for me.",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Alas! We are set to commit a terrible sin, ready to kill our own kin out of greed for a kingdom's pleasures.",
+   "takeaway": "Naming it plainly is the first honest act.",
+   "provenance": [
+    "sa:1:45",
+    "telang:T15",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:46",
+   "devanagari": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः ।\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्",
+   "iast": "yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ |\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet",
+   "speaker": null,
+   "telang_context": "subverted. And O <9andrdana ! we have heard  that men whose family-rites are subverted, must  necessarily live in hell. Alas ! we are engaged in  committing a heinous sin, seeing that we are making  efforts for killing our own kinsmen out of greed of  the pleasures of sovereignty. If the sons of DhrAarash/ra, weapon in hand, were to kill me in battle,  me being weaponless and not defending (myself),  that would be better for me.",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "If Dhritarashtra's sons killed me in battle — weaponless, refusing to fight back — that would be better for me.",
+   "takeaway": "He would rather die clean than win dirty.",
+   "provenance": [
+    "sa:1:46",
+    "telang:T15",
+    "arnold:A07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "1:47",
+   "devanagari": "एवमुक्त्वार्जुनः संख्ये रथोपस्थ उपाविशत् ।\nविसृज्य सशरं चापं शोकसंविग्नमानसः",
+   "iast": "evamuktvārjunaḥ saṃkhye rathopastha upāviśat |\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ",
+   "speaker": "सञ्जय",
+   "telang_context": "Saw^aya said:\n\nHaving spoken thus. Arfuna cast aside his bow  together with the arrows, on the battle-field, and  sat down in (his) chariot, with a mind agitated by  grief.",
+   "arnold_span": "A07",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Sanjaya said: having spoken thus, Arjuna dropped his bow and arrows. He sank into his chariot, his mind drowned in grief.",
+   "takeaway": "Sometimes the bravest move is putting the weapon down.",
+   "provenance": [
+    "sa:1:47",
+    "telang:T16+T17",
+    "arnold:A08"
+   ],
+   "status": "approved"
+  }
+ ]
+}

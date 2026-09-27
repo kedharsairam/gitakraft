@@ -24,6 +24,7 @@ from pathlib import Path
 from chapters import CHAPTERS, EXPECTED_TOTAL, WIKISOURCE_API
 from chapters import EN_WIKISOURCE_API, TELANG_INDEX, TELANG_PAGE_FROM, TELANG_PAGE_TO
 from iast import transliterate, detransliterate
+from drafting import cmd_draft, cmd_check_draft
 
 ROOT = Path(__file__).resolve().parents[2]
 RAW = ROOT / "data" / "content" / "raw"
@@ -553,7 +554,7 @@ CREATE TABLE IF NOT EXISTS chapters(
 """
 
 
-def cmd_export(args) -> int:
+def cmd_check_align(args) -> int:
     out = Path(args.out or (ROOT / "app" / "src" / "main" / "assets" / "gita.db"))
     out.parent.mkdir(parents=True, exist_ok=True)
     if out.exists():
@@ -577,7 +578,7 @@ def cmd_export(args) -> int:
     return 0
 
 
-def cmd_check_align(args) -> int:
+def cmd_export(args) -> int:
     """Verify curated align_chNN.json anchors byte-exact against sources.
 
     Every anchor quote must occur verbatim in its para; every verse 1..N
@@ -624,7 +625,8 @@ def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="gita", description="GitaKraft content pipeline")
     sub = ap.add_subparsers(dest="cmd", required=True)
     for name in ("fetch", "normalize", "transliterate", "validate", "export",
-                 "fetch_en", "norm_en", "anchor_en", "triptych", "check_align"):
+                 "fetch_en", "norm_en", "anchor_en", "triptych", "check_align",
+                 "draft", "check_draft"):
         p = sub.add_parser(name)
         p.add_argument("--chapter", type=int, default=None)
         if name == "export":
@@ -634,7 +636,8 @@ def main(argv: list[str] | None = None) -> int:
             "transliterate": cmd_transliterate, "validate": cmd_validate,
             "export": cmd_export, "fetch_en": cmd_fetch_en,
             "norm_en": cmd_norm_en, "anchor_en": cmd_anchor_en,
-            "triptych": cmd_triptych, "check_align": cmd_check_align}[args.cmd](args)
+            "triptych": cmd_triptych, "check_align": cmd_check_align,
+            "draft": cmd_draft, "check_draft": cmd_check_draft}[args.cmd](args)
 
 
 if __name__ == "__main__":
