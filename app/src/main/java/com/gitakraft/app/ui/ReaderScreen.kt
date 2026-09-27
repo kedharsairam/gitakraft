@@ -55,13 +55,15 @@ private const val DWELL_MS = 1500L
 fun ReaderScreen(
     vm: ReaderViewModel,
     id: String,
+    iastDefault: Boolean,
     onBack: () -> Unit,
     onNavigate: (String) -> Unit,
 ) {
     val verse by vm.verse(id).collectAsState(initial = null)
     val bookmarked by vm.isBookmarked(id).collectAsState(initial = false)
     val context = LocalContext.current
-    var showIast by rememberSaveable { mutableStateOf(true) }
+    val fontScale = LocalFontScale.current
+    var showIast by rememberSaveable(iastDefault) { mutableStateOf(iastDefault) }
 
     // Dwell-based read marking: cancelled automatically when [id] changes.
     LaunchedEffect(id) {
@@ -161,14 +163,17 @@ fun ReaderScreen(
             Spacer(modifier = Modifier.height(16.dp))
             Text(
                 text = v.devanagari,
-                style = VerseSanskrit,
+                style = VerseSanskrit.copy(
+                    fontSize = VerseSanskrit.fontSize * fontScale,
+                    lineHeight = VerseSanskrit.lineHeight * fontScale,
+                ),
                 textAlign = TextAlign.Center,
                 modifier = Modifier.fillMaxWidth(),
             )
             if (showIast && v.iast.isNotBlank()) {
                 Text(
                     text = v.iast,
-                    style = VerseIast,
+                    style = VerseIast.copy(fontSize = VerseIast.fontSize * fontScale),
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                     textAlign = TextAlign.Center,
                     modifier = Modifier
@@ -182,7 +187,10 @@ fun ReaderScreen(
             HorizontalDivider(modifier = Modifier.padding(vertical = 8.dp))
             Text(
                 text = v.meaning,
-                style = MaterialTheme.typography.bodyLarge,
+                style = MaterialTheme.typography.bodyLarge.copy(
+                    fontSize = MaterialTheme.typography.bodyLarge.fontSize * fontScale,
+                    lineHeight = MaterialTheme.typography.bodyLarge.lineHeight * fontScale,
+                ),
             )
             Card(
                 modifier = Modifier
@@ -200,7 +208,9 @@ fun ReaderScreen(
                     )
                     Text(
                         text = v.takeaway,
-                        style = MaterialTheme.typography.bodyMedium,
+                        style = MaterialTheme.typography.bodyMedium.copy(
+                            fontSize = MaterialTheme.typography.bodyMedium.fontSize * fontScale,
+                        ),
                         fontWeight = FontWeight.Medium,
                         modifier = Modifier.padding(top = 8.dp),
                     )

@@ -37,13 +37,15 @@ import com.gitakraft.app.domain.Reading
 fun ChapterScreen(
     vm: ChapterViewModel,
     n: Int,
-    title: String,
-    verseCount: Int,
     onBack: () -> Unit,
     onVerse: (String) -> Unit,
 ) {
+    val chapters by vm.chapters().collectAsState(initial = emptyList())
     val verses by vm.verses(n).collectAsState(initial = emptyList())
     val readIds by vm.readIds().collectAsState(initial = emptyList())
+    val meta = chapters.firstOrNull { it.n == n }
+    val title = meta?.title ?: ""
+    val verseCount = meta?.verseCount ?: 0
     val read = verses.count { it.id in readIds.toSet() }
 
     Scaffold(
