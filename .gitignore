@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+.DS_Store
+app/build/
+app/release/
+data/content/raw/
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+.pytest_cache/
+.kotlin/
