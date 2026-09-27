@@ -1,0 +1,461 @@
+{
+ "chapter": 8,
+ "records": [
+  {
+   "id": "8:1",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "Ar^una said :"
+     ]
+    },
+    {
+     "para": "T03",
+     "anchors": [
+      "What is that Brahman",
+      "is action"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:2",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "Adhibhilta",
+      "seifs"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:3",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "supreme, the indestructible",
+      "named action"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": "Speaker header P04 (\"'I'he Deity said :\") misclassified as footnote by leading-quote rule; no verse text lost."
+  },
+  {
+   "id": "8:4",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "all perishable things",
+      "I myself in this body"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:5",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "remembering me in (his) last moments",
+      "no doubt of that"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:6",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "whichever form",
+      "ponder on it"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:7",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "engage in battle",
+      "will come to"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:8",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "not(running)",
+      "goes to him"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:9",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "minutest atom",
+      "beyond all darkness"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": false,
+   "notes": "Arnold sentence runs G04->G05 (D04+D05); D05 tail ('Right life!') opens 8:10's stanza."
+  },
+  {
+   "id": "8:10",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "transcendent",
+      "briefly"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "8:11",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "indestructible",
+      "pursue the"
+     ]
+    },
+    {
+     "para": "T08",
+     "anchors": [
+      "mode of life"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": "Split across T06-tail/T08-head."
+  },
+  {
+   "id": "8:12",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "passages",
+      "uninterrupted"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:13",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "syllable",
+      "highest goal"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:14",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "practises abstraction",
+      "easy of access"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:15",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "highest perfection",
+      "home of woes"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:16",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "world of- Brahman",
+      "birth again"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:17",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "thousand ages",
+      "are the persons"
+     ]
+    },
+    {
+     "para": "T09",
+     "anchors": [
+      "day and night"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": "Split across T08-tail/T09-head."
+  },
+  {
+   "id": "8:18",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "advent of",
+      "dissolve in"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:19",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "again and",
+      "will of its own"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:20",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "another entity",
+      "not destroyed"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:21",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "highest",
+      "none returns"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:22",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "entities dwell",
+      "to another"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "8:23",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "state  the times",
+      "The fire, the flame"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 8:23-27 (G11 ellipsis divider); Telang + Sanskrit provenance only."
+  },
+  {
+   "id": "8:24",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "bright fortnight",
+      "go to the Brahman"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 8:23-27 (G11 ellipsis divider); Telang + Sanskrit provenance only."
+  },
+  {
+   "id": "8:25",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "Smoke",
+      "lunar light"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 8:23-27 (G11 ellipsis divider); Telang + Sanskrit provenance only."
+  },
+  {
+   "id": "8:26",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "bright and dark",
+      "he comes back"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 8:23-27 (G11 ellipsis divider); Telang + Sanskrit provenance only."
+  },
+  {
+   "id": "8:27",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "no devotee is deluded",
+      "possessed of devotion"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 8:23-27 (G11 ellipsis divider); Telang + Sanskrit provenance only."
+  },
+  {
+   "id": "8:28",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "holy fruit",
+      "primeval seat"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": false,
+   "notes": "Arnold resumes at G12 (=D11 skipped: G11 is the ellipsis divider, unmapped)."
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T00",
+   "reason": "Ch7 tail spillover (7:28-end-30); already aligned in ch07 with raw-offset provenance."
+  },
+  {
+   "para": "T01",
+   "reason": "Mangled chapter-end colophon ('Cri AFTER VIII.'); no verse home."
+  },
+  {
+   "para": "T05",
+   "reason": "Page-number residue (';8' = print p78)."
+  },
+  {
+   "para": "T07",
+   "reason": "Footnote commentary misclassified as text (Adhibhuta gloss, 'cf. pp. 53, 54'); belongs with footnotes."
+  }
+ ]
+}

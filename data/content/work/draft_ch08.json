@@ -1,0 +1,509 @@
+{
+ "chapter": 8,
+ "records": [
+  {
+   "id": "8:1",
+   "devanagari": "किं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम ।\nअधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते",
+   "iast": "kiṃ tadbrahma kimadhyātmaṃ kiṃ karma puruṣottama |\nadhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate",
+   "speaker": "अर्जुन",
+   "telang_context": "Ar^una said :\n\nWhat is that Brahman, what the Adhyatma, and  what, O best of beings ! is action ? And what is  called tlie Adhibhilta ? And who is the Adhiya^wa,  and hew in this body, O destroyer of Madhu ?  And how, too, are you to be knowm at the time of  departure (from this world) by those who restrain  their seifs ?",
+   "arnold_span": "D01",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Arjuna said: what is the ultimate? What is the inner self? What is action? Tell me plainly, best of beings.",
+   "takeaway": "Eight questions. The chapter answers every one.",
+   "provenance": [
+    "sa:8:1",
+    "telang:T02+T03-head",
+    "arnold:D01-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:2",
+   "devanagari": "अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन ।\nप्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः",
+   "iast": "adhiyajñaḥ kathaṃ ko'tra dehe'sminmadhusūdana |\nprayāṇakāle ca kathaṃ jñeyo'si niyatātmabhiḥ",
+   "speaker": null,
+   "telang_context": "What is that Brahman, what the Adhyatma, and  what, O best of beings ! is action ? And what is  called tlie Adhibhilta ? And who is the Adhiya^wa,  and hew in this body, O destroyer of Madhu ?  And how, too, are you to be knowm at the time of  departure (from this world) by those who restrain  their seifs ?",
+   "arnold_span": "D01",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "And what is the Lord of beings? The Lord of gods? How are You sacrifice itself, here in a body? And how do the self-controlled know You at the hour of death?",
+   "takeaway": "The questions continue. Definitions first, practice after.",
+   "provenance": [
+    "sa:8:2",
+    "telang:T03",
+    "arnold:D01-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:3",
+   "devanagari": "श्रीभगवानुवाच\nअक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।\nभूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः",
+   "iast": "śrībhagavānuvāca\nakṣaraṃ brahma paramaṃ svabhāvo'dhyātmamucyate |\nbhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ",
+   "speaker": null,
+   "telang_context": "The Brahman is the supreme, the indestructible.  Its manifestation (as an individual self) is called the  Adhyatma. The offering (of an oblation to any  divinity), which is the cause; of the production and  development of all things, is named action. The  Adhibhhta is all perishable things. The Adhiclaivata is the (primal) being. And the Adhiya^,^«a, O  best of embodied (beings) ! is I myself in this body *.",
+   "arnold_span": "D02",
+   "arnold_shared": true,
+   "align_notes": "Speaker header P04 (\"'I'he Deity said :\") misclassified as footnote by leading-quote rule; no verse text lost.",
+   "meaning_simple": "Krishna said: the ultimate is supreme and indestructible. Its dwelling in each person is the inner self. And action means the offering that creates and feeds all things.",
+   "takeaway": "Three definitions, no mystique.",
+   "provenance": [
+    "sa:8:3",
+    "telang:T04+P04hdr",
+    "arnold:D02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:4",
+   "devanagari": "अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् ।\nअधियज्ञोऽहमेवात्र देहे देहभृतां वर",
+   "iast": "adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam |\nadhiyajño'hamevātra dehe dehabhṛtāṃ vara",
+   "speaker": null,
+   "telang_context": "The Brahman is the supreme, the indestructible.  Its manifestation (as an individual self) is called the  Adhyatma. The offering (of an oblation to any  divinity), which is the cause; of the production and  development of all things, is named action. The  Adhibhhta is all perishable things. The Adhiclaivata is the (primal) being. And the Adhiya^,^«a, O  best of embodied (beings) ! is I myself in this body *.",
+   "arnold_span": "D02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The Lord of beings is all that perishes. The Lord of gods is the primal person. And the Lord of sacrifice is Myself, here in this body.",
+   "takeaway": "The remaining answers, equally direct.",
+   "provenance": [
+    "sa:8:4",
+    "telang:T04",
+    "arnold:D02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:5",
+   "devanagari": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् ।\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः",
+   "iast": "antakāle ca māmeva smaranmuktvā kalevaram |\nyaḥ prayāti sa madbhāvaṃ yāti nāstyatra saṃśayaḥ",
+   "speaker": null,
+   "telang_context": "And he who leaves this body and departs (from this  world) remembering me in (his) last moments, comes  into my essence. There is no doubt of that. Also  whichever form * (of deity) he remembers when he  finally leaves this body, to that he goes, O son of  Kimti ! having been used to ponder on it Therefore,  at all times remember me, and engage in battle. Fixing  your mind and understanding on me, you will come to  me, there is no doubt He who thinks of the supreme  divine Being, O son of IV/thU! with a mind not(running)  to other (objects), and possessed of abstraction in the  shape of continuous meditation (about the supreme),  goes to him. He who, possessed of reverence (for  the supreme Being) with a steady mind, and with  the power of devotion, properly concentrates the  life-breath between the brows*, and meditates on  the ancient Seer, the ruler, more minute than the  minutest atom*, the supporter of all, who is of an  unthinkable form, whose brilliance is like that of the  sun, and w'ho is beyond all darkness*, he attains  to that transcendent and divine Being. I® will tell  you briefly about the seat, which those who know  the Vedas declare to be indestructible; which is  entered by ascetics from whom all desires have  departed ; and wishing for which, people pursue the",
+   "arnold_span": "D02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Whoever leaves the body remembering Me at the last moment enters My being. Of this there is no doubt.",
+   "takeaway": "The final thought is the final address.",
+   "provenance": [
+    "sa:8:5",
+    "telang:T06",
+    "arnold:D02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:6",
+   "devanagari": "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।\nतं तमेवैति कौन्तेय सदा तद्भावभावितः",
+   "iast": "yaṃ yaṃ vāpi smaranbhāvaṃ tyajatyante kalevaram |\ntaṃ tamevaiti kaunteya sadā tadbhāvabhāvitaḥ",
+   "speaker": null,
+   "telang_context": "And he who leaves this body and departs (from this  world) remembering me in (his) last moments, comes  into my essence. There is no doubt of that. Also  whichever form * (of deity) he remembers when he  finally leaves this body, to that he goes, O son of  Kimti ! having been used to ponder on it Therefore,  at all times remember me, and engage in battle. Fixing  your mind and understanding on me, you will come to  me, there is no doubt He who thinks of the supreme  divine Being, O son of IV/thU! with a mind not(running)  to other (objects), and possessed of abstraction in the  shape of continuous meditation (about the supreme),  goes to him. He who, possessed of reverence (for  the supreme Being) with a steady mind, and with  the power of devotion, properly concentrates the  life-breath between the brows*, and meditates on  the ancient Seer, the ruler, more minute than the  minutest atom*, the supporter of all, who is of an  unthinkable form, whose brilliance is like that of the  sun, and w'ho is beyond all darkness*, he attains  to that transcendent and divine Being. I® will tell  you briefly about the seat, which those who know  the Vedas declare to be indestructible; which is  entered by ascetics from whom all desires have  departed ; and wishing for which, people pursue the",
+   "arnold_span": "D02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Whatever form one remembers at the end, to that one goes — shaped by a lifetime of dwelling on it.",
+   "takeaway": "You become what you rehearse.",
+   "provenance": [
+    "sa:8:6",
+    "telang:T06",
+    "arnold:D02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:7",
+   "devanagari": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम्",
+   "iast": "tasmātsarveṣu kāleṣu māmanusmara yudhya ca |\nmayyarpitamanobuddhirmāmevaiṣyasyasaṃśayam",
+   "speaker": null,
+   "telang_context": "And he who leaves this body and departs (from this  world) remembering me in (his) last moments, comes  into my essence. There is no doubt of that. Also  whichever form * (of deity) he remembers when he  finally leaves this body, to that he goes, O son of  Kimti ! having been used to ponder on it Therefore,  at all times remember me, and engage in battle. Fixing  your mind and understanding on me, you will come to  me, there is no doubt He who thinks of the supreme  divine Being, O son of IV/thU! with a mind not(running)  to other (objects), and possessed of abstraction in the  shape of continuous meditation (about the supreme),  goes to him. He who, possessed of reverence (for  the supreme Being) with a steady mind, and with  the power of devotion, properly concentrates the  life-breath between the brows*, and meditates on  the ancient Seer, the ruler, more minute than the  minutest atom*, the supporter of all, who is of an  unthinkable form, whose brilliance is like that of the  sun, and w'ho is beyond all darkness*, he attains  to that transcendent and divine Being. I® will tell  you briefly about the seat, which those who know  the Vedas declare to be indestructible; which is  entered by ascetics from whom all desires have  departed ; and wishing for which, people pursue the",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "So remember Me always — and fight. Mind and understanding fixed on Me, you will surely reach Me.",
+   "takeaway": "Remembrance and duty, at the same time.",
+   "provenance": [
+    "sa:8:7",
+    "telang:T06",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:8",
+   "devanagari": "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।\nपरमं पुरुषं दिव्यं याति पार्थानुचिन्तयन्",
+   "iast": "abhyāsayogayuktena cetasā nānyagāminā |\nparamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan",
+   "speaker": null,
+   "telang_context": "And he who leaves this body and departs (from this  world) remembering me in (his) last moments, comes  into my essence. There is no doubt of that. Also  whichever form * (of deity) he remembers when he  finally leaves this body, to that he goes, O son of  Kimti ! having been used to ponder on it Therefore,  at all times remember me, and engage in battle. Fixing  your mind and understanding on me, you will come to  me, there is no doubt He who thinks of the supreme  divine Being, O son of IV/thU! with a mind not(running)  to other (objects), and possessed of abstraction in the  shape of continuous meditation (about the supreme),  goes to him. He who, possessed of reverence (for  the supreme Being) with a steady mind, and with  the power of devotion, properly concentrates the  life-breath between the brows*, and meditates on  the ancient Seer, the ruler, more minute than the  minutest atom*, the supporter of all, who is of an  unthinkable form, whose brilliance is like that of the  sun, and w'ho is beyond all darkness*, he attains  to that transcendent and divine Being. I® will tell  you briefly about the seat, which those who know  the Vedas declare to be indestructible; which is  entered by ascetics from whom all desires have  departed ; and wishing for which, people pursue the",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Mind unwavering. Trained by steady practice. One goes to the divine supreme Person.",
+   "takeaway": "Steadiness is a trained muscle.",
+   "provenance": [
+    "sa:8:8",
+    "telang:T06",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:9",
+   "devanagari": "कविं पुराणमनुशासितारमणोरणीयांसमनुस्मरेद्यः ।\nसर्वस्य धातारमचिन्त्यरूपमादित्यवर्णं तमसः परस्तात्",
+   "iast": "kaviṃ purāṇamanuśāsitāramaṇoraṇīyāṃsamanusmaredyaḥ |\nsarvasya dhātāramacintyarūpamādityavarṇaṃ tamasaḥ parastāt",
+   "speaker": null,
+   "telang_context": "And he who leaves this body and departs (from this  world) remembering me in (his) last moments, comes  into my essence. There is no doubt of that. Also  whichever form * (of deity) he remembers when he  finally leaves this body, to that he goes, O son of  Kimti ! having been used to ponder on it Therefore,  at all times remember me, and engage in battle. Fixing  your mind and understanding on me, you will come to  me, there is no doubt He who thinks of the supreme  divine Being, O son of IV/thU! with a mind not(running)  to other (objects), and possessed of abstraction in the  shape of continuous meditation (about the supreme),  goes to him. He who, possessed of reverence (for  the supreme Being) with a steady mind, and with  the power of devotion, properly concentrates the  life-breath between the brows*, and meditates on  the ancient Seer, the ruler, more minute than the  minutest atom*, the supporter of all, who is of an  unthinkable form, whose brilliance is like that of the  sun, and w'ho is beyond all darkness*, he attains  to that transcendent and divine Being. I® will tell  you briefly about the seat, which those who know  the Vedas declare to be indestructible; which is  entered by ascetics from whom all desires have  departed ; and wishing for which, people pursue the",
+   "arnold_span": "D04",
+   "arnold_shared": false,
+   "align_notes": "Arnold sentence runs G04->G05 (D04+D05); D05 tail ('Right life!') opens 8:10's stanza.",
+   "meaning_simple": "Meditate on the ancient Seer. The ruler. Subtler than the atom. Sustainer of all. Form beyond thought. Bright as the sun. Beyond all darkness.",
+   "takeaway": "The portrait to hold in mind.",
+   "provenance": [
+    "sa:8:9",
+    "telang:T06",
+    "arnold:D04+D05-cont"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:10",
+   "devanagari": "प्रयाणकाले मनसाचलेन\nभक्त्या युक्तो योगबलेन चैव ।\nभ्रुवोर्मध्ये प्राणमावेश्य सम्यक्\nस तं परं पुरुषमुपैति दिव्यम्",
+   "iast": "prayāṇakāle manasācalena\nbhaktyā yukto yogabalena caiva |\nbhruvormadhye prāṇamāveśya samyak\nsa taṃ paraṃ puruṣamupaiti divyam",
+   "speaker": null,
+   "telang_context": "And he who leaves this body and departs (from this  world) remembering me in (his) last moments, comes  into my essence. There is no doubt of that. Also  whichever form * (of deity) he remembers when he  finally leaves this body, to that he goes, O son of  Kimti ! having been used to ponder on it Therefore,  at all times remember me, and engage in battle. Fixing  your mind and understanding on me, you will come to  me, there is no doubt He who thinks of the supreme  divine Being, O son of IV/thU! with a mind not(running)  to other (objects), and possessed of abstraction in the  shape of continuous meditation (about the supreme),  goes to him. He who, possessed of reverence (for  the supreme Being) with a steady mind, and with  the power of devotion, properly concentrates the  life-breath between the brows*, and meditates on  the ancient Seer, the ruler, more minute than the  minutest atom*, the supporter of all, who is of an  unthinkable form, whose brilliance is like that of the  sun, and w'ho is beyond all darkness*, he attains  to that transcendent and divine Being. I® will tell  you briefly about the seat, which those who know  the Vedas declare to be indestructible; which is  entered by ascetics from whom all desires have  departed ; and wishing for which, people pursue the",
+   "arnold_span": "D06",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "At the hour of departure, steady in devotion. Breath gathered between the brows. One attains that divine Being.",
+   "takeaway": "The practice for the last moment, rehearsed beforehand.",
+   "provenance": [
+    "sa:8:10",
+    "telang:T06",
+    "arnold:D06"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:11",
+   "devanagari": "यदक्षरं वेदविदो वदन्ति\nविशन्ति यद्यतयो वीतरागाः ।\nयदिच्छन्तो ब्रह्मचर्यं चरन्ति\nतत्ते पदं संग्रहेण प्रवक्ष्ये",
+   "iast": "yadakṣaraṃ vedavido vadanti\nviśanti yadyatayo vītarāgāḥ |\nyadicchanto brahmacaryaṃ caranti\ntatte padaṃ saṃgraheṇa pravakṣye",
+   "speaker": null,
+   "telang_context": "And he who leaves this body and departs (from this  world) remembering me in (his) last moments, comes  into my essence. There is no doubt of that. Also  whichever form * (of deity) he remembers when he  finally leaves this body, to that he goes, O son of  Kimti ! having been used to ponder on it Therefore,  at all times remember me, and engage in battle. Fixing  your mind and understanding on me, you will come to  me, there is no doubt He who thinks of the supreme  divine Being, O son of IV/thU! with a mind not(running)  to other (objects), and possessed of abstraction in the  shape of continuous meditation (about the supreme),  goes to him. He who, possessed of reverence (for  the supreme Being) with a steady mind, and with  the power of devotion, properly concentrates the  life-breath between the brows*, and meditates on  the ancient Seer, the ruler, more minute than the  minutest atom*, the supporter of all, who is of an  unthinkable form, whose brilliance is like that of the  sun, and w'ho is beyond all darkness*, he attains  to that transcendent and divine Being. I® will tell  you briefly about the seat, which those who know  the Vedas declare to be indestructible; which is  entered by ascetics from whom all desires have  departed ; and wishing for which, people pursue the\n\nmode of life of Brahma/'drins He who leaves the  body and departs (from this world), stopping up all  passages and confining the mind within the heart *,  placing the life-breath in the head, and adhering  to uninterrupted meditation*, repeating the single  syllable ‘ Om,’ (signifying) the eternal Brahman ®, and  meditating on me, he reaches the highest goal.  To the devotee who constantly practises abstraction,  O son of Prfthi ! and who with a mind not (turned)  to anything else, is ever and constantly meditating  on me, I am easy of access. The high-souled ones,  who achieve the highest perfection, attaining to me.  do not again come to life, which is transient, a  home of woes ®. All worlds, O Ar^una ! up to the  world of- Brahman, are (destined) to return’. But.  0 son of Kuntl ! after attaining to me, there is no  birth again. Those w'ho know a day of Brahman  to end after one thousand ages, and the night to  terminate after one thousand ages, are the persons",
+   "arnold_span": "D07",
+   "arnold_shared": false,
+   "align_notes": "Split across T06-tail/T08-head.",
+   "meaning_simple": "The wise call that goal indestructible. Free of desire, the ascetics enter it. Seekers of it live the celibate path.",
+   "takeaway": "Three traditions point at one door.",
+   "provenance": [
+    "sa:8:11",
+    "telang:T06+T08-head",
+    "arnold:D07"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:12",
+   "devanagari": "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च ।\nमूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम्",
+   "iast": "sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca |\nmūrdhnyādhāyātmanaḥ prāṇamāsthito yogadhāraṇām",
+   "speaker": null,
+   "telang_context": "mode of life of Brahma/'drins He who leaves the  body and departs (from this world), stopping up all  passages and confining the mind within the heart *,  placing the life-breath in the head, and adhering  to uninterrupted meditation*, repeating the single  syllable ‘ Om,’ (signifying) the eternal Brahman ®, and  meditating on me, he reaches the highest goal.  To the devotee who constantly practises abstraction,  O son of Prfthi ! and who with a mind not (turned)  to anything else, is ever and constantly meditating  on me, I am easy of access. The high-souled ones,  who achieve the highest perfection, attaining to me.  do not again come to life, which is transient, a  home of woes ®. All worlds, O Ar^una ! up to the  world of- Brahman, are (destined) to return’. But.  0 son of Kuntl ! after attaining to me, there is no  birth again. Those w'ho know a day of Brahman  to end after one thousand ages, and the night to  terminate after one thousand ages, are the persons",
+   "arnold_span": "D08",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Close every gate of sense. Lock the mind in the heart. Hold the breath steady. Rest in unbroken meditation.",
+   "takeaway": "The full closing sequence.",
+   "provenance": [
+    "sa:8:12",
+    "telang:T08",
+    "arnold:D08-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:13",
+   "devanagari": "ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् ।\nयः प्रयाति त्यजन्देहं स याति परमां गतिम्",
+   "iast": "omityekākṣaraṃ brahma vyāharanmāmanusmaran |\nyaḥ prayāti tyajandehaṃ sa yāti paramāṃ gatim",
+   "speaker": null,
+   "telang_context": "mode of life of Brahma/'drins He who leaves the  body and departs (from this world), stopping up all  passages and confining the mind within the heart *,  placing the life-breath in the head, and adhering  to uninterrupted meditation*, repeating the single  syllable ‘ Om,’ (signifying) the eternal Brahman ®, and  meditating on me, he reaches the highest goal.  To the devotee who constantly practises abstraction,  O son of Prfthi ! and who with a mind not (turned)  to anything else, is ever and constantly meditating  on me, I am easy of access. The high-souled ones,  who achieve the highest perfection, attaining to me.  do not again come to life, which is transient, a  home of woes ®. All worlds, O Ar^una ! up to the  world of- Brahman, are (destined) to return’. But.  0 son of Kuntl ! after attaining to me, there is no  birth again. Those w'ho know a day of Brahman  to end after one thousand ages, and the night to  terminate after one thousand ages, are the persons",
+   "arnold_span": "D08",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Chant the single syllable Om — the eternal ultimate — meditating on Me. Such a one reaches the highest goal.",
+   "takeaway": "One syllable. One thought. One destination.",
+   "provenance": [
+    "sa:8:13",
+    "telang:T08",
+    "arnold:D08-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:14",
+   "devanagari": "अनन्यचेताः सततं यो मां स्मरति नित्यशः ।\nतस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः",
+   "iast": "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ |\ntasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ",
+   "speaker": null,
+   "telang_context": "mode of life of Brahma/'drins He who leaves the  body and departs (from this world), stopping up all  passages and confining the mind within the heart *,  placing the life-breath in the head, and adhering  to uninterrupted meditation*, repeating the single  syllable ‘ Om,’ (signifying) the eternal Brahman ®, and  meditating on me, he reaches the highest goal.  To the devotee who constantly practises abstraction,  O son of Prfthi ! and who with a mind not (turned)  to anything else, is ever and constantly meditating  on me, I am easy of access. The high-souled ones,  who achieve the highest perfection, attaining to me.  do not again come to life, which is transient, a  home of woes ®. All worlds, O Ar^una ! up to the  world of- Brahman, are (destined) to return’. But.  0 son of Kuntl ! after attaining to me, there is no  birth again. Those w'ho know a day of Brahman  to end after one thousand ages, and the night to  terminate after one thousand ages, are the persons",
+   "arnold_span": "D09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "To one always yoked, meditating on Me. Mind undivided. I am easy to reach.",
+   "takeaway": "Constancy makes the infinite accessible.",
+   "provenance": [
+    "sa:8:14",
+    "telang:T08",
+    "arnold:D09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:15",
+   "devanagari": "मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम् ।\nनाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः",
+   "iast": "māmupetya punarjanma duḥkhālayamaśāśvatam |\nnāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ",
+   "speaker": null,
+   "telang_context": "mode of life of Brahma/'drins He who leaves the  body and departs (from this world), stopping up all  passages and confining the mind within the heart *,  placing the life-breath in the head, and adhering  to uninterrupted meditation*, repeating the single  syllable ‘ Om,’ (signifying) the eternal Brahman ®, and  meditating on me, he reaches the highest goal.  To the devotee who constantly practises abstraction,  O son of Prfthi ! and who with a mind not (turned)  to anything else, is ever and constantly meditating  on me, I am easy of access. The high-souled ones,  who achieve the highest perfection, attaining to me.  do not again come to life, which is transient, a  home of woes ®. All worlds, O Ar^una ! up to the  world of- Brahman, are (destined) to return’. But.  0 son of Kuntl ! after attaining to me, there is no  birth again. Those w'ho know a day of Brahman  to end after one thousand ages, and the night to  terminate after one thousand ages, are the persons",
+   "arnold_span": "D09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Great souls who reach Me never return to this passing life — this house of sorrow.",
+   "takeaway": "Graduation means no repeat term.",
+   "provenance": [
+    "sa:8:15",
+    "telang:T08",
+    "arnold:D09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:16",
+   "devanagari": "आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन ।\nमामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते",
+   "iast": "ābrahmabhuvanāllokāḥ punarāvartino'rjuna |\nmāmupetya tu kaunteya punarjanma na vidyate",
+   "speaker": null,
+   "telang_context": "mode of life of Brahma/'drins He who leaves the  body and departs (from this world), stopping up all  passages and confining the mind within the heart *,  placing the life-breath in the head, and adhering  to uninterrupted meditation*, repeating the single  syllable ‘ Om,’ (signifying) the eternal Brahman ®, and  meditating on me, he reaches the highest goal.  To the devotee who constantly practises abstraction,  O son of Prfthi ! and who with a mind not (turned)  to anything else, is ever and constantly meditating  on me, I am easy of access. The high-souled ones,  who achieve the highest perfection, attaining to me.  do not again come to life, which is transient, a  home of woes ®. All worlds, O Ar^una ! up to the  world of- Brahman, are (destined) to return’. But.  0 son of Kuntl ! after attaining to me, there is no  birth again. Those w'ho know a day of Brahman  to end after one thousand ages, and the night to  terminate after one thousand ages, are the persons",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "All worlds cycle back — even the highest heaven. But reaching Me, there is no rebirth.",
+   "takeaway": "Every address except one is temporary.",
+   "provenance": [
+    "sa:8:16",
+    "telang:T08",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:17",
+   "devanagari": "सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदुः ।\nरात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः",
+   "iast": "sahasrayugaparyantamaharyadbrahmaṇo viduḥ |\nrātriṃ yugasahasrāntāṃ te'horātravido janāḥ",
+   "speaker": null,
+   "telang_context": "mode of life of Brahma/'drins He who leaves the  body and departs (from this world), stopping up all  passages and confining the mind within the heart *,  placing the life-breath in the head, and adhering  to uninterrupted meditation*, repeating the single  syllable ‘ Om,’ (signifying) the eternal Brahman ®, and  meditating on me, he reaches the highest goal.  To the devotee who constantly practises abstraction,  O son of Prfthi ! and who with a mind not (turned)  to anything else, is ever and constantly meditating  on me, I am easy of access. The high-souled ones,  who achieve the highest perfection, attaining to me.  do not again come to life, which is transient, a  home of woes ®. All worlds, O Ar^una ! up to the  world of- Brahman, are (destined) to return’. But.  0 son of Kuntl ! after attaining to me, there is no  birth again. Those w'ho know a day of Brahman  to end after one thousand ages, and the night to  terminate after one thousand ages, are the persons\n\nwho know day and night K On the advent of <?ay,  all perceptible things are produced from the unperceived ; and on the advent of night they dissolve in  that same (principle) called the unperceived. This  same assemblage of entities, being produced again and  again, dissolves on the advent of night, and, O son  of Prfthd ! issues forth on the advent of day, without  a will of its own But there is another entity,  unperceived and eternal, and distinct from this unperceived (principle), which is not destroyed when  all entities are destroyed. It is called the unperceived, the indestructible ; they call it the highest  goal. Attaining to it, none returns ®. That is my  supreme abode. That supreme Being, O son of  PmhA ! he in whom all these entities dwell *, and  by whom all this is permeated, is to be attained to  by reverence not (directed) to another. I will state  the times, O descendant of Bharata ! at which  devotees departing (from this world) go, never to  return, or to return. The fire, the flame ®, the day,",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "Split across T08-tail/T09-head.",
+   "meaning_simple": "Those who know a day of Brahma lasts a thousand ages — and the night as long — truly know day and night.",
+   "takeaway": "Cosmic time, stated as fact.",
+   "provenance": [
+    "sa:8:17",
+    "telang:T08+T09-head",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:18",
+   "devanagari": "अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे ।\nरात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके",
+   "iast": "avyaktādvyaktayaḥ sarvāḥ prabhavantyaharāgame |\nrātryāgame pralīyante tatraivāvyaktasaṃjñake",
+   "speaker": null,
+   "telang_context": "who know day and night K On the advent of <?ay,  all perceptible things are produced from the unperceived ; and on the advent of night they dissolve in  that same (principle) called the unperceived. This  same assemblage of entities, being produced again and  again, dissolves on the advent of night, and, O son  of Prfthd ! issues forth on the advent of day, without  a will of its own But there is another entity,  unperceived and eternal, and distinct from this unperceived (principle), which is not destroyed when  all entities are destroyed. It is called the unperceived, the indestructible ; they call it the highest  goal. Attaining to it, none returns ®. That is my  supreme abode. That supreme Being, O son of  PmhA ! he in whom all these entities dwell *, and  by whom all this is permeated, is to be attained to  by reverence not (directed) to another. I will state  the times, O descendant of Bharata ! at which  devotees departing (from this world) go, never to  return, or to return. The fire, the flame ®, the day,",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "At daybreak, all visible things emerge from the unseen. At nightfall, they dissolve back into it.",
+   "takeaway": "The universe breathes in and out.",
+   "provenance": [
+    "sa:8:18",
+    "telang:T09",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:19",
+   "devanagari": "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते ।\nरात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे",
+   "iast": "bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate |\nrātryāgame'vaśaḥ pārtha prabhavatyaharāgame",
+   "speaker": null,
+   "telang_context": "who know day and night K On the advent of <?ay,  all perceptible things are produced from the unperceived ; and on the advent of night they dissolve in  that same (principle) called the unperceived. This  same assemblage of entities, being produced again and  again, dissolves on the advent of night, and, O son  of Prfthd ! issues forth on the advent of day, without  a will of its own But there is another entity,  unperceived and eternal, and distinct from this unperceived (principle), which is not destroyed when  all entities are destroyed. It is called the unperceived, the indestructible ; they call it the highest  goal. Attaining to it, none returns ®. That is my  supreme abode. That supreme Being, O son of  PmhA ! he in whom all these entities dwell *, and  by whom all this is permeated, is to be attained to  by reverence not (directed) to another. I will state  the times, O descendant of Bharata ! at which  devotees departing (from this world) go, never to  return, or to return. The fire, the flame ®, the day,",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Again and again this host of beings is born with the day. And helplessly dissolved with the night.",
+   "takeaway": "The subjunctive mood of existence.",
+   "provenance": [
+    "sa:8:19",
+    "telang:T09",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:20",
+   "devanagari": "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः ।\nयः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति",
+   "iast": "parastasmāttu bhāvo'nyo'vyakto'vyaktātsanātanaḥ |\nyaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati",
+   "speaker": null,
+   "telang_context": "who know day and night K On the advent of <?ay,  all perceptible things are produced from the unperceived ; and on the advent of night they dissolve in  that same (principle) called the unperceived. This  same assemblage of entities, being produced again and  again, dissolves on the advent of night, and, O son  of Prfthd ! issues forth on the advent of day, without  a will of its own But there is another entity,  unperceived and eternal, and distinct from this unperceived (principle), which is not destroyed when  all entities are destroyed. It is called the unperceived, the indestructible ; they call it the highest  goal. Attaining to it, none returns ®. That is my  supreme abode. That supreme Being, O son of  PmhA ! he in whom all these entities dwell *, and  by whom all this is permeated, is to be attained to  by reverence not (directed) to another. I will state  the times, O descendant of Bharata ! at which  devotees departing (from this world) go, never to  return, or to return. The fire, the flame ®, the day,",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "But beyond that unseen stands another — eternal, unperceived. Never destroyed when all is destroyed.",
+   "takeaway": "Behind the cycle, something that never cycles.",
+   "provenance": [
+    "sa:8:20",
+    "telang:T09",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:21",
+   "devanagari": "अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम् ।\nयं प्राप्य न निवर्तन्ते तद्धाम परमं मम",
+   "iast": "avyakto'kṣara ityuktastamāhuḥ paramāṃ gatim |\nyaṃ prāpya na nivartante taddhāma paramaṃ mama",
+   "speaker": null,
+   "telang_context": "who know day and night K On the advent of <?ay,  all perceptible things are produced from the unperceived ; and on the advent of night they dissolve in  that same (principle) called the unperceived. This  same assemblage of entities, being produced again and  again, dissolves on the advent of night, and, O son  of Prfthd ! issues forth on the advent of day, without  a will of its own But there is another entity,  unperceived and eternal, and distinct from this unperceived (principle), which is not destroyed when  all entities are destroyed. It is called the unperceived, the indestructible ; they call it the highest  goal. Attaining to it, none returns ®. That is my  supreme abode. That supreme Being, O son of  PmhA ! he in whom all these entities dwell *, and  by whom all this is permeated, is to be attained to  by reverence not (directed) to another. I will state  the times, O descendant of Bharata ! at which  devotees departing (from this world) go, never to  return, or to return. The fire, the flame ®, the day,",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "They call it the indestructible, the highest goal. Reaching it, none return. That is My supreme home.",
+   "takeaway": "The address that ends all addresses.",
+   "provenance": [
+    "sa:8:21",
+    "telang:T09",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:22",
+   "devanagari": "पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया ।\nयस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम्",
+   "iast": "puruṣaḥ sa paraḥ pārtha bhaktyā labhyastvananyayā |\nyasyāntaḥsthāni bhūtāni yena sarvamidaṃ tatam",
+   "speaker": null,
+   "telang_context": "who know day and night K On the advent of <?ay,  all perceptible things are produced from the unperceived ; and on the advent of night they dissolve in  that same (principle) called the unperceived. This  same assemblage of entities, being produced again and  again, dissolves on the advent of night, and, O son  of Prfthd ! issues forth on the advent of day, without  a will of its own But there is another entity,  unperceived and eternal, and distinct from this unperceived (principle), which is not destroyed when  all entities are destroyed. It is called the unperceived, the indestructible ; they call it the highest  goal. Attaining to it, none returns ®. That is my  supreme abode. That supreme Being, O son of  PmhA ! he in whom all these entities dwell *, and  by whom all this is permeated, is to be attained to  by reverence not (directed) to another. I will state  the times, O descendant of Bharata ! at which  devotees departing (from this world) go, never to  return, or to return. The fire, the flame ®, the day,",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "That supreme Person — in whom all beings dwell, who fills all this — is reached by love that wanders nowhere else.",
+   "takeaway": "Single-pointed love as a vehicle.",
+   "provenance": [
+    "sa:8:22",
+    "telang:T09",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:23",
+   "devanagari": "यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः ।\nप्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ",
+   "iast": "yatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ |\nprayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha",
+   "speaker": null,
+   "telang_context": "who know day and night K On the advent of <?ay,  all perceptible things are produced from the unperceived ; and on the advent of night they dissolve in  that same (principle) called the unperceived. This  same assemblage of entities, being produced again and  again, dissolves on the advent of night, and, O son  of Prfthd ! issues forth on the advent of day, without  a will of its own But there is another entity,  unperceived and eternal, and distinct from this unperceived (principle), which is not destroyed when  all entities are destroyed. It is called the unperceived, the indestructible ; they call it the highest  goal. Attaining to it, none returns ®. That is my  supreme abode. That supreme Being, O son of  PmhA ! he in whom all these entities dwell *, and  by whom all this is permeated, is to be attained to  by reverence not (directed) to another. I will state  the times, O descendant of Bharata ! at which  devotees departing (from this world) go, never to  return, or to return. The fire, the flame ®, the day,",
+   "arnold_span": null,
+   "arnold_shared": false,
+   "align_notes": "Arnold omits 8:23-27 (G11 ellipsis divider); Telang + Sanskrit provenance only.",
+   "meaning_simple": "Now hear the parting times. By one road, the departed never return. By the other, they come back.",
+   "takeaway": "Two exits. Know them before you need them.",
+   "provenance": [
+    "sa:8:23",
+    "telang:T09",
+    "arnold:none-omitted"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:24",
+   "devanagari": "अग्निर्ज्योतिरहः शुक्लः षण्मासा उत्तरायणम् ।\nतत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः",
+   "iast": "agnirjyotirahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam |\ntatra prayātā gacchanti brahma brahmavido janāḥ",
+   "speaker": null,
+   "telang_context": "the bright fortnight, the six months of the northern  solstice, departing (from the world) in these, those  who know the Brahman go to the Brahman. Smoke,  night, the dark fortnight, the six months of the  southern solstice, (dying) in these, the devotee goes  to the lunar light and returns These two paths,  bright and dark, are deemed to be eternal in this  world \\ By the one, (a man) goes never to return,  by the other he comes back. Knowing these two  paths, O son of P/'fthS, ! no devotee is deluded *.  Therefore at all times be possessed of devotion, O  Ar^na ! A devotee knowing all this *, obtains all  the holy fruit which is prescribed for (study of) the  Vedas, for sacrifices, and also for penances and gifts,  and he attains to the highest and primeval seat.",
+   "arnold_span": null,
+   "arnold_shared": false,
+   "align_notes": "Arnold omits 8:23-27 (G11 ellipsis divider); Telang + Sanskrit provenance only.",
+   "meaning_simple": "Fire, flame, daylight. The bright fortnight. The six months of the northern sun. Going forth in these, knowers of the ultimate reach the ultimate.",
+   "takeaway": "The road of light, itemized.",
+   "provenance": [
+    "sa:8:24",
+    "telang:T10",
+    "arnold:none-omitted"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:25",
+   "devanagari": "धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम् ।\nतत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते",
+   "iast": "dhūmo rātristathā kṛṣṇaḥ ṣaṇmāsā dakṣiṇāyanam |\ntatra cāndramasaṃ jyotiryogī prāpya nivartate",
+   "speaker": null,
+   "telang_context": "the bright fortnight, the six months of the northern  solstice, departing (from the world) in these, those  who know the Brahman go to the Brahman. Smoke,  night, the dark fortnight, the six months of the  southern solstice, (dying) in these, the devotee goes  to the lunar light and returns These two paths,  bright and dark, are deemed to be eternal in this  world \\ By the one, (a man) goes never to return,  by the other he comes back. Knowing these two  paths, O son of P/'fthS, ! no devotee is deluded *.  Therefore at all times be possessed of devotion, O  Ar^na ! A devotee knowing all this *, obtains all  the holy fruit which is prescribed for (study of) the  Vedas, for sacrifices, and also for penances and gifts,  and he attains to the highest and primeval seat.",
+   "arnold_span": null,
+   "arnold_shared": false,
+   "align_notes": "Arnold omits 8:23-27 (G11 ellipsis divider); Telang + Sanskrit provenance only.",
+   "meaning_simple": "Smoke, night, the dark fortnight. The six months of the southern sun. The traveler goes to the moonlit world — and returns.",
+   "takeaway": "The road of smoke, itemized.",
+   "provenance": [
+    "sa:8:25",
+    "telang:T10",
+    "arnold:none-omitted"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:26",
+   "devanagari": "शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते ।\nएकया यात्यनावृत्तिमन्ययावर्तते पुनः",
+   "iast": "śuklakṛṣṇe gatī hyete jagataḥ śāśvate mate |\nekayā yātyanāvṛttimanyayāvartate punaḥ",
+   "speaker": null,
+   "telang_context": "the bright fortnight, the six months of the northern  solstice, departing (from the world) in these, those  who know the Brahman go to the Brahman. Smoke,  night, the dark fortnight, the six months of the  southern solstice, (dying) in these, the devotee goes  to the lunar light and returns These two paths,  bright and dark, are deemed to be eternal in this  world \\ By the one, (a man) goes never to return,  by the other he comes back. Knowing these two  paths, O son of P/'fthS, ! no devotee is deluded *.  Therefore at all times be possessed of devotion, O  Ar^na ! A devotee knowing all this *, obtains all  the holy fruit which is prescribed for (study of) the  Vedas, for sacrifices, and also for penances and gifts,  and he attains to the highest and primeval seat.",
+   "arnold_span": null,
+   "arnold_shared": false,
+   "align_notes": "Arnold omits 8:23-27 (G11 ellipsis divider); Telang + Sanskrit provenance only.",
+   "meaning_simple": "Bright and dark — these two roads run forever. By one, no return. By the other, return.",
+   "takeaway": "The whole map in two lines.",
+   "provenance": [
+    "sa:8:26",
+    "telang:T10",
+    "arnold:none-omitted"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:27",
+   "devanagari": "नैते सृती पार्थ जानन्योगी मुह्यति कश्चन ।\nतस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन",
+   "iast": "naite sṛtī pārtha jānanyogī muhyati kaścana |\ntasmātsarveṣu kāleṣu yogayukto bhavārjuna",
+   "speaker": null,
+   "telang_context": "the bright fortnight, the six months of the northern  solstice, departing (from the world) in these, those  who know the Brahman go to the Brahman. Smoke,  night, the dark fortnight, the six months of the  southern solstice, (dying) in these, the devotee goes  to the lunar light and returns These two paths,  bright and dark, are deemed to be eternal in this  world \\ By the one, (a man) goes never to return,  by the other he comes back. Knowing these two  paths, O son of P/'fthS, ! no devotee is deluded *.  Therefore at all times be possessed of devotion, O  Ar^na ! A devotee knowing all this *, obtains all  the holy fruit which is prescribed for (study of) the  Vedas, for sacrifices, and also for penances and gifts,  and he attains to the highest and primeval seat.",
+   "arnold_span": null,
+   "arnold_shared": false,
+   "align_notes": "Arnold omits 8:23-27 (G11 ellipsis divider); Telang + Sanskrit provenance only.",
+   "meaning_simple": "Knowing both roads, no practitioner is confused. So stand in discipline at all times, Arjuna.",
+   "takeaway": "A map studied is a traveler unlost.",
+   "provenance": [
+    "sa:8:27",
+    "telang:T10",
+    "arnold:none-omitted"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "8:28",
+   "devanagari": "वेदेषु यज्ञेषु तपःसु चैव\nदानेषु यत् पुण्यफलं प्रदिष्टम् ।\nअत्येति तत्सर्वमिदं विदित्वा\nयोगी परं स्थानमुपैति चाद्यम्",
+   "iast": "vedeṣu yajñeṣu tapaḥsu caiva\ndāneṣu yat puṇyaphalaṃ pradiṣṭam |\natyeti tatsarvamidaṃ viditvā\nyogī paraṃ sthānamupaiti cādyam",
+   "speaker": null,
+   "telang_context": "the bright fortnight, the six months of the northern  solstice, departing (from the world) in these, those  who know the Brahman go to the Brahman. Smoke,  night, the dark fortnight, the six months of the  southern solstice, (dying) in these, the devotee goes  to the lunar light and returns These two paths,  bright and dark, are deemed to be eternal in this  world \\ By the one, (a man) goes never to return,  by the other he comes back. Knowing these two  paths, O son of P/'fthS, ! no devotee is deluded *.  Therefore at all times be possessed of devotion, O  Ar^na ! A devotee knowing all this *, obtains all  the holy fruit which is prescribed for (study of) the  Vedas, for sacrifices, and also for penances and gifts,  and he attains to the highest and primeval seat.",
+   "arnold_span": "D12",
+   "arnold_shared": false,
+   "align_notes": "Arnold resumes at G12 (=D11 skipped: G11 is the ellipsis divider, unmapped).",
+   "meaning_simple": "Knowing all this, one gathers every sacred reward. Scriptures and sacrifices. Disciplines and gifts. Then reaches the highest seat.",
+   "takeaway": "The chapter's closing audit: everything, plus the goal.",
+   "provenance": [
+    "sa:8:28",
+    "telang:T10",
+    "arnold:D12"
+   ],
+   "status": "approved"
+  }
+ ]
+}
