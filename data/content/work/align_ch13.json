@@ -1,0 +1,555 @@
+{
+ "chapter": 13,
+ "records": [
+  {
+   "id": "13:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "called Kshetra",
+      "knows it"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": "Arnold prefixes a question stanza (G01=D01, no vulgate home); his G02 covers 13:1-3."
+  },
+  {
+   "id": "13:2",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "in all Kshetras",
+      "real) knowledge"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:3",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "in brief what",
+      "what his powers"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:4",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "sung in various ways",
+      "full instruction"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 13:4 (G03 ellipsis divider); Telang + Sanskrit provenance only."
+  },
+  {
+   "id": "13:5",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "great elements",
+      "ten senses"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:6",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "five objects of sense"
+     ]
+    },
+    {
+     "para": "T03",
+     "anchors": [
+      "aversion",
+      "with changes"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": "Split across T01-tail/T03-head (citation fragment T02 between)."
+  },
+  {
+   "id": "13:7",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "vanity",
+      "preceptor"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:8",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "indifference",
+      "egoism"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:9",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "birth, death",
+      "son, wife"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:10",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "equability",
+      "without meditation"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:11",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "clean places",
+      "is ignorance"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:12",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "reaches immortality",
+      "non-existent"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:13",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "hands and feet",
+      "ears on all sides"
+     ]
+    },
+    {
+     "para": "T04",
+     "anchors": [
+      "pervading everything"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": "Split across T03-tail/T04-head."
+  },
+  {
+   "id": "13:14",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "devoid",
+      "enjoyer"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:15",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "without them",
+      "afar and near"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:16",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "though different",
+      "absorbs"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:17",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "beyond darkness",
+      "heart of all"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:18",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "in brief have",
+      "assimilation"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "13:19",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "without beginning",
+      "produced from nature"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:20",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "capacity of working",
+      "enjoying pleasures and"
+     ]
+    },
+    {
+     "para": "T05",
+     "anchors": [
+      "pains"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": "Split across T04-tail/T05-head."
+  },
+  {
+   "id": "13:21",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "joined",
+      "evil wombs"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:22",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "adviser",
+      "supreme self"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "13:23",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "thus knows",
+      "however living"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:24",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "by the self",
+      "Karma-yoga"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:25",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "hearing from others",
+      "cross  beyond death"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:26",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "comes into existence",
+      "connexion"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": true,
+   "notes": "Split across T05-tail/T07-head (footnotes + p106 between); T05 ends mid-13:27."
+  },
+  {
+   "id": "13:27",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "He sees (truly),"
+     ]
+    },
+    {
+     "para": "T07",
+     "anchors": [
+      "abiding",
+      "though they are destroyed"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": true,
+   "notes": "Split across T05-tail/T07-head (see 13:26 note)."
+  },
+  {
+   "id": "13:28",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "everywhere alike",
+      "highest goal"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:29",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "nature alone",
+      "not the  doer"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:30",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "variety of entities",
+      "Brahman"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:31",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "does not act",
+      "stationed in the  body"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:32",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "space is not tainted",
+      "every body"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:33",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "singly lights",
+      "whole Kshetra"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "13:34",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "eye of knowledge",
+      "go to  the supreme"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T02",
+   "reason": "Citation fragment (Dhammapada refs); footnote matter."
+  },
+  {
+   "para": "T06",
+   "reason": "Page number ('io6' = print p106)."
+  }
+ ]
+}
