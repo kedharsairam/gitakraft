@@ -444,9 +444,14 @@ def cmd_triptych(args) -> int:
             if m1 is None:
                 nxt = [o for o, c, _ in heads if c == ch + 1 and o > t0]
                 m1 = min(nxt) if nxt else None
+        else:
+            # Last chapter: bound the span at the Sanatsugatiya intro
+            # (same convention as anchor_en) — never run to EOF.
+            mend = re.search(r"SANATSU", t[t0:])
+            m1 = t0 + mend.start() if mend else None
         m0 = re.compile("x").match("x")  # placeholder replaced below
         paras = []
-        if m1 is None and ch < 18:
+        if m1 is None:
             print(f"triptych: ch{ch:02d} chapter end not found — refusing open span")
             continue
         if True:
@@ -472,9 +477,15 @@ def cmd_triptych(args) -> int:
                 # prose ("0 best of...", "1 will name...").
                 p = re.sub(r"^\d{1,2}\s+(?=[a-z])", "", p)
                 paras.append({"text": p, "footnote?": _looks_footnote(p)})
-        # Arnold chapter span.
+        # Arnold chapter span. Last chapter ends at its colophon stanza
+        # ("HERE ENDS, WITH CHAPTER XVIII ... THE BHAGAVAD-GITA."),
+        # not at EOF (footnotes + Gutenberg boilerplate follow).
         ai = arn.find(f"CHAPTER {ROMS[ch - 1]}\n")
         aj = arn.find(f"CHAPTER {ROMS[ch]}\n") if ch < 18 else len(arn)
+        if ch == 18:
+            mend = arn.find("THE BHAGAVAD-GITA.", ai)
+            if mend >= 0:
+                aj = mend + len("THE BHAGAVAD-GITA.")
         arnold = arn[ai:aj].strip() if ai >= 0 else ""
         (WORK / f"triptych_ch{ch:02d}.json").write_text(
             json.dumps({"chapter": ch,

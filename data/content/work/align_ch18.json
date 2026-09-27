@@ -1,0 +1,1294 @@
+{
+ "chapter": 18,
+ "records": [
+  {
+   "id": "18:1",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "Ar^ina-said :"
+     ]
+    },
+    {
+     "para": "T02",
+     "anchors": [
+      "destroyer",
+      "distinctly"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:2",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "The Deity said ;"
+     ]
+    },
+    {
+     "para": "T04",
+     "anchors": [
+      "rejection",
+      "fruit of all actions"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:3",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "full of evil",
+      "penance"
+     ]
+    },
+    {
+     "para": "T05",
+     "anchors": [
+      "should not be abandoned"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": false,
+   "notes": "Split across T04-tail/T05-head."
+  },
+  {
+   "id": "18:4",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "listen to my  decision",
+      "threefold"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:5",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "must needs",
+      "sanctification"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:6",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "abandoning attachment",
+      "decided opinion"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:7",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "prescribed action",
+      "darkness"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:8",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "bodily affliction",
+      "passionate abandonment"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:9",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "ought to be performed",
+      "good"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:10",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "doubts destroyed",
+      "pleasant"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:11",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "without exception",
+      "abandons the fruit"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:12",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "mixed",
+      "never to"
+     ]
+    },
+    {
+     "para": "T06",
+     "anchors": [
+      "renouncers"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": "Split across T05-tail/T06-head."
+  },
+  {
+   "id": "18:13",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "five causes",
+      "completion"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:14",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "substratum",
+      "fifth"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:15",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "just  or otherwise",
+      "its causes"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:16",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "unrefined",
+      "sees  not"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:17",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "not tainted",
+      "kills not"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:18",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "knower",
+      "in brief"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:19",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "Knowledge and action and agent"
+     ]
+    },
+    {
+     "para": "T07",
+     "anchors": [
+      "three classes",
+      "really are"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": "Split across T06-tail/T07-head."
+  },
+  {
+   "id": "18:20",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "inexhaustible",
+      "not different"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:21",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "distinctions",
+      "various entities"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:22",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "clings  to one",
+      "insignificant"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:23",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "devoid of attachment",
+      "not wishing"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:24",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "much trouble",
+      "egotism"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:25",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "commenced",
+      "injury"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:26",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "egotistic talk",
+      "ill-success"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:27",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "full of affections"
+     ]
+    },
+    {
+     "para": "T09",
+     "anchors": [
+      "covetous",
+      "joy and sorrow"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": "Split across T07-tail/T09-head (consequence-gloss T08 between)."
+  },
+  {
+   "id": "18:28",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "crafty",
+      "slow"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:29",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "intelligence  and courage",
+      "exhaustively"
+     ]
+    }
+   ],
+   "arnold": "D13",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:30",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "ought not to be done",
+      "emancipation"
+     ]
+    }
+   ],
+   "arnold": "D14",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:31",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "imperfectly",
+      "impiety"
+     ]
+    }
+   ],
+   "arnold": "D14",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:32",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "shrouded",
+      "incorrectly"
+     ]
+    }
+   ],
+   "arnold": "D14",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:33",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "unswerving",
+      "abstraction"
+     ]
+    }
+   ],
+   "arnold": "D15",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:34",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "adheres",
+      "wishes"
+     ]
+    },
+    {
+     "para": "T10",
+     "anchors": [
+      "for the fruit"
+     ]
+    }
+   ],
+   "arnold": "D15",
+   "arnold_shared": true,
+   "notes": "Split across T09-tail/T10-head."
+  },
+  {
+   "id": "18:35",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "despondency",
+      "folly"
+     ]
+    }
+   ],
+   "arnold": "D15",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:36",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "three sorts",
+      "close of all misery"
+     ]
+    }
+   ],
+   "arnold": "D16",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:37",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "nectar",
+      "clear knowledge"
+     ]
+    }
+   ],
+   "arnold": "D17",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:38",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "contact",
+      "nectar"
+     ]
+    }
+   ],
+   "arnold": "D17",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:39",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "heedlessness",
+      "consecpiences"
+     ]
+    }
+   ],
+   "arnold": "D17",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:40",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "among the gods",
+      "born of nature"
+     ]
+    }
+   ],
+   "arnold": "D18",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:41",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "Vai,ryas",
+      "distinguished"
+     ]
+    }
+   ],
+   "arnold": "D19",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:42",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "straightforwardness",
+      "Brdhma"
+     ]
+    }
+   ],
+   "arnold": "D20",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:43",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "Valour, glory, courage"
+     ]
+    },
+    {
+     "para": "T12",
+     "anchors": [
+      "slinking",
+      "Kshatriyas"
+     ]
+    }
+   ],
+   "arnold": "D20",
+   "arnold_shared": true,
+   "notes": "Split across T10-tail/T12-head (three-things gloss T11 between)."
+  },
+  {
+   "id": "18:44",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "tending cattle",
+      "service"
+     ]
+    }
+   ],
+   "arnold": "D20",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:45",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "obtains perfection",
+      "Listen"
+     ]
+    }
+   ],
+   "arnold": "D21",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:46",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "all things proceed",
+      "permeated"
+     ]
+    }
+   ],
+   "arnold": "D21",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:47",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "well performed",
+      "incur sin"
+     ]
+    }
+   ],
+   "arnold": "D22",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:48",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "tainted",
+      "fire by smoke"
+     ]
+    }
+   ],
+   "arnold": "D22",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:49",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "affections have departed",
+      "freedom from  action"
+     ]
+    }
+   ],
+   "arnold": "D22",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:50",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "obtained  perfection",
+      "culmination"
+     ]
+    }
+   ],
+   "arnold": "D23",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:51",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "pure  understanding",
+      "casting off"
+     ]
+    },
+    {
+     "para": "T13",
+     "anchors": [
+      "affection and aversion"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": "Split across T12-tail/T13-head."
+  },
+  {
+   "id": "18:52",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "eats little",
+      "unconcern"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:53",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "belongings",
+      "mine"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:54",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "wishes not",
+      "alike to all beings"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:55",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "how great",
+      "enters  into my"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:56",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "depending on me",
+      "eternal seat"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:57",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "given up to me",
+      "mental abstraction"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:58",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "difficulties",
+      "egotism"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:59",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "may not fight",
+      "vain"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:60",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "do not wish to do",
+      "involuntarily"
+     ]
+    },
+    {
+     "para": "T14",
+     "anchors": [
+      "tied down",
+      "flowing from your  nature"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": "Split across T13-tail/T14-head."
+  },
+  {
+   "id": "18:61",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "heart",
+      "machine"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:62",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "every way",
+      "tranquillity"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:63",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "mysterious",
+      "act as you like"
+     ]
+    }
+   ],
+   "arnold": "D25",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:64",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "excellent words",
+      "welfare"
+     ]
+    }
+   ],
+   "arnold": "D26",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:65",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "reverence me",
+      "dear to me"
+     ]
+    }
+   ],
+   "arnold": "D26",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:66",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "sole refuge",
+      "all sins"
+     ]
+    }
+   ],
+   "arnold": "D27",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:67",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "no penance",
+      "calumniates  me"
+     ]
+    }
+   ],
+   "arnold": "D28",
+   "arnold_shared": true,
+   "notes": "Sridhara gloss ('who performs no pious acts') dropped as footnote (T15)."
+  },
+  {
+   "id": "18:68",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "proclaim",
+      "doubts"
+     ]
+    }
+   ],
+   "arnold": "D28",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:69",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "No one"
+     ]
+    },
+    {
+     "para": "T16",
+     "anchors": [
+      "superior to him",
+      "dearer"
+     ]
+    }
+   ],
+   "arnold": "D28",
+   "arnold_shared": true,
+   "notes": "Split across T14-tail/T16-head (footnote T15 between)."
+  },
+  {
+   "id": "18:70",
+   "telang": [
+    {
+     "para": "T16",
+     "anchors": [
+      "study",
+      "knowledge"
+     ]
+    }
+   ],
+   "arnold": "D28",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:71",
+   "telang": [
+    {
+     "para": "T16",
+     "anchors": [
+      "without  carping",
+      "holy regions"
+     ]
+    }
+   ],
+   "arnold": "D28",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:72",
+   "telang": [
+    {
+     "para": "T16",
+     "anchors": [
+      "one point only",
+      "destroyed"
+     ]
+    }
+   ],
+   "arnold": "D29",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:73",
+   "telang": [
+    {
+     "para": "T17",
+     "anchors": [
+      "Ar^una said :"
+     ]
+    },
+    {
+     "para": "T18",
+     "anchors": [
+      "recollect",
+      "doubts"
+     ]
+    }
+   ],
+   "arnold": "D30",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "18:74",
+   "telang": [
+    {
+     "para": "T19",
+     "anchors": [
+      "Sa«^aya said ;"
+     ]
+    },
+    {
+     "para": "T20",
+     "anchors": [
+      "hear this dialogue",
+      "stand on end"
+     ]
+    }
+   ],
+   "arnold": "D31",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:75",
+   "telang": [
+    {
+     "para": "T20",
+     "anchors": [
+      "favour of Vydsa",
+      "in person"
+     ]
+    }
+   ],
+   "arnold": "D31",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:76",
+   "telang": [
+    {
+     "para": "T20",
+     "anchors": [
+      "holy dialogue",
+      "rejoice over"
+     ]
+    }
+   ],
+   "arnold": "D31",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "18:77",
+   "telang": [
+    {
+     "para": "T20",
+     "anchors": [
+      "remembering that"
+     ]
+    },
+    {
+     "para": "T22",
+     "anchors": [
+      "wonderful form",
+      "amazement"
+     ]
+    }
+   ],
+   "arnold": "D31",
+   "arnold_shared": true,
+   "notes": "Split across T20-tail/T22-head (page-131 T21 between)."
+  },
+  {
+   "id": "18:78",
+   "telang": [
+    {
+     "para": "T22",
+     "anchors": [
+      "archer",
+      "victory"
+     ]
+    }
+   ],
+   "arnold": "D31",
+   "arnold_shared": true,
+   "notes": ""
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T00",
+   "reason": "Ch17 tail spillover (17:27-28); already aligned in ch17 with raw-offset provenance."
+  },
+  {
+   "para": "T08",
+   "reason": "Footnote gloss on 18:25 ('Consequences = ...; loss = ...')."
+  },
+  {
+   "para": "T11",
+   "reason": "Footnote gloss on 18:34 ('the three things named')."
+  },
+  {
+   "para": "T15",
+   "reason": "Footnote (Sridhara gloss on 18:67/69)."
+  },
+  {
+   "para": "T21",
+   "reason": "Page number ('I3I' = print p131)."
+  },
+  {
+   "para": "T23",
+   "reason": "Sanatsugatiya running head ('SAN ATS U GAT I YA.')."
+  },
+  {
+   "para": "T24",
+   "reason": "Sanatsugatiya intro head ('INTRODUCTION')."
+  },
+  {
+   "para": "T25",
+   "reason": "Sanatsugatiya intro head ('TO')."
+  }
+ ]
+}

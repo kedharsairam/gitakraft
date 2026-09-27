@@ -1,0 +1,1409 @@
+{
+ "chapter": 18,
+ "records": [
+  {
+   "id": "18:1",
+   "devanagari": "संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् ।\nत्यागस्य च हृषीकेश पृथक्केशिनिषूदन",
+   "iast": "saṃnyāsasya mahābāho tattvamicchāmi veditum |\ntyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana",
+   "speaker": "अर्जुन",
+   "telang_context": "Ar^ina-said :\n\nO you of mighty arms ! O HA-fshlkera ! O destroyer of Ke.yin ! I wish to know the truth about  renunciation and abandonment distinctly.",
+   "arnold_span": "D01",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Arjuna said: mighty-armed one, I want the truth about giving up acts and giving up their fruits — distinctly.",
+   "takeaway": "The final chapter opens with the final question.",
+   "provenance": [
+    "sa:18:1",
+    "telang:T01+T02",
+    "arnold:D01"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:2",
+   "devanagari": "श्रीभगवानुवाच\nकाम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः ।\nसर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः",
+   "iast": "śrībhagavānuvāca\nkāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ |\nsarvakarmaphalatyāgaṃ prāhustyāgaṃ vicakṣaṇāḥ",
+   "speaker": null,
+   "telang_context": "The Deity said ;\n\nBy renunciation the sages understand the rejection  of actions done with desires. The wise call the  abandonment of the fruit of all actions (by the name)  abandonment. Some wise men say, that action  should be abandoned as being full of evil ; and  others, that the actions of sacrifice, gift, and penance",
+   "arnold_span": "D02",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Krishna said: dropping desire-driven acts, the poets call renunciation. Dropping every fruit, the wise call surrender.",
+   "takeaway": "Two givings-up, distinguished at last.",
+   "provenance": [
+    "sa:18:2",
+    "telang:T03+T04-head",
+    "arnold:D02"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:3",
+   "devanagari": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः ।\nयज्ञदानतपःकर्म न त्याज्यमिति चापरे",
+   "iast": "tyājyaṃ doṣavadityeke karma prāhurmanīṣiṇaḥ |\nyajñadānatapaḥkarma na tyājyamiti cāpare",
+   "speaker": null,
+   "telang_context": "By renunciation the sages understand the rejection  of actions done with desires. The wise call the  abandonment of the fruit of all actions (by the name)  abandonment. Some wise men say, that action  should be abandoned as being full of evil ; and  others, that the actions of sacrifice, gift, and penance\n\nshould not be abandoned. As to that abandonment,  O best of the. descendants of Bharata ! listen to my  decision ; for abandonment, O bravest of men ! is  described (to be) threefold. The actions of sacrifice,  gift, and penance should not be abandoned; they  must needs be performed ; for sacrifices, gifts, and  penances are means of sanctification to the wise. But  even these actions, O son of Przthii ! should be performed, abandoning attachment and fruit; such is  my excellent and decided opinion. The renunciation  of prescribed action is not proper. Its abandonment through delusion ^ is described as of the quality  of darkness. When a man abandons action, merely  as being troublesome, through fear of bodily affliction, he does not obtain the fruit * of abandonment  by making (such) passionate abandonment. When  prescribed action is performed, O Ar^ma! abandoning attachment and fruit also, merely because it  ought to be performed, that is deemed (to be) a good  abandonment. He who is possessed of abandonment®, being full of goodness, and talented, and  having his doubts destroyed, is not averse from  unpleasant actions, is not attached to pleasant *  (ones). Since no embodied (being) can abandon  actions without exception®, he is said to be possessed of abandonment, who abandons the fruit of  action. The threefold fruit of action, agr«eable, disagreeable, and mixed, accrues after death to those  who are not possessed of abandonment, but never to",
+   "arnold_span": "D03",
+   "arnold_shared": false,
+   "align_notes": "Split across T04-tail/T05-head.",
+   "meaning_simple": "Some sages say all action is tainted — abandon it. Others say ritual, charity, and discipline must stay.",
+   "takeaway": "The debate, fairly stated both ways.",
+   "provenance": [
+    "sa:18:3",
+    "telang:T04+T05-head",
+    "arnold:D03"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:4",
+   "devanagari": "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम ।\nत्यागो हि पुरुषव्याघ्र त्रिविधः संप्रकीर्तितः",
+   "iast": "niścayaṃ śṛṇu me tatra tyāge bharatasattama |\ntyāgo hi puruṣavyāghra trividhaḥ saṃprakīrtitaḥ",
+   "speaker": null,
+   "telang_context": "should not be abandoned. As to that abandonment,  O best of the. descendants of Bharata ! listen to my  decision ; for abandonment, O bravest of men ! is  described (to be) threefold. The actions of sacrifice,  gift, and penance should not be abandoned; they  must needs be performed ; for sacrifices, gifts, and  penances are means of sanctification to the wise. But  even these actions, O son of Przthii ! should be performed, abandoning attachment and fruit; such is  my excellent and decided opinion. The renunciation  of prescribed action is not proper. Its abandonment through delusion ^ is described as of the quality  of darkness. When a man abandons action, merely  as being troublesome, through fear of bodily affliction, he does not obtain the fruit * of abandonment  by making (such) passionate abandonment. When  prescribed action is performed, O Ar^ma! abandoning attachment and fruit also, merely because it  ought to be performed, that is deemed (to be) a good  abandonment. He who is possessed of abandonment®, being full of goodness, and talented, and  having his doubts destroyed, is not averse from  unpleasant actions, is not attached to pleasant *  (ones). Since no embodied (being) can abandon  actions without exception®, he is said to be possessed of abandonment, who abandons the fruit of  action. The threefold fruit of action, agr«eable, disagreeable, and mixed, accrues after death to those  who are not possessed of abandonment, but never to",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Hear My verdict on surrender. It runs threefold, best of Bharatas.",
+   "takeaway": "The judge speaks. Three kinds coming.",
+   "provenance": [
+    "sa:18:4",
+    "telang:T05",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:5",
+   "devanagari": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् ।\nयज्ञो दानं तपश्चैव पावनानि मनीषिणाम्",
+   "iast": "yajñadānatapaḥkarma na tyājyaṃ kāryameva tat |\nyajño dānaṃ tapaścaiva pāvanāni manīṣiṇām",
+   "speaker": null,
+   "telang_context": "should not be abandoned. As to that abandonment,  O best of the. descendants of Bharata ! listen to my  decision ; for abandonment, O bravest of men ! is  described (to be) threefold. The actions of sacrifice,  gift, and penance should not be abandoned; they  must needs be performed ; for sacrifices, gifts, and  penances are means of sanctification to the wise. But  even these actions, O son of Przthii ! should be performed, abandoning attachment and fruit; such is  my excellent and decided opinion. The renunciation  of prescribed action is not proper. Its abandonment through delusion ^ is described as of the quality  of darkness. When a man abandons action, merely  as being troublesome, through fear of bodily affliction, he does not obtain the fruit * of abandonment  by making (such) passionate abandonment. When  prescribed action is performed, O Ar^ma! abandoning attachment and fruit also, merely because it  ought to be performed, that is deemed (to be) a good  abandonment. He who is possessed of abandonment®, being full of goodness, and talented, and  having his doubts destroyed, is not averse from  unpleasant actions, is not attached to pleasant *  (ones). Since no embodied (being) can abandon  actions without exception®, he is said to be possessed of abandonment, who abandons the fruit of  action. The threefold fruit of action, agr«eable, disagreeable, and mixed, accrues after death to those  who are not possessed of abandonment, but never to",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Ritual, charity, discipline — never abandon these. They must be done. They purify even the wise.",
+   "takeaway": "Three keepers. Non-negotiable.",
+   "provenance": [
+    "sa:18:5",
+    "telang:T05",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:6",
+   "devanagari": "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च ।\nकर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम्",
+   "iast": "etānyapi tu karmāṇi saṅgaṃ tyaktvā phalāni ca |\nkartavyānīti me pārtha niścitaṃ matamuttamam",
+   "speaker": null,
+   "telang_context": "should not be abandoned. As to that abandonment,  O best of the. descendants of Bharata ! listen to my  decision ; for abandonment, O bravest of men ! is  described (to be) threefold. The actions of sacrifice,  gift, and penance should not be abandoned; they  must needs be performed ; for sacrifices, gifts, and  penances are means of sanctification to the wise. But  even these actions, O son of Przthii ! should be performed, abandoning attachment and fruit; such is  my excellent and decided opinion. The renunciation  of prescribed action is not proper. Its abandonment through delusion ^ is described as of the quality  of darkness. When a man abandons action, merely  as being troublesome, through fear of bodily affliction, he does not obtain the fruit * of abandonment  by making (such) passionate abandonment. When  prescribed action is performed, O Ar^ma! abandoning attachment and fruit also, merely because it  ought to be performed, that is deemed (to be) a good  abandonment. He who is possessed of abandonment®, being full of goodness, and talented, and  having his doubts destroyed, is not averse from  unpleasant actions, is not attached to pleasant *  (ones). Since no embodied (being) can abandon  actions without exception®, he is said to be possessed of abandonment, who abandons the fruit of  action. The threefold fruit of action, agr«eable, disagreeable, and mixed, accrues after death to those  who are not possessed of abandonment, but never to",
+   "arnold_span": "D05",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Yet do even these without clinging or hunger for results. That is My settled, final word.",
+   "takeaway": "Signed and sealed opinion.",
+   "provenance": [
+    "sa:18:6",
+    "telang:T05",
+    "arnold:D05"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:7",
+   "devanagari": "नियतस्य तु संन्यासः कर्मणो नोपपद्यते ।\nमोहात्तस्य परित्यागस्तामसः परिकीर्तितः",
+   "iast": "niyatasya tu saṃnyāsaḥ karmaṇo nopapadyate |\nmohāttasya parityāgastāmasaḥ parikīrtitaḥ",
+   "speaker": null,
+   "telang_context": "should not be abandoned. As to that abandonment,  O best of the. descendants of Bharata ! listen to my  decision ; for abandonment, O bravest of men ! is  described (to be) threefold. The actions of sacrifice,  gift, and penance should not be abandoned; they  must needs be performed ; for sacrifices, gifts, and  penances are means of sanctification to the wise. But  even these actions, O son of Przthii ! should be performed, abandoning attachment and fruit; such is  my excellent and decided opinion. The renunciation  of prescribed action is not proper. Its abandonment through delusion ^ is described as of the quality  of darkness. When a man abandons action, merely  as being troublesome, through fear of bodily affliction, he does not obtain the fruit * of abandonment  by making (such) passionate abandonment. When  prescribed action is performed, O Ar^ma! abandoning attachment and fruit also, merely because it  ought to be performed, that is deemed (to be) a good  abandonment. He who is possessed of abandonment®, being full of goodness, and talented, and  having his doubts destroyed, is not averse from  unpleasant actions, is not attached to pleasant *  (ones). Since no embodied (being) can abandon  actions without exception®, he is said to be possessed of abandonment, who abandons the fruit of  action. The threefold fruit of action, agr«eable, disagreeable, and mixed, accrues after death to those  who are not possessed of abandonment, but never to",
+   "arnold_span": "D06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Refusing required duty is wrong. Quitting it from confusion is dark surrender.",
+   "takeaway": "Duty dodged is not duty transcended.",
+   "provenance": [
+    "sa:18:7",
+    "telang:T05",
+    "arnold:D06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:8",
+   "devanagari": "दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् ।\nस कृत्वा राजसं त्यागं नैव त्यागफलं लभेत्",
+   "iast": "duḥkhamityeva yatkarma kāyakleśabhayāttyajet |\nsa kṛtvā rājasaṃ tyāgaṃ naiva tyāgaphalaṃ labhet",
+   "speaker": null,
+   "telang_context": "should not be abandoned. As to that abandonment,  O best of the. descendants of Bharata ! listen to my  decision ; for abandonment, O bravest of men ! is  described (to be) threefold. The actions of sacrifice,  gift, and penance should not be abandoned; they  must needs be performed ; for sacrifices, gifts, and  penances are means of sanctification to the wise. But  even these actions, O son of Przthii ! should be performed, abandoning attachment and fruit; such is  my excellent and decided opinion. The renunciation  of prescribed action is not proper. Its abandonment through delusion ^ is described as of the quality  of darkness. When a man abandons action, merely  as being troublesome, through fear of bodily affliction, he does not obtain the fruit * of abandonment  by making (such) passionate abandonment. When  prescribed action is performed, O Ar^ma! abandoning attachment and fruit also, merely because it  ought to be performed, that is deemed (to be) a good  abandonment. He who is possessed of abandonment®, being full of goodness, and talented, and  having his doubts destroyed, is not averse from  unpleasant actions, is not attached to pleasant *  (ones). Since no embodied (being) can abandon  actions without exception®, he is said to be possessed of abandonment, who abandons the fruit of  action. The threefold fruit of action, agr«eable, disagreeable, and mixed, accrues after death to those  who are not possessed of abandonment, but never to",
+   "arnold_span": "D06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Quitting hard duty from fear of hardship earns nothing. That is passionate surrender.",
+   "takeaway": "Comfort is a poor guru.",
+   "provenance": [
+    "sa:18:8",
+    "telang:T05",
+    "arnold:D06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:9",
+   "devanagari": "कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन ।\nसङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः",
+   "iast": "kāryamityeva yatkarma niyataṃ kriyate'rjuna |\nsaṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ",
+   "speaker": null,
+   "telang_context": "should not be abandoned. As to that abandonment,  O best of the. descendants of Bharata ! listen to my  decision ; for abandonment, O bravest of men ! is  described (to be) threefold. The actions of sacrifice,  gift, and penance should not be abandoned; they  must needs be performed ; for sacrifices, gifts, and  penances are means of sanctification to the wise. But  even these actions, O son of Przthii ! should be performed, abandoning attachment and fruit; such is  my excellent and decided opinion. The renunciation  of prescribed action is not proper. Its abandonment through delusion ^ is described as of the quality  of darkness. When a man abandons action, merely  as being troublesome, through fear of bodily affliction, he does not obtain the fruit * of abandonment  by making (such) passionate abandonment. When  prescribed action is performed, O Ar^ma! abandoning attachment and fruit also, merely because it  ought to be performed, that is deemed (to be) a good  abandonment. He who is possessed of abandonment®, being full of goodness, and talented, and  having his doubts destroyed, is not averse from  unpleasant actions, is not attached to pleasant *  (ones). Since no embodied (being) can abandon  actions without exception®, he is said to be possessed of abandonment, who abandons the fruit of  action. The threefold fruit of action, agr«eable, disagreeable, and mixed, accrues after death to those  who are not possessed of abandonment, but never to",
+   "arnold_span": "D06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Doing required duty detached and fruit-free. Simply because it must be done. That is clear surrender.",
+   "takeaway": "The gold standard, stated simply.",
+   "provenance": [
+    "sa:18:9",
+    "telang:T05",
+    "arnold:D06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:10",
+   "devanagari": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते ।\nत्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः",
+   "iast": "na dveṣṭyakuśalaṃ karma kuśale nānuṣajjate |\ntyāgī sattvasamāviṣṭo medhāvī chinnasaṃśayaḥ",
+   "speaker": null,
+   "telang_context": "should not be abandoned. As to that abandonment,  O best of the. descendants of Bharata ! listen to my  decision ; for abandonment, O bravest of men ! is  described (to be) threefold. The actions of sacrifice,  gift, and penance should not be abandoned; they  must needs be performed ; for sacrifices, gifts, and  penances are means of sanctification to the wise. But  even these actions, O son of Przthii ! should be performed, abandoning attachment and fruit; such is  my excellent and decided opinion. The renunciation  of prescribed action is not proper. Its abandonment through delusion ^ is described as of the quality  of darkness. When a man abandons action, merely  as being troublesome, through fear of bodily affliction, he does not obtain the fruit * of abandonment  by making (such) passionate abandonment. When  prescribed action is performed, O Ar^ma! abandoning attachment and fruit also, merely because it  ought to be performed, that is deemed (to be) a good  abandonment. He who is possessed of abandonment®, being full of goodness, and talented, and  having his doubts destroyed, is not averse from  unpleasant actions, is not attached to pleasant *  (ones). Since no embodied (being) can abandon  actions without exception®, he is said to be possessed of abandonment, who abandons the fruit of  action. The threefold fruit of action, agr«eable, disagreeable, and mixed, accrues after death to those  who are not possessed of abandonment, but never to",
+   "arnold_span": "D06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The clear surrenderer neither hates hard tasks nor clings to easy ones. Doubts gone, wisdom full.",
+   "takeaway": "Equanimity toward the task list.",
+   "provenance": [
+    "sa:18:10",
+    "telang:T05",
+    "arnold:D06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:11",
+   "devanagari": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः ।\nयस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते",
+   "iast": "na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇyaśeṣataḥ |\nyastu karmaphalatyāgī sa tyāgītyabhidhīyate",
+   "speaker": null,
+   "telang_context": "should not be abandoned. As to that abandonment,  O best of the. descendants of Bharata ! listen to my  decision ; for abandonment, O bravest of men ! is  described (to be) threefold. The actions of sacrifice,  gift, and penance should not be abandoned; they  must needs be performed ; for sacrifices, gifts, and  penances are means of sanctification to the wise. But  even these actions, O son of Przthii ! should be performed, abandoning attachment and fruit; such is  my excellent and decided opinion. The renunciation  of prescribed action is not proper. Its abandonment through delusion ^ is described as of the quality  of darkness. When a man abandons action, merely  as being troublesome, through fear of bodily affliction, he does not obtain the fruit * of abandonment  by making (such) passionate abandonment. When  prescribed action is performed, O Ar^ma! abandoning attachment and fruit also, merely because it  ought to be performed, that is deemed (to be) a good  abandonment. He who is possessed of abandonment®, being full of goodness, and talented, and  having his doubts destroyed, is not averse from  unpleasant actions, is not attached to pleasant *  (ones). Since no embodied (being) can abandon  actions without exception®, he is said to be possessed of abandonment, who abandons the fruit of  action. The threefold fruit of action, agr«eable, disagreeable, and mixed, accrues after death to those  who are not possessed of abandonment, but never to",
+   "arnold_span": "D06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "No embodied being can quit acting entirely. Who quits the fruits is the true surrenderer.",
+   "takeaway": "Hands will act. Let motives rest.",
+   "provenance": [
+    "sa:18:11",
+    "telang:T05",
+    "arnold:D06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:12",
+   "devanagari": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् ।\nभवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित्",
+   "iast": "aniṣṭamiṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam |\nbhavatyatyāgināṃ pretya na tu saṃnyāsināṃ kvacit",
+   "speaker": null,
+   "telang_context": "should not be abandoned. As to that abandonment,  O best of the. descendants of Bharata ! listen to my  decision ; for abandonment, O bravest of men ! is  described (to be) threefold. The actions of sacrifice,  gift, and penance should not be abandoned; they  must needs be performed ; for sacrifices, gifts, and  penances are means of sanctification to the wise. But  even these actions, O son of Przthii ! should be performed, abandoning attachment and fruit; such is  my excellent and decided opinion. The renunciation  of prescribed action is not proper. Its abandonment through delusion ^ is described as of the quality  of darkness. When a man abandons action, merely  as being troublesome, through fear of bodily affliction, he does not obtain the fruit * of abandonment  by making (such) passionate abandonment. When  prescribed action is performed, O Ar^ma! abandoning attachment and fruit also, merely because it  ought to be performed, that is deemed (to be) a good  abandonment. He who is possessed of abandonment®, being full of goodness, and talented, and  having his doubts destroyed, is not averse from  unpleasant actions, is not attached to pleasant *  (ones). Since no embodied (being) can abandon  actions without exception®, he is said to be possessed of abandonment, who abandons the fruit of  action. The threefold fruit of action, agr«eable, disagreeable, and mixed, accrues after death to those  who are not possessed of abandonment, but never to\n\nrenouncers Learn from me, O you of mighty arms !  these five causes of the completion of all actions,  declared in the S&nkhya system The substratum,  the agent likewise, the various sorts of organs, and  the various and distinct movements, and with these  the deities, too, as the fifth. Whatever action, just  or otherwise, a man performs with his body, speech,  and mind, these five are its causes. That being so, the  undiscerning man, who being of an unrefined understanding, sees the agent in the immaculate self, sees  not (rightly) He who has no feeling of egoism*,  and whose mind is not tainted, even though he kills  (all) these people, kills not, is not fettered ® (by the  action). Knowledge ®, the object of knowledge, the  knower — threefold is the prompting to action. The  instrument, the action, the agent, thus in brief is  action threefold. Knowledge and action and agent",
+   "arnold_span": "D07",
+   "arnold_shared": false,
+   "align_notes": "Split across T05-tail/T06-head.",
+   "meaning_simple": "Pleasant, painful, mixed. Triple harvest for the un-surrendered hereafter. Never for the surrendered.",
+   "takeaway": "Three fruits for the clinging. None for the free.",
+   "provenance": [
+    "sa:18:12",
+    "telang:T05+T06-head",
+    "arnold:D07"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:13",
+   "devanagari": "पञ्चैतानि महाबाहो कारणानि निबोध मे ।\nसांख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम्",
+   "iast": "pañcaitāni mahābāho kāraṇāni nibodha me |\nsāṃkhye kṛtānte proktāni siddhaye sarvakarmaṇām",
+   "speaker": null,
+   "telang_context": "renouncers Learn from me, O you of mighty arms !  these five causes of the completion of all actions,  declared in the S&nkhya system The substratum,  the agent likewise, the various sorts of organs, and  the various and distinct movements, and with these  the deities, too, as the fifth. Whatever action, just  or otherwise, a man performs with his body, speech,  and mind, these five are its causes. That being so, the  undiscerning man, who being of an unrefined understanding, sees the agent in the immaculate self, sees  not (rightly) He who has no feeling of egoism*,  and whose mind is not tainted, even though he kills  (all) these people, kills not, is not fettered ® (by the  action). Knowledge ®, the object of knowledge, the  knower — threefold is the prompting to action. The  instrument, the action, the agent, thus in brief is  action threefold. Knowledge and action and agent",
+   "arnold_span": "D08",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Learn the five makers of every act, taught in Sankhya wisdom.",
+   "takeaway": "Action has five parents. Meet them.",
+   "provenance": [
+    "sa:18:13",
+    "telang:T06",
+    "arnold:D08-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:14",
+   "devanagari": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् ।\nविविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम्",
+   "iast": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham |\nvividhāśca pṛthakceṣṭā daivaṃ caivātra pañcamam",
+   "speaker": null,
+   "telang_context": "renouncers Learn from me, O you of mighty arms !  these five causes of the completion of all actions,  declared in the S&nkhya system The substratum,  the agent likewise, the various sorts of organs, and  the various and distinct movements, and with these  the deities, too, as the fifth. Whatever action, just  or otherwise, a man performs with his body, speech,  and mind, these five are its causes. That being so, the  undiscerning man, who being of an unrefined understanding, sees the agent in the immaculate self, sees  not (rightly) He who has no feeling of egoism*,  and whose mind is not tainted, even though he kills  (all) these people, kills not, is not fettered ® (by the  action). Knowledge ®, the object of knowledge, the  knower — threefold is the prompting to action. The  instrument, the action, the agent, thus in brief is  action threefold. Knowledge and action and agent",
+   "arnold_span": "D08",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The body, the doer, the instruments, the efforts, and fate as fifth.",
+   "takeaway": "The full committee behind every deed.",
+   "provenance": [
+    "sa:18:14",
+    "telang:T06",
+    "arnold:D08-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:15",
+   "devanagari": "शरीरवाङ्‌मनोभिर्यत्कर्म प्रारभते नरः ।\nन्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः",
+   "iast": "śarīravāṅ‌manobhiryatkarma prārabhate naraḥ |\nnyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ",
+   "speaker": null,
+   "telang_context": "renouncers Learn from me, O you of mighty arms !  these five causes of the completion of all actions,  declared in the S&nkhya system The substratum,  the agent likewise, the various sorts of organs, and  the various and distinct movements, and with these  the deities, too, as the fifth. Whatever action, just  or otherwise, a man performs with his body, speech,  and mind, these five are its causes. That being so, the  undiscerning man, who being of an unrefined understanding, sees the agent in the immaculate self, sees  not (rightly) He who has no feeling of egoism*,  and whose mind is not tainted, even though he kills  (all) these people, kills not, is not fettered ® (by the  action). Knowledge ®, the object of knowledge, the  knower — threefold is the prompting to action. The  instrument, the action, the agent, thus in brief is  action threefold. Knowledge and action and agent",
+   "arnold_span": "D08",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Whatever one does — body, speech, or mind, right or wrong — these five cause it.",
+   "takeaway": "No act has a single author.",
+   "provenance": [
+    "sa:18:15",
+    "telang:T06",
+    "arnold:D08-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:16",
+   "devanagari": "तत्रैवं सति कर्तारमात्मानं केवलं तु यः ।\nपश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः",
+   "iast": "tatraivaṃ sati kartāramātmānaṃ kevalaṃ tu yaḥ |\npaśyatyakṛtabuddhitvānna sa paśyati durmatiḥ",
+   "speaker": null,
+   "telang_context": "renouncers Learn from me, O you of mighty arms !  these five causes of the completion of all actions,  declared in the S&nkhya system The substratum,  the agent likewise, the various sorts of organs, and  the various and distinct movements, and with these  the deities, too, as the fifth. Whatever action, just  or otherwise, a man performs with his body, speech,  and mind, these five are its causes. That being so, the  undiscerning man, who being of an unrefined understanding, sees the agent in the immaculate self, sees  not (rightly) He who has no feeling of egoism*,  and whose mind is not tainted, even though he kills  (all) these people, kills not, is not fettered ® (by the  action). Knowledge ®, the object of knowledge, the  knower — threefold is the prompting to action. The  instrument, the action, the agent, thus in brief is  action threefold. Knowledge and action and agent",
+   "arnold_span": "D08",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Who sees the spotless Self as the lone doer, dim of mind, sees nothing rightly.",
+   "takeaway": "Blaming the soul for the committee's work.",
+   "provenance": [
+    "sa:18:16",
+    "telang:T06",
+    "arnold:D08-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:17",
+   "devanagari": "यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते ।\nहत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते",
+   "iast": "yasya nāhaṃkṛto bhāvo buddhiryasya na lipyate |\nhatvāpi sa imām̐llokānna hanti na nibadhyate",
+   "speaker": null,
+   "telang_context": "renouncers Learn from me, O you of mighty arms !  these five causes of the completion of all actions,  declared in the S&nkhya system The substratum,  the agent likewise, the various sorts of organs, and  the various and distinct movements, and with these  the deities, too, as the fifth. Whatever action, just  or otherwise, a man performs with his body, speech,  and mind, these five are its causes. That being so, the  undiscerning man, who being of an unrefined understanding, sees the agent in the immaculate self, sees  not (rightly) He who has no feeling of egoism*,  and whose mind is not tainted, even though he kills  (all) these people, kills not, is not fettered ® (by the  action). Knowledge ®, the object of knowledge, the  knower — threefold is the prompting to action. The  instrument, the action, the agent, thus in brief is  action threefold. Knowledge and action and agent",
+   "arnold_span": "D08",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Ego gone, heart unstained — even slaying these armies, one slays not, nor is bound.",
+   "takeaway": "The verse Arjuna needed on page one.",
+   "provenance": [
+    "sa:18:17",
+    "telang:T06",
+    "arnold:D08-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:18",
+   "devanagari": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना ।\nकरणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः",
+   "iast": "jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā |\nkaraṇaṃ karma karteti trividhaḥ karmasaṃgrahaḥ",
+   "speaker": null,
+   "telang_context": "renouncers Learn from me, O you of mighty arms !  these five causes of the completion of all actions,  declared in the S&nkhya system The substratum,  the agent likewise, the various sorts of organs, and  the various and distinct movements, and with these  the deities, too, as the fifth. Whatever action, just  or otherwise, a man performs with his body, speech,  and mind, these five are its causes. That being so, the  undiscerning man, who being of an unrefined understanding, sees the agent in the immaculate self, sees  not (rightly) He who has no feeling of egoism*,  and whose mind is not tainted, even though he kills  (all) these people, kills not, is not fettered ® (by the  action). Knowledge ®, the object of knowledge, the  knower — threefold is the prompting to action. The  instrument, the action, the agent, thus in brief is  action threefold. Knowledge and action and agent",
+   "arnold_span": "D09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Knowing, known, knower — three spurs to action. Tool, deed, doer — action's triple shape.",
+   "takeaway": "The anatomy of every act.",
+   "provenance": [
+    "sa:18:18",
+    "telang:T06",
+    "arnold:D09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:19",
+   "devanagari": "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः ।\nप्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि",
+   "iast": "jñānaṃ karma ca kartā ca tridhaiva guṇabhedataḥ |\nprocyate guṇasaṃkhyāne yathāvacchṛṇu tānyapi",
+   "speaker": null,
+   "telang_context": "renouncers Learn from me, O you of mighty arms !  these five causes of the completion of all actions,  declared in the S&nkhya system The substratum,  the agent likewise, the various sorts of organs, and  the various and distinct movements, and with these  the deities, too, as the fifth. Whatever action, just  or otherwise, a man performs with his body, speech,  and mind, these five are its causes. That being so, the  undiscerning man, who being of an unrefined understanding, sees the agent in the immaculate self, sees  not (rightly) He who has no feeling of egoism*,  and whose mind is not tainted, even though he kills  (all) these people, kills not, is not fettered ® (by the  action). Knowledge ®, the object of knowledge, the  knower — threefold is the prompting to action. The  instrument, the action, the agent, thus in brief is  action threefold. Knowledge and action and agent\n\nare declared in the enumeration of qualities ’ (to be)  of three classes only, according to the difference of  qualities. Hear about these also as they really are.  Know that knowledge to be good, by which (a man)  sees one entity, inexhaustible, and not different in  all things (apparently) different ® (from one another).  Know that knowledge to be passionate, which is  (based) on distinctions ® (between different entities),  which sees in all things various entities of different  kinds. And that is described as dark, which clings  to one created (thing) only as everything, which is  devoid of reason, devoid of real principle, and insignificant ^ That action is called good, which is  prescribed, which is devoid of attachment, which is  not done from (motives of) affection or aversion, *  (and which is done) by one not wishing for the  fruit. That is described as passionate, which (occasions) much trouble, is performed by one who  wishes for objects of desire, or one who is full of  egotism ®. The action is called dark, which is commenced through delusion, without regard to consequences, loss, injury, or strength ®. That agent is  called good, who has cast off attachment, who is free  from egotistic talk, who is possessed of courage and  energy, and unaffected by success or ill-success. That  agent is called passionate, who is full of affections",
+   "arnold_span": "D09",
+   "arnold_shared": true,
+   "align_notes": "Split across T06-tail/T07-head.",
+   "meaning_simple": "Wisdom, work, and worker each run threefold by nature's moods. Hear them truly told.",
+   "takeaway": "Three times three. Listen well.",
+   "provenance": [
+    "sa:18:19",
+    "telang:T06+T07-head",
+    "arnold:D09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:20",
+   "devanagari": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते ।\nअविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम्",
+   "iast": "sarvabhūteṣu yenaikaṃ bhāvamavyayamīkṣate |\navibhaktaṃ vibhakteṣu tajjñānaṃ viddhi sāttvikam",
+   "speaker": null,
+   "telang_context": "are declared in the enumeration of qualities ’ (to be)  of three classes only, according to the difference of  qualities. Hear about these also as they really are.  Know that knowledge to be good, by which (a man)  sees one entity, inexhaustible, and not different in  all things (apparently) different ® (from one another).  Know that knowledge to be passionate, which is  (based) on distinctions ® (between different entities),  which sees in all things various entities of different  kinds. And that is described as dark, which clings  to one created (thing) only as everything, which is  devoid of reason, devoid of real principle, and insignificant ^ That action is called good, which is  prescribed, which is devoid of attachment, which is  not done from (motives of) affection or aversion, *  (and which is done) by one not wishing for the  fruit. That is described as passionate, which (occasions) much trouble, is performed by one who  wishes for objects of desire, or one who is full of  egotism ®. The action is called dark, which is commenced through delusion, without regard to consequences, loss, injury, or strength ®. That agent is  called good, who has cast off attachment, who is free  from egotistic talk, who is possessed of courage and  energy, and unaffected by success or ill-success. That  agent is called passionate, who is full of affections",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Seeing one imperishable being in all separate beings. Undivided in the divided. That is clear wisdom.",
+   "takeaway": "One sight, everywhere. Again.",
+   "provenance": [
+    "sa:18:20",
+    "telang:T07",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:21",
+   "devanagari": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् ।\nवेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम्",
+   "iast": "pṛthaktvena tu yajjñānaṃ nānābhāvānpṛthagvidhān |\nvetti sarveṣu bhūteṣu tajjñānaṃ viddhi rājasam",
+   "speaker": null,
+   "telang_context": "are declared in the enumeration of qualities ’ (to be)  of three classes only, according to the difference of  qualities. Hear about these also as they really are.  Know that knowledge to be good, by which (a man)  sees one entity, inexhaustible, and not different in  all things (apparently) different ® (from one another).  Know that knowledge to be passionate, which is  (based) on distinctions ® (between different entities),  which sees in all things various entities of different  kinds. And that is described as dark, which clings  to one created (thing) only as everything, which is  devoid of reason, devoid of real principle, and insignificant ^ That action is called good, which is  prescribed, which is devoid of attachment, which is  not done from (motives of) affection or aversion, *  (and which is done) by one not wishing for the  fruit. That is described as passionate, which (occasions) much trouble, is performed by one who  wishes for objects of desire, or one who is full of  egotism ®. The action is called dark, which is commenced through delusion, without regard to consequences, loss, injury, or strength ®. That agent is  called good, who has cast off attachment, who is free  from egotistic talk, who is possessed of courage and  energy, and unaffected by success or ill-success. That  agent is called passionate, who is full of affections",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Seeing only scattered manyness in every being. Separate and apart. That is passionate wisdom.",
+   "takeaway": "Division as doctrine.",
+   "provenance": [
+    "sa:18:21",
+    "telang:T07",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:22",
+   "devanagari": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् ।\nअतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम्",
+   "iast": "yattu kṛtsnavadekasminkārye saktamahaitukam |\natattvārthavadalpaṃ ca tattāmasamudāhṛtam",
+   "speaker": null,
+   "telang_context": "are declared in the enumeration of qualities ’ (to be)  of three classes only, according to the difference of  qualities. Hear about these also as they really are.  Know that knowledge to be good, by which (a man)  sees one entity, inexhaustible, and not different in  all things (apparently) different ® (from one another).  Know that knowledge to be passionate, which is  (based) on distinctions ® (between different entities),  which sees in all things various entities of different  kinds. And that is described as dark, which clings  to one created (thing) only as everything, which is  devoid of reason, devoid of real principle, and insignificant ^ That action is called good, which is  prescribed, which is devoid of attachment, which is  not done from (motives of) affection or aversion, *  (and which is done) by one not wishing for the  fruit. That is described as passionate, which (occasions) much trouble, is performed by one who  wishes for objects of desire, or one who is full of  egotism ®. The action is called dark, which is commenced through delusion, without regard to consequences, loss, injury, or strength ®. That agent is  called good, who has cast off attachment, who is free  from egotistic talk, who is possessed of courage and  energy, and unaffected by success or ill-success. That  agent is called passionate, who is full of affections",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Clinging to one fragment as the whole, reasonless, petty, narrow — that is dark wisdom.",
+   "takeaway": "The part mistaken for the all.",
+   "provenance": [
+    "sa:18:22",
+    "telang:T07",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:23",
+   "devanagari": "नियतं सङ्गरहितमरागद्वेषतः कृतम् ।\nअफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते",
+   "iast": "niyataṃ saṅgarahitamarāgadveṣataḥ kṛtam |\naphalaprepsunā karma yattatsāttvikamucyate",
+   "speaker": null,
+   "telang_context": "are declared in the enumeration of qualities ’ (to be)  of three classes only, according to the difference of  qualities. Hear about these also as they really are.  Know that knowledge to be good, by which (a man)  sees one entity, inexhaustible, and not different in  all things (apparently) different ® (from one another).  Know that knowledge to be passionate, which is  (based) on distinctions ® (between different entities),  which sees in all things various entities of different  kinds. And that is described as dark, which clings  to one created (thing) only as everything, which is  devoid of reason, devoid of real principle, and insignificant ^ That action is called good, which is  prescribed, which is devoid of attachment, which is  not done from (motives of) affection or aversion, *  (and which is done) by one not wishing for the  fruit. That is described as passionate, which (occasions) much trouble, is performed by one who  wishes for objects of desire, or one who is full of  egotism ®. The action is called dark, which is commenced through delusion, without regard to consequences, loss, injury, or strength ®. That agent is  called good, who has cast off attachment, who is free  from egotistic talk, who is possessed of courage and  energy, and unaffected by success or ill-success. That  agent is called passionate, who is full of affections",
+   "arnold_span": "D11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Duty done detached, without likes or dislikes. Wanting no fruit. That is clear action.",
+   "takeaway": "The cleanest definition of right action.",
+   "provenance": [
+    "sa:18:23",
+    "telang:T07",
+    "arnold:D11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:24",
+   "devanagari": "यत्तु कामेप्सुना कर्म साहंकारेण वा पुनः ।\nक्रियते बहुलायासं तद्राजसमुदाहृतम्",
+   "iast": "yattu kāmepsunā karma sāhaṃkāreṇa vā punaḥ |\nkriyate bahulāyāsaṃ tadrājasamudāhṛtam",
+   "speaker": null,
+   "telang_context": "are declared in the enumeration of qualities ’ (to be)  of three classes only, according to the difference of  qualities. Hear about these also as they really are.  Know that knowledge to be good, by which (a man)  sees one entity, inexhaustible, and not different in  all things (apparently) different ® (from one another).  Know that knowledge to be passionate, which is  (based) on distinctions ® (between different entities),  which sees in all things various entities of different  kinds. And that is described as dark, which clings  to one created (thing) only as everything, which is  devoid of reason, devoid of real principle, and insignificant ^ That action is called good, which is  prescribed, which is devoid of attachment, which is  not done from (motives of) affection or aversion, *  (and which is done) by one not wishing for the  fruit. That is described as passionate, which (occasions) much trouble, is performed by one who  wishes for objects of desire, or one who is full of  egotism ®. The action is called dark, which is commenced through delusion, without regard to consequences, loss, injury, or strength ®. That agent is  called good, who has cast off attachment, who is free  from egotistic talk, who is possessed of courage and  energy, and unaffected by success or ill-success. That  agent is called passionate, who is full of affections",
+   "arnold_span": "D11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Action straining with craving and ego. Heavy with effort. That is passionate action.",
+   "takeaway": "Sweat with self in it.",
+   "provenance": [
+    "sa:18:24",
+    "telang:T07",
+    "arnold:D11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:25",
+   "devanagari": "अनुबन्धं क्षयं हिंसामनवेक्ष्य च पौरुषम् ।\nमोहादारभ्यते कर्म यत्तत्तामसमुच्यते",
+   "iast": "anubandhaṃ kṣayaṃ hiṃsāmanavekṣya ca pauruṣam |\nmohādārabhyate karma yattattāmasamucyate",
+   "speaker": null,
+   "telang_context": "are declared in the enumeration of qualities ’ (to be)  of three classes only, according to the difference of  qualities. Hear about these also as they really are.  Know that knowledge to be good, by which (a man)  sees one entity, inexhaustible, and not different in  all things (apparently) different ® (from one another).  Know that knowledge to be passionate, which is  (based) on distinctions ® (between different entities),  which sees in all things various entities of different  kinds. And that is described as dark, which clings  to one created (thing) only as everything, which is  devoid of reason, devoid of real principle, and insignificant ^ That action is called good, which is  prescribed, which is devoid of attachment, which is  not done from (motives of) affection or aversion, *  (and which is done) by one not wishing for the  fruit. That is described as passionate, which (occasions) much trouble, is performed by one who  wishes for objects of desire, or one who is full of  egotism ®. The action is called dark, which is commenced through delusion, without regard to consequences, loss, injury, or strength ®. That agent is  called good, who has cast off attachment, who is free  from egotistic talk, who is possessed of courage and  energy, and unaffected by success or ill-success. That  agent is called passionate, who is full of affections",
+   "arnold_span": "D11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Action begun in delusion. Blind to cost, harm, injury, or capacity. That is dark action.",
+   "takeaway": "Blind doing, double damage.",
+   "provenance": [
+    "sa:18:25",
+    "telang:T07",
+    "arnold:D11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:26",
+   "devanagari": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः ।\nसिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते",
+   "iast": "muktasaṅgo'nahaṃvādī dhṛtyutsāhasamanvitaḥ |\nsiddhyasiddhyornirvikāraḥ kartā sāttvika ucyate",
+   "speaker": null,
+   "telang_context": "are declared in the enumeration of qualities ’ (to be)  of three classes only, according to the difference of  qualities. Hear about these also as they really are.  Know that knowledge to be good, by which (a man)  sees one entity, inexhaustible, and not different in  all things (apparently) different ® (from one another).  Know that knowledge to be passionate, which is  (based) on distinctions ® (between different entities),  which sees in all things various entities of different  kinds. And that is described as dark, which clings  to one created (thing) only as everything, which is  devoid of reason, devoid of real principle, and insignificant ^ That action is called good, which is  prescribed, which is devoid of attachment, which is  not done from (motives of) affection or aversion, *  (and which is done) by one not wishing for the  fruit. That is described as passionate, which (occasions) much trouble, is performed by one who  wishes for objects of desire, or one who is full of  egotism ®. The action is called dark, which is commenced through delusion, without regard to consequences, loss, injury, or strength ®. That agent is  called good, who has cast off attachment, who is free  from egotistic talk, who is possessed of courage and  energy, and unaffected by success or ill-success. That  agent is called passionate, who is full of affections",
+   "arnold_span": "D12",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Free of clinging and self-talk, brave, energetic, steady in win or loss — that is the clear doer.",
+   "takeaway": "The portrait of the steady worker.",
+   "provenance": [
+    "sa:18:26",
+    "telang:T07",
+    "arnold:D12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:27",
+   "devanagari": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः ।\nहर्षशोकान्वितः कर्ता राजसः परिकीर्तितः",
+   "iast": "rāgī karmaphalaprepsurlubdho hiṃsātmako'śuciḥ |\nharṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ",
+   "speaker": null,
+   "telang_context": "are declared in the enumeration of qualities ’ (to be)  of three classes only, according to the difference of  qualities. Hear about these also as they really are.  Know that knowledge to be good, by which (a man)  sees one entity, inexhaustible, and not different in  all things (apparently) different ® (from one another).  Know that knowledge to be passionate, which is  (based) on distinctions ® (between different entities),  which sees in all things various entities of different  kinds. And that is described as dark, which clings  to one created (thing) only as everything, which is  devoid of reason, devoid of real principle, and insignificant ^ That action is called good, which is  prescribed, which is devoid of attachment, which is  not done from (motives of) affection or aversion, *  (and which is done) by one not wishing for the  fruit. That is described as passionate, which (occasions) much trouble, is performed by one who  wishes for objects of desire, or one who is full of  egotism ®. The action is called dark, which is commenced through delusion, without regard to consequences, loss, injury, or strength ®. That agent is  called good, who has cast off attachment, who is free  from egotistic talk, who is possessed of courage and  energy, and unaffected by success or ill-success. That  agent is called passionate, who is full of affections\n\nwlio wishes for the fruit of actions, who is covetous,  cruel, and impure, and feels joy and sorrow.  That agent is called dark, who is without application S void of discernment, headstrong, crafty, malicious, lazy, melancholy, and slow. Now hear, O  Dhana«^ya ! the threefold division of intelligence  and courage, according to qualities, which I am  about to declare exhaustively and distinctly. That  intelligence, O son of Prfthd ! is good which understands action and inaction •*, what ought to be done  and what ought not to be done, danger and the  absence of danger, emancipation and bondage.  That intelligence, O son of Prfthd ! is passionate,  by which one imperfectly understands piety and  impiety, what ought to be done and also what ought  not to be done. That intelligence, O son of Prith^ !  is dark, which shrouded by darkness, understands  impiety (to be) piety, and all things incorrectly.  That courage, O son of Prith& ! is good courage,  which is unswerving *, and by which one controls  the operations of the mind, breath, and senses,  through abstraction. But, O Ar^ina ! that courage  is passionate, by which one adheres to piety, lust,  and wealth ®, and through attachment ® wishes,",
+   "arnold_span": "D12",
+   "arnold_shared": true,
+   "align_notes": "Split across T07-tail/T09-head (consequence-gloss T08 between).",
+   "meaning_simple": "Greedy for results, grasping, cruel, impure, tossed by joys and sorrows — that is the passionate doer.",
+   "takeaway": "The portrait of the hungry worker.",
+   "provenance": [
+    "sa:18:27",
+    "telang:T07+T09-head",
+    "arnold:D12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:28",
+   "devanagari": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः ।\nविषादी दीर्घसूत्री च कर्ता तामस उच्यते",
+   "iast": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko'lasaḥ |\nviṣādī dīrghasūtrī ca kartā tāmasa ucyate",
+   "speaker": null,
+   "telang_context": "wlio wishes for the fruit of actions, who is covetous,  cruel, and impure, and feels joy and sorrow.  That agent is called dark, who is without application S void of discernment, headstrong, crafty, malicious, lazy, melancholy, and slow. Now hear, O  Dhana«^ya ! the threefold division of intelligence  and courage, according to qualities, which I am  about to declare exhaustively and distinctly. That  intelligence, O son of Prfthd ! is good which understands action and inaction •*, what ought to be done  and what ought not to be done, danger and the  absence of danger, emancipation and bondage.  That intelligence, O son of Prfthd ! is passionate,  by which one imperfectly understands piety and  impiety, what ought to be done and also what ought  not to be done. That intelligence, O son of Prith^ !  is dark, which shrouded by darkness, understands  impiety (to be) piety, and all things incorrectly.  That courage, O son of Prith& ! is good courage,  which is unswerving *, and by which one controls  the operations of the mind, breath, and senses,  through abstraction. But, O Ar^ina ! that courage  is passionate, by which one adheres to piety, lust,  and wealth ®, and through attachment ® wishes,",
+   "arnold_span": "D12",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Slack, vulgar, stubborn, cheating. Spiteful, lazy, gloomy, stalling. That is the dark doer.",
+   "takeaway": "Eight stains, one worker.",
+   "provenance": [
+    "sa:18:28",
+    "telang:T09",
+    "arnold:D12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:29",
+   "devanagari": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु ।\nप्रोच्यमानमशेषेण पृथक्त्वेन धनंजय",
+   "iast": "buddherbhedaṃ dhṛteścaiva guṇatastrividhaṃ śṛṇu |\nprocyamānamaśeṣeṇa pṛthaktvena dhanaṃjaya",
+   "speaker": null,
+   "telang_context": "wlio wishes for the fruit of actions, who is covetous,  cruel, and impure, and feels joy and sorrow.  That agent is called dark, who is without application S void of discernment, headstrong, crafty, malicious, lazy, melancholy, and slow. Now hear, O  Dhana«^ya ! the threefold division of intelligence  and courage, according to qualities, which I am  about to declare exhaustively and distinctly. That  intelligence, O son of Prfthd ! is good which understands action and inaction •*, what ought to be done  and what ought not to be done, danger and the  absence of danger, emancipation and bondage.  That intelligence, O son of Prfthd ! is passionate,  by which one imperfectly understands piety and  impiety, what ought to be done and also what ought  not to be done. That intelligence, O son of Prith^ !  is dark, which shrouded by darkness, understands  impiety (to be) piety, and all things incorrectly.  That courage, O son of Prith& ! is good courage,  which is unswerving *, and by which one controls  the operations of the mind, breath, and senses,  through abstraction. But, O Ar^ina ! that courage  is passionate, by which one adheres to piety, lust,  and wealth ®, and through attachment ® wishes,",
+   "arnold_span": "D13",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Now hear wisdom and willpower. Each threefold by nature. Told fully and distinctly.",
+   "takeaway": "Two faculties. Three shades each.",
+   "provenance": [
+    "sa:18:29",
+    "telang:T09",
+    "arnold:D13"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:30",
+   "devanagari": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये ।\nबन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी",
+   "iast": "pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye |\nbandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī",
+   "speaker": null,
+   "telang_context": "wlio wishes for the fruit of actions, who is covetous,  cruel, and impure, and feels joy and sorrow.  That agent is called dark, who is without application S void of discernment, headstrong, crafty, malicious, lazy, melancholy, and slow. Now hear, O  Dhana«^ya ! the threefold division of intelligence  and courage, according to qualities, which I am  about to declare exhaustively and distinctly. That  intelligence, O son of Prfthd ! is good which understands action and inaction •*, what ought to be done  and what ought not to be done, danger and the  absence of danger, emancipation and bondage.  That intelligence, O son of Prfthd ! is passionate,  by which one imperfectly understands piety and  impiety, what ought to be done and also what ought  not to be done. That intelligence, O son of Prith^ !  is dark, which shrouded by darkness, understands  impiety (to be) piety, and all things incorrectly.  That courage, O son of Prith& ! is good courage,  which is unswerving *, and by which one controls  the operations of the mind, breath, and senses,  through abstraction. But, O Ar^ina ! that courage  is passionate, by which one adheres to piety, lust,  and wealth ®, and through attachment ® wishes,",
+   "arnold_span": "D14",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Knowing duty from non-duty, courage from fear, bondage from freedom — that is clear wisdom.",
+   "takeaway": "Discrimination as a superpower.",
+   "provenance": [
+    "sa:18:30",
+    "telang:T09",
+    "arnold:D14-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:31",
+   "devanagari": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च ।\nअयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी",
+   "iast": "yayā dharmamadharmaṃ ca kāryaṃ cākāryameva ca |\nayathāvatprajānāti buddhiḥ sā pārtha rājasī",
+   "speaker": null,
+   "telang_context": "wlio wishes for the fruit of actions, who is covetous,  cruel, and impure, and feels joy and sorrow.  That agent is called dark, who is without application S void of discernment, headstrong, crafty, malicious, lazy, melancholy, and slow. Now hear, O  Dhana«^ya ! the threefold division of intelligence  and courage, according to qualities, which I am  about to declare exhaustively and distinctly. That  intelligence, O son of Prfthd ! is good which understands action and inaction •*, what ought to be done  and what ought not to be done, danger and the  absence of danger, emancipation and bondage.  That intelligence, O son of Prfthd ! is passionate,  by which one imperfectly understands piety and  impiety, what ought to be done and also what ought  not to be done. That intelligence, O son of Prith^ !  is dark, which shrouded by darkness, understands  impiety (to be) piety, and all things incorrectly.  That courage, O son of Prith& ! is good courage,  which is unswerving *, and by which one controls  the operations of the mind, breath, and senses,  through abstraction. But, O Ar^ina ! that courage  is passionate, by which one adheres to piety, lust,  and wealth ®, and through attachment ® wishes,",
+   "arnold_span": "D14",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Seeing right and wrong, fit and unfit, only crookedly — that is passionate wisdom.",
+   "takeaway": "Half-light, half-blind.",
+   "provenance": [
+    "sa:18:31",
+    "telang:T09",
+    "arnold:D14-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:32",
+   "devanagari": "अधर्मं धर्ममिति या मन्यते तमसावृता ।\nसर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी",
+   "iast": "adharmaṃ dharmamiti yā manyate tamasāvṛtā |\nsarvārthānviparītāṃśca buddhiḥ sā pārtha tāmasī",
+   "speaker": null,
+   "telang_context": "wlio wishes for the fruit of actions, who is covetous,  cruel, and impure, and feels joy and sorrow.  That agent is called dark, who is without application S void of discernment, headstrong, crafty, malicious, lazy, melancholy, and slow. Now hear, O  Dhana«^ya ! the threefold division of intelligence  and courage, according to qualities, which I am  about to declare exhaustively and distinctly. That  intelligence, O son of Prfthd ! is good which understands action and inaction •*, what ought to be done  and what ought not to be done, danger and the  absence of danger, emancipation and bondage.  That intelligence, O son of Prfthd ! is passionate,  by which one imperfectly understands piety and  impiety, what ought to be done and also what ought  not to be done. That intelligence, O son of Prith^ !  is dark, which shrouded by darkness, understands  impiety (to be) piety, and all things incorrectly.  That courage, O son of Prith& ! is good courage,  which is unswerving *, and by which one controls  the operations of the mind, breath, and senses,  through abstraction. But, O Ar^ina ! that courage  is passionate, by which one adheres to piety, lust,  and wealth ®, and through attachment ® wishes,",
+   "arnold_span": "D14",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Calling wrong right, seeing everything backwards under darkness — that is dark wisdom.",
+   "takeaway": "Inversion as worldview.",
+   "provenance": [
+    "sa:18:32",
+    "telang:T09",
+    "arnold:D14-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:33",
+   "devanagari": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः ।\nयोगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी",
+   "iast": "dhṛtyā yayā dhārayate manaḥprāṇendriyakriyāḥ |\nyogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī",
+   "speaker": null,
+   "telang_context": "wlio wishes for the fruit of actions, who is covetous,  cruel, and impure, and feels joy and sorrow.  That agent is called dark, who is without application S void of discernment, headstrong, crafty, malicious, lazy, melancholy, and slow. Now hear, O  Dhana«^ya ! the threefold division of intelligence  and courage, according to qualities, which I am  about to declare exhaustively and distinctly. That  intelligence, O son of Prfthd ! is good which understands action and inaction •*, what ought to be done  and what ought not to be done, danger and the  absence of danger, emancipation and bondage.  That intelligence, O son of Prfthd ! is passionate,  by which one imperfectly understands piety and  impiety, what ought to be done and also what ought  not to be done. That intelligence, O son of Prith^ !  is dark, which shrouded by darkness, understands  impiety (to be) piety, and all things incorrectly.  That courage, O son of Prith& ! is good courage,  which is unswerving *, and by which one controls  the operations of the mind, breath, and senses,  through abstraction. But, O Ar^ina ! that courage  is passionate, by which one adheres to piety, lust,  and wealth ®, and through attachment ® wishes,",
+   "arnold_span": "D15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The will that holds mind, breath, and senses steady in unbroken focus — that is clear resolve.",
+   "takeaway": "Steadiness as strength.",
+   "provenance": [
+    "sa:18:33",
+    "telang:T09",
+    "arnold:D15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:34",
+   "devanagari": "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन ।\nप्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी",
+   "iast": "yayā tu dharmakāmārthāndhṛtyā dhārayate'rjuna |\nprasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī",
+   "speaker": null,
+   "telang_context": "wlio wishes for the fruit of actions, who is covetous,  cruel, and impure, and feels joy and sorrow.  That agent is called dark, who is without application S void of discernment, headstrong, crafty, malicious, lazy, melancholy, and slow. Now hear, O  Dhana«^ya ! the threefold division of intelligence  and courage, according to qualities, which I am  about to declare exhaustively and distinctly. That  intelligence, O son of Prfthd ! is good which understands action and inaction •*, what ought to be done  and what ought not to be done, danger and the  absence of danger, emancipation and bondage.  That intelligence, O son of Prfthd ! is passionate,  by which one imperfectly understands piety and  impiety, what ought to be done and also what ought  not to be done. That intelligence, O son of Prith^ !  is dark, which shrouded by darkness, understands  impiety (to be) piety, and all things incorrectly.  That courage, O son of Prith& ! is good courage,  which is unswerving *, and by which one controls  the operations of the mind, breath, and senses,  through abstraction. But, O Ar^ina ! that courage  is passionate, by which one adheres to piety, lust,  and wealth ®, and through attachment ® wishes,\n\nO son of Prithi. ! for the fruit. That courage is  dark, O son of Prixhk ! by which an undiscerning  man does not give up sleep, fear, sorrow, despondency, and folly. Now, O chief of the descendants  of Bharata ! hear from me about the three sorts of  happiness. That happiness is called good, in which  one is pleased after repetition^ (of enjoyment), and  reaches the close of all misery, which is like poison  first and comparable to nectar in the long run, and  which is produced from a clear knowledge of the  self^ That happiness is called passionate, which  (flows) from contact between the senses and their  objects, and which is at first comparable to nectar  and in the long run like poison. That happiness is  described as dark, which arises from sleep, laziness,  heedlessness, which deludes the self, both at first  and in its consecpiences. There is no entity either  on earth or in heaven among the gods, which is free  from these three qualities born of nature. The  duties of Brahma«as, Kshatriyas, and Vai,ryas, and  of .Shdras, too, O terror of your foes ! are distinguished according to the qualities born of nature ’.  Tranquillity *, restraint of the senses, penance, purity,  forgiveness, straightforwardness, also knowledge, experience, and belief (in a future world), this is the  natural duty of Brdhma«as. Valour, glory, courage.",
+   "arnold_span": "D15",
+   "arnold_shared": true,
+   "align_notes": "Split across T09-tail/T10-head.",
+   "meaning_simple": "The will that clutches duty, pleasure, and wealth for their fruits — that is passionate resolve.",
+   "takeaway": "Grip mistaken for strength.",
+   "provenance": [
+    "sa:18:34",
+    "telang:T09+T10-head",
+    "arnold:D15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:35",
+   "devanagari": "यया स्वप्नं भयं शोकं विषादं मदमेव च ।\nन विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी",
+   "iast": "yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madameva ca |\nna vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī",
+   "speaker": null,
+   "telang_context": "O son of Prithi. ! for the fruit. That courage is  dark, O son of Prixhk ! by which an undiscerning  man does not give up sleep, fear, sorrow, despondency, and folly. Now, O chief of the descendants  of Bharata ! hear from me about the three sorts of  happiness. That happiness is called good, in which  one is pleased after repetition^ (of enjoyment), and  reaches the close of all misery, which is like poison  first and comparable to nectar in the long run, and  which is produced from a clear knowledge of the  self^ That happiness is called passionate, which  (flows) from contact between the senses and their  objects, and which is at first comparable to nectar  and in the long run like poison. That happiness is  described as dark, which arises from sleep, laziness,  heedlessness, which deludes the self, both at first  and in its consecpiences. There is no entity either  on earth or in heaven among the gods, which is free  from these three qualities born of nature. The  duties of Brahma«as, Kshatriyas, and Vai,ryas, and  of .Shdras, too, O terror of your foes ! are distinguished according to the qualities born of nature ’.  Tranquillity *, restraint of the senses, penance, purity,  forgiveness, straightforwardness, also knowledge, experience, and belief (in a future world), this is the  natural duty of Brdhma«as. Valour, glory, courage.",
+   "arnold_span": "D15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The will that will not drop sleep, fear, grief, gloom, or folly — that is dark resolve.",
+   "takeaway": "Stubbornness in the wrong things.",
+   "provenance": [
+    "sa:18:35",
+    "telang:T10",
+    "arnold:D15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:36",
+   "devanagari": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ ।\nअभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति",
+   "iast": "sukhaṃ tvidānīṃ trividhaṃ śṛṇu me bharatarṣabha |\nabhyāsādramate yatra duḥkhāntaṃ ca nigacchati",
+   "speaker": null,
+   "telang_context": "O son of Prithi. ! for the fruit. That courage is  dark, O son of Prixhk ! by which an undiscerning  man does not give up sleep, fear, sorrow, despondency, and folly. Now, O chief of the descendants  of Bharata ! hear from me about the three sorts of  happiness. That happiness is called good, in which  one is pleased after repetition^ (of enjoyment), and  reaches the close of all misery, which is like poison  first and comparable to nectar in the long run, and  which is produced from a clear knowledge of the  self^ That happiness is called passionate, which  (flows) from contact between the senses and their  objects, and which is at first comparable to nectar  and in the long run like poison. That happiness is  described as dark, which arises from sleep, laziness,  heedlessness, which deludes the self, both at first  and in its consecpiences. There is no entity either  on earth or in heaven among the gods, which is free  from these three qualities born of nature. The  duties of Brahma«as, Kshatriyas, and Vai,ryas, and  of .Shdras, too, O terror of your foes ! are distinguished according to the qualities born of nature ’.  Tranquillity *, restraint of the senses, penance, purity,  forgiveness, straightforwardness, also knowledge, experience, and belief (in a future world), this is the  natural duty of Brdhma«as. Valour, glory, courage.",
+   "arnold_span": "D16",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Now hear the three joys. Where practice turns to delight and pain comes to its end —",
+   "takeaway": "Joy also runs threefold.",
+   "provenance": [
+    "sa:18:36",
+    "telang:T10",
+    "arnold:D16"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:37",
+   "devanagari": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम् ।\nतत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम्",
+   "iast": "yattadagre viṣamiva pariṇāme'mṛtopamam |\ntatsukhaṃ sāttvikaṃ proktamātmabuddhiprasādajam",
+   "speaker": null,
+   "telang_context": "O son of Prithi. ! for the fruit. That courage is  dark, O son of Prixhk ! by which an undiscerning  man does not give up sleep, fear, sorrow, despondency, and folly. Now, O chief of the descendants  of Bharata ! hear from me about the three sorts of  happiness. That happiness is called good, in which  one is pleased after repetition^ (of enjoyment), and  reaches the close of all misery, which is like poison  first and comparable to nectar in the long run, and  which is produced from a clear knowledge of the  self^ That happiness is called passionate, which  (flows) from contact between the senses and their  objects, and which is at first comparable to nectar  and in the long run like poison. That happiness is  described as dark, which arises from sleep, laziness,  heedlessness, which deludes the self, both at first  and in its consecpiences. There is no entity either  on earth or in heaven among the gods, which is free  from these three qualities born of nature. The  duties of Brahma«as, Kshatriyas, and Vai,ryas, and  of .Shdras, too, O terror of your foes ! are distinguished according to the qualities born of nature ’.  Tranquillity *, restraint of the senses, penance, purity,  forgiveness, straightforwardness, also knowledge, experience, and belief (in a future world), this is the  natural duty of Brdhma«as. Valour, glory, courage.",
+   "arnold_span": "D17",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Poison at first, nectar at last, born of self-knowledge — that joy is clear.",
+   "takeaway": "The slow joy that lasts.",
+   "provenance": [
+    "sa:18:37",
+    "telang:T10",
+    "arnold:D17-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:38",
+   "devanagari": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् ।\nपरिणामे विषमिव तत्सुखं राजसं स्मृतम्",
+   "iast": "viṣayendriyasaṃyogādyattadagre'mṛtopamam |\npariṇāme viṣamiva tatsukhaṃ rājasaṃ smṛtam",
+   "speaker": null,
+   "telang_context": "O son of Prithi. ! for the fruit. That courage is  dark, O son of Prixhk ! by which an undiscerning  man does not give up sleep, fear, sorrow, despondency, and folly. Now, O chief of the descendants  of Bharata ! hear from me about the three sorts of  happiness. That happiness is called good, in which  one is pleased after repetition^ (of enjoyment), and  reaches the close of all misery, which is like poison  first and comparable to nectar in the long run, and  which is produced from a clear knowledge of the  self^ That happiness is called passionate, which  (flows) from contact between the senses and their  objects, and which is at first comparable to nectar  and in the long run like poison. That happiness is  described as dark, which arises from sleep, laziness,  heedlessness, which deludes the self, both at first  and in its consecpiences. There is no entity either  on earth or in heaven among the gods, which is free  from these three qualities born of nature. The  duties of Brahma«as, Kshatriyas, and Vai,ryas, and  of .Shdras, too, O terror of your foes ! are distinguished according to the qualities born of nature ’.  Tranquillity *, restraint of the senses, penance, purity,  forgiveness, straightforwardness, also knowledge, experience, and belief (in a future world), this is the  natural duty of Brdhma«as. Valour, glory, courage.",
+   "arnold_span": "D17",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Nectar at first from sense-contact, poison at last — that joy is passionate.",
+   "takeaway": "The fast joy that fades.",
+   "provenance": [
+    "sa:18:38",
+    "telang:T10",
+    "arnold:D17-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:39",
+   "devanagari": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः ।\nनिद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम्",
+   "iast": "yadagre cānubandhe ca sukhaṃ mohanamātmanaḥ |\nnidrālasyapramādotthaṃ tattāmasamudāhṛtam",
+   "speaker": null,
+   "telang_context": "O son of Prithi. ! for the fruit. That courage is  dark, O son of Prixhk ! by which an undiscerning  man does not give up sleep, fear, sorrow, despondency, and folly. Now, O chief of the descendants  of Bharata ! hear from me about the three sorts of  happiness. That happiness is called good, in which  one is pleased after repetition^ (of enjoyment), and  reaches the close of all misery, which is like poison  first and comparable to nectar in the long run, and  which is produced from a clear knowledge of the  self^ That happiness is called passionate, which  (flows) from contact between the senses and their  objects, and which is at first comparable to nectar  and in the long run like poison. That happiness is  described as dark, which arises from sleep, laziness,  heedlessness, which deludes the self, both at first  and in its consecpiences. There is no entity either  on earth or in heaven among the gods, which is free  from these three qualities born of nature. The  duties of Brahma«as, Kshatriyas, and Vai,ryas, and  of .Shdras, too, O terror of your foes ! are distinguished according to the qualities born of nature ’.  Tranquillity *, restraint of the senses, penance, purity,  forgiveness, straightforwardness, also knowledge, experience, and belief (in a future world), this is the  natural duty of Brdhma«as. Valour, glory, courage.",
+   "arnold_span": "D17",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Befogging at first and last, born of sleep, sloth, and error — that joy is dark.",
+   "takeaway": "The joy that never was joy.",
+   "provenance": [
+    "sa:18:39",
+    "telang:T10",
+    "arnold:D17-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:40",
+   "devanagari": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः ।\nसत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः",
+   "iast": "na tadasti pṛthivyāṃ vā divi deveṣu vā punaḥ |\nsattvaṃ prakṛtijairmuktaṃ yadebhiḥ syāttribhirguṇaiḥ",
+   "speaker": null,
+   "telang_context": "O son of Prithi. ! for the fruit. That courage is  dark, O son of Prixhk ! by which an undiscerning  man does not give up sleep, fear, sorrow, despondency, and folly. Now, O chief of the descendants  of Bharata ! hear from me about the three sorts of  happiness. That happiness is called good, in which  one is pleased after repetition^ (of enjoyment), and  reaches the close of all misery, which is like poison  first and comparable to nectar in the long run, and  which is produced from a clear knowledge of the  self^ That happiness is called passionate, which  (flows) from contact between the senses and their  objects, and which is at first comparable to nectar  and in the long run like poison. That happiness is  described as dark, which arises from sleep, laziness,  heedlessness, which deludes the self, both at first  and in its consecpiences. There is no entity either  on earth or in heaven among the gods, which is free  from these three qualities born of nature. The  duties of Brahma«as, Kshatriyas, and Vai,ryas, and  of .Shdras, too, O terror of your foes ! are distinguished according to the qualities born of nature ’.  Tranquillity *, restraint of the senses, penance, purity,  forgiveness, straightforwardness, also knowledge, experience, and belief (in a future world), this is the  natural duty of Brdhma«as. Valour, glory, courage.",
+   "arnold_span": "D18",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Nothing on earth or in heaven stands free of nature's three moods.",
+   "takeaway": "No exemptions. None.",
+   "provenance": [
+    "sa:18:40",
+    "telang:T10",
+    "arnold:D18"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:41",
+   "devanagari": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप ।\nकर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः",
+   "iast": "brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca parantapa |\nkarmāṇi pravibhaktāni svabhāvaprabhavairguṇaiḥ",
+   "speaker": null,
+   "telang_context": "O son of Prithi. ! for the fruit. That courage is  dark, O son of Prixhk ! by which an undiscerning  man does not give up sleep, fear, sorrow, despondency, and folly. Now, O chief of the descendants  of Bharata ! hear from me about the three sorts of  happiness. That happiness is called good, in which  one is pleased after repetition^ (of enjoyment), and  reaches the close of all misery, which is like poison  first and comparable to nectar in the long run, and  which is produced from a clear knowledge of the  self^ That happiness is called passionate, which  (flows) from contact between the senses and their  objects, and which is at first comparable to nectar  and in the long run like poison. That happiness is  described as dark, which arises from sleep, laziness,  heedlessness, which deludes the self, both at first  and in its consecpiences. There is no entity either  on earth or in heaven among the gods, which is free  from these three qualities born of nature. The  duties of Brahma«as, Kshatriyas, and Vai,ryas, and  of .Shdras, too, O terror of your foes ! are distinguished according to the qualities born of nature ’.  Tranquillity *, restraint of the senses, penance, purity,  forgiveness, straightforwardness, also knowledge, experience, and belief (in a future world), this is the  natural duty of Brdhma«as. Valour, glory, courage.",
+   "arnold_span": "D19",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Priests, warriors, merchants, laborers. Each has work assigned by inborn nature.",
+   "takeaway": "Four natures. Four works.",
+   "provenance": [
+    "sa:18:41",
+    "telang:T10",
+    "arnold:D19"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:42",
+   "devanagari": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च ।\nज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम्",
+   "iast": "śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca |\njñānaṃ vijñānamāstikyaṃ brahmakarma svabhāvajam",
+   "speaker": null,
+   "telang_context": "O son of Prithi. ! for the fruit. That courage is  dark, O son of Prixhk ! by which an undiscerning  man does not give up sleep, fear, sorrow, despondency, and folly. Now, O chief of the descendants  of Bharata ! hear from me about the three sorts of  happiness. That happiness is called good, in which  one is pleased after repetition^ (of enjoyment), and  reaches the close of all misery, which is like poison  first and comparable to nectar in the long run, and  which is produced from a clear knowledge of the  self^ That happiness is called passionate, which  (flows) from contact between the senses and their  objects, and which is at first comparable to nectar  and in the long run like poison. That happiness is  described as dark, which arises from sleep, laziness,  heedlessness, which deludes the self, both at first  and in its consecpiences. There is no entity either  on earth or in heaven among the gods, which is free  from these three qualities born of nature. The  duties of Brahma«as, Kshatriyas, and Vai,ryas, and  of .Shdras, too, O terror of your foes ! are distinguished according to the qualities born of nature ’.  Tranquillity *, restraint of the senses, penance, purity,  forgiveness, straightforwardness, also knowledge, experience, and belief (in a future world), this is the  natural duty of Brdhma«as. Valour, glory, courage.",
+   "arnold_span": "D20",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Calm, restraint, discipline, purity. Patience, honesty, wisdom, experience, faith. The priest's work.",
+   "takeaway": "Nine notes of the priestly chord.",
+   "provenance": [
+    "sa:18:42",
+    "telang:T10",
+    "arnold:D20-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:43",
+   "devanagari": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् ।\nदानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्",
+   "iast": "śauryaṃ tejo dhṛtirdākṣyaṃ yuddhe cāpyapalāyanam |\ndānamīśvarabhāvaśca kṣātraṃ karma svabhāvajam",
+   "speaker": null,
+   "telang_context": "O son of Prithi. ! for the fruit. That courage is  dark, O son of Prixhk ! by which an undiscerning  man does not give up sleep, fear, sorrow, despondency, and folly. Now, O chief of the descendants  of Bharata ! hear from me about the three sorts of  happiness. That happiness is called good, in which  one is pleased after repetition^ (of enjoyment), and  reaches the close of all misery, which is like poison  first and comparable to nectar in the long run, and  which is produced from a clear knowledge of the  self^ That happiness is called passionate, which  (flows) from contact between the senses and their  objects, and which is at first comparable to nectar  and in the long run like poison. That happiness is  described as dark, which arises from sleep, laziness,  heedlessness, which deludes the self, both at first  and in its consecpiences. There is no entity either  on earth or in heaven among the gods, which is free  from these three qualities born of nature. The  duties of Brahma«as, Kshatriyas, and Vai,ryas, and  of .Shdras, too, O terror of your foes ! are distinguished according to the qualities born of nature ’.  Tranquillity *, restraint of the senses, penance, purity,  forgiveness, straightforwardness, also knowledge, experience, and belief (in a future world), this is the  natural duty of Brdhma«as. Valour, glory, courage.\n\ndexterity not slinking away from battle, gifts, exercise of lordly power this is the natural duty of Kshatriyas. Agriculture, tending cattle, trade, (this) is the  natural duty of Vaivyas. And the natural duty of  5’Odras, too, consists in service. (Every) man intent on  his own respective duties obtains perfection Listen,  now, how one intent on one’s own duty obtains perfection. Worshipping, by (the performance of) his  own duty, him from whom all things proceed, and  by whom all this is permeated, a man obtains perfection. One’s duty, though defective, is better than  another’s duty well performed*. Performing the  duty prescribed by nature, one does not incur sin.  0 son of Kunti ! one should not abandon a natural  duty though tainted with evil ; for all actions are  enveloped by evil, as fire by smoke ®. One who is  self-restrained, whose understanding is unattached  everywhere, from whom affections have departed,  obtains the supreme perfection of freedom from  action ® by renunciation. Learn from me, only in  brief, O son of Kunti ! how one who has obtained  perfection attains the Brahman, which is the highest  culmination of knowledge. A man possessed of a pure  understanding, controlling his self by courage, discarding sound and other objects of sense, casting off",
+   "arnold_span": "D20",
+   "arnold_shared": true,
+   "align_notes": "Split across T10-tail/T12-head (three-things gloss T11 between).",
+   "meaning_simple": "Valor, fire, resolve, skill. Never fleeing battle. Giving. Commanding. The warrior's work.",
+   "takeaway": "Seven notes of the warrior chord.",
+   "provenance": [
+    "sa:18:43",
+    "telang:T10+T12-head",
+    "arnold:D20-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:44",
+   "devanagari": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् ।\nपरिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम्",
+   "iast": "kṛṣigaurakṣyavāṇijyaṃ vaiśyakarma svabhāvajam |\nparicaryātmakaṃ karma śūdrasyāpi svabhāvajam",
+   "speaker": null,
+   "telang_context": "dexterity not slinking away from battle, gifts, exercise of lordly power this is the natural duty of Kshatriyas. Agriculture, tending cattle, trade, (this) is the  natural duty of Vaivyas. And the natural duty of  5’Odras, too, consists in service. (Every) man intent on  his own respective duties obtains perfection Listen,  now, how one intent on one’s own duty obtains perfection. Worshipping, by (the performance of) his  own duty, him from whom all things proceed, and  by whom all this is permeated, a man obtains perfection. One’s duty, though defective, is better than  another’s duty well performed*. Performing the  duty prescribed by nature, one does not incur sin.  0 son of Kunti ! one should not abandon a natural  duty though tainted with evil ; for all actions are  enveloped by evil, as fire by smoke ®. One who is  self-restrained, whose understanding is unattached  everywhere, from whom affections have departed,  obtains the supreme perfection of freedom from  action ® by renunciation. Learn from me, only in  brief, O son of Kunti ! how one who has obtained  perfection attains the Brahman, which is the highest  culmination of knowledge. A man possessed of a pure  understanding, controlling his self by courage, discarding sound and other objects of sense, casting off",
+   "arnold_span": "D20",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Plowing, herding, trading — the merchant's work by nature. Serving — the laborer's work.",
+   "takeaway": "Work sorted by nature, not contempt.",
+   "provenance": [
+    "sa:18:44",
+    "telang:T12",
+    "arnold:D20-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:45",
+   "devanagari": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः ।\nस्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु",
+   "iast": "sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ |\nsvakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu",
+   "speaker": null,
+   "telang_context": "dexterity not slinking away from battle, gifts, exercise of lordly power this is the natural duty of Kshatriyas. Agriculture, tending cattle, trade, (this) is the  natural duty of Vaivyas. And the natural duty of  5’Odras, too, consists in service. (Every) man intent on  his own respective duties obtains perfection Listen,  now, how one intent on one’s own duty obtains perfection. Worshipping, by (the performance of) his  own duty, him from whom all things proceed, and  by whom all this is permeated, a man obtains perfection. One’s duty, though defective, is better than  another’s duty well performed*. Performing the  duty prescribed by nature, one does not incur sin.  0 son of Kunti ! one should not abandon a natural  duty though tainted with evil ; for all actions are  enveloped by evil, as fire by smoke ®. One who is  self-restrained, whose understanding is unattached  everywhere, from whom affections have departed,  obtains the supreme perfection of freedom from  action ® by renunciation. Learn from me, only in  brief, O son of Kunti ! how one who has obtained  perfection attains the Brahman, which is the highest  culmination of knowledge. A man possessed of a pure  understanding, controlling his self by courage, discarding sound and other objects of sense, casting off",
+   "arnold_span": "D21",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Loving one's own work, one reaches perfection. Hear how duty-done becomes perfection-won.",
+   "takeaway": "Excellence in place beats imitation elsewhere.",
+   "provenance": [
+    "sa:18:45",
+    "telang:T12",
+    "arnold:D21-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:46",
+   "devanagari": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् ।\nस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः",
+   "iast": "yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam |\nsvakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ",
+   "speaker": null,
+   "telang_context": "dexterity not slinking away from battle, gifts, exercise of lordly power this is the natural duty of Kshatriyas. Agriculture, tending cattle, trade, (this) is the  natural duty of Vaivyas. And the natural duty of  5’Odras, too, consists in service. (Every) man intent on  his own respective duties obtains perfection Listen,  now, how one intent on one’s own duty obtains perfection. Worshipping, by (the performance of) his  own duty, him from whom all things proceed, and  by whom all this is permeated, a man obtains perfection. One’s duty, though defective, is better than  another’s duty well performed*. Performing the  duty prescribed by nature, one does not incur sin.  0 son of Kunti ! one should not abandon a natural  duty though tainted with evil ; for all actions are  enveloped by evil, as fire by smoke ®. One who is  self-restrained, whose understanding is unattached  everywhere, from whom affections have departed,  obtains the supreme perfection of freedom from  action ® by renunciation. Learn from me, only in  brief, O son of Kunti ! how one who has obtained  perfection attains the Brahman, which is the highest  culmination of knowledge. A man possessed of a pure  understanding, controlling his self by courage, discarding sound and other objects of sense, casting off",
+   "arnold_span": "D21",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Worshipping through duty the source of all, the all-pervader — one reaches perfection.",
+   "takeaway": "Work as worship. Duty as liturgy.",
+   "provenance": [
+    "sa:18:46",
+    "telang:T12",
+    "arnold:D21-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:47",
+   "devanagari": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\nस्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम्",
+   "iast": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt |\nsvabhāvaniyataṃ karma kurvannāpnoti kilbiṣam",
+   "speaker": null,
+   "telang_context": "dexterity not slinking away from battle, gifts, exercise of lordly power this is the natural duty of Kshatriyas. Agriculture, tending cattle, trade, (this) is the  natural duty of Vaivyas. And the natural duty of  5’Odras, too, consists in service. (Every) man intent on  his own respective duties obtains perfection Listen,  now, how one intent on one’s own duty obtains perfection. Worshipping, by (the performance of) his  own duty, him from whom all things proceed, and  by whom all this is permeated, a man obtains perfection. One’s duty, though defective, is better than  another’s duty well performed*. Performing the  duty prescribed by nature, one does not incur sin.  0 son of Kunti ! one should not abandon a natural  duty though tainted with evil ; for all actions are  enveloped by evil, as fire by smoke ®. One who is  self-restrained, whose understanding is unattached  everywhere, from whom affections have departed,  obtains the supreme perfection of freedom from  action ® by renunciation. Learn from me, only in  brief, O son of Kunti ! how one who has obtained  perfection attains the Brahman, which is the highest  culmination of knowledge. A man possessed of a pure  understanding, controlling his self by courage, discarding sound and other objects of sense, casting off",
+   "arnold_span": "D22",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Your own flawed duty beats another's perfect one. Doing nature's task incurs no sin.",
+   "takeaway": "Flawed and yours beats polished and borrowed.",
+   "provenance": [
+    "sa:18:47",
+    "telang:T12",
+    "arnold:D22-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:48",
+   "devanagari": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् ।\nसर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः",
+   "iast": "sahajaṃ karma kaunteya sadoṣamapi na tyajet |\nsarvārambhā hi doṣeṇa dhūmenāgnirivāvṛtāḥ",
+   "speaker": null,
+   "telang_context": "dexterity not slinking away from battle, gifts, exercise of lordly power this is the natural duty of Kshatriyas. Agriculture, tending cattle, trade, (this) is the  natural duty of Vaivyas. And the natural duty of  5’Odras, too, consists in service. (Every) man intent on  his own respective duties obtains perfection Listen,  now, how one intent on one’s own duty obtains perfection. Worshipping, by (the performance of) his  own duty, him from whom all things proceed, and  by whom all this is permeated, a man obtains perfection. One’s duty, though defective, is better than  another’s duty well performed*. Performing the  duty prescribed by nature, one does not incur sin.  0 son of Kunti ! one should not abandon a natural  duty though tainted with evil ; for all actions are  enveloped by evil, as fire by smoke ®. One who is  self-restrained, whose understanding is unattached  everywhere, from whom affections have departed,  obtains the supreme perfection of freedom from  action ® by renunciation. Learn from me, only in  brief, O son of Kunti ! how one who has obtained  perfection attains the Brahman, which is the highest  culmination of knowledge. A man possessed of a pure  understanding, controlling his self by courage, discarding sound and other objects of sense, casting off",
+   "arnold_span": "D22",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Never drop inborn work, flaws and all. Every enterprise carries flaws, as fire carries smoke.",
+   "takeaway": "Smoke proves fire. Flaws prove work.",
+   "provenance": [
+    "sa:18:48",
+    "telang:T12",
+    "arnold:D22-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:49",
+   "devanagari": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः ।\nनैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति",
+   "iast": "asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ |\nnaiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati",
+   "speaker": null,
+   "telang_context": "dexterity not slinking away from battle, gifts, exercise of lordly power this is the natural duty of Kshatriyas. Agriculture, tending cattle, trade, (this) is the  natural duty of Vaivyas. And the natural duty of  5’Odras, too, consists in service. (Every) man intent on  his own respective duties obtains perfection Listen,  now, how one intent on one’s own duty obtains perfection. Worshipping, by (the performance of) his  own duty, him from whom all things proceed, and  by whom all this is permeated, a man obtains perfection. One’s duty, though defective, is better than  another’s duty well performed*. Performing the  duty prescribed by nature, one does not incur sin.  0 son of Kunti ! one should not abandon a natural  duty though tainted with evil ; for all actions are  enveloped by evil, as fire by smoke ®. One who is  self-restrained, whose understanding is unattached  everywhere, from whom affections have departed,  obtains the supreme perfection of freedom from  action ® by renunciation. Learn from me, only in  brief, O son of Kunti ! how one who has obtained  perfection attains the Brahman, which is the highest  culmination of knowledge. A man possessed of a pure  understanding, controlling his self by courage, discarding sound and other objects of sense, casting off",
+   "arnold_span": "D22",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Self-ruled, detached everywhere, want-free. Through surrender one wins. Freedom from action itself.",
+   "takeaway": "The summit past the summit.",
+   "provenance": [
+    "sa:18:49",
+    "telang:T12",
+    "arnold:D22-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:50",
+   "devanagari": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे ।\nसमासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा",
+   "iast": "siddhiṃ prāpto yathā brahma tathāpnoti nibodha me |\nsamāsenaiva kaunteya niṣṭhā jñānasya yā parā",
+   "speaker": null,
+   "telang_context": "dexterity not slinking away from battle, gifts, exercise of lordly power this is the natural duty of Kshatriyas. Agriculture, tending cattle, trade, (this) is the  natural duty of Vaivyas. And the natural duty of  5’Odras, too, consists in service. (Every) man intent on  his own respective duties obtains perfection Listen,  now, how one intent on one’s own duty obtains perfection. Worshipping, by (the performance of) his  own duty, him from whom all things proceed, and  by whom all this is permeated, a man obtains perfection. One’s duty, though defective, is better than  another’s duty well performed*. Performing the  duty prescribed by nature, one does not incur sin.  0 son of Kunti ! one should not abandon a natural  duty though tainted with evil ; for all actions are  enveloped by evil, as fire by smoke ®. One who is  self-restrained, whose understanding is unattached  everywhere, from whom affections have departed,  obtains the supreme perfection of freedom from  action ® by renunciation. Learn from me, only in  brief, O son of Kunti ! how one who has obtained  perfection attains the Brahman, which is the highest  culmination of knowledge. A man possessed of a pure  understanding, controlling his self by courage, discarding sound and other objects of sense, casting off",
+   "arnold_span": "D23",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Hear briefly how the perfected one reaches the ultimate. Wisdom's highest crown.",
+   "takeaway": "Perfection has a further shore.",
+   "provenance": [
+    "sa:18:50",
+    "telang:T12",
+    "arnold:D23"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:51",
+   "devanagari": "बुद्ध्या विशुद्ध्या युक्तो धृत्यात्मानं नियम्य च ।\nशब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च",
+   "iast": "buddhyā viśuddhyā yukto dhṛtyātmānaṃ niyamya ca |\nśabdādīnviṣayāṃstyaktvā rāgadveṣau vyudasya ca",
+   "speaker": null,
+   "telang_context": "dexterity not slinking away from battle, gifts, exercise of lordly power this is the natural duty of Kshatriyas. Agriculture, tending cattle, trade, (this) is the  natural duty of Vaivyas. And the natural duty of  5’Odras, too, consists in service. (Every) man intent on  his own respective duties obtains perfection Listen,  now, how one intent on one’s own duty obtains perfection. Worshipping, by (the performance of) his  own duty, him from whom all things proceed, and  by whom all this is permeated, a man obtains perfection. One’s duty, though defective, is better than  another’s duty well performed*. Performing the  duty prescribed by nature, one does not incur sin.  0 son of Kunti ! one should not abandon a natural  duty though tainted with evil ; for all actions are  enveloped by evil, as fire by smoke ®. One who is  self-restrained, whose understanding is unattached  everywhere, from whom affections have departed,  obtains the supreme perfection of freedom from  action ® by renunciation. Learn from me, only in  brief, O son of Kunti ! how one who has obtained  perfection attains the Brahman, which is the highest  culmination of knowledge. A man possessed of a pure  understanding, controlling his self by courage, discarding sound and other objects of sense, casting off\n\naffection and aversion ; who frequents clean places,  who eats little, whose speech, body, and mind are  restrained, who is always intent on meditation and  mental abstraction *, and has recourse to unconcern,  who abandoning egoism stubbornness, arrogance,  desire, anger, and (all) belongings, has no (thought  that this or that is) mine, and who is tranquil, becomes  fit for assimilation with the Brahman. Thus reaching  the Brahman ®, and with a tranquil self, he grieves  not, wishes not ; but being alike to all beings, obtains  the highest devotion to me. By (that) devotion he  truly understands who I am and how great. And  then understanding me truly, he forthwith enters  into my (essence). Even performing all actions,  always depending on me, he, through my favour,  obtains the imperishable and eternal seat. Dedicating in thought * all actions to me, be constantly  given up to me, (placing) your thoughts on me,  through recourse to mental abstraction. (Placing)  your thoughts on me, you will cross over all difficulties  by my favour. But if you will not listen through  egotism ®, you will be ruined. If entertaining egotism,  you think that you may not fight, vain, indeed, is  that resolution of yours. Nature ® will constrain  you. That, O son of Kuntl ! which through delusion you do not wish to do, you will do involuntarily,",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "Split across T12-tail/T13-head.",
+   "meaning_simple": "Pure intellect, self mastered by resolve. Senses set aside. Likes and dislikes dropped.",
+   "takeaway": "The equipment list for the final climb.",
+   "provenance": [
+    "sa:18:51",
+    "telang:T12+T13-head",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:52",
+   "devanagari": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः ।\nध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः",
+   "iast": "viviktasevī laghvāśī yatavākkāyamānasaḥ |\ndhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ",
+   "speaker": null,
+   "telang_context": "affection and aversion ; who frequents clean places,  who eats little, whose speech, body, and mind are  restrained, who is always intent on meditation and  mental abstraction *, and has recourse to unconcern,  who abandoning egoism stubbornness, arrogance,  desire, anger, and (all) belongings, has no (thought  that this or that is) mine, and who is tranquil, becomes  fit for assimilation with the Brahman. Thus reaching  the Brahman ®, and with a tranquil self, he grieves  not, wishes not ; but being alike to all beings, obtains  the highest devotion to me. By (that) devotion he  truly understands who I am and how great. And  then understanding me truly, he forthwith enters  into my (essence). Even performing all actions,  always depending on me, he, through my favour,  obtains the imperishable and eternal seat. Dedicating in thought * all actions to me, be constantly  given up to me, (placing) your thoughts on me,  through recourse to mental abstraction. (Placing)  your thoughts on me, you will cross over all difficulties  by my favour. But if you will not listen through  egotism ®, you will be ruined. If entertaining egotism,  you think that you may not fight, vain, indeed, is  that resolution of yours. Nature ® will constrain  you. That, O son of Kuntl ! which through delusion you do not wish to do, you will do involuntarily,",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Lonely haunts, little food. Speech, body, mind restrained. Ever meditating. Desire renounced.",
+   "takeaway": "The regime of the God-bound.",
+   "provenance": [
+    "sa:18:52",
+    "telang:T13",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:53",
+   "devanagari": "अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् ।\nविमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते",
+   "iast": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham |\nvimucya nirmamaḥ śānto brahmabhūyāya kalpate",
+   "speaker": null,
+   "telang_context": "affection and aversion ; who frequents clean places,  who eats little, whose speech, body, and mind are  restrained, who is always intent on meditation and  mental abstraction *, and has recourse to unconcern,  who abandoning egoism stubbornness, arrogance,  desire, anger, and (all) belongings, has no (thought  that this or that is) mine, and who is tranquil, becomes  fit for assimilation with the Brahman. Thus reaching  the Brahman ®, and with a tranquil self, he grieves  not, wishes not ; but being alike to all beings, obtains  the highest devotion to me. By (that) devotion he  truly understands who I am and how great. And  then understanding me truly, he forthwith enters  into my (essence). Even performing all actions,  always depending on me, he, through my favour,  obtains the imperishable and eternal seat. Dedicating in thought * all actions to me, be constantly  given up to me, (placing) your thoughts on me,  through recourse to mental abstraction. (Placing)  your thoughts on me, you will cross over all difficulties  by my favour. But if you will not listen through  egotism ®, you will be ruined. If entertaining egotism,  you think that you may not fight, vain, indeed, is  that resolution of yours. Nature ® will constrain  you. That, O son of Kuntl ! which through delusion you do not wish to do, you will do involuntarily,",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Ego, force, arrogance, craving, anger, possessions — shed. Mine-less, tranquil — fit for oneness.",
+   "takeaway": "Six weights dropped. One fitness earned.",
+   "provenance": [
+    "sa:18:53",
+    "telang:T13",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:54",
+   "devanagari": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति ।\nसमः सर्वेषु भूतेषु मद्भक्तिं लभते पराम्",
+   "iast": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati |\nsamaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām",
+   "speaker": null,
+   "telang_context": "affection and aversion ; who frequents clean places,  who eats little, whose speech, body, and mind are  restrained, who is always intent on meditation and  mental abstraction *, and has recourse to unconcern,  who abandoning egoism stubbornness, arrogance,  desire, anger, and (all) belongings, has no (thought  that this or that is) mine, and who is tranquil, becomes  fit for assimilation with the Brahman. Thus reaching  the Brahman ®, and with a tranquil self, he grieves  not, wishes not ; but being alike to all beings, obtains  the highest devotion to me. By (that) devotion he  truly understands who I am and how great. And  then understanding me truly, he forthwith enters  into my (essence). Even performing all actions,  always depending on me, he, through my favour,  obtains the imperishable and eternal seat. Dedicating in thought * all actions to me, be constantly  given up to me, (placing) your thoughts on me,  through recourse to mental abstraction. (Placing)  your thoughts on me, you will cross over all difficulties  by my favour. But if you will not listen through  egotism ®, you will be ruined. If entertaining egotism,  you think that you may not fight, vain, indeed, is  that resolution of yours. Nature ® will constrain  you. That, O son of Kuntl ! which through delusion you do not wish to do, you will do involuntarily,",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "One with the ultimate, serene — no grief, no craving. Same to all beings. Highest love for Me.",
+   "takeaway": "Equality ripens into devotion.",
+   "provenance": [
+    "sa:18:54",
+    "telang:T13",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:55",
+   "devanagari": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः ।\nततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम्",
+   "iast": "bhaktyā māmabhijānāti yāvānyaścāsmi tattvataḥ |\ntato māṃ tattvato jñātvā viśate tadanantaram",
+   "speaker": null,
+   "telang_context": "affection and aversion ; who frequents clean places,  who eats little, whose speech, body, and mind are  restrained, who is always intent on meditation and  mental abstraction *, and has recourse to unconcern,  who abandoning egoism stubbornness, arrogance,  desire, anger, and (all) belongings, has no (thought  that this or that is) mine, and who is tranquil, becomes  fit for assimilation with the Brahman. Thus reaching  the Brahman ®, and with a tranquil self, he grieves  not, wishes not ; but being alike to all beings, obtains  the highest devotion to me. By (that) devotion he  truly understands who I am and how great. And  then understanding me truly, he forthwith enters  into my (essence). Even performing all actions,  always depending on me, he, through my favour,  obtains the imperishable and eternal seat. Dedicating in thought * all actions to me, be constantly  given up to me, (placing) your thoughts on me,  through recourse to mental abstraction. (Placing)  your thoughts on me, you will cross over all difficulties  by my favour. But if you will not listen through  egotism ®, you will be ruined. If entertaining egotism,  you think that you may not fight, vain, indeed, is  that resolution of yours. Nature ® will constrain  you. That, O son of Kuntl ! which through delusion you do not wish to do, you will do involuntarily,",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Through love one knows Me truly — how great I am. Knowing truly, one enters Me.",
+   "takeaway": "Love knows. Knowledge enters.",
+   "provenance": [
+    "sa:18:55",
+    "telang:T13",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:56",
+   "devanagari": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः ।\nमत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम्",
+   "iast": "sarvakarmāṇyapi sadā kurvāṇo madvyapāśrayaḥ |\nmatprasādādavāpnoti śāśvataṃ padamavyayam",
+   "speaker": null,
+   "telang_context": "affection and aversion ; who frequents clean places,  who eats little, whose speech, body, and mind are  restrained, who is always intent on meditation and  mental abstraction *, and has recourse to unconcern,  who abandoning egoism stubbornness, arrogance,  desire, anger, and (all) belongings, has no (thought  that this or that is) mine, and who is tranquil, becomes  fit for assimilation with the Brahman. Thus reaching  the Brahman ®, and with a tranquil self, he grieves  not, wishes not ; but being alike to all beings, obtains  the highest devotion to me. By (that) devotion he  truly understands who I am and how great. And  then understanding me truly, he forthwith enters  into my (essence). Even performing all actions,  always depending on me, he, through my favour,  obtains the imperishable and eternal seat. Dedicating in thought * all actions to me, be constantly  given up to me, (placing) your thoughts on me,  through recourse to mental abstraction. (Placing)  your thoughts on me, you will cross over all difficulties  by my favour. But if you will not listen through  egotism ®, you will be ruined. If entertaining egotism,  you think that you may not fight, vain, indeed, is  that resolution of yours. Nature ® will constrain  you. That, O son of Kuntl ! which through delusion you do not wish to do, you will do involuntarily,",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Doing all acts sheltered in Me, by My grace one wins the eternal, imperishable home.",
+   "takeaway": "Shelter first. Home after.",
+   "provenance": [
+    "sa:18:56",
+    "telang:T13",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:57",
+   "devanagari": "चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः ।\nबुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव",
+   "iast": "cetasā sarvakarmāṇi mayi saṃnyasya matparaḥ |\nbuddhiyogamupāśritya maccittaḥ satataṃ bhava",
+   "speaker": null,
+   "telang_context": "affection and aversion ; who frequents clean places,  who eats little, whose speech, body, and mind are  restrained, who is always intent on meditation and  mental abstraction *, and has recourse to unconcern,  who abandoning egoism stubbornness, arrogance,  desire, anger, and (all) belongings, has no (thought  that this or that is) mine, and who is tranquil, becomes  fit for assimilation with the Brahman. Thus reaching  the Brahman ®, and with a tranquil self, he grieves  not, wishes not ; but being alike to all beings, obtains  the highest devotion to me. By (that) devotion he  truly understands who I am and how great. And  then understanding me truly, he forthwith enters  into my (essence). Even performing all actions,  always depending on me, he, through my favour,  obtains the imperishable and eternal seat. Dedicating in thought * all actions to me, be constantly  given up to me, (placing) your thoughts on me,  through recourse to mental abstraction. (Placing)  your thoughts on me, you will cross over all difficulties  by my favour. But if you will not listen through  egotism ®, you will be ruined. If entertaining egotism,  you think that you may not fight, vain, indeed, is  that resolution of yours. Nature ® will constrain  you. That, O son of Kuntl ! which through delusion you do not wish to do, you will do involuntarily,",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Offer every act to Me in thought. Hold Me highest. Mind on Me always through steady focus.",
+   "takeaway": "The standing instruction.",
+   "provenance": [
+    "sa:18:57",
+    "telang:T13",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:58",
+   "devanagari": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि ।\nअथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि",
+   "iast": "maccittaḥ sarvadurgāṇi matprasādāttariṣyasi |\natha cettvamahaṃkārānna śroṣyasi vinaṅkṣyasi",
+   "speaker": null,
+   "telang_context": "affection and aversion ; who frequents clean places,  who eats little, whose speech, body, and mind are  restrained, who is always intent on meditation and  mental abstraction *, and has recourse to unconcern,  who abandoning egoism stubbornness, arrogance,  desire, anger, and (all) belongings, has no (thought  that this or that is) mine, and who is tranquil, becomes  fit for assimilation with the Brahman. Thus reaching  the Brahman ®, and with a tranquil self, he grieves  not, wishes not ; but being alike to all beings, obtains  the highest devotion to me. By (that) devotion he  truly understands who I am and how great. And  then understanding me truly, he forthwith enters  into my (essence). Even performing all actions,  always depending on me, he, through my favour,  obtains the imperishable and eternal seat. Dedicating in thought * all actions to me, be constantly  given up to me, (placing) your thoughts on me,  through recourse to mental abstraction. (Placing)  your thoughts on me, you will cross over all difficulties  by my favour. But if you will not listen through  egotism ®, you will be ruined. If entertaining egotism,  you think that you may not fight, vain, indeed, is  that resolution of yours. Nature ® will constrain  you. That, O son of Kuntl ! which through delusion you do not wish to do, you will do involuntarily,",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Mind on Me — cross every danger by My grace. Refuse through ego — and perish.",
+   "takeaway": "Two futures. Your call.",
+   "provenance": [
+    "sa:18:58",
+    "telang:T13",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:59",
+   "devanagari": "यदहंकारमाश्रित्य न योत्स्य इति मन्यसे ।\nमिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति",
+   "iast": "yadahaṃkāramāśritya na yotsya iti manyase |\nmithyaiṣa vyavasāyaste prakṛtistvāṃ niyokṣyati",
+   "speaker": null,
+   "telang_context": "affection and aversion ; who frequents clean places,  who eats little, whose speech, body, and mind are  restrained, who is always intent on meditation and  mental abstraction *, and has recourse to unconcern,  who abandoning egoism stubbornness, arrogance,  desire, anger, and (all) belongings, has no (thought  that this or that is) mine, and who is tranquil, becomes  fit for assimilation with the Brahman. Thus reaching  the Brahman ®, and with a tranquil self, he grieves  not, wishes not ; but being alike to all beings, obtains  the highest devotion to me. By (that) devotion he  truly understands who I am and how great. And  then understanding me truly, he forthwith enters  into my (essence). Even performing all actions,  always depending on me, he, through my favour,  obtains the imperishable and eternal seat. Dedicating in thought * all actions to me, be constantly  given up to me, (placing) your thoughts on me,  through recourse to mental abstraction. (Placing)  your thoughts on me, you will cross over all difficulties  by my favour. But if you will not listen through  egotism ®, you will be ruined. If entertaining egotism,  you think that you may not fight, vain, indeed, is  that resolution of yours. Nature ® will constrain  you. That, O son of Kuntl ! which through delusion you do not wish to do, you will do involuntarily,",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "'I will not fight' — vain resolve. Your own nature will drag you to war.",
+   "takeaway": "Nature outvotes resolutions.",
+   "provenance": [
+    "sa:18:59",
+    "telang:T13",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:60",
+   "devanagari": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा ।\nकर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत्",
+   "iast": "svabhāvajena kaunteya nibaddhaḥ svena karmaṇā |\nkartuṃ necchasi yanmohātkariṣyasyavaśo'pi tat",
+   "speaker": null,
+   "telang_context": "affection and aversion ; who frequents clean places,  who eats little, whose speech, body, and mind are  restrained, who is always intent on meditation and  mental abstraction *, and has recourse to unconcern,  who abandoning egoism stubbornness, arrogance,  desire, anger, and (all) belongings, has no (thought  that this or that is) mine, and who is tranquil, becomes  fit for assimilation with the Brahman. Thus reaching  the Brahman ®, and with a tranquil self, he grieves  not, wishes not ; but being alike to all beings, obtains  the highest devotion to me. By (that) devotion he  truly understands who I am and how great. And  then understanding me truly, he forthwith enters  into my (essence). Even performing all actions,  always depending on me, he, through my favour,  obtains the imperishable and eternal seat. Dedicating in thought * all actions to me, be constantly  given up to me, (placing) your thoughts on me,  through recourse to mental abstraction. (Placing)  your thoughts on me, you will cross over all difficulties  by my favour. But if you will not listen through  egotism ®, you will be ruined. If entertaining egotism,  you think that you may not fight, vain, indeed, is  that resolution of yours. Nature ® will constrain  you. That, O son of Kuntl ! which through delusion you do not wish to do, you will do involuntarily,\n\ntied down by your own duty, flowing from your  nature. The lord, O Ai^funa ! is seated in the  region of the heart ^ of all beings, turning round all  beings (as though) mounted on a machine, by his  delusion. With him, O descendant of Bharata!  seek shelter in every way * ; by his favour you will  obtain the highest tranquillity, the eternal seat.  Thus have I declared to you the knowledge more  mysterious than any mystery. Ponder over it  thoroughly, and then act as you like. Once more,  listen to my excellent words — most mysterious of all.  Strongly I like you, therefore I will declare what is  for your welfare. On me (place) your mind, become  my devotee, sacrifice to me, reverence me, and you  will certainly come to me. I declare to you truly,  you are dear to me. Forsaking all duties come  to me as (your) sole refuge. I will release you  from all sins. Be not grieved. This * you should  never declare to one who performs no penance''’, who  is not a devotee ®, nor to one who does not wait on  (some preceptor)’, nor yet to one who calumniates  me. He who, with the highest devotion* to me, will  proclaim this supreme mystery among my devotees,  will come to me, freed from (all) doubts. No one",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "Split across T13-tail/T14-head.",
+   "meaning_simple": "Bound by your own duty-born nature, helpless, you will do what delusion refuses.",
+   "takeaway": "The question answers itself.",
+   "provenance": [
+    "sa:18:60",
+    "telang:T13+T14-head",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:61",
+   "devanagari": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।\nभ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया",
+   "iast": "īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati |\nbhrāmayansarvabhūtāni yantrārūḍhāni māyayā",
+   "speaker": null,
+   "telang_context": "tied down by your own duty, flowing from your  nature. The lord, O Ai^funa ! is seated in the  region of the heart ^ of all beings, turning round all  beings (as though) mounted on a machine, by his  delusion. With him, O descendant of Bharata!  seek shelter in every way * ; by his favour you will  obtain the highest tranquillity, the eternal seat.  Thus have I declared to you the knowledge more  mysterious than any mystery. Ponder over it  thoroughly, and then act as you like. Once more,  listen to my excellent words — most mysterious of all.  Strongly I like you, therefore I will declare what is  for your welfare. On me (place) your mind, become  my devotee, sacrifice to me, reverence me, and you  will certainly come to me. I declare to you truly,  you are dear to me. Forsaking all duties come  to me as (your) sole refuge. I will release you  from all sins. Be not grieved. This * you should  never declare to one who performs no penance''’, who  is not a devotee ®, nor to one who does not wait on  (some preceptor)’, nor yet to one who calumniates  me. He who, with the highest devotion* to me, will  proclaim this supreme mystery among my devotees,  will come to me, freed from (all) doubts. No one",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The Lord sits in every heart, spinning all beings round as on a machine by His power.",
+   "takeaway": "The puppeteer with love in His hands.",
+   "provenance": [
+    "sa:18:61",
+    "telang:T14",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:62",
+   "devanagari": "तमेव शरणं गच्छ सर्वभावेन भारत ।\nतत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम्",
+   "iast": "tameva śaraṇaṃ gaccha sarvabhāvena bhārata |\ntatprasādātparāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam",
+   "speaker": null,
+   "telang_context": "tied down by your own duty, flowing from your  nature. The lord, O Ai^funa ! is seated in the  region of the heart ^ of all beings, turning round all  beings (as though) mounted on a machine, by his  delusion. With him, O descendant of Bharata!  seek shelter in every way * ; by his favour you will  obtain the highest tranquillity, the eternal seat.  Thus have I declared to you the knowledge more  mysterious than any mystery. Ponder over it  thoroughly, and then act as you like. Once more,  listen to my excellent words — most mysterious of all.  Strongly I like you, therefore I will declare what is  for your welfare. On me (place) your mind, become  my devotee, sacrifice to me, reverence me, and you  will certainly come to me. I declare to you truly,  you are dear to me. Forsaking all duties come  to me as (your) sole refuge. I will release you  from all sins. Be not grieved. This * you should  never declare to one who performs no penance''’, who  is not a devotee ®, nor to one who does not wait on  (some preceptor)’, nor yet to one who calumniates  me. He who, with the highest devotion* to me, will  proclaim this supreme mystery among my devotees,  will come to me, freed from (all) doubts. No one",
+   "arnold_span": "D24",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Surrender to Him wholly. By His grace find supreme peace and the eternal home.",
+   "takeaway": "Total surrender. Total peace.",
+   "provenance": [
+    "sa:18:62",
+    "telang:T14",
+    "arnold:D24-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:63",
+   "devanagari": "इति ते ज्ञानमाख्यातं गुह्याद्‌गुह्यतरं मया ।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु",
+   "iast": "iti te jñānamākhyātaṃ guhyād‌guhyataraṃ mayā |\nvimṛśyaitadaśeṣeṇa yathecchasi tathā kuru",
+   "speaker": null,
+   "telang_context": "tied down by your own duty, flowing from your  nature. The lord, O Ai^funa ! is seated in the  region of the heart ^ of all beings, turning round all  beings (as though) mounted on a machine, by his  delusion. With him, O descendant of Bharata!  seek shelter in every way * ; by his favour you will  obtain the highest tranquillity, the eternal seat.  Thus have I declared to you the knowledge more  mysterious than any mystery. Ponder over it  thoroughly, and then act as you like. Once more,  listen to my excellent words — most mysterious of all.  Strongly I like you, therefore I will declare what is  for your welfare. On me (place) your mind, become  my devotee, sacrifice to me, reverence me, and you  will certainly come to me. I declare to you truly,  you are dear to me. Forsaking all duties come  to me as (your) sole refuge. I will release you  from all sins. Be not grieved. This * you should  never declare to one who performs no penance''’, who  is not a devotee ®, nor to one who does not wait on  (some preceptor)’, nor yet to one who calumniates  me. He who, with the highest devotion* to me, will  proclaim this supreme mystery among my devotees,  will come to me, freed from (all) doubts. No one",
+   "arnold_span": "D25",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Thus I have told the most hidden wisdom. Think it through fully — then act as you will.",
+   "takeaway": "Freedom, after full disclosure.",
+   "provenance": [
+    "sa:18:63",
+    "telang:T14",
+    "arnold:D25"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:64",
+   "devanagari": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः ।\nइष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम्",
+   "iast": "sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ |\niṣṭo'si me dṛḍhamiti tato vakṣyāmi te hitam",
+   "speaker": null,
+   "telang_context": "tied down by your own duty, flowing from your  nature. The lord, O Ai^funa ! is seated in the  region of the heart ^ of all beings, turning round all  beings (as though) mounted on a machine, by his  delusion. With him, O descendant of Bharata!  seek shelter in every way * ; by his favour you will  obtain the highest tranquillity, the eternal seat.  Thus have I declared to you the knowledge more  mysterious than any mystery. Ponder over it  thoroughly, and then act as you like. Once more,  listen to my excellent words — most mysterious of all.  Strongly I like you, therefore I will declare what is  for your welfare. On me (place) your mind, become  my devotee, sacrifice to me, reverence me, and you  will certainly come to me. I declare to you truly,  you are dear to me. Forsaking all duties come  to me as (your) sole refuge. I will release you  from all sins. Be not grieved. This * you should  never declare to one who performs no penance''’, who  is not a devotee ®, nor to one who does not wait on  (some preceptor)’, nor yet to one who calumniates  me. He who, with the highest devotion* to me, will  proclaim this supreme mystery among my devotees,  will come to me, freed from (all) doubts. No one",
+   "arnold_span": "D26",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Hear once more My highest word. You are dearly loved — so I speak your good.",
+   "takeaway": "Love is the reason for the encore.",
+   "provenance": [
+    "sa:18:64",
+    "telang:T14",
+    "arnold:D26-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:65",
+   "devanagari": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।\nमामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे",
+   "iast": "manmanā bhava madbhakto madyājī māṃ namaskuru |\nmāmevaiṣyasi satyaṃ te pratijāne priyo'si me",
+   "speaker": null,
+   "telang_context": "tied down by your own duty, flowing from your  nature. The lord, O Ai^funa ! is seated in the  region of the heart ^ of all beings, turning round all  beings (as though) mounted on a machine, by his  delusion. With him, O descendant of Bharata!  seek shelter in every way * ; by his favour you will  obtain the highest tranquillity, the eternal seat.  Thus have I declared to you the knowledge more  mysterious than any mystery. Ponder over it  thoroughly, and then act as you like. Once more,  listen to my excellent words — most mysterious of all.  Strongly I like you, therefore I will declare what is  for your welfare. On me (place) your mind, become  my devotee, sacrifice to me, reverence me, and you  will certainly come to me. I declare to you truly,  you are dear to me. Forsaking all duties come  to me as (your) sole refuge. I will release you  from all sins. Be not grieved. This * you should  never declare to one who performs no penance''’, who  is not a devotee ®, nor to one who does not wait on  (some preceptor)’, nor yet to one who calumniates  me. He who, with the highest devotion* to me, will  proclaim this supreme mystery among my devotees,  will come to me, freed from (all) doubts. No one",
+   "arnold_span": "D26",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Mind on Me. Love Me. Serve Me. Bow to Me. You shall reach Me — truly promised, for you are dear.",
+   "takeaway": "Four imperatives and a vow.",
+   "provenance": [
+    "sa:18:65",
+    "telang:T14",
+    "arnold:D26-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:66",
+   "devanagari": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः",
+   "iast": "sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja |\nahaṃ tvāṃ sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ",
+   "speaker": null,
+   "telang_context": "tied down by your own duty, flowing from your  nature. The lord, O Ai^funa ! is seated in the  region of the heart ^ of all beings, turning round all  beings (as though) mounted on a machine, by his  delusion. With him, O descendant of Bharata!  seek shelter in every way * ; by his favour you will  obtain the highest tranquillity, the eternal seat.  Thus have I declared to you the knowledge more  mysterious than any mystery. Ponder over it  thoroughly, and then act as you like. Once more,  listen to my excellent words — most mysterious of all.  Strongly I like you, therefore I will declare what is  for your welfare. On me (place) your mind, become  my devotee, sacrifice to me, reverence me, and you  will certainly come to me. I declare to you truly,  you are dear to me. Forsaking all duties come  to me as (your) sole refuge. I will release you  from all sins. Be not grieved. This * you should  never declare to one who performs no penance''’, who  is not a devotee ®, nor to one who does not wait on  (some preceptor)’, nor yet to one who calumniates  me. He who, with the highest devotion* to me, will  proclaim this supreme mystery among my devotees,  will come to me, freed from (all) doubts. No one",
+   "arnold_span": "D27",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Drop every duty-code. Take Me alone as refuge. I will free you from all wrongs. Do not grieve.",
+   "takeaway": "The most quoted verse. Earned its fame.",
+   "provenance": [
+    "sa:18:66",
+    "telang:T14",
+    "arnold:D27"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:67",
+   "devanagari": "इदं ते नातपस्काय नाभक्ताय कदाचन ।\nन चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति",
+   "iast": "idaṃ te nātapaskāya nābhaktāya kadācana |\nna cāśuśrūṣave vācyaṃ na ca māṃ yo'bhyasūyati",
+   "speaker": null,
+   "telang_context": "tied down by your own duty, flowing from your  nature. The lord, O Ai^funa ! is seated in the  region of the heart ^ of all beings, turning round all  beings (as though) mounted on a machine, by his  delusion. With him, O descendant of Bharata!  seek shelter in every way * ; by his favour you will  obtain the highest tranquillity, the eternal seat.  Thus have I declared to you the knowledge more  mysterious than any mystery. Ponder over it  thoroughly, and then act as you like. Once more,  listen to my excellent words — most mysterious of all.  Strongly I like you, therefore I will declare what is  for your welfare. On me (place) your mind, become  my devotee, sacrifice to me, reverence me, and you  will certainly come to me. I declare to you truly,  you are dear to me. Forsaking all duties come  to me as (your) sole refuge. I will release you  from all sins. Be not grieved. This * you should  never declare to one who performs no penance''’, who  is not a devotee ®, nor to one who does not wait on  (some preceptor)’, nor yet to one who calumniates  me. He who, with the highest devotion* to me, will  proclaim this supreme mystery among my devotees,  will come to me, freed from (all) doubts. No one",
+   "arnold_span": "D28",
+   "arnold_shared": true,
+   "align_notes": "Sridhara gloss ('who performs no pious acts') dropped as footnote (T15).",
+   "meaning_simple": "Never tell this to the harsh, the faithless, the closed, or the scoffer.",
+   "takeaway": "The teaching has a lock. Respect it.",
+   "provenance": [
+    "sa:18:67",
+    "telang:T14",
+    "arnold:D28-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:68",
+   "devanagari": "य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति ।\nभक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः",
+   "iast": "ya imaṃ paramaṃ guhyaṃ madbhakteṣvabhidhāsyati |\nbhaktiṃ mayi parāṃ kṛtvā māmevaiṣyatyasaṃśayaḥ",
+   "speaker": null,
+   "telang_context": "tied down by your own duty, flowing from your  nature. The lord, O Ai^funa ! is seated in the  region of the heart ^ of all beings, turning round all  beings (as though) mounted on a machine, by his  delusion. With him, O descendant of Bharata!  seek shelter in every way * ; by his favour you will  obtain the highest tranquillity, the eternal seat.  Thus have I declared to you the knowledge more  mysterious than any mystery. Ponder over it  thoroughly, and then act as you like. Once more,  listen to my excellent words — most mysterious of all.  Strongly I like you, therefore I will declare what is  for your welfare. On me (place) your mind, become  my devotee, sacrifice to me, reverence me, and you  will certainly come to me. I declare to you truly,  you are dear to me. Forsaking all duties come  to me as (your) sole refuge. I will release you  from all sins. Be not grieved. This * you should  never declare to one who performs no penance''’, who  is not a devotee ®, nor to one who does not wait on  (some preceptor)’, nor yet to one who calumniates  me. He who, with the highest devotion* to me, will  proclaim this supreme mystery among my devotees,  will come to me, freed from (all) doubts. No one",
+   "arnold_span": "D28",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Who shares this supreme secret with My lovers, loving Me deeply — reaches Me, doubt-free.",
+   "takeaway": "Transmission is itself devotion.",
+   "provenance": [
+    "sa:18:68",
+    "telang:T14",
+    "arnold:D28-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:69",
+   "devanagari": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः ।\nभविता न च मे तस्मादन्यः प्रियतरो भुवि",
+   "iast": "na ca tasmānmanuṣyeṣu kaścinme priyakṛttamaḥ |\nbhavitā na ca me tasmādanyaḥ priyataro bhuvi",
+   "speaker": null,
+   "telang_context": "tied down by your own duty, flowing from your  nature. The lord, O Ai^funa ! is seated in the  region of the heart ^ of all beings, turning round all  beings (as though) mounted on a machine, by his  delusion. With him, O descendant of Bharata!  seek shelter in every way * ; by his favour you will  obtain the highest tranquillity, the eternal seat.  Thus have I declared to you the knowledge more  mysterious than any mystery. Ponder over it  thoroughly, and then act as you like. Once more,  listen to my excellent words — most mysterious of all.  Strongly I like you, therefore I will declare what is  for your welfare. On me (place) your mind, become  my devotee, sacrifice to me, reverence me, and you  will certainly come to me. I declare to you truly,  you are dear to me. Forsaking all duties come  to me as (your) sole refuge. I will release you  from all sins. Be not grieved. This * you should  never declare to one who performs no penance''’, who  is not a devotee ®, nor to one who does not wait on  (some preceptor)’, nor yet to one who calumniates  me. He who, with the highest devotion* to me, will  proclaim this supreme mystery among my devotees,  will come to me, freed from (all) doubts. No one\n\namongst men is superior to him in doing what is  dear to me. And there will never be another on  earth dearer to me than he. And he who will study  this holy dialogue of ours, will, such is my opinion,  have offered to me the sacrifice of knowledge'.  And the man, also, who with faith and without  carping will listen (to this), will be freed (from sin),  and attain to the holy regions of those who perform  pious acts ^ Have you listened to this, O son of  P;'fthd ! with a mind (fixed) on (this) one point only ?  Has your delusion (caused) by ignorance been destroyed, O Dhanaw^ya ?",
+   "arnold_span": "D28",
+   "arnold_shared": true,
+   "align_notes": "Split across T14-tail/T16-head (footnote T15 between).",
+   "meaning_simple": "None serves Me more dearly among humans. None ever will.",
+   "takeaway": "The highest service, ranked first.",
+   "provenance": [
+    "sa:18:69",
+    "telang:T14+T16-head",
+    "arnold:D28-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:70",
+   "devanagari": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः ।\nज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः",
+   "iast": "adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādamāvayoḥ |\njñānayajñena tenāhamiṣṭaḥ syāmiti me matiḥ",
+   "speaker": null,
+   "telang_context": "amongst men is superior to him in doing what is  dear to me. And there will never be another on  earth dearer to me than he. And he who will study  this holy dialogue of ours, will, such is my opinion,  have offered to me the sacrifice of knowledge'.  And the man, also, who with faith and without  carping will listen (to this), will be freed (from sin),  and attain to the holy regions of those who perform  pious acts ^ Have you listened to this, O son of  P;'fthd ! with a mind (fixed) on (this) one point only ?  Has your delusion (caused) by ignorance been destroyed, O Dhanaw^ya ?",
+   "arnold_span": "D28",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Who studies this holy dialogue offers Me wisdom's own sacrifice. So I hold.",
+   "takeaway": "Study as offering. Reading as rite.",
+   "provenance": [
+    "sa:18:70",
+    "telang:T16",
+    "arnold:D28-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:71",
+   "devanagari": "श्रद्धावाननसूयश्च शृणुयादपि यो नरः ।\nसोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्",
+   "iast": "śraddhāvānanasūyaśca śṛṇuyādapi yo naraḥ |\nso'pi muktaḥ śubhām̐llokānprāpnuyātpuṇyakarmaṇām",
+   "speaker": null,
+   "telang_context": "amongst men is superior to him in doing what is  dear to me. And there will never be another on  earth dearer to me than he. And he who will study  this holy dialogue of ours, will, such is my opinion,  have offered to me the sacrifice of knowledge'.  And the man, also, who with faith and without  carping will listen (to this), will be freed (from sin),  and attain to the holy regions of those who perform  pious acts ^ Have you listened to this, O son of  P;'fthd ! with a mind (fixed) on (this) one point only ?  Has your delusion (caused) by ignorance been destroyed, O Dhanaw^ya ?",
+   "arnold_span": "D28",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Who listens faithfully, without scoffing, is freed — rising to the worlds of the good.",
+   "takeaway": "Listening counts. Faithfully.",
+   "provenance": [
+    "sa:18:71",
+    "telang:T16",
+    "arnold:D28-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:72",
+   "devanagari": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा ।\nकच्चिदज्ञानसंमोहः प्रनष्टस्ते धनंजय",
+   "iast": "kaccidetacchrutaṃ pārtha tvayaikāgreṇa cetasā |\nkaccidajñānasaṃmohaḥ pranaṣṭaste dhanaṃjaya",
+   "speaker": null,
+   "telang_context": "amongst men is superior to him in doing what is  dear to me. And there will never be another on  earth dearer to me than he. And he who will study  this holy dialogue of ours, will, such is my opinion,  have offered to me the sacrifice of knowledge'.  And the man, also, who with faith and without  carping will listen (to this), will be freed (from sin),  and attain to the holy regions of those who perform  pious acts ^ Have you listened to this, O son of  P;'fthd ! with a mind (fixed) on (this) one point only ?  Has your delusion (caused) by ignorance been destroyed, O Dhanaw^ya ?",
+   "arnold_span": "D29",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Did you hear with focused mind? Is ignorance-born delusion gone, Arjuna?",
+   "takeaway": "The teacher's final question.",
+   "provenance": [
+    "sa:18:72",
+    "telang:T16",
+    "arnold:D29"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:73",
+   "devanagari": "नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत ।\nस्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव",
+   "iast": "naṣṭo mohaḥ smṛtirlabdhā tvatprasādānmayācyuta |\nsthito'smi gatasandehaḥ kariṣye vacanaṃ tava",
+   "speaker": "अर्जुन",
+   "telang_context": "Ar^una said :\n\nDestroyed is my delusion ; by your favour, 0 un- '  degraded one ! I (now) recollect ® myself. I stand  freed from doubts I will do your bidding.",
+   "arnold_span": "D30",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Arjuna said: delusion gone. Memory regained by Your grace. Doubts fled. I stand ready. I will do Your word.",
+   "takeaway": "The student's final answer. War can begin.",
+   "provenance": [
+    "sa:18:73",
+    "telang:T17+T18",
+    "arnold:D30"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:74",
+   "devanagari": "इत्यहं वासुदेवस्य पार्थस्य च महात्मनः ।\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम्",
+   "iast": "ityahaṃ vāsudevasya pārthasya ca mahātmanaḥ |\nsaṃvādamimamaśrauṣamadbhutaṃ romaharṣaṇam",
+   "speaker": "सञ्जय",
+   "telang_context": "Sa«^aya said ;\n\nThus did I hear this dialogue between Vdsudeva  and the high-minded son of Prith&, (a dialogue)  wonderful and causing the hair to stand on end. By  the favour of Vydsa, I heard this highest mystery,  (this) devotion ®, from Krz'shua himself, the lord of  the possessors of mystic power, who proclaimed it  in person. O king! remembering and (again) remembering this wonderful and holy dialogue of  Ke^ava and Ai;^na, I rejoice over and over again.  And remembering and (again) remembering that",
+   "arnold_span": "D31",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Sanjaya said: thus I heard this wondrous, hair-raising dialogue of Krishna and the great-souled prince.",
+   "takeaway": "The narrator signs his report.",
+   "provenance": [
+    "sa:18:74",
+    "telang:T19+T20-head",
+    "arnold:D31-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:75",
+   "devanagari": "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् ।\nयोगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम्",
+   "iast": "vyāsaprasādācchrutavānetadguhyamahaṃ param |\nyogaṃ yogeśvarātkṛṣṇātsākṣātkathayataḥ svayam",
+   "speaker": null,
+   "telang_context": "Thus did I hear this dialogue between Vdsudeva  and the high-minded son of Prith&, (a dialogue)  wonderful and causing the hair to stand on end. By  the favour of Vydsa, I heard this highest mystery,  (this) devotion ®, from Krz'shua himself, the lord of  the possessors of mystic power, who proclaimed it  in person. O king! remembering and (again) remembering this wonderful and holy dialogue of  Ke^ava and Ai;^na, I rejoice over and over again.  And remembering and (again) remembering that",
+   "arnold_span": "D31",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "By Vyasa's grace I heard this supreme mystery of devotion. From Krishna Himself. Lord of discipline. Speaking in person.",
+   "takeaway": "Lineage stated. Source named.",
+   "provenance": [
+    "sa:18:75",
+    "telang:T20",
+    "arnold:D31-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:76",
+   "devanagari": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् ।\nकेशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः",
+   "iast": "rājansaṃsmṛtya saṃsmṛtya saṃvādamimamadbhutam |\nkeśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhurmuhuḥ",
+   "speaker": null,
+   "telang_context": "Thus did I hear this dialogue between Vdsudeva  and the high-minded son of Prith&, (a dialogue)  wonderful and causing the hair to stand on end. By  the favour of Vydsa, I heard this highest mystery,  (this) devotion ®, from Krz'shua himself, the lord of  the possessors of mystic power, who proclaimed it  in person. O king! remembering and (again) remembering this wonderful and holy dialogue of  Ke^ava and Ai;^na, I rejoice over and over again.  And remembering and (again) remembering that",
+   "arnold_span": "D31",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Remembering this holy dialogue again and again, O king, I rejoice endlessly.",
+   "takeaway": "Joy on repeat.",
+   "provenance": [
+    "sa:18:76",
+    "telang:T20",
+    "arnold:D31-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:77",
+   "devanagari": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः ।\nविस्मयो मे महान् राजन्हृष्यामि च पुनः पुनः",
+   "iast": "tacca saṃsmṛtya saṃsmṛtya rūpamatyadbhutaṃ hareḥ |\nvismayo me mahān rājanhṛṣyāmi ca punaḥ punaḥ",
+   "speaker": null,
+   "telang_context": "Thus did I hear this dialogue between Vdsudeva  and the high-minded son of Prith&, (a dialogue)  wonderful and causing the hair to stand on end. By  the favour of Vydsa, I heard this highest mystery,  (this) devotion ®, from Krz'shua himself, the lord of  the possessors of mystic power, who proclaimed it  in person. O king! remembering and (again) remembering this wonderful and holy dialogue of  Ke^ava and Ai;^na, I rejoice over and over again.  And remembering and (again) remembering that\n\nexcessively wonderful form of Hari also, great is  tny amazement, O king ! and I rejoice over and  over again. Wherever (is) Krfshwa, the lord of  the possessors of mystic power, wherever (is) the  (great) archer, the son of Prfth^, there in my  opinion (are) fortune, victory, prosperity and  eternal justice.",
+   "arnold_span": "D31",
+   "arnold_shared": true,
+   "align_notes": "Split across T20-tail/T22-head (page-131 T21 between).",
+   "meaning_simple": "Remembering Hari's awesome form again and again — great is my wonder, and my joy.",
+   "takeaway": "Wonder on repeat.",
+   "provenance": [
+    "sa:18:77",
+    "telang:T20+T22-head",
+    "arnold:D31-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "18:78",
+   "devanagari": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम",
+   "iast": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ |\ntatra śrīrvijayo bhūtirdhruvā nītirmatirmama",
+   "speaker": null,
+   "telang_context": "excessively wonderful form of Hari also, great is  tny amazement, O king ! and I rejoice over and  over again. Wherever (is) Krfshwa, the lord of  the possessors of mystic power, wherever (is) the  (great) archer, the son of Prfth^, there in my  opinion (are) fortune, victory, prosperity and  eternal justice.",
+   "arnold_span": "D31",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Where Krishna leads and Arjuna strives. There stand fortune, victory, prosperity, and justice.",
+   "takeaway": "The last word: the winning side.",
+   "provenance": [
+    "sa:18:78",
+    "telang:T22",
+    "arnold:D31-shared"
+   ],
+   "status": "approved"
+  }
+ ]
+}

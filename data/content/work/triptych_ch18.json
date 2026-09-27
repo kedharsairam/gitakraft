@@ -1,0 +1,804 @@
+{
+ "chapter": 18,
+ "sanskrit": [
+  {
+   "id": "18:1",
+   "speaker": "अर्जुन",
+   "devanagari": "संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् ।\nत्यागस्य च हृषीकेश पृथक्केशिनिषूदन",
+   "iast": "saṃnyāsasya mahābāho tattvamicchāmi veditum |\ntyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana"
+  },
+  {
+   "id": "18:2",
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच\nकाम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः ।\nसर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः",
+   "iast": "śrībhagavānuvāca\nkāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ |\nsarvakarmaphalatyāgaṃ prāhustyāgaṃ vicakṣaṇāḥ"
+  },
+  {
+   "id": "18:3",
+   "speaker": null,
+   "devanagari": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः ।\nयज्ञदानतपःकर्म न त्याज्यमिति चापरे",
+   "iast": "tyājyaṃ doṣavadityeke karma prāhurmanīṣiṇaḥ |\nyajñadānatapaḥkarma na tyājyamiti cāpare"
+  },
+  {
+   "id": "18:4",
+   "speaker": null,
+   "devanagari": "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम ।\nत्यागो हि पुरुषव्याघ्र त्रिविधः संप्रकीर्तितः",
+   "iast": "niścayaṃ śṛṇu me tatra tyāge bharatasattama |\ntyāgo hi puruṣavyāghra trividhaḥ saṃprakīrtitaḥ"
+  },
+  {
+   "id": "18:5",
+   "speaker": null,
+   "devanagari": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् ।\nयज्ञो दानं तपश्चैव पावनानि मनीषिणाम्",
+   "iast": "yajñadānatapaḥkarma na tyājyaṃ kāryameva tat |\nyajño dānaṃ tapaścaiva pāvanāni manīṣiṇām"
+  },
+  {
+   "id": "18:6",
+   "speaker": null,
+   "devanagari": "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च ।\nकर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम्",
+   "iast": "etānyapi tu karmāṇi saṅgaṃ tyaktvā phalāni ca |\nkartavyānīti me pārtha niścitaṃ matamuttamam"
+  },
+  {
+   "id": "18:7",
+   "speaker": null,
+   "devanagari": "नियतस्य तु संन्यासः कर्मणो नोपपद्यते ।\nमोहात्तस्य परित्यागस्तामसः परिकीर्तितः",
+   "iast": "niyatasya tu saṃnyāsaḥ karmaṇo nopapadyate |\nmohāttasya parityāgastāmasaḥ parikīrtitaḥ"
+  },
+  {
+   "id": "18:8",
+   "speaker": null,
+   "devanagari": "दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् ।\nस कृत्वा राजसं त्यागं नैव त्यागफलं लभेत्",
+   "iast": "duḥkhamityeva yatkarma kāyakleśabhayāttyajet |\nsa kṛtvā rājasaṃ tyāgaṃ naiva tyāgaphalaṃ labhet"
+  },
+  {
+   "id": "18:9",
+   "speaker": null,
+   "devanagari": "कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन ।\nसङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः",
+   "iast": "kāryamityeva yatkarma niyataṃ kriyate'rjuna |\nsaṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ"
+  },
+  {
+   "id": "18:10",
+   "speaker": null,
+   "devanagari": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते ।\nत्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः",
+   "iast": "na dveṣṭyakuśalaṃ karma kuśale nānuṣajjate |\ntyāgī sattvasamāviṣṭo medhāvī chinnasaṃśayaḥ"
+  },
+  {
+   "id": "18:11",
+   "speaker": null,
+   "devanagari": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः ।\nयस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते",
+   "iast": "na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇyaśeṣataḥ |\nyastu karmaphalatyāgī sa tyāgītyabhidhīyate"
+  },
+  {
+   "id": "18:12",
+   "speaker": null,
+   "devanagari": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् ।\nभवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित्",
+   "iast": "aniṣṭamiṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam |\nbhavatyatyāgināṃ pretya na tu saṃnyāsināṃ kvacit"
+  },
+  {
+   "id": "18:13",
+   "speaker": null,
+   "devanagari": "पञ्चैतानि महाबाहो कारणानि निबोध मे ।\nसांख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम्",
+   "iast": "pañcaitāni mahābāho kāraṇāni nibodha me |\nsāṃkhye kṛtānte proktāni siddhaye sarvakarmaṇām"
+  },
+  {
+   "id": "18:14",
+   "speaker": null,
+   "devanagari": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् ।\nविविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम्",
+   "iast": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham |\nvividhāśca pṛthakceṣṭā daivaṃ caivātra pañcamam"
+  },
+  {
+   "id": "18:15",
+   "speaker": null,
+   "devanagari": "शरीरवाङ्‌मनोभिर्यत्कर्म प्रारभते नरः ।\nन्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः",
+   "iast": "śarīravāṅ‌manobhiryatkarma prārabhate naraḥ |\nnyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ"
+  },
+  {
+   "id": "18:16",
+   "speaker": null,
+   "devanagari": "तत्रैवं सति कर्तारमात्मानं केवलं तु यः ।\nपश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः",
+   "iast": "tatraivaṃ sati kartāramātmānaṃ kevalaṃ tu yaḥ |\npaśyatyakṛtabuddhitvānna sa paśyati durmatiḥ"
+  },
+  {
+   "id": "18:17",
+   "speaker": null,
+   "devanagari": "यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते ।\nहत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते",
+   "iast": "yasya nāhaṃkṛto bhāvo buddhiryasya na lipyate |\nhatvāpi sa imām̐llokānna hanti na nibadhyate"
+  },
+  {
+   "id": "18:18",
+   "speaker": null,
+   "devanagari": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना ।\nकरणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः",
+   "iast": "jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā |\nkaraṇaṃ karma karteti trividhaḥ karmasaṃgrahaḥ"
+  },
+  {
+   "id": "18:19",
+   "speaker": null,
+   "devanagari": "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः ।\nप्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि",
+   "iast": "jñānaṃ karma ca kartā ca tridhaiva guṇabhedataḥ |\nprocyate guṇasaṃkhyāne yathāvacchṛṇu tānyapi"
+  },
+  {
+   "id": "18:20",
+   "speaker": null,
+   "devanagari": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते ।\nअविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम्",
+   "iast": "sarvabhūteṣu yenaikaṃ bhāvamavyayamīkṣate |\navibhaktaṃ vibhakteṣu tajjñānaṃ viddhi sāttvikam"
+  },
+  {
+   "id": "18:21",
+   "speaker": null,
+   "devanagari": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् ।\nवेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम्",
+   "iast": "pṛthaktvena tu yajjñānaṃ nānābhāvānpṛthagvidhān |\nvetti sarveṣu bhūteṣu tajjñānaṃ viddhi rājasam"
+  },
+  {
+   "id": "18:22",
+   "speaker": null,
+   "devanagari": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् ।\nअतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम्",
+   "iast": "yattu kṛtsnavadekasminkārye saktamahaitukam |\natattvārthavadalpaṃ ca tattāmasamudāhṛtam"
+  },
+  {
+   "id": "18:23",
+   "speaker": null,
+   "devanagari": "नियतं सङ्गरहितमरागद्वेषतः कृतम् ।\nअफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते",
+   "iast": "niyataṃ saṅgarahitamarāgadveṣataḥ kṛtam |\naphalaprepsunā karma yattatsāttvikamucyate"
+  },
+  {
+   "id": "18:24",
+   "speaker": null,
+   "devanagari": "यत्तु कामेप्सुना कर्म साहंकारेण वा पुनः ।\nक्रियते बहुलायासं तद्राजसमुदाहृतम्",
+   "iast": "yattu kāmepsunā karma sāhaṃkāreṇa vā punaḥ |\nkriyate bahulāyāsaṃ tadrājasamudāhṛtam"
+  },
+  {
+   "id": "18:25",
+   "speaker": null,
+   "devanagari": "अनुबन्धं क्षयं हिंसामनवेक्ष्य च पौरुषम् ।\nमोहादारभ्यते कर्म यत्तत्तामसमुच्यते",
+   "iast": "anubandhaṃ kṣayaṃ hiṃsāmanavekṣya ca pauruṣam |\nmohādārabhyate karma yattattāmasamucyate"
+  },
+  {
+   "id": "18:26",
+   "speaker": null,
+   "devanagari": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः ।\nसिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते",
+   "iast": "muktasaṅgo'nahaṃvādī dhṛtyutsāhasamanvitaḥ |\nsiddhyasiddhyornirvikāraḥ kartā sāttvika ucyate"
+  },
+  {
+   "id": "18:27",
+   "speaker": null,
+   "devanagari": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः ।\nहर्षशोकान्वितः कर्ता राजसः परिकीर्तितः",
+   "iast": "rāgī karmaphalaprepsurlubdho hiṃsātmako'śuciḥ |\nharṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ"
+  },
+  {
+   "id": "18:28",
+   "speaker": null,
+   "devanagari": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः ।\nविषादी दीर्घसूत्री च कर्ता तामस उच्यते",
+   "iast": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko'lasaḥ |\nviṣādī dīrghasūtrī ca kartā tāmasa ucyate"
+  },
+  {
+   "id": "18:29",
+   "speaker": null,
+   "devanagari": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु ।\nप्रोच्यमानमशेषेण पृथक्त्वेन धनंजय",
+   "iast": "buddherbhedaṃ dhṛteścaiva guṇatastrividhaṃ śṛṇu |\nprocyamānamaśeṣeṇa pṛthaktvena dhanaṃjaya"
+  },
+  {
+   "id": "18:30",
+   "speaker": null,
+   "devanagari": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये ।\nबन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी",
+   "iast": "pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye |\nbandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī"
+  },
+  {
+   "id": "18:31",
+   "speaker": null,
+   "devanagari": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च ।\nअयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी",
+   "iast": "yayā dharmamadharmaṃ ca kāryaṃ cākāryameva ca |\nayathāvatprajānāti buddhiḥ sā pārtha rājasī"
+  },
+  {
+   "id": "18:32",
+   "speaker": null,
+   "devanagari": "अधर्मं धर्ममिति या मन्यते तमसावृता ।\nसर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी",
+   "iast": "adharmaṃ dharmamiti yā manyate tamasāvṛtā |\nsarvārthānviparītāṃśca buddhiḥ sā pārtha tāmasī"
+  },
+  {
+   "id": "18:33",
+   "speaker": null,
+   "devanagari": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः ।\nयोगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी",
+   "iast": "dhṛtyā yayā dhārayate manaḥprāṇendriyakriyāḥ |\nyogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī"
+  },
+  {
+   "id": "18:34",
+   "speaker": null,
+   "devanagari": "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन ।\nप्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी",
+   "iast": "yayā tu dharmakāmārthāndhṛtyā dhārayate'rjuna |\nprasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī"
+  },
+  {
+   "id": "18:35",
+   "speaker": null,
+   "devanagari": "यया स्वप्नं भयं शोकं विषादं मदमेव च ।\nन विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी",
+   "iast": "yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madameva ca |\nna vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī"
+  },
+  {
+   "id": "18:36",
+   "speaker": null,
+   "devanagari": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ ।\nअभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति",
+   "iast": "sukhaṃ tvidānīṃ trividhaṃ śṛṇu me bharatarṣabha |\nabhyāsādramate yatra duḥkhāntaṃ ca nigacchati"
+  },
+  {
+   "id": "18:37",
+   "speaker": null,
+   "devanagari": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम् ।\nतत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम्",
+   "iast": "yattadagre viṣamiva pariṇāme'mṛtopamam |\ntatsukhaṃ sāttvikaṃ proktamātmabuddhiprasādajam"
+  },
+  {
+   "id": "18:38",
+   "speaker": null,
+   "devanagari": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् ।\nपरिणामे विषमिव तत्सुखं राजसं स्मृतम्",
+   "iast": "viṣayendriyasaṃyogādyattadagre'mṛtopamam |\npariṇāme viṣamiva tatsukhaṃ rājasaṃ smṛtam"
+  },
+  {
+   "id": "18:39",
+   "speaker": null,
+   "devanagari": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः ।\nनिद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम्",
+   "iast": "yadagre cānubandhe ca sukhaṃ mohanamātmanaḥ |\nnidrālasyapramādotthaṃ tattāmasamudāhṛtam"
+  },
+  {
+   "id": "18:40",
+   "speaker": null,
+   "devanagari": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः ।\nसत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः",
+   "iast": "na tadasti pṛthivyāṃ vā divi deveṣu vā punaḥ |\nsattvaṃ prakṛtijairmuktaṃ yadebhiḥ syāttribhirguṇaiḥ"
+  },
+  {
+   "id": "18:41",
+   "speaker": null,
+   "devanagari": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप ।\nकर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः",
+   "iast": "brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca parantapa |\nkarmāṇi pravibhaktāni svabhāvaprabhavairguṇaiḥ"
+  },
+  {
+   "id": "18:42",
+   "speaker": null,
+   "devanagari": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च ।\nज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम्",
+   "iast": "śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca |\njñānaṃ vijñānamāstikyaṃ brahmakarma svabhāvajam"
+  },
+  {
+   "id": "18:43",
+   "speaker": null,
+   "devanagari": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् ।\nदानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्",
+   "iast": "śauryaṃ tejo dhṛtirdākṣyaṃ yuddhe cāpyapalāyanam |\ndānamīśvarabhāvaśca kṣātraṃ karma svabhāvajam"
+  },
+  {
+   "id": "18:44",
+   "speaker": null,
+   "devanagari": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् ।\nपरिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम्",
+   "iast": "kṛṣigaurakṣyavāṇijyaṃ vaiśyakarma svabhāvajam |\nparicaryātmakaṃ karma śūdrasyāpi svabhāvajam"
+  },
+  {
+   "id": "18:45",
+   "speaker": null,
+   "devanagari": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः ।\nस्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु",
+   "iast": "sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ |\nsvakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu"
+  },
+  {
+   "id": "18:46",
+   "speaker": null,
+   "devanagari": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् ।\nस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः",
+   "iast": "yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam |\nsvakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ"
+  },
+  {
+   "id": "18:47",
+   "speaker": null,
+   "devanagari": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\nस्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम्",
+   "iast": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt |\nsvabhāvaniyataṃ karma kurvannāpnoti kilbiṣam"
+  },
+  {
+   "id": "18:48",
+   "speaker": null,
+   "devanagari": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् ।\nसर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः",
+   "iast": "sahajaṃ karma kaunteya sadoṣamapi na tyajet |\nsarvārambhā hi doṣeṇa dhūmenāgnirivāvṛtāḥ"
+  },
+  {
+   "id": "18:49",
+   "speaker": null,
+   "devanagari": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः ।\nनैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति",
+   "iast": "asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ |\nnaiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati"
+  },
+  {
+   "id": "18:50",
+   "speaker": null,
+   "devanagari": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे ।\nसमासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा",
+   "iast": "siddhiṃ prāpto yathā brahma tathāpnoti nibodha me |\nsamāsenaiva kaunteya niṣṭhā jñānasya yā parā"
+  },
+  {
+   "id": "18:51",
+   "speaker": null,
+   "devanagari": "बुद्ध्या विशुद्ध्या युक्तो धृत्यात्मानं नियम्य च ।\nशब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च",
+   "iast": "buddhyā viśuddhyā yukto dhṛtyātmānaṃ niyamya ca |\nśabdādīnviṣayāṃstyaktvā rāgadveṣau vyudasya ca"
+  },
+  {
+   "id": "18:52",
+   "speaker": null,
+   "devanagari": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः ।\nध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः",
+   "iast": "viviktasevī laghvāśī yatavākkāyamānasaḥ |\ndhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ"
+  },
+  {
+   "id": "18:53",
+   "speaker": null,
+   "devanagari": "अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् ।\nविमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते",
+   "iast": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham |\nvimucya nirmamaḥ śānto brahmabhūyāya kalpate"
+  },
+  {
+   "id": "18:54",
+   "speaker": null,
+   "devanagari": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति ।\nसमः सर्वेषु भूतेषु मद्भक्तिं लभते पराम्",
+   "iast": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati |\nsamaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām"
+  },
+  {
+   "id": "18:55",
+   "speaker": null,
+   "devanagari": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः ।\nततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम्",
+   "iast": "bhaktyā māmabhijānāti yāvānyaścāsmi tattvataḥ |\ntato māṃ tattvato jñātvā viśate tadanantaram"
+  },
+  {
+   "id": "18:56",
+   "speaker": null,
+   "devanagari": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः ।\nमत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम्",
+   "iast": "sarvakarmāṇyapi sadā kurvāṇo madvyapāśrayaḥ |\nmatprasādādavāpnoti śāśvataṃ padamavyayam"
+  },
+  {
+   "id": "18:57",
+   "speaker": null,
+   "devanagari": "चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः ।\nबुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव",
+   "iast": "cetasā sarvakarmāṇi mayi saṃnyasya matparaḥ |\nbuddhiyogamupāśritya maccittaḥ satataṃ bhava"
+  },
+  {
+   "id": "18:58",
+   "speaker": null,
+   "devanagari": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि ।\nअथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि",
+   "iast": "maccittaḥ sarvadurgāṇi matprasādāttariṣyasi |\natha cettvamahaṃkārānna śroṣyasi vinaṅkṣyasi"
+  },
+  {
+   "id": "18:59",
+   "speaker": null,
+   "devanagari": "यदहंकारमाश्रित्य न योत्स्य इति मन्यसे ।\nमिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति",
+   "iast": "yadahaṃkāramāśritya na yotsya iti manyase |\nmithyaiṣa vyavasāyaste prakṛtistvāṃ niyokṣyati"
+  },
+  {
+   "id": "18:60",
+   "speaker": null,
+   "devanagari": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा ।\nकर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत्",
+   "iast": "svabhāvajena kaunteya nibaddhaḥ svena karmaṇā |\nkartuṃ necchasi yanmohātkariṣyasyavaśo'pi tat"
+  },
+  {
+   "id": "18:61",
+   "speaker": null,
+   "devanagari": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।\nभ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया",
+   "iast": "īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati |\nbhrāmayansarvabhūtāni yantrārūḍhāni māyayā"
+  },
+  {
+   "id": "18:62",
+   "speaker": null,
+   "devanagari": "तमेव शरणं गच्छ सर्वभावेन भारत ।\nतत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम्",
+   "iast": "tameva śaraṇaṃ gaccha sarvabhāvena bhārata |\ntatprasādātparāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam"
+  },
+  {
+   "id": "18:63",
+   "speaker": null,
+   "devanagari": "इति ते ज्ञानमाख्यातं गुह्याद्‌गुह्यतरं मया ।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु",
+   "iast": "iti te jñānamākhyātaṃ guhyād‌guhyataraṃ mayā |\nvimṛśyaitadaśeṣeṇa yathecchasi tathā kuru"
+  },
+  {
+   "id": "18:64",
+   "speaker": null,
+   "devanagari": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः ।\nइष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम्",
+   "iast": "sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ |\niṣṭo'si me dṛḍhamiti tato vakṣyāmi te hitam"
+  },
+  {
+   "id": "18:65",
+   "speaker": null,
+   "devanagari": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।\nमामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे",
+   "iast": "manmanā bhava madbhakto madyājī māṃ namaskuru |\nmāmevaiṣyasi satyaṃ te pratijāne priyo'si me"
+  },
+  {
+   "id": "18:66",
+   "speaker": null,
+   "devanagari": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः",
+   "iast": "sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja |\nahaṃ tvāṃ sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ"
+  },
+  {
+   "id": "18:67",
+   "speaker": null,
+   "devanagari": "इदं ते नातपस्काय नाभक्ताय कदाचन ।\nन चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति",
+   "iast": "idaṃ te nātapaskāya nābhaktāya kadācana |\nna cāśuśrūṣave vācyaṃ na ca māṃ yo'bhyasūyati"
+  },
+  {
+   "id": "18:68",
+   "speaker": null,
+   "devanagari": "य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति ।\nभक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः",
+   "iast": "ya imaṃ paramaṃ guhyaṃ madbhakteṣvabhidhāsyati |\nbhaktiṃ mayi parāṃ kṛtvā māmevaiṣyatyasaṃśayaḥ"
+  },
+  {
+   "id": "18:69",
+   "speaker": null,
+   "devanagari": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः ।\nभविता न च मे तस्मादन्यः प्रियतरो भुवि",
+   "iast": "na ca tasmānmanuṣyeṣu kaścinme priyakṛttamaḥ |\nbhavitā na ca me tasmādanyaḥ priyataro bhuvi"
+  },
+  {
+   "id": "18:70",
+   "speaker": null,
+   "devanagari": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः ।\nज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः",
+   "iast": "adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādamāvayoḥ |\njñānayajñena tenāhamiṣṭaḥ syāmiti me matiḥ"
+  },
+  {
+   "id": "18:71",
+   "speaker": null,
+   "devanagari": "श्रद्धावाननसूयश्च शृणुयादपि यो नरः ।\nसोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्",
+   "iast": "śraddhāvānanasūyaśca śṛṇuyādapi yo naraḥ |\nso'pi muktaḥ śubhām̐llokānprāpnuyātpuṇyakarmaṇām"
+  },
+  {
+   "id": "18:72",
+   "speaker": null,
+   "devanagari": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा ।\nकच्चिदज्ञानसंमोहः प्रनष्टस्ते धनंजय",
+   "iast": "kaccidetacchrutaṃ pārtha tvayaikāgreṇa cetasā |\nkaccidajñānasaṃmohaḥ pranaṣṭaste dhanaṃjaya"
+  },
+  {
+   "id": "18:73",
+   "speaker": "अर्जुन",
+   "devanagari": "नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत ।\nस्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव",
+   "iast": "naṣṭo mohaḥ smṛtirlabdhā tvatprasādānmayācyuta |\nsthito'smi gatasandehaḥ kariṣye vacanaṃ tava"
+  },
+  {
+   "id": "18:74",
+   "speaker": "सञ्जय",
+   "devanagari": "इत्यहं वासुदेवस्य पार्थस्य च महात्मनः ।\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम्",
+   "iast": "ityahaṃ vāsudevasya pārthasya ca mahātmanaḥ |\nsaṃvādamimamaśrauṣamadbhutaṃ romaharṣaṇam"
+  },
+  {
+   "id": "18:75",
+   "speaker": null,
+   "devanagari": "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् ।\nयोगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम्",
+   "iast": "vyāsaprasādācchrutavānetadguhyamahaṃ param |\nyogaṃ yogeśvarātkṛṣṇātsākṣātkathayataḥ svayam"
+  },
+  {
+   "id": "18:76",
+   "speaker": null,
+   "devanagari": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् ।\nकेशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः",
+   "iast": "rājansaṃsmṛtya saṃsmṛtya saṃvādamimamadbhutam |\nkeśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhurmuhuḥ"
+  },
+  {
+   "id": "18:77",
+   "speaker": null,
+   "devanagari": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः ।\nविस्मयो मे महान् राजन्हृष्यामि च पुनः पुनः",
+   "iast": "tacca saṃsmṛtya saṃsmṛtya rūpamatyadbhutaṃ hareḥ |\nvismayo me mahān rājanhṛṣyāmi ca punaḥ punaḥ"
+  },
+  {
+   "id": "18:78",
+   "speaker": null,
+   "devanagari": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम",
+   "iast": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ |\ntatra śrīrvijayo bhūtirdhruvā nītirmatirmama"
+  }
+ ],
+ "telang_paras": [
+  {
+   "text": "(making) sacrifices, penances, and gifts, is called ‘Sat;’  and (all) action, too, of which that * is the object, is  also called ‘Sat.’ Whatever oblation is offered, whatever is given, whatever penance is performed, and  whatever is done, without faith*, that, O son of  PnthA ! is called ‘Asat,’ and that is nought, both  after death and here*.",
+   "footnote?": false
+  },
+  {
+   "text": "Ar^ina-said :",
+   "footnote?": false
+  },
+  {
+   "text": "O you of mighty arms ! O HA-fshlkera ! O destroyer of Ke.yin ! I wish to know the truth about  renunciation and abandonment distinctly.",
+   "footnote?": false
+  },
+  {
+   "text": "The Deity said ;",
+   "footnote?": false
+  },
+  {
+   "text": "By renunciation the sages understand the rejection  of actions done with desires. The wise call the  abandonment of the fruit of all actions (by the name)  abandonment. Some wise men say, that action  should be abandoned as being full of evil ; and  others, that the actions of sacrifice, gift, and penance",
+   "footnote?": false
+  },
+  {
+   "text": "’ I.e. ciiher the Brahman itself, or sacrifice, penance, and gift.",
+   "footnote?": true
+  },
+  {
+   "text": "■ Cf. Sutta Nipata, p. 69.",
+   "footnote?": true
+  },
+  {
+   "text": "^ The meaning of this whole passage seems to be that these three  words, which designate the Brahman, have distinct uses, as specified.  ‘Om,’ says NilalKU//Aa, is employed whether the action is done  with any special desire or not. Those who study the Brahman  there means ‘ study the Vedas.' ‘ Tad ’ is employed in case of  actions without desires only. ‘ Sat ’ is employed, according to  •Sankara, in case of existence, such as the birth of a first son;  ‘ goodness,’ the reclamation of a bad man ; ‘ auspicious acts,' marnage, &c. The intelligent use of these terms as here specified is  said to cure any defects in the actions, the various classes of which  are mentioned before.",
+   "footnote?": true
+  },
+  {
+   "text": "should not be abandoned. As to that abandonment,  O best of the. descendants of Bharata ! listen to my  decision ; for abandonment, O bravest of men ! is  described (to be) threefold. The actions of sacrifice,  gift, and penance should not be abandoned; they  must needs be performed ; for sacrifices, gifts, and  penances are means of sanctification to the wise. But  even these actions, O son of Przthii ! should be performed, abandoning attachment and fruit; such is  my excellent and decided opinion. The renunciation  of prescribed action is not proper. Its abandonment through delusion ^ is described as of the quality  of darkness. When a man abandons action, merely  as being troublesome, through fear of bodily affliction, he does not obtain the fruit * of abandonment  by making (such) passionate abandonment. When  prescribed action is performed, O Ar^ma! abandoning attachment and fruit also, merely because it  ought to be performed, that is deemed (to be) a good  abandonment. He who is possessed of abandonment®, being full of goodness, and talented, and  having his doubts destroyed, is not averse from  unpleasant actions, is not attached to pleasant *  (ones). Since no embodied (being) can abandon  actions without exception®, he is said to be possessed of abandonment, who abandons the fruit of  action. The threefold fruit of action, agr«eable, disagreeable, and mixed, accrues after death to those  who are not possessed of abandonment, but never to",
+   "footnote?": false
+  },
+  {
+   "text": "^ Without delusion no such abandonment will occur.",
+   "footnote?": true
+  },
+  {
+   "text": "* Namely, final emancipation, by means of purity of heart.",
+   "footnote?": true
+  },
+  {
+   "text": "* l.e. who has the frame of mind necessary for a good abandonment. .",
+   "footnote?": true
+  },
+  {
+   "text": "‘ Such as bathing at midday in summer. ® Cf. p. 53 supra.",
+   "footnote?": true
+  },
+  {
+   "text": "renouncers Learn from me, O you of mighty arms !  these five causes of the completion of all actions,  declared in the S&nkhya system The substratum,  the agent likewise, the various sorts of organs, and  the various and distinct movements, and with these  the deities, too, as the fifth. Whatever action, just  or otherwise, a man performs with his body, speech,  and mind, these five are its causes. That being so, the  undiscerning man, who being of an unrefined understanding, sees the agent in the immaculate self, sees  not (rightly) He who has no feeling of egoism*,  and whose mind is not tainted, even though he kills  (all) these people, kills not, is not fettered ® (by the  action). Knowledge ®, the object of knowledge, the  knower — threefold is the prompting to action. The  instrument, the action, the agent, thus in brief is  action threefold. Knowledge and action and agent",
+   "footnote?": false
+  },
+  {
+   "text": "‘ The original is sannyasi, but •S’ridhara is probably right in taking  it to mean one who has command of * abandonment/ 6'ahkara  and Madhnsftdana, however, take the word in its ordinary sense of  • ascetit / What follows explains, says i.S'rtdhara, why ‘ the fruit does  not accrue to renouncers/",
+   "footnote?": true
+  },
+  {
+   "text": "^ .S’ahkara and Madhusddana say this means Vedanta-jastra.  .Sridhara suggests also the alternative Sahkhya-jastra. Substratum  =lhe body, in which desire, aversion, &c, are manifested; agent =  one who egoistically thinks himself the doer of actions; organs  =senscs of perception, action, &c.; movements = of the vital breaths  in the body; (|fities=-lhe deities which preside over the eye and other  senses (as to this cf. Aitareya-upanishad, p. 45 ; Prajna, pp. 2 1 6, 2 1 7 ;  iMuWaka, p. 314; Aitareya-ara;zyaka, pp. 88-270; and Max Muller's  Hibbert Lectures, p. 204, note). ® Cf. p. 106.",
+   "footnote?": true
+  },
+  {
+   "text": "* Egoism =: the feeling that he is the doer of the action; taint =  feeling that the fruit of the action must accrue to him.",
+   "footnote?": true
+  },
+  {
+   "text": "” Cf. p. 45, and Dhammapada, stanza 294.",
+   "footnote?": true
+  },
+  {
+   "text": "® Knowledge, i.e. that something is a means to what is desired ;  object is the means; the knower is he who has this knowledge,  ^^hen these co-exist we have action. The instrument = senses, &c.",
+   "footnote?": true
+  },
+  {
+   "text": "are declared in the enumeration of qualities ’ (to be)  of three classes only, according to the difference of  qualities. Hear about these also as they really are.  Know that knowledge to be good, by which (a man)  sees one entity, inexhaustible, and not different in  all things (apparently) different ® (from one another).  Know that knowledge to be passionate, which is  (based) on distinctions ® (between different entities),  which sees in all things various entities of different  kinds. And that is described as dark, which clings  to one created (thing) only as everything, which is  devoid of reason, devoid of real principle, and insignificant ^ That action is called good, which is  prescribed, which is devoid of attachment, which is  not done from (motives of) affection or aversion, *  (and which is done) by one not wishing for the  fruit. That is described as passionate, which (occasions) much trouble, is performed by one who  wishes for objects of desire, or one who is full of  egotism ®. The action is called dark, which is commenced through delusion, without regard to consequences, loss, injury, or strength ®. That agent is  called good, who has cast off attachment, who is free  from egotistic talk, who is possessed of courage and  energy, and unaffected by success or ill-success. That  agent is called passionate, who is full of affections",
+   "footnote?": false
+  },
+  {
+   "text": "* The system of Kapila. ® Cf. p. 104.",
+   "footnote?": true
+  },
+  {
+   "text": "® Cf. KaMopanishad, p. 129.",
+   "footnote?": true
+  },
+  {
+   "text": "* Reason = argument in support; real principle = truth, view of  things as they are ; insignificant, i.e. in comprehensiveness.",
+   "footnote?": true
+  },
+  {
+   "text": "® I.e. ‘pride of learning,' &c., Sankara; ‘egoism,' Ramdnu^a.",
+   "footnote?": true
+  },
+  {
+   "text": "Consequences = good or evil resulting; loss = of wealth or  strength; injury = to others ; strength = one's own capacity.",
+   "footnote?": false
+  },
+  {
+   "text": "’ I.e. ‘ for children,* &c., according to iiViidhara; ‘for the action,  according to others.",
+   "footnote?": true
+  },
+  {
+   "text": "^25",
+   "footnote?": true
+  },
+  {
+   "text": "wlio wishes for the fruit of actions, who is covetous,  cruel, and impure, and feels joy and sorrow.  That agent is called dark, who is without application S void of discernment, headstrong, crafty, malicious, lazy, melancholy, and slow. Now hear, O  Dhana«^ya ! the threefold division of intelligence  and courage, according to qualities, which I am  about to declare exhaustively and distinctly. That  intelligence, O son of Prfthd ! is good which understands action and inaction •*, what ought to be done  and what ought not to be done, danger and the  absence of danger, emancipation and bondage.  That intelligence, O son of Prfthd ! is passionate,  by which one imperfectly understands piety and  impiety, what ought to be done and also what ought  not to be done. That intelligence, O son of Prith^ !  is dark, which shrouded by darkness, understands  impiety (to be) piety, and all things incorrectly.  That courage, O son of Prith& ! is good courage,  which is unswerving *, and by which one controls  the operations of the mind, breath, and senses,  through abstraction. But, O Ar^ina ! that courage  is passionate, by which one adheres to piety, lust,  and wealth ®, and through attachment ® wishes,",
+   "footnote?": false
+  },
+  {
+   "text": "' I.e. allention to work; melancholy = always desponding and  wanting in energy.",
+   "footnote?": true
+  },
+  {
+   "text": "’ The nature of the faculty of understanding ; and courage is the  firmness of that faculty.",
+   "footnote?": true
+  },
+  {
+   "text": "^ Seep. 115. 6ahkara takes these to mean the ‘ paths' of action  and knowledge, and Ntlaka;////a lakes the next expression to mean  that wliich is constant and that which is not constant — nitya, anitya.",
+   "footnote?": true
+  },
+  {
+   "text": "* Always co-existing with mental abstraction and supporting it.",
+   "footnote?": true
+  },
+  {
+   "text": "* Three of the aims of mankind, the highest being final emancipation. In the view of the Gild, piety, leading only to heaven, is  of doubtful benefit.",
+   "footnote?": true
+  },
+  {
+   "text": "* I*e. to the action for attaining them, in the belief that one is",
+   "footnote?": true
+  },
+  {
+   "text": "126 BHAGAVADCiTA.",
+   "footnote?": true
+  },
+  {
+   "text": "O son of Prithi. ! for the fruit. That courage is  dark, O son of Prixhk ! by which an undiscerning  man does not give up sleep, fear, sorrow, despondency, and folly. Now, O chief of the descendants  of Bharata ! hear from me about the three sorts of  happiness. That happiness is called good, in which  one is pleased after repetition^ (of enjoyment), and  reaches the close of all misery, which is like poison  first and comparable to nectar in the long run, and  which is produced from a clear knowledge of the  self^ That happiness is called passionate, which  (flows) from contact between the senses and their  objects, and which is at first comparable to nectar  and in the long run like poison. That happiness is  described as dark, which arises from sleep, laziness,  heedlessness, which deludes the self, both at first  and in its consecpiences. There is no entity either  on earth or in heaven among the gods, which is free  from these three qualities born of nature. The  duties of Brahma«as, Kshatriyas, and Vai,ryas, and  of .Shdras, too, O terror of your foes ! are distinguished according to the qualities born of nature ’.  Tranquillity *, restraint of the senses, penance, purity,  forgiveness, straightforwardness, also knowledge, experience, and belief (in a future world), this is the  natural duty of Brdhma«as. Valour, glory, courage.",
+   "footnote?": false
+  },
+  {
+   "text": "the doer of it ; the ‘ fruit ’ scil. of the action performed with an eye  to the three things named.",
+   "footnote?": false
+  },
+  {
+   "text": "* Not at once, as in the case of sensuous pleasures.",
+   "footnote?": true
+  },
+  {
+   "text": "* Cf. p. 51. The original has also been rendered by ‘ tranquillity  of one’s own mind.’",
+   "footnote?": true
+  },
+  {
+   "text": "* Cf. p. 69.",
+   "footnote?": true
+  },
+  {
+   "text": "'* I.e. resulting from control of the mind, purity here is both  external and internal. And see p. 119.",
+   "footnote?": true
+  },
+  {
+   "text": "dexterity not slinking away from battle, gifts, exercise of lordly power this is the natural duty of Kshatriyas. Agriculture, tending cattle, trade, (this) is the  natural duty of Vaivyas. And the natural duty of  5’Odras, too, consists in service. (Every) man intent on  his own respective duties obtains perfection Listen,  now, how one intent on one’s own duty obtains perfection. Worshipping, by (the performance of) his  own duty, him from whom all things proceed, and  by whom all this is permeated, a man obtains perfection. One’s duty, though defective, is better than  another’s duty well performed*. Performing the  duty prescribed by nature, one does not incur sin.  0 son of Kunti ! one should not abandon a natural  duty though tainted with evil ; for all actions are  enveloped by evil, as fire by smoke ®. One who is  self-restrained, whose understanding is unattached  everywhere, from whom affections have departed,  obtains the supreme perfection of freedom from  action ® by renunciation. Learn from me, only in  brief, O son of Kunti ! how one who has obtained  perfection attains the Brahman, which is the highest  culmination of knowledge. A man possessed of a pure  understanding, controlling his self by courage, discarding sound and other objects of sense, casting off",
+   "footnote?": false
+  },
+  {
+   "text": "* I. e. in battle, Nilaka»/^a seems to say. .Sankara says it means  ready resource whenever occasion arises.",
+   "footnote?": true
+  },
+  {
+   "text": "* I.e. ‘power to restrain people from going astray,' Nilaka«/Aa.",
+   "footnote?": true
+  },
+  {
+   "text": "’ 1‘iligibiliiy for the path of knowledge.",
+   "footnote?": true
+  },
+  {
+   "text": "; cf. p. 56.",
+   "footnote?": true
+  },
+  {
+   "text": "“ Cf. p. 12 1 ; the evil appears to be the quality of ‘ fettering ' the  soul.",
+   "footnote?": true
+  },
+  {
+   "text": "* ■S'ltdhara compares p. 65 (V, 13) and distinguishes this from  p. 64 (V, 8 seq.) .Sankara says the perfection here spoken of is  emancipation, and it is obtained by true knowledge.",
+   "footnote?": true
+  },
+  {
+   "text": "12S",
+   "footnote?": true
+  },
+  {
+   "text": "affection and aversion ; who frequents clean places,  who eats little, whose speech, body, and mind are  restrained, who is always intent on meditation and  mental abstraction *, and has recourse to unconcern,  who abandoning egoism stubbornness, arrogance,  desire, anger, and (all) belongings, has no (thought  that this or that is) mine, and who is tranquil, becomes  fit for assimilation with the Brahman. Thus reaching  the Brahman ®, and with a tranquil self, he grieves  not, wishes not ; but being alike to all beings, obtains  the highest devotion to me. By (that) devotion he  truly understands who I am and how great. And  then understanding me truly, he forthwith enters  into my (essence). Even performing all actions,  always depending on me, he, through my favour,  obtains the imperishable and eternal seat. Dedicating in thought * all actions to me, be constantly  given up to me, (placing) your thoughts on me,  through recourse to mental abstraction. (Placing)  your thoughts on me, you will cross over all difficulties  by my favour. But if you will not listen through  egotism ®, you will be ruined. If entertaining egotism,  you think that you may not fight, vain, indeed, is  that resolution of yours. Nature ® will constrain  you. That, O son of Kuntl ! which through delusion you do not wish to do, you will do involuntarily,",
+   "footnote?": false
+  },
+  {
+   "text": "* Abstraction is concentrated and exclusive meditation, .Jankara.  The other commentators take dhy.anayoga as meditation simply, —  as treated of in chapter VI, says NtlakawMa.",
+   "footnote?": true
+  },
+  {
+   "text": "* See p. 52.",
+   "footnote?": true
+  },
+  {
+   "text": "® I. e. comprehending his identity with the Brahman.",
+   "footnote?": true
+  },
+  {
+   "text": "‘ Cf. p. 65.",
+   "footnote?": true
+  },
+  {
+   "text": "' Pride of learning and cleverness, or of piety. See p. 124, note 5-",
+   "footnote?": true
+  },
+  {
+   "text": "‘ The nature of a Kshatriya, •S'ahkara.",
+   "footnote?": true
+  },
+  {
+   "text": "tied down by your own duty, flowing from your  nature. The lord, O Ai^funa ! is seated in the  region of the heart ^ of all beings, turning round all  beings (as though) mounted on a machine, by his  delusion. With him, O descendant of Bharata!  seek shelter in every way * ; by his favour you will  obtain the highest tranquillity, the eternal seat.  Thus have I declared to you the knowledge more  mysterious than any mystery. Ponder over it  thoroughly, and then act as you like. Once more,  listen to my excellent words — most mysterious of all.  Strongly I like you, therefore I will declare what is  for your welfare. On me (place) your mind, become  my devotee, sacrifice to me, reverence me, and you  will certainly come to me. I declare to you truly,  you are dear to me. Forsaking all duties come  to me as (your) sole refuge. I will release you  from all sins. Be not grieved. This * you should  never declare to one who performs no penance''’, who  is not a devotee ®, nor to one who does not wait on  (some preceptor)’, nor yet to one who calumniates  me. He who, with the highest devotion* to me, will  proclaim this supreme mystery among my devotees,  will come to me, freed from (all) doubts. No one",
+   "footnote?": false
+  },
+  {
+   "text": "' A'vetdjvatara-upanishad, pp. 333-345; Ka//iopanisliacl, p. i.ijy.",
+   "footnote?": true
+  },
+  {
+   "text": "’ Cf. p. 114; by thouglit, word, and deed.",
+   "footnote?": true
+  },
+  {
+   "text": "” Of caste or order, such as Agniholra and so forth.",
+   "footnote?": true
+  },
+  {
+   "text": "‘ All that has been taught in the Gttd.",
+   "footnote?": true
+  },
+  {
+   "text": "° A'riclhara renders this to mean, ‘ who performs no pious acts.’",
+   "footnote?": false
+  },
+  {
+   "text": "* I. e. of God and a preceptor. Cf. last stanza of AVetarvalaropanishad.",
+   "footnote?": true
+  },
+  {
+   "text": "’ Cf. p. 62. Aahkara says all these elements must co-exist to  give eligibility.",
+   "footnote?": true
+  },
+  {
+   "text": "* I. e. belief that in disseminating it, he is serving me. Cf. Ka/.4opanisliad, p, 120.",
+   "footnote?": true
+  },
+  {
+   "text": "[»] K",
+   "footnote?": true
+  },
+  {
+   "text": "amongst men is superior to him in doing what is  dear to me. And there will never be another on  earth dearer to me than he. And he who will study  this holy dialogue of ours, will, such is my opinion,  have offered to me the sacrifice of knowledge'.  And the man, also, who with faith and without  carping will listen (to this), will be freed (from sin),  and attain to the holy regions of those who perform  pious acts ^ Have you listened to this, O son of  P;'fthd ! with a mind (fixed) on (this) one point only ?  Has your delusion (caused) by ignorance been destroyed, O Dhanaw^ya ?",
+   "footnote?": false
+  },
+  {
+   "text": "Ar^una said :",
+   "footnote?": false
+  },
+  {
+   "text": "Destroyed is my delusion ; by your favour, 0 un- '  degraded one ! I (now) recollect ® myself. I stand  freed from doubts I will do your bidding.",
+   "footnote?": false
+  },
+  {
+   "text": "Sa«^aya said ;",
+   "footnote?": false
+  },
+  {
+   "text": "Thus did I hear this dialogue between Vdsudeva  and the high-minded son of Prith&, (a dialogue)  wonderful and causing the hair to stand on end. By  the favour of Vydsa, I heard this highest mystery,  (this) devotion ®, from Krz'shua himself, the lord of  the possessors of mystic power, who proclaimed it  in person. O king! remembering and (again) remembering this wonderful and holy dialogue of  Ke^ava and Ai;^na, I rejoice over and over again.  And remembering and (again) remembering that",
+   "footnote?": false
+  },
+  {
+   "text": "* Which is t!ie best of sacrifices; see p. 62.",
+   "footnote?": true
+  },
+  {
+   "text": "* Cf. p. 72.",
+   "footnote?": true
+  },
+  {
+   "text": "* I. c. understand my real essence, what I am, &c.",
+   "footnote?": true
+  },
+  {
+   "text": "* As to whether the battle was right or not.",
+   "footnote?": true
+  },
+  {
+   "text": "® \"i'he work is so called, as it refers to devotion;",
+   "footnote?": true
+  },
+  {
+   "text": "I3I",
+   "footnote?": false
+  },
+  {
+   "text": "excessively wonderful form of Hari also, great is  tny amazement, O king ! and I rejoice over and  over again. Wherever (is) Krfshwa, the lord of  the possessors of mystic power, wherever (is) the  (great) archer, the son of Prfth^, there in my  opinion (are) fortune, victory, prosperity and  eternal justice.",
+   "footnote?": false
+  },
+  {
+   "text": "' Prosperity is the greater ilevelopmcnt of fortune.",
+   "footnote?": true
+  },
+  {
+   "text": "SAN ATS U GAT I YA.",
+   "footnote?": false
+  },
+  {
+   "text": "INTRODUCTION",
+   "footnote?": false
+  },
+  {
+   "text": "TO",
+   "footnote?": false
+  }
+ ],
+ "arnold": "CHAPTER XVIII\n\n  Arjuna.\n  Fain would I better know, Thou Glorious One!\n  The very truth--Heart's Lord!--of Sannyas,\n  Abstention; and  enunciation, Lord!\n  Tyaga; and what separates these twain!\n\n  Krishna.\n  The poets rightly teach that Sannyas\n  Is the foregoing of all acts which spring\n  Out of desire; and their wisest say\n  Tyaga is renouncing fruit of acts.\n\n  There be among the saints some who have held\n  All action sinful, and to be renounced;\n  And some who answer, \"Nay! the goodly acts--\n  As worship, penance, alms--must be performed!\"\n  Hear now My sentence, Best of Bharatas!\n\n  'Tis well set forth, O Chaser of thy Foes!\n  Renunciation is of threefold form,\n  And Worship, Penance, Alms, not to be stayed;\n  Nay, to be gladly done; for all those three\n  Are purifying waters for true souls!\n\n  Yet must be practised even those high works\n  In yielding up attachment, and all fruit\n  Produced by works. This is My judgment, Prince!\n  This My insuperable and fixed decree!\n\n  Abstaining from a work by right prescribed\n  Never is meet! So to abstain doth spring\n  From \"Darkness,\" and Delusion teacheth it.\n  Abstaining from a work grievous to flesh,\n  When one saith \"'Tis unpleasing!\" this is null!\n  Such an one acts from \"passion;\" nought of gain\n  Wins his Renunciation! But, Arjun!\n  Abstaining from attachment to the work,\n  Abstaining from rewardment in the work,\n  While yet one doeth it full faithfully,\n  Saying, \"Tis right to do!\" that is \"true \" act\n  And abstinence! Who doeth duties so,\n  Unvexed if his work fail, if it succeed\n  Unflattered, in his own heart justified,\n  Quit of debates and doubts, his is \"true\" act:\n  For, being in the body, none may stand\n  Wholly aloof from act; yet, who abstains\n  From profit of his acts is abstinent.\n\n  The fruit of labours, in the lives to come,\n  Is threefold for all men,--Desirable,\n  And Undesirable, and mixed of both;\n  But no fruit is at all where no work was.\n\n  Hear from me, Long-armed Lord! the makings five\n  Which go to every act, in Sankhya taught\n  As necessary. First the force; and then\n  The agent; next, the various instruments;\n  Fourth, the especial effort; fifth, the God.\n  What work soever any mortal doth\n  Of body, mind, or speech, evil or good,\n  By these five doth he that. Which being thus,\n  Whoso, for lack of knowledge, seeth himself\n  As the sole actor, knoweth nought at all\n  And seeth nought. Therefore, I say, if one--\n  Holding aloof from self--with unstained mind\n  Should slay all yonder host, being bid to slay,\n  He doth not slay; he is not bound thereby!\n\n  Knowledge, the thing known, and the mind which knows,\n  These make the threefold starting-ground of act.\n  The act, the actor, and the instrument,\n  These make the threefold total of the deed.\n  But knowledge, agent, act, are differenced\n  By three dividing qualities. Hear now\n  Which be the qualities dividing them.\n\n  There is \"true\" Knowledge. Learn thou it is this:\n  To see one changeless Life in all the Lives,\n  And in the Separate, One Inseparable.\n  There is imperfect Knowledge: that which sees\n  The separate existences apart,\n  And, being separated, holds them real.\n  There is false Knowledge: that which blindly clings\n  To one as if 'twere all, seeking no Cause,\n  Deprived of light, narrow, and dull, and \"dark.\"\n\n  There is \"right\" Action: that which being enjoined--\n  Is wrought without attachment, passionlessly,\n  For duty, not for love, nor hate, nor gain.\n  There is \"vain\" Action: that which men pursue\n  Aching to satisfy desires, impelled\n  By sense of self, with all-absorbing stress:\n  This is of Rajas--passionate and vain.\n  There is \"dark\" Action: when one doth a thing\n  Heedless of issues, heedless of the hurt\n  Or wrong for others, heedless if he harm\n  His own soul--'tis of Tamas, black and bad!\n\n  There is the \"rightful\"doer. He who acts\n  Free from self-seeking, humble, resolute,\n  Steadfast, in good or evil hap the same,\n  Content to do aright-he \"truly\" acts.\n  There is th' \"impassioned\" doer. He that works\n  From impulse, seeking profit, rude and bold\n  To overcome, unchastened; slave by turns\n  Of sorrow and of joy: of Rajas he!\n  And there be evil doers; loose of heart,\n  Low-minded, stubborn, fraudulent, remiss,\n  Dull, slow, despondent--children of the \"dark.\"\n\n  Hear, too, of Intellect and Steadfastness\n  The threefold separation, Conqueror-Prince!\n  How these are set apart by Qualities.\n\n  Good is the Intellect which comprehends\n  The coming forth and going back of life,\n  What must be done, and what must not be done,\n  What should be feared, and what should not be feared,\n  What binds and what emancipates the soul:\n  That is of Sattwan, Prince! of \"soothfastness.\"\n  Marred is the Intellect which, knowing right\n  And knowing wrong, and what is well to do\n  And what must not be done, yet understands\n  Nought with firm mind, nor as the calm truth is:\n  This is of Rajas, Prince! and \"passionate!\"\n  Evil is Intellect which, wrapped in gloom,\n  Looks upon wrong as right, and sees all things\n  Contrariwise of Truth. O Pritha's Son!\n  That is of Tamas, \"dark\" and desperate!\n\n  Good is the steadfastness whereby a man\n  Masters his beats of heart, his very breath\n  Of life, the action of his senses; fixed\n  In never-shaken faith and piety:\n  That is of Sattwan, Prince! \"soothfast\" and fair!\n  Stained is the steadfastness whereby a man\n  Holds to his duty, purpose, effort, end,\n  For life's sake, and the love of goods to gain,\n  Arjuna! 'tis of Rajas, passion-stamped!\n  Sad is the steadfastness wherewith the fool\n  Cleaves to his sloth, his sorrow, and his fears,\n  His folly and despair. This--Pritha's Son!--\n  Is born of Tamas, \"dark\" and miserable!\n\n  Hear further, Chief of Bharatas! from Me\n  The threefold kinds of Pleasure which there be.\n\n  Good Pleasure is the pleasure that endures,\n  Banishing pain for aye; bitter at first\n  As poison to the soul, but afterward\n  Sweet as the taste of Amrit. Drink of that!\n  It springeth in the Spirit's deep content.\n  And painful Pleasure springeth from the bond\n  Between the senses and the sense-world. Sweet\n  As Amrit is its first taste, but its last\n  Bitter as poison. 'Tis of Rajas, Prince!\n  And foul and \"dark\" the Pleasure is which springs\n  From sloth and sin and foolishness; at first\n  And at the last, and all the way of life\n  The soul bewildering. 'Tis of Tamas, Prince!\n\n  For nothing lives on earth, nor 'midst the gods\n  In utmost heaven, but hath its being bound\n  With these three Qualities, by Nature framed.\n\n  The work of Brahmans, Kshatriyas, Vaisyas,\n  And Sudras, O thou Slayer of thy Foes!\n  Is fixed by reason of the Qualities\n  Planted in each:\n\n  A Brahman's virtues, Prince!\n  Born of his nature, are serenity,\n  Self-mastery, religion, purity,\n  Patience, uprightness, learning, and to know\n  The truth of things which be. A Kshatriya's pride,\n  Born of his nature, lives in valour, fire,\n  Constancy, skilfulness, spirit in fight,\n  And open-handedness and noble mien,\n  As of a lord of men. A Vaisya's task,\n  Born with his nature, is to till the ground,\n  Tend cattle, venture trade. A Sudra's state,\n  Suiting his nature, is to minister.\n\n  Whoso performeth--diligent, content--\n  The work allotted him, whate'er it be,\n  Lays hold of perfectness! Hear how a man\n  Findeth perfection, being so content:\n  He findeth it through worship--wrought by work--\n  Of Him that is the Source of all which lives,\n  Of HIM by Whom the universe was stretched.\n\n  Better thine own work is, though done with fault,\n  Than doing others' work, ev'n excellently.\n  He shall not fall in sin who fronts the task\n  Set him by Nature's hand! Let no man leave\n  His natural duty, Prince! though it bear blame!\n  For every work hath blame, as every flame\n  Is wrapped in smoke! Only that man attains\n  Perfect surcease of work whose work was wrought\n  With mind unfettered, soul wholly subdued,\n  Desires for ever dead, results renounced.\n\n  Learn from me, Son of Kunti! also this,\n  How one, attaining perfect peace, attains\n  BRAHM, the supreme, the highest height of all!\n\n  Devoted--with a heart grown pure, restrained\n  In lordly self-control, forgoing wiles\n  Of song and senses, freed from love and hate,\n  Dwelling 'mid solitudes, in diet spare,\n  With body, speech, and will tamed to obey,\n  Ever to holy meditation vowed,\n  From passions liberate, quit of the Self,\n  Of arrogance, impatience, anger, pride;\n  Freed from surroundings, quiet, lacking nought--\n  Such an one grows to oneness with the BRAHM;\n  Such an one, growing one with BRAHM, serene,\n  Sorrows no more, desires no more; his soul,\n  Equally loving all that lives, loves well\n  Me, Who have made them, and attains to Me.\n  By this same love and worship doth he know\n  Me as I am, how high and wonderful,\n  And knowing, straightway enters into Me.\n  And whatsoever deeds he doeth--fixed\n  In Me, as in his refuge--he hath won\n  For ever and for ever by My grace\n  Th' Eternal Rest! So win thou! In thy thoughts\n  Do all thou dost for Me! Renounce for Me!\n  Sacrifice heart and mind and will to Me!\n  Live in the faith of Me! In faith of Me\n  All dangers thou shalt vanquish, by My grace;\n  But, trusting to thyself and heeding not,\n  Thou can'st but perish! If this day thou say'st,\n  Relying on thyself, \"I will not fight!\"\n  Vain will the purpose prove! thy qualities\n  Would spur thee to the war. What thou dost shun,\n  Misled by fair illusions, thou wouldst seek\n  Against thy will, when the task comes to thee\n  Waking the promptings in thy nature set.\n  There lives a Master in the hearts of men\n  Maketh their deeds, by subtle  pulling--strings,\n  Dance to what tune HE will. With all thy soul\n  Trust Him, and take Him for thy succour, Prince!\n  So--only so, Arjuna!--shalt thou gain--\n  By grace of Him--the uttermost repose,\n  The Eternal Place!\n\n  Thus hath been opened thee\n  This Truth of Truths, the Mystery more hid\n  Than any secret mystery. Meditate!\n  And--as thou wilt--then act!\n\n  Nay! but once more\n  Take My last word, My utmost meaning have!\n  Precious thou art to Me; right well-beloved!\n  Listen! I tell thee for thy comfort this.\n  Give Me thy heart! adore Me! serve Me! cling\n  In faith and love and reverence to Me!\n  So shalt thou come to Me! I promise true,\n  For thou art sweet to Me!\n\n  And let go those--\n  Rites and writ duties! Fly to Me alone!\n  Make Me thy single refuge! I will free\n  Thy soul from all its  sins! Be of good cheer!\n\n  [Hide, the holy Krishna saith,\n  This from him that hath no faith,\n  Him that worships not, nor seeks\n  Wisdom's teaching when she speaks:\n  Hide it from all men who mock;\n  But, wherever, 'mid the flock\n  Of My lovers, one shall teach\n  This  divinest, wisest, speech--\n  Teaching in the faith to bring\n  Truth to them, and offering\n  Of all honour unto Me--\n  Unto Brahma cometh he!\n  Nay, and nowhere shall ye find\n  Any man of all mankind\n  Doing dearer deed for Me;\n  Nor shall any dearer be\n  In My earth. Yea, furthermore,\n  Whoso reads this converse o'er,\n  Held by Us upon the plain,\n  Pondering piously and fain,\n  He hath paid Me sacrifice!\n  (Krishna speaketh in this wise!)\n  Yea, and whoso, full of faith,\n  Heareth wisely what it saith,\n  Heareth meekly,--when he dies,\n  Surely shall his spirit rise\n  To those regions where the Blest,\n  Free of flesh, in joyance rest.]\n\n  Hath this been heard by thee, O Indian Prince!\n  With mind intent? hath all the ignorance--\n  Which bred thy trouble--vanished, My Arjun?\n\n  Arjuna.\n  Trouble and ignorance are gone! the Light\n  Hath come unto me, by Thy favour, Lord!\n  Now am I fixed! my doubt is fled away!\n  According to Thy word, so will I do!\n\n  Sanjaya.\n  Thus gathered I the gracious speech of Krishna, O my King!\n  Thus have I told, with heart a-thrill, this wise and wondrous thing\n  By great Vyasa's learning writ, how Krishna's self made known\n  The Yoga, being Yoga's Lord. So is the high truth shown!\n  And aye, when I remember, O Lord my King, again\n  Arjuna and the God in talk, and all this holy strain,\n  Great is my gladness: when I muse that splendour, passing speech,\n  Of Hari, visible and plain, there is no tongue to reach\n  My marvel and my love and bliss. O Archer-Prince! all hail!\n  O Krishna, Lord of Yoga! surely there shall not fail\n  Blessing, and victory, and power, for Thy most mighty sake,\n  Where this song comes of Arjun, and how with God he spake.\n\n  HERE ENDS, WITH CHAPTER XVIII.,\n  Entitled \"Mokshasanyasayog,\"\n  Or \"The Book of Religion by Deliverance and Renunciation,\"\n  THE BHAGAVAD-GITA."
+}
