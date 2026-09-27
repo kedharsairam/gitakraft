@@ -1,0 +1,346 @@
+{
+ "chapter": 12,
+ "records": [
+  {
+   "id": "12:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "Ar^na said :"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "constantly devoted",
+      "best know"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "12:2",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T03",
+     "anchors": [
+      "highest faith",
+      "most  devoted"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:3",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "restraining",
+      "at all times"
+     ]
+    },
+    {
+     "para": "T05",
+     "anchors": [
+      "equable",
+      "indescribable"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": "Split across T03-tail/T05-head (page-100 break)."
+  },
+  {
+   "id": "12:4",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "all-pervading",
+      "attain to me"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:5",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "much greater",
+      "difficulty"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:6",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "dedicating",
+      "none besides me"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:7",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "without delay",
+      "deliverer"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:8",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "fix your understanding",
+      "no doubt"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:9",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "unable to fix",
+      "continuous meditation"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:10",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "unequal",
+      "attain perfection"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:11",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "resort to devotion",
+      "abandon all fruit"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:12",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "better than continuous"
+     ]
+    },
+    {
+     "para": "T07",
+     "anchors": [
+      "abandonment",
+      "tranquillity"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": "Split across T05-tail/T07-head (page-101 break)."
+  },
+  {
+   "id": "12:13",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "hates no being",
+      "free from egoism"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:14",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "forgiving",
+      "dear to me"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:15",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "not agitated",
+      "too is dear"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:16",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "unconcerned",
+      "dear to me"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:17",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "no aversion",
+      "disagreeable"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:18",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "honour",
+      "attachments"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "12:19",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "taciturn",
+      "homeless"
+     ]
+    },
+    {
+     "para": "T08",
+     "anchors": [
+      "that man is dear"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": "Split across T07-tail/T08-head."
+  },
+  {
+   "id": "12:20",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "imbued with faith",
+      "extremely dear"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T04",
+   "reason": "Page number ('lOO' = print p100)."
+  },
+  {
+   "para": "T06",
+   "reason": "Page number ('lOI' = print p101)."
+  }
+ ]
+}
