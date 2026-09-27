@@ -1,0 +1,719 @@
+{
+ "chapter": 10,
+ "records": [
+  {
+   "id": "10:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "listen to",
+      "delighted"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:2",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "know my source",
+      "origin"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:3",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "without  beginning",
+      "released from all sins"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:4",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "Intelligence",
+      "birth"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:5",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "contentment",
+      "from  me alone"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:6",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "seven great sages",
+      "Manus"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "mind"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": "Split across T00-tail/T01-head."
+  },
+  {
+   "id": "10:7",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "emanations",
+      "no doubt"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:8",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "origin of all",
+      "moves on through me"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:9",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "offering",
+      "contented and happy"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:10",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "constantly devoted",
+      "attain to me"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:11",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "hearts",
+      "lamp of knowledge"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:12",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "Ar^una said :"
+     ]
+    },
+    {
+     "para": "T03",
+     "anchors": [
+      "supreme Brahman",
+      "holiest"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:13",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "Narada",
+      "tell me"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:14",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "believe all this",
+      "manifestation"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:15",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "knowyourself",
+      "lord  of the universe"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:16",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "declare without"
+     ]
+    },
+    {
+     "para": "T04",
+     "anchors": [
+      "pervading"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": "Split across T03-tail/T04-head."
+  },
+  {
+   "id": "10:17",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "mystic power",
+      "various entities"
+     ]
+    },
+    {
+     "para": "T05",
+     "anchors": [
+      "meditate on you"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": "Split across T04-tail/T05-head."
+  },
+  {
+   "id": "10:18",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "declare your powers",
+      "no satiety"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:19",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T07",
+     "anchors": [
+      "best of Kauravas",
+      "no end"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:20",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "hearts of all beings",
+      "middle"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:21",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "Adityas",
+      "lunar mansions"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:22",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "Sama-veda",
+      "consciousness"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:23",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "consciousness"
+     ]
+    },
+    {
+     "para": "T08",
+     "anchors": [
+      "Sankara",
+      "Meru among the high"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": "Split across T07-tail/T08-head."
+  },
+  {
+   "id": "10:24",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "chief among domestic priests",
+      "ocean"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:25",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "great sages",
+      "Himalaya"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:26",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "all trees",
+      "Kapila"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:27",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "nectar",
+      "ruler of men"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:28",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "thunderbolt",
+      "Vdsuki"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:29",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "Ananta",
+      "Aryaman"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:30",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "Pralhada",
+      "those that count"
+     ]
+    },
+    {
+     "para": "T13",
+     "anchors": [
+      "beasts",
+      "Vinati"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": "Split across T09-tail/T13-head."
+  },
+  {
+   "id": "10:31",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "those that blow",
+      "streams"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:32",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "created things",
+      "controversialists"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:33",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "letter A",
+      "all directions"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:34",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "seizes all",
+      "females"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:35",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "metre.s",
+      "months"
+     ]
+    },
+    {
+     "para": "T16",
+     "anchors": [
+      "spring among the seasons"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": "Split across T13-tail/T16-head."
+  },
+  {
+   "id": "10:36",
+   "telang": [
+    {
+     "para": "T16",
+     "anchors": [
+      "dice",
+      "victory"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:37",
+   "telang": [
+    {
+     "para": "T16",
+     "anchors": [
+      "Vnshwi",
+      "U^anas"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": "Usanas gloss ('preceptor of the Daityas... work on politics') dropped as footnote (T18)."
+  },
+  {
+   "id": "10:38",
+   "telang": [
+    {
+     "para": "T16",
+     "anchors": [
+      "rod",
+      "silence"
+     ]
+    },
+    {
+     "para": "T17",
+     "anchors": [
+      "knowledge of those"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": "Split across T16-tail/T17-head; niti gloss ('Making peace, bribing') dropped as footnote (T19)."
+  },
+  {
+   "id": "10:39",
+   "telang": [
+    {
+     "para": "T17",
+     "anchors": [
+      "seed",
+      "without me"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:40",
+   "telang": [
+    {
+     "para": "T17",
+     "anchors": [
+      "no end",
+      "in part"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:41",
+   "telang": [
+    {
+     "para": "T17",
+     "anchors": [
+      "splendid",
+      "portions"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "10:42",
+   "telang": [
+    {
+     "para": "T17",
+     "anchors": [
+      "at large",
+      "single portion"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T10",
+   "reason": "Footnote head ('possessed of piety, knowledge,'); continues in P32 with citation."
+  },
+  {
+   "para": "T11",
+   "reason": "Footnote on 10:29-30 (Yama/Prahlada gloss with citations)."
+  },
+  {
+   "para": "T12",
+   "reason": "Running-head residue ('Bll AGAVA DG!tA.')."
+  },
+  {
+   "para": "T14",
+   "reason": "Footnote on kala ('time, with its divisions...')."
+  },
+  {
+   "para": "T15",
+   "reason": "Footnote on 10:33 dvandva compound ('all its members are co-ordinate')."
+  },
+  {
+   "para": "T18",
+   "reason": "Footnote tail on Usanas (10:37); head is P56."
+  },
+  {
+   "para": "T19",
+   "reason": "Footnote gloss on 10:38 niti (four expedients)."
+  }
+ ]
+}
