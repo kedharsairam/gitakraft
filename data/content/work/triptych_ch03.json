@@ -1,0 +1,442 @@
+{
+ "chapter": 3,
+ "sanskrit": [
+  {
+   "id": "3:1",
+   "speaker": "अर्जुन",
+   "devanagari": "ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव",
+   "iast": "jyāyasī cetkarmaṇaste matā buddhirjanārdana |\ntatkiṃ karmaṇi ghore māṃ niyojayasi keśava"
+  },
+  {
+   "id": "3:2",
+   "speaker": null,
+   "devanagari": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्",
+   "iast": "vyāmiśreṇeva vākyena buddhiṃ mohayasīva me |\ntadekaṃ vada niścitya yena śreyo'hamāpnuyām"
+  },
+  {
+   "id": "3:3",
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच\nलोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।\nज्ञानयोगेन सांख्यानां कर्मयोगेन योगिनाम्",
+   "iast": "śrībhagavānuvāca\nloke'smindvividhā niṣṭhā purā proktā mayānagha |\njñānayogena sāṃkhyānāṃ karmayogena yoginām"
+  },
+  {
+   "id": "3:4",
+   "speaker": null,
+   "devanagari": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते ।\nन च संन्यसनादेव सिद्धिं समधिगच्छति",
+   "iast": "na karmaṇāmanārambhānnaiṣkarmyaṃ puruṣo'śnute |\nna ca saṃnyasanādeva siddhiṃ samadhigacchati"
+  },
+  {
+   "id": "3:5",
+   "speaker": null,
+   "devanagari": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः",
+   "iast": "na hi kaścitkṣaṇamapi jātu tiṣṭhatyakarmakṛt |\nkāryate hyavaśaḥ karma sarvaḥ prakṛtijairguṇaiḥ"
+  },
+  {
+   "id": "3:6",
+   "speaker": null,
+   "devanagari": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् ।\nइन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते",
+   "iast": "karmendriyāṇi saṃyamya ya āste manasā smaran |\nindriyārthānvimūḍhātmā mithyācāraḥ sa ucyate"
+  },
+  {
+   "id": "3:7",
+   "speaker": null,
+   "devanagari": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।\nकर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते",
+   "iast": "yastvindriyāṇi manasā niyamyārabhate'rjuna |\nkarmendriyaiḥ karmayogamasaktaḥ sa viśiṣyate"
+  },
+  {
+   "id": "3:8",
+   "speaker": null,
+   "devanagari": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।\nशरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः",
+   "iast": "niyataṃ kuru karma tvaṃ karma jyāyo hyakarmaṇaḥ |\nśarīrayātrāpi ca te na prasiddhyedakarmaṇaḥ"
+  },
+  {
+   "id": "3:9",
+   "speaker": null,
+   "devanagari": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।\nतदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर",
+   "iast": "yajñārthātkarmaṇo'nyatra loko'yaṃ karmabandhanaḥ |\ntadarthaṃ karma kaunteya muktasaṅgaḥ samācara"
+  },
+  {
+   "id": "3:10",
+   "speaker": null,
+   "devanagari": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।\nअनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्",
+   "iast": "sahayajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ |\nanena prasaviṣyadhvameṣa vo'stviṣṭakāmadhuk"
+  },
+  {
+   "id": "3:11",
+   "speaker": null,
+   "devanagari": "देवान्भावयतानेन ते देवा भावयन्तु वः ।\nपरस्परं भावयन्तः श्रेयः परमवाप्स्यथ",
+   "iast": "devānbhāvayatānena te devā bhāvayantu vaḥ |\nparasparaṃ bhāvayantaḥ śreyaḥ paramavāpsyatha"
+  },
+  {
+   "id": "3:12",
+   "speaker": null,
+   "devanagari": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।\nतैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः",
+   "iast": "iṣṭānbhogānhi vo devā dāsyante yajñabhāvitāḥ |\ntairdattānapradāyaibhyo yo bhuṅkte stena eva saḥ"
+  },
+  {
+   "id": "3:13",
+   "speaker": null,
+   "devanagari": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।\nभुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात्",
+   "iast": "yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ |\nbhuñjate te tvaghaṃ pāpā ye pacantyātmakāraṇāt"
+  },
+  {
+   "id": "3:14",
+   "speaker": null,
+   "devanagari": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।\nयज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः",
+   "iast": "annādbhavanti bhūtāni parjanyādannasambhavaḥ |\nyajñādbhavati parjanyo yajñaḥ karmasamudbhavaḥ"
+  },
+  {
+   "id": "3:15",
+   "speaker": null,
+   "devanagari": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् ।\nतस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्",
+   "iast": "karma brahmodbhavaṃ viddhi brahmākṣarasamudbhavam |\ntasmātsarvagataṃ brahma nityaṃ yajñe pratiṣṭhitam"
+  },
+  {
+   "id": "3:16",
+   "speaker": null,
+   "devanagari": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः ।\nअघायुरिन्द्रियारामो मोघं पार्थ स जीवति",
+   "iast": "evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ |\naghāyurindriyārāmo moghaṃ pārtha sa jīvati"
+  },
+  {
+   "id": "3:17",
+   "speaker": null,
+   "devanagari": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः ।\nआत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते",
+   "iast": "yastvātmaratireva syādātmatṛptaśca mānavaḥ |\nātmanyeva ca santuṣṭastasya kāryaṃ na vidyate"
+  },
+  {
+   "id": "3:18",
+   "speaker": null,
+   "devanagari": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।\nन चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः",
+   "iast": "naiva tasya kṛtenārtho nākṛteneha kaścana |\nna cāsya sarvabhūteṣu kaścidarthavyapāśrayaḥ"
+  },
+  {
+   "id": "3:19",
+   "speaker": null,
+   "devanagari": "तस्मादसक्तः सततं कार्यं कर्म समाचर ।\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः",
+   "iast": "tasmādasaktaḥ satataṃ kāryaṃ karma samācara |\nasakto hyācarankarma paramāpnoti pūruṣaḥ"
+  },
+  {
+   "id": "3:20",
+   "speaker": null,
+   "devanagari": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः ।\nलोकसंग्रहमेवापि संपश्यन्कर्तुमर्हसि",
+   "iast": "karmaṇaiva hi saṃsiddhimāsthitā janakādayaḥ |\nlokasaṃgrahamevāpi saṃpaśyankartumarhasi"
+  },
+  {
+   "id": "3:21",
+   "speaker": null,
+   "devanagari": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते",
+   "iast": "yadyadācarati śreṣṭhastattadevetaro janaḥ |\nsa yatpramāṇaṃ kurute lokastadanuvartate"
+  },
+  {
+   "id": "3:22",
+   "speaker": null,
+   "devanagari": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किंचन ।\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि",
+   "iast": "na me pārthāsti kartavyaṃ triṣu lokeṣu kiṃcana |\nnānavāptamavāptavyaṃ varta eva ca karmaṇi"
+  },
+  {
+   "id": "3:23",
+   "speaker": null,
+   "devanagari": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः ।\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः",
+   "iast": "yadi hyahaṃ na varteyaṃ jātu karmaṇyatandritaḥ |\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ"
+  },
+  {
+   "id": "3:24",
+   "speaker": null,
+   "devanagari": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् ।\nसंकरस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः",
+   "iast": "utsīdeyurime lokā na kuryāṃ karma cedaham |\nsaṃkarasya ca kartā syāmupahanyāmimāḥ prajāḥ"
+  },
+  {
+   "id": "3:25",
+   "speaker": null,
+   "devanagari": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत ।\nकुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम्",
+   "iast": "saktāḥ karmaṇyavidvāṃso yathā kurvanti bhārata |\nkuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham"
+  },
+  {
+   "id": "3:26",
+   "speaker": null,
+   "devanagari": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् ।\nजोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन्",
+   "iast": "na buddhibhedaṃ janayedajñānāṃ karmasaṅginām |\njoṣayetsarvakarmāṇi vidvānyuktaḥ samācaran"
+  },
+  {
+   "id": "3:27",
+   "speaker": null,
+   "devanagari": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।\nअहंकारविमूढात्मा कर्ताहमिति मन्यते",
+   "iast": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ |\nahaṃkāravimūḍhātmā kartāhamiti manyate"
+  },
+  {
+   "id": "3:28",
+   "speaker": null,
+   "devanagari": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः ।\nगुणा गुणेषु वर्तन्त इति मत्वा न सज्जते",
+   "iast": "tattvavittu mahābāho guṇakarmavibhāgayoḥ |\nguṇā guṇeṣu vartanta iti matvā na sajjate"
+  },
+  {
+   "id": "3:29",
+   "speaker": null,
+   "devanagari": "प्रकृतेर्गुणसंमूढाः सज्जन्ते गुणकर्मसु ।\nतानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत्",
+   "iast": "prakṛterguṇasaṃmūḍhāḥ sajjante guṇakarmasu |\ntānakṛtsnavido mandānkṛtsnavinna vicālayet"
+  },
+  {
+   "id": "3:30",
+   "speaker": null,
+   "devanagari": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः",
+   "iast": "mayi sarvāṇi karmāṇi saṃnyasyādhyātmacetasā |\nnirāśīrnirmamo bhūtvā yudhyasva vigatajvaraḥ"
+  },
+  {
+   "id": "3:31",
+   "speaker": null,
+   "devanagari": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः ।\nश्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः",
+   "iast": "ye me matamidaṃ nityamanutiṣṭhanti mānavāḥ |\nśraddhāvanto'nasūyanto mucyante te'pi karmabhiḥ"
+  },
+  {
+   "id": "3:32",
+   "speaker": null,
+   "devanagari": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।\nसर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः",
+   "iast": "ye tvetadabhyasūyanto nānutiṣṭhanti me matam |\nsarvajñānavimūḍhāṃstānviddhi naṣṭānacetasaḥ"
+  },
+  {
+   "id": "3:33",
+   "speaker": null,
+   "devanagari": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।\nप्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति",
+   "iast": "sadṛśaṃ ceṣṭate svasyāḥ prakṛterjñānavānapi |\nprakṛtiṃ yānti bhūtāni nigrahaḥ kiṃ kariṣyati"
+  },
+  {
+   "id": "3:34",
+   "speaker": null,
+   "devanagari": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।\nतयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ",
+   "iast": "indriyasyendriyasyārthe rāgadveṣau vyavasthitau |\ntayorna vaśamāgacchettau hyasya paripanthinau"
+  },
+  {
+   "id": "3:35",
+   "speaker": null,
+   "devanagari": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः",
+   "iast": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt |\nsvadharme nidhanaṃ śreyaḥ paradharmo bhayāvahaḥ"
+  },
+  {
+   "id": "3:36",
+   "speaker": "अर्जुन",
+   "devanagari": "अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।\nअनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः",
+   "iast": "atha kena prayukto'yaṃ pāpaṃ carati pūruṣaḥ |\nanicchannapi vārṣṇeya balādiva niyojitaḥ"
+  },
+  {
+   "id": "3:37",
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच\nकाम एष क्रोध एष रजोगुणसमुद्भवः ।\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम्",
+   "iast": "śrībhagavānuvāca\nkāma eṣa krodha eṣa rajoguṇasamudbhavaḥ |\nmahāśano mahāpāpmā viddhyenamiha vairiṇam"
+  },
+  {
+   "id": "3:38",
+   "speaker": null,
+   "devanagari": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च ।\nयथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्",
+   "iast": "dhūmenāvriyate vahniryathādarśo malena ca |\nyatholbenāvṛto garbhastathā tenedamāvṛtam"
+  },
+  {
+   "id": "3:39",
+   "speaker": null,
+   "devanagari": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च",
+   "iast": "āvṛtaṃ jñānametena jñānino nityavairiṇā |\nkāmarūpeṇa kaunteya duṣpūreṇānalena ca"
+  },
+  {
+   "id": "3:40",
+   "speaker": null,
+   "devanagari": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।\nएतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम्",
+   "iast": "indriyāṇi mano buddhirasyādhiṣṭhānamucyate |\netairvimohayatyeṣa jñānamāvṛtya dehinam"
+  },
+  {
+   "id": "3:41",
+   "speaker": null,
+   "devanagari": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ ।\nपाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम्",
+   "iast": "tasmāttvamindriyāṇyādau niyamya bharatarṣabha |\npāpmānaṃ prajahi hyenaṃ jñānavijñānanāśanam"
+  },
+  {
+   "id": "3:42",
+   "speaker": null,
+   "devanagari": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः ।\nमनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः",
+   "iast": "indriyāṇi parāṇyāhurindriyebhyaḥ paraṃ manaḥ |\nmanasastu parā buddhiryo buddheḥ paratastu saḥ"
+  },
+  {
+   "id": "3:43",
+   "speaker": null,
+   "devanagari": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना ।\nजहि शत्रुं महाबाहो कामरूपं दुरासदम्",
+   "iast": "evaṃ buddheḥ paraṃ buddhvā saṃstabhyātmānamātmanā |\njahi śatruṃ mahābāho kāmarūpaṃ durāsadam"
+  }
+ ],
+ "telang_paras": [
+  {
+   "text": "Ar^na .said :",
+   "footnote?": false
+  },
+  {
+   "text": "If, O 6'andrdana ! devotion is deemed by you  to be superior to action, then why, O Ke^ava !  do j’ou prompt me to (this) fearful action ? You  seem, indeed, to confuse my mind by equivocal  words. Therefore, declare one thing determinately.  by which I may attain the highest good.",
+   "footnote?": false
+  },
+  {
+   "text": "The Deity said :",
+   "footnote?": false
+  },
+  {
+   "text": "O sinless one ! I have already declared, that in  this world there is a twofold path — that of the  Sfihkhyas by devotion in the shape of (true) knoAVledge ; and that of the Yogins by devotion in the  shape of action. A man docs not attain freedom  from action * merely by not engaging in action ; nor  does he attain perfection ^ by mere * renunciation.  For nobody (;vcr remains even for an instant without",
+   "footnote?": false
+  },
+  {
+   "text": "' Either pii'le or. belter, the false notion menlioncd infra, p. ^5-",
+   "footnote?": true
+  },
+  {
+   "text": "° An almost identical expression occurs in the Dhammapada,  stanza 367, and Maitrt-upanishad, p. 37,",
+   "footnote?": true
+  },
+  {
+   "text": "® The state of identification of oneself Avith the Brahman, which  results from a correct knowledge of the Brahman.",
+   "footnote?": true
+  },
+  {
+   "text": "* Infra j). 66. * Supra, p. 47.",
+   "footnote?": true
+  },
+  {
+   "text": "'■ I.C., according to .Sankara, identification of oneself AA'ith  Brahman. ’ Final emancipation.",
+   "footnote?": true
+  },
+  {
+   "text": "“ I. ' . not coupled Avith knoAvlcdge and purity of heart.",
+   "footnote?": true
+  },
+  {
+   "text": "5.?",
+   "footnote?": true
+  },
+  {
+   "text": "performing some action ; since the qualities of nature  constrain everybody, not having free-will (in the  matter), to some action The deluded man who,  restraining the organs of action -, continues to think  ill his mind about objects of sense, is called a  hypocrite, -^ut he, 0 Ar^na ! who restraining his  senses by his mind“, and being free from attachments, engages in devotion (in the shape) of action,  with the organs of action, is far superior,^ Do you  perform prescribed action, for action is better than  inaction, and the support of your body, too, cannot  be accomplished with inaction.^ This world is fettered by all action other than action for the purpose  of the sacrifice ■*. Therefore, O son of Kunti ! do  }'0U, casting off attachment, perform action for that  purpose. The Creator, having in olden times created  men together with the sacrifice, said : ‘ Propagate  with this.’ May it be the giver to you of the things  )()ii desir^ Please the gods with this, and may  those gods please you. Pleasing each other, you  will attain the highest good. P'or pleased with the  sacrifices, the gods will give you the enjoyments  you desire. And he who enjoys himself without  giving them what they have given, is, indeed, a thief.’  riie good, who eat the leavings of a sacrifice, are  released from all sins. Hut the unrighteous ones,  who pri^iare food for themselves only, incur sin \\",
+   "footnote?": false
+  },
+  {
+   "text": "Cf. infra, pp. 122-128. Hands, feet, &c.",
+   "footnote?": true
+  },
+  {
+   "text": "■' IjJ’ means of true discrimination keeping the senses from  auac'nmcnts to worldly objects, which lead to sin and evil.",
+   "footnote?": true
+  },
+  {
+   "text": "■' Cf. infra, pp. Oo, 61. Probably the ‘sacrifices' spoken of in  that passage must be taken to be the sani'‘ as those referred 10  ni the Creator’s injunction mentioned in this passage.",
+   "footnote?": true
+  },
+  {
+   "text": "’ Cf. Maiiri-upanishad, p. 143.",
+   "footnote?": true
+  },
+  {
+   "text": "From food are born (all) creatures ; from rain is the  production of food ; rain is produced by sacrifices ;  sacrifices are the result of action ; know that action  has its source in the Vedas ; the Vedas come from  the Indestructible. Therefore the all-comprehending  Vedas are always concerned with sacrifices *. He  who in this world does not turn round the wheel  revolving thus, is of sinful life, indulging his senses,  and, O son of IVnha ! he lives in vain. But the  man who is attached to his self only, who is contented in his self, and is pleased with his self % has  nothing to do. He has no interest at all in what  is done, and none whatever in what is not done, in  this world®; nor is any interest of his dependent  on any being. Therefore always perform action,  which must be performed, without attachment. For  a man, performing action without attachment, attains  the Supreme. By action alone, did 6anaka and the  rest work for perfection And having regard also  to the keeping of people (to their duties) you should  perform action. Whatever a great man does, that  other m<;n also do. And people follow whatever he  receives as authority. There is nothing, O son of  Pr/tha ! for me to do in (all) the three worlds,",
+   "footnote?": false
+  },
+  {
+   "text": "* The comnifiuators explain this to mean th.at thougli tlio  Veilas elucidate all matters, their principal subject is the^sacrifice.",
+   "footnote?": true
+  },
+  {
+   "text": "‘ 1 he distinctions here are rather nice, — an ordinary man is  ‘attached' to woiloly olijecis, is ‘contented’ with goods &c,, and  i.s ‘ pleased ’ with S]x;cial gains.",
+   "footnote?": true
+  },
+  {
+   "text": "good or evil accrues to him from anything he docs or  omits to do.",
+   "footnote?": false
+  },
+  {
+   "text": "* Artdh;.r,t say.s that Arjuna is here told to perform action, as freed-.m fron jt is oid; (or the man of true knowledge, which Ar^na  is not as yet.",
+   "footnote?": true
+  },
+  {
+   "text": "* J. e. final emancipation ; cf. p. 59 infra, and Iropanisliad, p. 6CHAPTER m, 30.",
+   "footnote?": true
+  },
+  {
+   "text": "nothing to acquire which has not been acquired.  Still I do engage in action. For should I at any  time not engage without sloth in action, men  would follow in my path from all sides, O son of  Prftha! If I did not perform actions, these worlds  would be destroyed, I should be the cause of casteinterminglings ; and I should be ruining these people.  As the ignorant act, O descendant of Bharata ! with  attachment to action, so should a wise man act  without attachment, wishing to keep the people (to  their duties). A wise man should not shake the  convictions of the ignorant who are attached to  action, but acting with devotion (himself) should  make them apply themselves to all action. He  whose mind is deluded by egoism thinks himself  the doer of the actions, which, in every way, are  done b)- the qualities of nature \\ But he, O you  of mighty arms ! who knows the truth about the  difference from qualities and the difference from  actions -, forms no attachments, believing that qualities deal with qualities \\ But those who are deluded  by the qualities of nature form attachments to the  actions of the qualities*. A man of perfect knowledge  should not shake these men of imperfect knowledge (in their convictions). Dedicating all actions  to me with a mind knowing the relation of the  supreme and individual self, engage in battle without",
+   "footnote?": false
+  },
+  {
+   "text": "‘ The active principle is nature, the aggregate of the three  qualities; the soul is only the looker-on; cf. inter alia. p. 104 infra.",
+   "footnote?": true
+  },
+  {
+   "text": "* 5'cil. the difference of the soul from the collection of qualities,  viz. the body, senses, &c., and from the actions of which they arc  the authors.",
+   "footnote?": true
+  },
+  {
+   "text": "* Qualities (i. e. senses) deal with qu.ditieb, i. e. objects of sense.",
+   "footnote?": true
+  },
+  {
+   "text": "* !• e. all mundane affairs.",
+   "footnote?": true
+  },
+  {
+   "text": "desire, without (finy feeling that this or that is) mine,  and without any mental trouble b Even those men  who always act on this opinion of mine, full of  faith, and without carping, are released from all  actions. But those who carp at my opinion and do  not act upon it, know them to be devoid of discrimination, deluded as regards all knowledge^, and  ruined. Even a man of knowledge acts consonantly  to his own nature'*. All beings follow nature. What  will restraint effect ? Every sense has its affections  and aversions towards its objects fixed. One should  not become subject to them, for they are one’s  opponents *. One’s own duty, though defective, is  better than another’s duty well performed. Death  in (performing) one’s own duly is preferable ; the  (performance of the) duty of others is dangerous.",
+   "footnote?": false
+  },
+  {
+   "text": "Ar^una .said :",
+   "footnote?": false
+  },
+  {
+   "text": "But by whom, O descendant of Vr/sh«i I is man  impelled, even though unwilling, and, as it were,  constrained by force, to commit sin ?",
+   "footnote?": false
+  },
+  {
+   "text": "* About the consequences of your actions.",
+   "footnote?": true
+  },
+  {
+   "text": "- Of actions, or of the Brahman in its various forms.",
+   "footnote?": true
+  },
+  {
+   "text": "Which is the result of the virtues and vices of a preceding  life. The sequence of ideas here is as follows : — The true view  stated here about the ‘difference from qualities and actions' if  disregarded by some, owing to their ‘nature' as now explained.  Then the question s, If nature is so potent, what is the good of  the *Sastras? '^riie answer is. Nature only acts through our likes  and dislikes. \\^'iLhstnnd them and then you can follow the *Sastras.  It is under the influence of these likes and dislikes, that some may  sa> , we sh. practi.nc duties prescribed for others (our own being  ba i ones) - they aru equally j)rcscribcd by the Aastras. That, as  sta' ^ in me fist sentence here, is wrong.",
+   "footnote?": false
+  },
+  {
+   "text": "* C5. -Sutta Nipata, p. loi, as to ‘likings and dislikings.'",
+   "footnote?": true
+  },
+  {
+   "text": "The Deity said :",
+   "footnote?": false
+  },
+  {
+   "text": "It is desire, it is wrath’, born from the quality of  passion ; it is very ravenous, very sinful. Know that  that is the foe in this world. As fire is enveloped  by smoke, a mirror by dust, the feetus by the  womb, so is this* enveloped by desire. Knowledge,  O son of Kunti ! is enveloped by this constant foe  of the man of knowledge, in the shape of desire,  which is like a fire* and insatiable. The senses, the  mind, and the understanding are said to be its seat * ;  with these it deludes the embodied (self) after enveloping knowledge. Therefore, O chief of the  descendants of Bharata ! first restrain your senses,  then cast off this sinful thing which destroys knowledge and experience ®. It has been said ®, Great  are the senses, greater than the senses is the mind,  greater than the mind is the understanding. What  is great(;r than the understanding is that Thus  knowing that which is higher than the understanding,  and restraining (your)self by (your)self, O you of",
+   "footnote?": false
+  },
+  {
+   "text": "' \\'icle p. fjo supra.",
+   "footnote?": true
+  },
+  {
+   "text": "- 1. e. knowledge, mentioned iii the next sentence, for which  construction jr. 71 and p. y8 may be compared.",
+   "footnote?": true
+  },
+  {
+   "text": "' Which becomes more powerful tiie more it is fed.",
+   "footnote?": true
+  },
+  {
+   "text": "‘ The mind is that wliich ponders over things as such or such ;  the undcr.standing is that which finally determines (cf. Txwes’  History oT Philosophy, II, 463-465). These and the senses arc  the ‘ seal ’ of desire, because the perception of an object by the  sense, the pondering over it by the mind, ond the determination  about it by llie underslaniUng are the preliminaries to the  awaki ning of the desire ; supra, )'. 50.",
+   "footnote?": true
+  },
+  {
+   "text": "Knowledge is from books or tcac hers, expe: ience is the result  of personal perception.",
+   "footnote?": false
+  },
+  {
+   "text": "Ka//ropanishad, p. 114; and sec also p; . 148, 149.",
+   "footnote?": true
+  },
+  {
+   "text": "’ I. c. the supreme Ileing, as in the Ka/Z/opani^had.",
+   "footnote?": true
+  },
+  {
+   "text": "mighty arms ! destroy this unmanageable enemy in  the shape of desire.",
+   "footnote?": false
+  }
+ ],
+ "arnold": "CHAPTER III\n\n  Arjuna.\n  Thou whom all mortals praise, Janardana!\n  If meditation be a nobler thing\n  Than action, wherefore, then, great Kesava!\n  Dost thou impel me to this dreadful fight?\n  Now am I by thy doubtful speech disturbed!\n  Tell me one thing, and tell me certainly;\n  By what road shall I find the better end?\n\n  Krishna.\n  I told thee, blameless Lord! there be two paths\n  Shown to this world; two schools of wisdom.\n\n  First\n  The Sankhya's, which doth save in way of works\n  Prescribed[FN#4] by reason; next, the Yog, which bids\n  Attain by meditation, spiritually:\n  Yet these are one! No man shall 'scape from act\n  By shunning action; nay, and none shall come\n  By mere renouncements unto perfectness.\n  Nay, and no jot of time, at any time,\n  Rests any actionless; his nature's law\n  Compels him, even unwilling, into act;\n  [For thought is act in fancy]. He who sits\n  Suppressing all the instruments of flesh,\n  Yet in his idle heart thinking on them,\n  Plays the inept and guilty hypocrite:\n  But he who, with strong body serving mind,\n  Gives up his mortal powers to worthy work,\n  Not seeking gain, Arjuna! such an one\n  Is honourable. Do thine allotted task!\n  Work is more excellent than idleness;\n  The body's life proceeds not, lacking work.\n  There is a task of holiness to do,\n  Unlike world-binding toil, which bindeth not\n  The faithful soul; such earthly duty do\n  Free from desire, and thou shalt well perform\n  Thy heavenly purpose. Spake Prajapati--\n  In the beginning, when all men were made,\n  And, with mankind, the sacrifice-- \"Do this!\n  Work! sacrifice! Increase and multiply\n  With sacrifice! This shall be Kamaduk,\n  Your 'Cow of Plenty,' giving back her milk\n  Of all abundance. Worship the gods thereby;\n  The gods shall yield thee grace. Those meats ye crave\n  The gods will grant to Labour, when it pays\n  Tithes in the altar-flame. But if one eats\n  Fruits of the earth, rendering to kindly Heaven\n  No gift of toil, that thief steals from his world.\"\n\n  Who eat of food after their sacrifice\n  Are quit of fault, but they that spread a feast\n  All for themselves, eat sin and drink of sin.\n  By food the living live; food comes of rain,\n  And rain comes by the pious sacrifice,\n  And sacrifice is paid with tithes of toil;\n  Thus action is of Brahma, who is One,\n  The Only, All-pervading; at all times\n  Present in sacrifice. He that abstains\n  To help the rolling wheels of this great world,\n  Glutting his idle sense, lives a lost life,\n  Shameful and vain. Existing for himself,\n  Self-concentrated, serving self alone,\n  No part hath he in aught; nothing achieved,\n  Nought wrought or unwrought toucheth him; no hope\n  Of help for all the living things of earth\n  Depends from him.[FN#5] Therefore, thy task prescribed\n  With spirit unattached gladly perform,\n  Since in performance of plain duty man\n  Mounts to his highest bliss. By works alone\n  Janak and ancient saints reached blessedness!\n  Moreover, for the upholding of thy kind,\n  Action thou should'st embrace. What the wise choose\n  The unwise people take; what best men do\n  The multitude will follow. Look on me,\n  Thou Son of Pritha! in the three wide worlds\n  I am not bound to any toil, no height\n  Awaits to scale, no gift remains to gain,\n  Yet I act here! and, if I acted not--\n  Earnest and watchful--those that look to me\n  For guidance, sinking back to sloth again\n  Because I slumbered, would decline from good,\n  And I should break earth's order and commit\n  Her offspring unto ruin, Bharata!\n  Even as the unknowing toil, wedded to sense,\n  So let the enlightened toil, sense-freed, but set\n  To bring the world deliverance, and its bliss;\n  Not sowing in those simple, busy hearts\n  Seed of despair. Yea! let each play his part\n  In all he finds to do, with unyoked soul.\n  All things are everywhere by Nature wrought\n  In interaction of the qualities.\n  The fool, cheated by self, thinks, \"This I did\"\n  And \"That I wrought; \"but--ah, thou strong-armed Prince!--\n  A better-lessoned mind, knowing the play\n  Of visible things within the world of sense,\n  And how the qualities must qualify,\n  Standeth aloof even from his acts. Th' untaught\n  Live mixed with them, knowing not Nature's way,\n  Of highest aims unwitting, slow and dull.\n  Those make thou not to stumble, having the light;\n  But all thy dues discharging, for My sake,\n  With meditation centred inwardly,\n  Seeking no profit, satisfied, serene,\n  Heedless of issue--fight! They who shall keep\n  My ordinance thus, the wise and willing hearts,\n  Have quittance from all issue of their acts;\n  But those who disregard My ordinance,\n  Thinking they know, know nought, and fall to loss,\n  Confused and foolish. 'Sooth, the instructed one\n  Doth of his kind, following what fits him most:\n  And lower creatures of their kind; in vain\n  Contending 'gainst the law. Needs must it be\n  The objects of the sense will stir the sense\n  To like and dislike, yet th' enlightened man\n  Yields not to these, knowing them enemies.\n  Finally, this is better, that one do\n  His own task as he may, even though he fail,\n  Than take tasks not his own, though they seem good.\n  To die performing duty is no ill;\n  But who seeks other roads shall wander still.\n\n  Arjuna.\n  Yet tell me, Teacher! by what force doth man\n  Go to his ill, unwilling; as if one\n  Pushed him that evil path?\n\n  Krishna.\n  Kama it is!\n  Passion it is! born of the Darknesses,\n  Which pusheth him. Mighty of appetite,\n  Sinful, and strong is this!--man's enemy!\n  As smoke blots the white fire, as clinging rust\n  Mars the bright mirror, as the womb surrounds\n  The babe unborn, so is the world of things\n  Foiled, soiled, enclosed in this desire of flesh.\n  The wise fall, caught in it; the unresting foe\n  It is of wisdom, wearing countless forms,\n  Fair but deceitful, subtle as a flame.\n  Sense, mind, and reason--these, O Kunti's Son!\n  Are booty for it; in its play with these\n  It maddens man, beguiling, blinding him.\n  Therefore, thou noblest child of Bharata!\n  Govern thy heart! Constrain th' entangled sense!\n  Resist the false, soft sinfulness which saps\n  Knowledge and judgment! Yea, the world is strong,\n  But what discerns it stronger, and the mind\n  Strongest; and high o'er all the ruling Soul.\n  Wherefore, perceiving Him who reigns supreme,\n  Put forth full force of Soul in thy own soul!\n  Fight! vanquish foes and doubts, dear Hero! slay\n  What haunts thee in fond shapes, and would betray!\n\n  HERE ENDETH CHAPTER III. OF THE BHAGAVAD-GITA,\n  Entitled \"Karma-Yog,\"\n  Or \"The Book of Virtue in Work.\""
+}

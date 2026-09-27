@@ -296,11 +296,13 @@ def _is_running_head(p: str) -> bool:
 
 def _looks_footnote(p: str) -> bool:
     s = p.strip()
-    if re.match(r"^['®^•\*\-–\d\u2018\u2019\u201c\u201d]", s):
+    if re.match(r"^['®^•\*\-–\d\u2018\u2019\u201c\u201d°■]", s):
         return True
+    if len(s) < 150 and re.search(r",?\s+p{1,2}\.\s*\d", s):
+        return True  # citation fragment ("Katha Upanishad, p. 114")
     return bool(re.match(
         r"^(Literally|The original|In the original|Who, as|That is|I\.?e\.?|l\.e\.?|"
-        r"Several of these|This is a|Sew|SeWeg|Schlegel|Nilakantha|Lassen)",
+        r"Several of these|This is a|Sew|SeWeg|Schlegel|Nilakantha|Lassen|Cf\.)",
         s))
 
 
@@ -339,7 +341,7 @@ def cmd_triptych(args) -> int:
                     continue
                 if re.fullmatch(r"CHAPTER\s+[IVX]+,\s*\d+\.?", p):
                     continue
-                if re.fullmatch(r"\.?[Cc][Hh][Aa][Pp][Tt][Ee][Rr]\s+[ivxIVX]+,?\s*\d*\.?", p):
+                if re.fullmatch(r"\.?[Cc][Hh][Aa][Pp][Tt][Ee][Rr]\s+[ivxIVX]+\s*,?\s*\S{0,8}\.?$", p):
                     continue
                 if _is_running_head(p):
                     continue
@@ -622,6 +624,19 @@ def cmd_check_align(args) -> int:
                         bad += 1
         print(f"check_align: ch{ch:02d} {len(al['records'])} records, {bad} bad anchors")
         failures += bad
+        # Coverage: every non-footnote para is referenced or explicitly dropped.
+        kept = [x for x in tri["telang_paras"] if not x["footnote?"]]
+        tps = [f"T{i:02d}" for i, x in enumerate(kept)]
+        used = {s2["para"] for r in al["records"] for s2 in r["telang"]}
+        dropped = {d2["para"] for d2 in al.get("dropped", [])}
+        for tno in tps:
+            if tno not in used and tno not in dropped:
+                print(f"check_align: ch{ch:02d} {tno} unaccounted (neither used nor dropped)")
+                failures += 1
+        for tno in dropped:
+            if tno in used:
+                print(f"check_align: ch{ch:02d} {tno} both used and dropped")
+                failures += 1
     return 1 if failures else 0
 
 
