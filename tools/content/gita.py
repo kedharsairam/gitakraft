@@ -207,7 +207,7 @@ def cmd_anchor_en(args) -> int:
     between anchors are allocated to verses and CHECKED against known
     counts. Mismatches are flagged manual — never silently accepted.
     """
-    raw_path = Path("/tmp/opencode/telang_ocr.txt")
+    raw_path = RAW / "telang_ocr.txt"
     if not raw_path.exists():
         print("anchor_en: /tmp/opencode/telang_ocr.txt missing")
         return 1
@@ -296,14 +296,101 @@ def _is_running_head(p: str) -> bool:
 
 def _looks_footnote(p: str) -> bool:
     s = p.strip()
-    if re.match(r"^['®^•\*\-–\d\u2018\u2019\u201c\u201d°■]", s):
+    if re.match(r"^['®^•\*\-–\d\u2018\u2019\u201c\u201d\u201f\"\[]", s):
         return True
     if len(s) < 150 and re.search(r",?\s+p{1,2}\.\s*\d", s):
         return True  # citation fragment ("Katha Upanishad, p. 114")
     return bool(re.match(
         r"^(Literally|The original|In the original|Who, as|That is|I\.?e\.?|l\.e\.?|"
-        r"Several of these|This is a|Sew|SeWeg|Schlegel|Nilakantha|Lassen|Cf\.)",
+        r"Several of these|This is a|Sew|SeWeg|Schlegel|Nilakantha|Lassen|Cf\.|Scil)",
         s))
+
+
+_ROMAN_VARIANTS = {"VIR": 7, "XIR": 12, "XNI": 13, "RV": 4, "M": 3,
+                   "XVIIR": 18}
+
+
+GITA_SPAN = (90000, 283000)  # Sanskrit Ch1 title .. Sanatsugatiya intro
+
+
+def _clean_roman(raw: str) -> int | None:
+    hit = _ROMAN_VARIANTS.get(raw.upper())
+    if hit is not None:
+        return hit
+    up = "".join(c for c in raw if c in "IVXLCDM")
+    ROM = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7,
+           "VIII": 8, "IX": 9, "X": 10, "XI": 11, "XII": 12, "XIII": 13,
+           "XIV": 14, "XV": 15, "XVI": 16, "XVII": 17, "XVIII": 18}
+    if up in ROM:
+        return ROM[up]
+    return _ROMAN_VARIANTS.get(up)
+
+
+def _clean_verse(raw: str) -> int | None:
+    s = raw.replace(" ", "").replace(".", "").replace("l", "1").replace("I", "1").replace("O", "0")
+    return int(s) if s.isdigit() else None
+
+
+def running_heads(text: str) -> list[tuple[int, int | None, int | None]]:
+    """All print running heads as (offset, chapter|None, verse|None).
+
+    OCR-mangled romans/verses yield None (span continues through them);
+    chapter is inherited where neighbors agree.
+    """
+    out: list[tuple[int, int | None, int | None]] = []
+    for m in re.finditer(r"CHAPTER\s+([A-Za-z]+),\s*([0-9lOI\^g\.\s]{1,8})", text):
+        if not (GITA_SPAN[0] <= m.start() <= GITA_SPAN[1]):
+            continue
+        out.append((m.start(), _clean_roman(m.group(1)), _clean_verse(m.group(2))))
+    # Inherit chapter where both certain neighbors agree.
+    for i, (off, ch, vs) in enumerate(out):
+        if ch is None:
+            prev = next((c for _, c, _ in out[i - 1::-1] if c is not None), None)
+            nxt = next((c for _, c, _ in out[i + 1:] if c is not None), None)
+            if prev is not None and prev == nxt:
+                out[i] = (off, prev, vs)
+    return out
+
+
+def _chapter_title(text: str, numeral: str, after: int = 0) -> int | None:
+    lo = max(after, GITA_SPAN[0])
+    m = re.search(r"\nChapter\s+%s\.\s*\n" % numeral, text[lo:GITA_SPAN[1]])
+    if m:
+        return lo + m.start()
+    m = re.search(r"\nCHAPTER\s+%s\s*,?\s*\n" % numeral, text[lo:GITA_SPAN[1]])
+    return lo + m.start() if m else None
+def cmd_fetch_en_ocr(args) -> int:
+    """Fetch Telang SBE08 OCR text (Internet Archive, public domain)."""
+    import time
+    url = ("https://archive.org/download/in.ernet.dli.2015.45144/"
+           "2015.45144.The-Bhagavadgita--Ed-2_djvu.txt")
+    req = urllib.request.Request(
+        url, headers={"User-Agent": "GitaKraft-content/0.1 (research import)"})
+    out = RAW / "telang_ocr.txt"
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                out.write_bytes(resp.read())
+            break
+        except Exception as e:  # noqa: BLE001
+            print(f"fetch_en_ocr: attempt {attempt + 1} failed ({e})")
+            time.sleep(10)
+    blob = out.read_bytes()
+    print(f"fetch_en_ocr: {len(blob)} bytes sha256={hashlib.sha256(blob).hexdigest()[:12]}")
+    return 0
+
+
+def cmd_fetch_arnold(args) -> int:
+    """Fetch Arnold Song Celestial HTML (Project Gutenberg, PD reuse)."""
+    req = urllib.request.Request(
+        "https://www.gutenberg.org/files/2388/2388-h/2388-h.htm",
+        headers={"User-Agent": "GitaKraft-content/0.1 (research import)"})
+    out = RAW / "arnold.htm"
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        out.write_bytes(resp.read())
+    blob = out.read_bytes()
+    print(f"fetch_arnold: {len(blob)} bytes sha256={hashlib.sha256(blob).hexdigest()[:12]}")
+    return 0
 
 
 def cmd_triptych(args) -> int:
@@ -316,7 +403,7 @@ def cmd_triptych(args) -> int:
     raw_path = Path("/tmp/opencode/telang_ocr.txt")
     chapters = [args.chapter] if args.chapter else sorted(CHAPTERS)
     # Arnold chapters, split on CHAPTER <roman> headers.
-    arn = Path("/tmp/opencode/arnold.htm").read_text(encoding="utf-8", errors="replace")
+    arn = (RAW / "arnold.htm").read_text(encoding="utf-8", errors="replace")
     arn = re.sub(r"<[^>]+>", "", arn)
     arn = re.sub(r"\n\s*\n+", "\n\n", arn)
     t = raw_path.read_text(encoding="utf-8", errors="replace") if raw_path.exists() else ""
@@ -324,14 +411,34 @@ def cmd_triptych(args) -> int:
     for ch in chapters:
         sa_path = WORK / f"ch{ch:02d}.json"
         sa = json.loads(sa_path.read_text(encoding="utf-8"))["verses"] if sa_path.exists() else []
-        # Telang chapter span: 'Chapter ROM.' header to next chapter header.
+        # Telang chapter span: title header preferred; running heads
+        # bound the rest (title OCR is unreliable past Chapter I).
         ROMS = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X",
                 "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII"]
-        m0 = re.search(r"\nChapter\s+%s\.\s*\n" % ROMS[ch - 1], t)
-        m1 = re.search(r"\nChapter\s+%s\.\s*\n" % ROMS[ch], t) if ch < 18 else None
+        heads = running_heads(t)
+        starts = {}
+        for _off, _ch, _vs in heads:
+            if _ch is not None and _ch not in starts:
+                starts[_ch] = _off
+        t0 = _chapter_title(t, ROMS[ch - 1])
+        if t0 is None:
+            t0 = starts.get(ch)
+        if t0 is None:
+            print(f"triptych: ch{ch:02d} no start found")
+            continue
+        m1 = None
+        if ch < 18:
+            m1 = _chapter_title(t, ROMS[ch], after=t0 + 100)
+            if m1 is None:
+                nxt = [o for o, c, _ in heads if c == ch + 1 and o > t0]
+                m1 = min(nxt) if nxt else None
+        m0 = re.compile("x").match("x")  # placeholder replaced below
         paras = []
-        if m0:
-            span = t[m0.end(): m1.start() if m1 else len(t)]
+        if m1 is None and ch < 18:
+            print(f"triptych: ch{ch:02d} chapter end not found — refusing open span")
+            continue
+        if True:
+            span = t[t0: m1 if m1 is not None else len(t)]
             span = _clean_telang(span)
             for p in span.split("\n\n"):
                 p = p.strip().replace("\n", " ")
@@ -343,6 +450,10 @@ def cmd_triptych(args) -> int:
                     continue
                 if re.fullmatch(r"\.?[Cc][Hh][Aa][Pp][Tt][Ee][Rr]\s+[ivxIVX]+\s*,?\s*\S{0,8}\.?$", p):
                     continue
+                if re.fullmatch(r"[A-Za-z]\s+\d{1,3}", p):
+                    continue  # page signature ("K 2")
+                if len(p) < 40 and ("APTER" in p or "TKR" in p):
+                    continue  # OCR-mangled chapter marker (CIIAPTER, ClIAl'TKR)
                 if _is_running_head(p):
                     continue
                 # Absorbed marginal markers: leading digits before verse
