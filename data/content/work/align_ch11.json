@@ -1,0 +1,943 @@
+{
+ "chapter": 11,
+ "records": [
+  {
+   "id": "11:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "Ar^na said ;"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "gone away"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": "T01 (bullet-led) is verse text 11:1-4 misclassified as footnote; flag corrected in triptych."
+  },
+  {
+   "id": "11:2",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "production and dissolution",
+      "greatness"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:3",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "said about yourself",
+      "divine  form"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:4",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "possible for  me",
+      "show your inexhaustible"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:5",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "The Deity said ;"
+     ]
+    },
+    {
+     "para": "T03",
+     "anchors": [
+      "thousands see my forms",
+      "colours"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:6",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "Alvins",
+      "unseen  before"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:7",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "Within my body",
+      "whatever else"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:8",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "merely this eye",
+      "divine power"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:9",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "Saw^aya said ;"
+     ]
+    },
+    {
+     "para": "T05",
+     "anchors": [
+      "Having spoken thus",
+      "Hari"
+     ]
+    },
+    {
+     "para": "T06",
+     "anchors": [
+      "then showed"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": "11:9 spans T05-tail/T06-head."
+  },
+  {
+   "id": "11:10",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "mouths and eyes",
+      "held erect"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:11",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "flowers and vestments",
+      "all directions"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:12",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "thousand suns",
+      "mighty one"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:13",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "observed",
+      "numerous"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:14",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "amazement",
+      "joined hands"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:15",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "Ar^una said :"
+     ]
+    },
+    {
+     "para": "T08",
+     "anchors": [
+      "within your body",
+      "lotus seat"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": true,
+   "notes": "T01 promotion note applies chapter-wide (see 11:1). Arnold 11:15 runs D07->D08 (Brahma/lotus at D08-head)."
+  },
+  {
+   "id": "11:16",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "countless forms",
+      "middle or beginning"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:17",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "coronet",
+      "difficult to look at"
+     ]
+    },
+    {
+     "para": "T09",
+     "anchors": [
+      "blazing fire",
+      "indefinable"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": false,
+   "notes": "Split across T08-tail/T09-head."
+  },
+  {
+   "id": "11:18",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "highest support",
+      "eternal  being"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": "Arnold sentence runs D10->D11 ('To shelter Virtue's laws')."
+  },
+  {
+   "id": "11:19",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "unnumbered arms",
+      "heating"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:20",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "pervaded by you",
+      "three worlds"
+     ]
+    }
+   ],
+   "arnold": "D13",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:21",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "entering into you",
+      "joined hands"
+     ]
+    }
+   ],
+   "arnold": "D14",
+   "arnold_shared": true,
+   "notes": "Arnold 11:21 runs D14->D15 ('Hail! Highest Majesty')."
+  },
+  {
+   "id": "11:22",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "Sddhyas",
+      "amazed"
+     ]
+    }
+   ],
+   "arnold": "D16",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:23",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "many jaws",
+      "I likewise"
+     ]
+    }
+   ],
+   "arnold": "D17",
+   "arnold_shared": true,
+   "notes": "Arnold 11:23 runs D17->D18 ('Flanks, lit with sun and star')."
+  },
+  {
+   "id": "11:24",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "touching the skies",
+      "no courage"
+     ]
+    }
+   ],
+   "arnold": "D19",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:25",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "terrible by the jaws"
+     ]
+    },
+    {
+     "para": "T11",
+     "anchors": [
+      "directions",
+      "no comfort"
+     ]
+    }
+   ],
+   "arnold": "D20",
+   "arnold_shared": true,
+   "notes": "Split across T09-tail/T11-head (running head T10 between). Arnold 11:25 runs D20->D21 ('Fierce as those flames')."
+  },
+  {
+   "id": "11:26",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "Dhrftarash/ra",
+      "principal warriors"
+     ]
+    }
+   ],
+   "arnold": "D22",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:27",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "rapidly  entering",
+      "between the  teeth"
+     ]
+    }
+   ],
+   "arnold": "D23",
+   "arnold_shared": true,
+   "notes": "Arnold simile runs D23->D24 ('Like streams down-driven')."
+  },
+  {
+   "id": "11:28",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "rapid currents",
+      "human world"
+     ]
+    }
+   ],
+   "arnold": "D24",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:29",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "butterflies",
+      "blazing fire"
+     ]
+    }
+   ],
+   "arnold": "D25",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:30",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "licking them over",
+      "heating it"
+     ]
+    }
+   ],
+   "arnold": "D26",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:31",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "fierce form",
+      "do not understand"
+     ]
+    }
+   ],
+   "arnold": "D27",
+   "arnold_shared": true,
+   "notes": "Arnold 11:31 runs D27->D28 (Sanskrit 'Namostu Te' kept verbatim)."
+  },
+  {
+   "id": "11:32",
+   "telang": [
+    {
+     "para": "T12",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T13",
+     "anchors": [
+      "destroyer of the worlds"
+     ]
+    },
+    {
+     "para": "T14",
+     "anchors": [
+      "Even without you",
+      "cease to  be"
+     ]
+    }
+   ],
+   "arnold": "D29",
+   "arnold_shared": true,
+   "notes": "T13 truncated ('now act...'); 11:32-tail at T14-head."
+  },
+  {
+   "id": "11:33",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "be up",
+      "instrument"
+     ]
+    }
+   ],
+   "arnold": "D29",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:34",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "have killed",
+      "conquer"
+     ]
+    }
+   ],
+   "arnold": "D29",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:35",
+   "telang": [
+    {
+     "para": "T15",
+     "anchors": [
+      "Sa«,^ya said :"
+     ]
+    },
+    {
+     "para": "T16",
+     "anchors": [
+      "Hearing these words",
+      "trembling"
+     ]
+    }
+   ],
+   "arnold": "D30",
+   "arnold_shared": false,
+   "notes": "T16 truncated ('and wi...'); raw: 'and with joined hands, bowed down; and sorely afraid, and with throat choked up, he again spoke to Krshna after saluting him.'"
+  },
+  {
+   "id": "11:36",
+   "telang": [
+    {
+     "para": "T17",
+     "anchors": [
+      "Ar^una said :"
+     ]
+    },
+    {
+     "para": "T18",
+     "anchors": [
+      "charmed by your renown",
+      "Siddhas bow down"
+     ]
+    }
+   ],
+   "arnold": "D31",
+   "arnold_shared": true,
+   "notes": "Arnold Siddhas line closes at D32-head ('Of Siddhas sound Thy name')."
+  },
+  {
+   "id": "11:37",
+   "telang": [
+    {
+     "para": "T18",
+     "anchors": [
+      "first cause",
+      "beyond them"
+     ]
+    }
+   ],
+   "arnold": "D32",
+   "arnold_shared": true,
+   "notes": "Arnold opens 11:37 at D32 (carries 11:36-tail)."
+  },
+  {
+   "id": "11:38",
+   "telang": [
+    {
+     "para": "T18",
+     "anchors": [
+      "are the primal"
+     ]
+    },
+    {
+     "para": "T20",
+     "anchors": [
+      "ancient being",
+      "highest support"
+     ]
+    }
+   ],
+   "arnold": "D33",
+   "arnold_shared": false,
+   "notes": "Split across T18-tail/T20-head (ornament T19 between)."
+  },
+  {
+   "id": "11:39",
+   "telang": [
+    {
+     "para": "T20",
+     "anchors": [
+      "Varima",
+      "grandsire"
+     ]
+    }
+   ],
+   "arnold": "D34",
+   "arnold_shared": true,
+   "notes": "Arnold deity-list runs D34->D35 (Yama/Agni/Varuna at D35)."
+  },
+  {
+   "id": "11:40",
+   "telang": [
+    {
+     "para": "T20",
+     "anchors": [
+      "thousand times",
+      "all sides"
+     ]
+    }
+   ],
+   "arnold": "D36",
+   "arnold_shared": true,
+   "notes": "Arnold salutation runs D36->D37 ('Cried here, above, below')."
+  },
+  {
+   "id": "11:41",
+   "telang": [
+    {
+     "para": "T20",
+     "anchors": [
+      "contemptuously",
+      "not knowing"
+     ]
+    }
+   ],
+   "arnold": "D38",
+   "arnold_shared": true,
+   "notes": "Arnold apology runs D38->D39 ('Thy hidden majesty')."
+  },
+  {
+   "id": "11:42",
+   "telang": [
+    {
+     "para": "T20",
+     "anchors": [
+      "play, sleep",
+      "ask pardon"
+     ]
+    }
+   ],
+   "arnold": "D39",
+   "arnold_shared": true,
+   "notes": "Arnold pardon plea closes at D40-head ('Alone, or in the throng')."
+  },
+  {
+   "id": "11:43",
+   "telang": [
+    {
+     "para": "T20",
+     "anchors": [
+      "father of the  world",
+      "one greater"
+     ]
+    }
+   ],
+   "arnold": "D41",
+   "arnold_shared": true,
+   "notes": "Arnold opens 11:43 at D40-tail ('Father of all below')."
+  },
+  {
+   "id": "11:44",
+   "telang": [
+    {
+     "para": "T20",
+     "anchors": [
+      "prostrate myself",
+      "propitiate"
+     ]
+    },
+    {
+     "para": "T21",
+     "anchors": [
+      "as a father",
+      "beloved"
+     ]
+    }
+   ],
+   "arnold": "D42",
+   "arnold_shared": false,
+   "notes": "Split across T20-tail/T21-head."
+  },
+  {
+   "id": "11:45",
+   "telang": [
+    {
+     "para": "T21",
+     "anchors": [
+      "never seen before",
+      "alarmed by fear"
+     ]
+    }
+   ],
+   "arnold": "D43",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:46",
+   "telang": [
+    {
+     "para": "T21",
+     "anchors": [
+      "discus in hand",
+      "four-handed form"
+     ]
+    }
+   ],
+   "arnold": "D44",
+   "arnold_shared": true,
+   "notes": "Arnold form-wish closes at D45 ('My Charioteer, in Krishna's kind disguise')."
+  },
+  {
+   "id": "11:47",
+   "telang": [
+    {
+     "para": "T22",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T23",
+     "anchors": [
+      "being pleased",
+      "seen before"
+     ]
+    }
+   ],
+   "arnold": "D46",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:48",
+   "telang": [
+    {
+     "para": "T23",
+     "anchors": [
+      "sacrifices",
+      "fierce penances"
+     ]
+    }
+   ],
+   "arnold": "D46",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:49",
+   "telang": [
+    {
+     "para": "T23",
+     "anchors": [
+      "not perplexed",
+      "same form of  mine"
+     ]
+    }
+   ],
+   "arnold": "D46",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:50",
+   "telang": [
+    {
+     "para": "T24",
+     "anchors": [
+      "Sa«faya said :"
+     ]
+    },
+    {
+     "para": "T25",
+     "anchors": [
+      "showed his own form",
+      "comforted"
+     ]
+    }
+   ],
+   "arnold": "D47",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "11:51",
+   "telang": [
+    {
+     "para": "T26",
+     "anchors": [
+      "Ar/tina said :"
+     ]
+    },
+    {
+     "para": "T27",
+     "anchors": [
+      "mild, human form",
+      "my right"
+     ]
+    }
+   ],
+   "arnold": "D48",
+   "arnold_shared": false,
+   "notes": "T27 truncated ('my right'); raw: 'mind, and have come to my normal state.'"
+  },
+  {
+   "id": "11:52",
+   "telang": [
+    {
+     "para": "T28",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T29",
+     "anchors": [
+      "desiring to see",
+      "difficult to get"
+     ]
+    }
+   ],
+   "arnold": "D49",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:53",
+   "telang": [
+    {
+     "para": "T29",
+     "anchors": [
+      "not by  penance",
+      "sacrifice"
+     ]
+    }
+   ],
+   "arnold": "D49",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:54",
+   "telang": [
+    {
+     "para": "T29",
+     "anchors": [
+      "exclusively",
+      "truly known"
+     ]
+    }
+   ],
+   "arnold": "D49",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "11:55",
+   "telang": [
+    {
+     "para": "T29",
+     "anchors": [
+      "highest  (object)",
+      "comes to me"
+     ]
+    }
+   ],
+   "arnold": "D49",
+   "arnold_shared": true,
+   "notes": ""
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T10",
+   "reason": "Running head ('CHA PTEft XI, 32.')."
+  },
+  {
+   "para": "T19",
+   "reason": "Ornament ('diamond')."
+  }
+ ]
+}

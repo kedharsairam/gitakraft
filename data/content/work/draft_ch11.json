@@ -1,0 +1,995 @@
+{
+ "chapter": 11,
+ "records": [
+  {
+   "id": "11:1",
+   "devanagari": "मदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम् ।\nयत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम",
+   "iast": "madanugrahāya paramaṃ guhyamadhyātmasaṃjñitam |\nyattvayoktaṃ vacastena moho'yaṃ vigato mama",
+   "speaker": "अर्जुन",
+   "telang_context": "Ar^na said ;\n\n• In consequence of the excellent and mysterious  words concerning the relation of the supreme and  individual soul, which you have spoken for my  welfare, this delusion of mine is gone away. O you  whose eyes are like lotus leaves ! I have heard from  you at large about the production and dissolution of  things, and also about your inexhaustible greatness.  O highest lord ! what you have said about yourself  is so. I wish, O best of beings ! to see your divine  form. If, O lord ! you think that it is possible for  me to look upon it, then, O lord of the possessors  of mystic power ^ ! show your inexhaustible form  to me.",
+   "arnold_span": "D01",
+   "arnold_shared": true,
+   "align_notes": "T01 (bullet-led) is verse text 11:1-4 misclassified as footnote; flag corrected in triptych.",
+   "meaning_simple": "Arjuna said: the supreme mystery You spoke for my welfare has cleared my confusion.",
+   "takeaway": "Gratitude first. The vision request comes next.",
+   "provenance": [
+    "sa:11:1",
+    "telang:T00+T01",
+    "arnold:D01-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:2",
+   "devanagari": "भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया ।\nत्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम्",
+   "iast": "bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā |\ntvattaḥ kamalapatrākṣa māhātmyamapi cāvyayam",
+   "speaker": null,
+   "telang_context": "• In consequence of the excellent and mysterious  words concerning the relation of the supreme and  individual soul, which you have spoken for my  welfare, this delusion of mine is gone away. O you  whose eyes are like lotus leaves ! I have heard from  you at large about the production and dissolution of  things, and also about your inexhaustible greatness.  O highest lord ! what you have said about yourself  is so. I wish, O best of beings ! to see your divine  form. If, O lord ! you think that it is possible for  me to look upon it, then, O lord of the possessors  of mystic power ^ ! show your inexhaustible form  to me.",
+   "arnold_span": "D01",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "I have heard at length of the birth and passing of beings. And of Your imperishable glory, lotus-eyed one.",
+   "takeaway": "He listened. Now he asks.",
+   "provenance": [
+    "sa:11:2",
+    "telang:T01",
+    "arnold:D01-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:3",
+   "devanagari": "एवमेतद्यथात्थ त्वमात्मानं परमेश्वर ।\nद्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम",
+   "iast": "evametadyathāttha tvamātmānaṃ parameśvara |\ndraṣṭumicchāmi te rūpamaiśvaraṃ puruṣottama",
+   "speaker": null,
+   "telang_context": "• In consequence of the excellent and mysterious  words concerning the relation of the supreme and  individual soul, which you have spoken for my  welfare, this delusion of mine is gone away. O you  whose eyes are like lotus leaves ! I have heard from  you at large about the production and dissolution of  things, and also about your inexhaustible greatness.  O highest lord ! what you have said about yourself  is so. I wish, O best of beings ! to see your divine  form. If, O lord ! you think that it is possible for  me to look upon it, then, O lord of the possessors  of mystic power ^ ! show your inexhaustible form  to me.",
+   "arnold_span": "D01",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "What You say of Yourself is so. Now I long to see Your divine form, highest Lord.",
+   "takeaway": "Belief first, vision second. In that order.",
+   "provenance": [
+    "sa:11:3",
+    "telang:T01",
+    "arnold:D01-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:4",
+   "devanagari": "मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो ।\nयोगेश्वर ततो मे त्वं दर्शयात्मानमव्ययम्",
+   "iast": "manyase yadi tacchakyaṃ mayā draṣṭumiti prabho |\nyogeśvara tato me tvaṃ darśayātmānamavyayam",
+   "speaker": null,
+   "telang_context": "• In consequence of the excellent and mysterious  words concerning the relation of the supreme and  individual soul, which you have spoken for my  welfare, this delusion of mine is gone away. O you  whose eyes are like lotus leaves ! I have heard from  you at large about the production and dissolution of  things, and also about your inexhaustible greatness.  O highest lord ! what you have said about yourself  is so. I wish, O best of beings ! to see your divine  form. If, O lord ! you think that it is possible for  me to look upon it, then, O lord of the possessors  of mystic power ^ ! show your inexhaustible form  to me.",
+   "arnold_span": "D01",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "If I can bear the sight, Lord of discipline, show me Your imperishable Self.",
+   "takeaway": "The boldest request in the whole poem.",
+   "provenance": [
+    "sa:11:4",
+    "telang:T01",
+    "arnold:D01-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:5",
+   "devanagari": "श्रीभगवानुवाच\nपश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः ।\nनानाविधानि दिव्यानि नानावर्णाकृतीनि च",
+   "iast": "śrībhagavānuvāca\npaśya me pārtha rūpāṇi śataśo'tha sahasraśaḥ |\nnānāvidhāni divyāni nānāvarṇākṛtīni ca",
+   "speaker": null,
+   "telang_context": "The Deity said ;\n\nIn hundreds and in thousands see my forms, 0  .son of Pmhd! various, divine, and of various colours  and shapes. See the .A.dityas, Vasus, Rudras, the  two Alvins, and Marvits likewise. And O descendant of Bharata ! see wonders, in numbers, unseen  before. Within my body, O Guai'ikeja ! see to-day  the whole universe, including (everything) movable  and immovable, (all) in one, and whatever else you  wish to see. But you will not be able to see me  with merely this eye of yours. I give ybu an eye  divine. (Now) see my divine power.",
+   "arnold_span": "D02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Krishna said: see My forms by the hundred and thousand. Countless, divine, multicolored.",
+   "takeaway": "The curtain speech before the curtain parts.",
+   "provenance": [
+    "sa:11:5",
+    "telang:T02+T03-head",
+    "arnold:D02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:6",
+   "devanagari": "पश्यादित्यान्वसून्रुद्रानश्विनौ मरुतस्तथा ।\nबहून्यदृष्टपूर्वाणि पश्याश्चर्याणि भारत",
+   "iast": "paśyādityānvasūnrudrānaśvinau marutastathā |\nbahūnyadṛṣṭapūrvāṇi paśyāścaryāṇi bhārata",
+   "speaker": null,
+   "telang_context": "In hundreds and in thousands see my forms, 0  .son of Pmhd! various, divine, and of various colours  and shapes. See the .A.dityas, Vasus, Rudras, the  two Alvins, and Marvits likewise. And O descendant of Bharata ! see wonders, in numbers, unseen  before. Within my body, O Guai'ikeja ! see to-day  the whole universe, including (everything) movable  and immovable, (all) in one, and whatever else you  wish to see. But you will not be able to see me  with merely this eye of yours. I give ybu an eye  divine. (Now) see my divine power.",
+   "arnold_span": "D02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "See sun-gods, wind-gods, storm-gods, the twin horsemen. Wonders never seen before.",
+   "takeaway": "The guest list of the vision.",
+   "provenance": [
+    "sa:11:6",
+    "telang:T03",
+    "arnold:D02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:7",
+   "devanagari": "इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् ।\nमम देहे गुडाकेश यच्चान्यद् द्रष्टुमिच्छसि",
+   "iast": "ihaikasthaṃ jagatkṛtsnaṃ paśyādya sacarācaram |\nmama dehe guḍākeśa yaccānyad draṣṭumicchasi",
+   "speaker": null,
+   "telang_context": "In hundreds and in thousands see my forms, 0  .son of Pmhd! various, divine, and of various colours  and shapes. See the .A.dityas, Vasus, Rudras, the  two Alvins, and Marvits likewise. And O descendant of Bharata ! see wonders, in numbers, unseen  before. Within my body, O Guai'ikeja ! see to-day  the whole universe, including (everything) movable  and immovable, (all) in one, and whatever else you  wish to see. But you will not be able to see me  with merely this eye of yours. I give ybu an eye  divine. (Now) see my divine power.",
+   "arnold_span": "D02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "See the whole universe, moving and still, gathered in one within My body. And anything else you wish.",
+   "takeaway": "Everything, in one place, at once.",
+   "provenance": [
+    "sa:11:7",
+    "telang:T03",
+    "arnold:D02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:8",
+   "devanagari": "न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा ।\nदिव्यं ददामि ते चक्षुः पश्य मे योगमैश्वरम्",
+   "iast": "na tu māṃ śakyase draṣṭumanenaiva svacakṣuṣā |\ndivyaṃ dadāmi te cakṣuḥ paśya me yogamaiśvaram",
+   "speaker": null,
+   "telang_context": "In hundreds and in thousands see my forms, 0  .son of Pmhd! various, divine, and of various colours  and shapes. See the .A.dityas, Vasus, Rudras, the  two Alvins, and Marvits likewise. And O descendant of Bharata ! see wonders, in numbers, unseen  before. Within my body, O Guai'ikeja ! see to-day  the whole universe, including (everything) movable  and immovable, (all) in one, and whatever else you  wish to see. But you will not be able to see me  with merely this eye of yours. I give ybu an eye  divine. (Now) see my divine power.",
+   "arnold_span": "D03",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "But human eyes cannot see Me. I grant you a divine eye. Behold My majestic power.",
+   "takeaway": "New sight required for a new sight.",
+   "provenance": [
+    "sa:11:8",
+    "telang:T03",
+    "arnold:D03"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:9",
+   "devanagari": "एवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः ।\nदर्शयामास पार्थाय परमं रूपमैश्वरम्",
+   "iast": "evamuktvā tato rājanmahāyogeśvaro hariḥ |\ndarśayāmāsa pārthāya paramaṃ rūpamaiśvaram",
+   "speaker": "सञ्जय",
+   "telang_context": "Saw^aya said ;\n\nHaving spoken thus, O king! Hari, the great\n\nlord of the possessors of mystic power, then showed  to the son of Prfthi his supreme divine form, having  many mouths and eyes, having (within it) many  wonderful sights, having many celestial ornaments,  having many celestial weapons held erect, wearing  celestial flowers and vestments, having an anointment of celestial perfumes, full of every wonder, the  infinite deity with faces in all directions \\ If in  the heavens, the lustre of a thousand suns burst  forth all at once, that would be like the lustre of  that mighty one. There the son of V^jtdn then  observed in the body of the god of gods the whole  universe (all) in one, and divided into numerous ^  (divisions). Then Dhanaw^ya filled with amazement, and with hair standing on end, bowed his  head before the god, and spoke with joined hands.",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "11:9 spans T05-tail/T06-head.",
+   "meaning_simple": "Sanjaya said: so speaking, Hari showed the prince His supreme divine form.",
+   "takeaway": "The narrator takes over. Eyes open.",
+   "provenance": [
+    "sa:11:9",
+    "telang:T04+T05+T06-head",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:10",
+   "devanagari": "अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् ।\nअनेकदिव्याभरणं दिव्यानेकोद्यतायुधम्",
+   "iast": "anekavaktranayanamanekādbhutadarśanam |\nanekadivyābharaṇaṃ divyānekodyatāyudham",
+   "speaker": null,
+   "telang_context": "lord of the possessors of mystic power, then showed  to the son of Prfthi his supreme divine form, having  many mouths and eyes, having (within it) many  wonderful sights, having many celestial ornaments,  having many celestial weapons held erect, wearing  celestial flowers and vestments, having an anointment of celestial perfumes, full of every wonder, the  infinite deity with faces in all directions \\ If in  the heavens, the lustre of a thousand suns burst  forth all at once, that would be like the lustre of  that mighty one. There the son of V^jtdn then  observed in the body of the god of gods the whole  universe (all) in one, and divided into numerous ^  (divisions). Then Dhanaw^ya filled with amazement, and with hair standing on end, bowed his  head before the god, and spoke with joined hands.",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Countless mouths and eyes. Wondrous sights within. Celestial ornaments, weapons raised high.",
+   "takeaway": "The inventory of infinity, part one.",
+   "provenance": [
+    "sa:11:10",
+    "telang:T06",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:11",
+   "devanagari": "दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् ।\nसर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम्",
+   "iast": "divyamālyāmbaradharaṃ divyagandhānulepanam |\nsarvāścaryamayaṃ devamanantaṃ viśvatomukham",
+   "speaker": null,
+   "telang_context": "lord of the possessors of mystic power, then showed  to the son of Prfthi his supreme divine form, having  many mouths and eyes, having (within it) many  wonderful sights, having many celestial ornaments,  having many celestial weapons held erect, wearing  celestial flowers and vestments, having an anointment of celestial perfumes, full of every wonder, the  infinite deity with faces in all directions \\ If in  the heavens, the lustre of a thousand suns burst  forth all at once, that would be like the lustre of  that mighty one. There the son of V^jtdn then  observed in the body of the god of gods the whole  universe (all) in one, and divided into numerous ^  (divisions). Then Dhanaw^ya filled with amazement, and with hair standing on end, bowed his  head before the god, and spoke with joined hands.",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Garlands of stars, robes of light, perfumes of heaven. Every wonder, faces in every direction.",
+   "takeaway": "Dress for the cosmos itself.",
+   "provenance": [
+    "sa:11:11",
+    "telang:T06",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:12",
+   "devanagari": "दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता ।\nयदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः",
+   "iast": "divi sūryasahasrasya bhavedyugapadutthitā |\nyadi bhāḥ sadṛśī sā syādbhāsastasya mahātmanaḥ",
+   "speaker": null,
+   "telang_context": "lord of the possessors of mystic power, then showed  to the son of Prfthi his supreme divine form, having  many mouths and eyes, having (within it) many  wonderful sights, having many celestial ornaments,  having many celestial weapons held erect, wearing  celestial flowers and vestments, having an anointment of celestial perfumes, full of every wonder, the  infinite deity with faces in all directions \\ If in  the heavens, the lustre of a thousand suns burst  forth all at once, that would be like the lustre of  that mighty one. There the son of V^jtdn then  observed in the body of the god of gods the whole  universe (all) in one, and divided into numerous ^  (divisions). Then Dhanaw^ya filled with amazement, and with hair standing on end, bowed his  head before the god, and spoke with joined hands.",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "If a thousand suns burst forth at once, that might match this splendor.",
+   "takeaway": "The famous simile. Understatement as praise.",
+   "provenance": [
+    "sa:11:12",
+    "telang:T06",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:13",
+   "devanagari": "तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा ।\nअपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा",
+   "iast": "tatraikasthaṃ jagatkṛtsnaṃ pravibhaktamanekadhā |\napaśyaddevadevasya śarīre pāṇḍavastadā",
+   "speaker": null,
+   "telang_context": "lord of the possessors of mystic power, then showed  to the son of Prfthi his supreme divine form, having  many mouths and eyes, having (within it) many  wonderful sights, having many celestial ornaments,  having many celestial weapons held erect, wearing  celestial flowers and vestments, having an anointment of celestial perfumes, full of every wonder, the  infinite deity with faces in all directions \\ If in  the heavens, the lustre of a thousand suns burst  forth all at once, that would be like the lustre of  that mighty one. There the son of V^jtdn then  observed in the body of the god of gods the whole  universe (all) in one, and divided into numerous ^  (divisions). Then Dhanaw^ya filled with amazement, and with hair standing on end, bowed his  head before the god, and spoke with joined hands.",
+   "arnold_span": "D05",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "There Arjuna saw the whole universe in one — yet divided in countless parts — within the god of gods.",
+   "takeaway": "One and many, simultaneously.",
+   "provenance": [
+    "sa:11:13",
+    "telang:T06",
+    "arnold:D05"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:14",
+   "devanagari": "ततः स विस्मयाविष्टो हृष्टरोमा धनंजयः ।\nप्रणम्य शिरसा देवं कृताञ्जलिरभाषत",
+   "iast": "tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanaṃjayaḥ |\npraṇamya śirasā devaṃ kṛtāñjalirabhāṣata",
+   "speaker": null,
+   "telang_context": "lord of the possessors of mystic power, then showed  to the son of Prfthi his supreme divine form, having  many mouths and eyes, having (within it) many  wonderful sights, having many celestial ornaments,  having many celestial weapons held erect, wearing  celestial flowers and vestments, having an anointment of celestial perfumes, full of every wonder, the  infinite deity with faces in all directions \\ If in  the heavens, the lustre of a thousand suns burst  forth all at once, that would be like the lustre of  that mighty one. There the son of V^jtdn then  observed in the body of the god of gods the whole  universe (all) in one, and divided into numerous ^  (divisions). Then Dhanaw^ya filled with amazement, and with hair standing on end, bowed his  head before the god, and spoke with joined hands.",
+   "arnold_span": "D06",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Amazed, hair on end, he bowed his head and spoke with folded hands.",
+   "takeaway": "Terror and devotion in one posture.",
+   "provenance": [
+    "sa:11:14",
+    "telang:T06",
+    "arnold:D06"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:15",
+   "devanagari": "पश्यामि देवांस्तव देव देहे\nसर्वांस्तथा भूतविशेषसंघान् ।\nब्रह्माणमीशं कमलासनस्थ-\nमृषींश्च सर्वानुरगांश्च दिव्यान्",
+   "iast": "paśyāmi devāṃstava deva dehe\nsarvāṃstathā bhūtaviśeṣasaṃghān |\nbrahmāṇamīśaṃ kamalāsanastha-\nmṛṣīṃśca sarvānuragāṃśca divyān",
+   "speaker": "अर्जुन",
+   "telang_context": "Ar^una said :\n\nO god ! I see within your body the gods, as also  all the groups of various beings ; and the lord  Brahman seated on (his) lotus seat, and all the  sages and celestial snakes. I see you, who are of  countless forms, possessed of many arms, stomachs,  mouths, and eyes on all sides. And, O lord of the  universe ! O you of all forms ! I do not see your  end or middle or beginning. I see you bearing a  coronet ^d a mace and a discus — a mass of glory,  brilliant on all sides, difficult to look at, having on",
+   "arnold_span": "D07",
+   "arnold_shared": true,
+   "align_notes": "T01 promotion note applies chapter-wide (see 11:1). Arnold 11:15 runs D07->D08 (Brahma/lotus at D08-head).",
+   "meaning_simple": "Arjuna said: I see all gods within Your body. All beings. The creator on His lotus. Sages and serpents.",
+   "takeaway": "The eyewitness account begins.",
+   "provenance": [
+    "sa:11:15",
+    "telang:T07+T08-head",
+    "arnold:D07-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:16",
+   "devanagari": "अनेकबाहूदरवक्त्रनेत्रं\nपश्यामि त्वां सर्वतोऽनन्तरूपम् ।\nनान्तं न मध्यं न पुनस्तवादिं\nपश्यामि विश्वेश्वर विश्वरूप",
+   "iast": "anekabāhūdaravaktranetraṃ\npaśyāmi tvāṃ sarvato'nantarūpam |\nnāntaṃ na madhyaṃ na punastavādiṃ\npaśyāmi viśveśvara viśvarūpa",
+   "speaker": null,
+   "telang_context": "O god ! I see within your body the gods, as also  all the groups of various beings ; and the lord  Brahman seated on (his) lotus seat, and all the  sages and celestial snakes. I see you, who are of  countless forms, possessed of many arms, stomachs,  mouths, and eyes on all sides. And, O lord of the  universe ! O you of all forms ! I do not see your  end or middle or beginning. I see you bearing a  coronet ^d a mace and a discus — a mass of glory,  brilliant on all sides, difficult to look at, having on",
+   "arnold_span": "D08",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Countless arms, bellies, mouths, eyes everywhere. No end, no middle, no beginning in sight.",
+   "takeaway": "Infinity, reported plainly.",
+   "provenance": [
+    "sa:11:16",
+    "telang:T08",
+    "arnold:D08"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:17",
+   "devanagari": "किरीटिनं गदिनं चक्रिणं च\nतेजोराशिं सर्वतो दीप्तिमन्तम् ।\nपश्यामि त्वां दुर्निरीक्ष्यं समन्ता-\nद्दीप्तानलार्कद्युतिमप्रमेयम्",
+   "iast": "kirīṭinaṃ gadinaṃ cakriṇaṃ ca\ntejorāśiṃ sarvato dīptimantam |\npaśyāmi tvāṃ durnirīkṣyaṃ samantā-\nddīptānalārkadyutimaprameyam",
+   "speaker": null,
+   "telang_context": "O god ! I see within your body the gods, as also  all the groups of various beings ; and the lord  Brahman seated on (his) lotus seat, and all the  sages and celestial snakes. I see you, who are of  countless forms, possessed of many arms, stomachs,  mouths, and eyes on all sides. And, O lord of the  universe ! O you of all forms ! I do not see your  end or middle or beginning. I see you bearing a  coronet ^d a mace and a discus — a mass of glory,  brilliant on all sides, difficult to look at, having on\n\nall sides the effulgence of a blazing fire or sun, and  indefinable. You are indestructible, the supreme  one to be known. You are the highest support* of  this universe. You are the inexhaustible protector  of everlasting piety. 1 believe you to be the eternal  being, I see you void of beginning, middle, end — •  of infinite power, of unnumbered arms, having the  sun and moon for eyes, having a mouth like a  blazing fire, and heating the universe with your  radiance. For this space between heaven and  earth and all the quarters are pervaded by you  alone. Looking at this wonderful and terrible form  of yours, O high-souled one ! the three worlds are  affrighted. For here these groups of gods are  entering into you. Some being afraid are praying  with joined hands, and the groups of great sages  and Siddhas are saying ‘ Welfare - ! ’ and praising  you with abundant (hymns) of praise. The Rudras,  and Adityas, the Vasus, the Sddhyas, the Vuvas, the  two Alvins, the Maruts, and the Ushmapas, and the  groups of Gandharvas, Yakshas, demons, and Siddhas are all looking at you amazed. Seeing your  mighty form, with many mouths and eyes, wdth  many arms, thighs, and feet, with many stomachs,  and fearful with many jaws, all people, and I likewise, are much alarmed, O you of mighty arms !  Seeing you, O Vishwu ! touching the skies, radiant,  possessed of many hues, with a gaping mouth, and  with large blazing eyes, I am much alarmed in my  inmost self, and feel no courage, no tranquillity.  And seeing your mouths terrible by the jaws, and",
+   "arnold_span": "D09",
+   "arnold_shared": false,
+   "align_notes": "Split across T08-tail/T09-head.",
+   "meaning_simple": "Crown, mace, discus. A mass of radiance, blinding on every side, blazing like fire and sun.",
+   "takeaway": "The familiar emblems, made unbearable.",
+   "provenance": [
+    "sa:11:17",
+    "telang:T08+T09-head",
+    "arnold:D09"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:18",
+   "devanagari": "त्वमक्षरं परमं वेदितव्यं\nत्वमस्य विश्वस्य परं निधानम् ।\nत्वमव्ययः शाश्वतधर्मगोप्ता\nसनातनस्त्वं पुरुषो मतो मे",
+   "iast": "tvamakṣaraṃ paramaṃ veditavyaṃ\ntvamasya viśvasya paraṃ nidhānam |\ntvamavyayaḥ śāśvatadharmagoptā\nsanātanastvaṃ puruṣo mato me",
+   "speaker": null,
+   "telang_context": "all sides the effulgence of a blazing fire or sun, and  indefinable. You are indestructible, the supreme  one to be known. You are the highest support* of  this universe. You are the inexhaustible protector  of everlasting piety. 1 believe you to be the eternal  being, I see you void of beginning, middle, end — •  of infinite power, of unnumbered arms, having the  sun and moon for eyes, having a mouth like a  blazing fire, and heating the universe with your  radiance. For this space between heaven and  earth and all the quarters are pervaded by you  alone. Looking at this wonderful and terrible form  of yours, O high-souled one ! the three worlds are  affrighted. For here these groups of gods are  entering into you. Some being afraid are praying  with joined hands, and the groups of great sages  and Siddhas are saying ‘ Welfare - ! ’ and praising  you with abundant (hymns) of praise. The Rudras,  and Adityas, the Vasus, the Sddhyas, the Vuvas, the  two Alvins, the Maruts, and the Ushmapas, and the  groups of Gandharvas, Yakshas, demons, and Siddhas are all looking at you amazed. Seeing your  mighty form, with many mouths and eyes, wdth  many arms, thighs, and feet, with many stomachs,  and fearful with many jaws, all people, and I likewise, are much alarmed, O you of mighty arms !  Seeing you, O Vishwu ! touching the skies, radiant,  possessed of many hues, with a gaping mouth, and  with large blazing eyes, I am much alarmed in my  inmost self, and feel no courage, no tranquillity.  And seeing your mouths terrible by the jaws, and",
+   "arnold_span": "D10",
+   "arnold_shared": true,
+   "align_notes": "Arnold sentence runs D10->D11 ('To shelter Virtue's laws').",
+   "meaning_simple": "You are the imperishable truth to be known. The highest refuge. Guardian of eternal duty. The timeless being.",
+   "takeaway": "Theology inside the terror.",
+   "provenance": [
+    "sa:11:18",
+    "telang:T09",
+    "arnold:D10-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:19",
+   "devanagari": "अनादिमध्यान्तमनन्तवीर्य-\nमनन्तबाहुं शशिसूर्यनेत्रम् ।\nपश्यामि त्वां दीप्तहुताशवक्त्रं\nस्वतेजसा विश्वमिदं तपन्तम्",
+   "iast": "anādimadhyāntamanantavīrya-\nmanantabāhuṃ śaśisūryanetram |\npaśyāmi tvāṃ dīptahutāśavaktraṃ\nsvatejasā viśvamidaṃ tapantam",
+   "speaker": null,
+   "telang_context": "all sides the effulgence of a blazing fire or sun, and  indefinable. You are indestructible, the supreme  one to be known. You are the highest support* of  this universe. You are the inexhaustible protector  of everlasting piety. 1 believe you to be the eternal  being, I see you void of beginning, middle, end — •  of infinite power, of unnumbered arms, having the  sun and moon for eyes, having a mouth like a  blazing fire, and heating the universe with your  radiance. For this space between heaven and  earth and all the quarters are pervaded by you  alone. Looking at this wonderful and terrible form  of yours, O high-souled one ! the three worlds are  affrighted. For here these groups of gods are  entering into you. Some being afraid are praying  with joined hands, and the groups of great sages  and Siddhas are saying ‘ Welfare - ! ’ and praising  you with abundant (hymns) of praise. The Rudras,  and Adityas, the Vasus, the Sddhyas, the Vuvas, the  two Alvins, the Maruts, and the Ushmapas, and the  groups of Gandharvas, Yakshas, demons, and Siddhas are all looking at you amazed. Seeing your  mighty form, with many mouths and eyes, wdth  many arms, thighs, and feet, with many stomachs,  and fearful with many jaws, all people, and I likewise, are much alarmed, O you of mighty arms !  Seeing you, O Vishwu ! touching the skies, radiant,  possessed of many hues, with a gaping mouth, and  with large blazing eyes, I am much alarmed in my  inmost self, and feel no courage, no tranquillity.  And seeing your mouths terrible by the jaws, and",
+   "arnold_span": "D12",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "No beginning, middle, or end. Boundless power. Sun and moon for eyes. A mouth of blazing fire, warming the universe.",
+   "takeaway": "The face that heats the worlds.",
+   "provenance": [
+    "sa:11:19",
+    "telang:T09",
+    "arnold:D12"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:20",
+   "devanagari": "द्यावापृथिव्योरिदमन्तरं हि\nव्याप्तं त्वयैकेन दिशश्च सर्वाः ।\nदृष्ट्वाद्भुतं रूपमुग्रं तवेदं\nलोकत्रयं प्रव्यथितं महात्मन्",
+   "iast": "dyāvāpṛthivyoridamantaraṃ hi\nvyāptaṃ tvayaikena diśaśca sarvāḥ |\ndṛṣṭvādbhutaṃ rūpamugraṃ tavedaṃ\nlokatrayaṃ pravyathitaṃ mahātman",
+   "speaker": null,
+   "telang_context": "all sides the effulgence of a blazing fire or sun, and  indefinable. You are indestructible, the supreme  one to be known. You are the highest support* of  this universe. You are the inexhaustible protector  of everlasting piety. 1 believe you to be the eternal  being, I see you void of beginning, middle, end — •  of infinite power, of unnumbered arms, having the  sun and moon for eyes, having a mouth like a  blazing fire, and heating the universe with your  radiance. For this space between heaven and  earth and all the quarters are pervaded by you  alone. Looking at this wonderful and terrible form  of yours, O high-souled one ! the three worlds are  affrighted. For here these groups of gods are  entering into you. Some being afraid are praying  with joined hands, and the groups of great sages  and Siddhas are saying ‘ Welfare - ! ’ and praising  you with abundant (hymns) of praise. The Rudras,  and Adityas, the Vasus, the Sddhyas, the Vuvas, the  two Alvins, the Maruts, and the Ushmapas, and the  groups of Gandharvas, Yakshas, demons, and Siddhas are all looking at you amazed. Seeing your  mighty form, with many mouths and eyes, wdth  many arms, thighs, and feet, with many stomachs,  and fearful with many jaws, all people, and I likewise, are much alarmed, O you of mighty arms !  Seeing you, O Vishwu ! touching the skies, radiant,  possessed of many hues, with a gaping mouth, and  with large blazing eyes, I am much alarmed in my  inmost self, and feel no courage, no tranquillity.  And seeing your mouths terrible by the jaws, and",
+   "arnold_span": "D13",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Earth and sky and every direction are filled by You alone. The three worlds tremble at this terrible wonder.",
+   "takeaway": "Aloneness at cosmic scale.",
+   "provenance": [
+    "sa:11:20",
+    "telang:T09",
+    "arnold:D13"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:21",
+   "devanagari": "अमी हि त्वां सुरसंघा विशन्ति\nकेचिद्भीताः प्राञ्जलयो गृणन्ति ।\nस्वस्तीत्युक्त्वा महर्षिसिद्धसंघाः\nस्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः",
+   "iast": "amī hi tvāṃ surasaṃghā viśanti\nkecidbhītāḥ prāñjalayo gṛṇanti |\nsvastītyuktvā maharṣisiddhasaṃghāḥ\nstuvanti tvāṃ stutibhiḥ puṣkalābhiḥ",
+   "speaker": null,
+   "telang_context": "all sides the effulgence of a blazing fire or sun, and  indefinable. You are indestructible, the supreme  one to be known. You are the highest support* of  this universe. You are the inexhaustible protector  of everlasting piety. 1 believe you to be the eternal  being, I see you void of beginning, middle, end — •  of infinite power, of unnumbered arms, having the  sun and moon for eyes, having a mouth like a  blazing fire, and heating the universe with your  radiance. For this space between heaven and  earth and all the quarters are pervaded by you  alone. Looking at this wonderful and terrible form  of yours, O high-souled one ! the three worlds are  affrighted. For here these groups of gods are  entering into you. Some being afraid are praying  with joined hands, and the groups of great sages  and Siddhas are saying ‘ Welfare - ! ’ and praising  you with abundant (hymns) of praise. The Rudras,  and Adityas, the Vasus, the Sddhyas, the Vuvas, the  two Alvins, the Maruts, and the Ushmapas, and the  groups of Gandharvas, Yakshas, demons, and Siddhas are all looking at you amazed. Seeing your  mighty form, with many mouths and eyes, wdth  many arms, thighs, and feet, with many stomachs,  and fearful with many jaws, all people, and I likewise, are much alarmed, O you of mighty arms !  Seeing you, O Vishwu ! touching the skies, radiant,  possessed of many hues, with a gaping mouth, and  with large blazing eyes, I am much alarmed in my  inmost self, and feel no courage, no tranquillity.  And seeing your mouths terrible by the jaws, and",
+   "arnold_span": "D14",
+   "arnold_shared": true,
+   "align_notes": "Arnold 11:21 runs D14->D15 ('Hail! Highest Majesty').",
+   "meaning_simple": "Hosts of gods stream into You. Some pray in fear with folded hands. Sages chant blessings and praise.",
+   "takeaway": "Surrender, fear, and song together.",
+   "provenance": [
+    "sa:11:21",
+    "telang:T09",
+    "arnold:D14-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:22",
+   "devanagari": "रुद्रादित्या वसवो ये च साध्या\nविश्वेऽश्विनौ मरुतश्चोष्मपाश्च ।\nगन्धर्वयक्षासुरसिद्धसंघा\nवीक्षन्ते त्वां विस्मिताश्चैव सर्वे",
+   "iast": "rudrādityā vasavo ye ca sādhyā\nviśve'śvinau marutaścoṣmapāśca |\ngandharvayakṣāsurasiddhasaṃghā\nvīkṣante tvāṃ vismitāścaiva sarve",
+   "speaker": null,
+   "telang_context": "all sides the effulgence of a blazing fire or sun, and  indefinable. You are indestructible, the supreme  one to be known. You are the highest support* of  this universe. You are the inexhaustible protector  of everlasting piety. 1 believe you to be the eternal  being, I see you void of beginning, middle, end — •  of infinite power, of unnumbered arms, having the  sun and moon for eyes, having a mouth like a  blazing fire, and heating the universe with your  radiance. For this space between heaven and  earth and all the quarters are pervaded by you  alone. Looking at this wonderful and terrible form  of yours, O high-souled one ! the three worlds are  affrighted. For here these groups of gods are  entering into you. Some being afraid are praying  with joined hands, and the groups of great sages  and Siddhas are saying ‘ Welfare - ! ’ and praising  you with abundant (hymns) of praise. The Rudras,  and Adityas, the Vasus, the Sddhyas, the Vuvas, the  two Alvins, the Maruts, and the Ushmapas, and the  groups of Gandharvas, Yakshas, demons, and Siddhas are all looking at you amazed. Seeing your  mighty form, with many mouths and eyes, wdth  many arms, thighs, and feet, with many stomachs,  and fearful with many jaws, all people, and I likewise, are much alarmed, O you of mighty arms !  Seeing you, O Vishwu ! touching the skies, radiant,  possessed of many hues, with a gaping mouth, and  with large blazing eyes, I am much alarmed in my  inmost self, and feel no courage, no tranquillity.  And seeing your mouths terrible by the jaws, and",
+   "arnold_span": "D16",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Storm-gods, sun-gods, circlers, ancestors. Twins, winds, musicians, demons, adepts. All stare amazed.",
+   "takeaway": "The whole pantheon, reduced to spectators.",
+   "provenance": [
+    "sa:11:22",
+    "telang:T09",
+    "arnold:D16"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:23",
+   "devanagari": "रूपं महत्ते बहुवक्त्रनेत्रं\nमहाबाहो बहुबाहूरुपादम् ।\nबहूदरं बहुदंष्ट्राकरालं\nदृष्ट्वा लोकाः प्रव्यथितास्तथाहम्",
+   "iast": "rūpaṃ mahatte bahuvaktranetraṃ\nmahābāho bahubāhūrupādam |\nbahūdaraṃ bahudaṃṣṭrākarālaṃ\ndṛṣṭvā lokāḥ pravyathitāstathāham",
+   "speaker": null,
+   "telang_context": "all sides the effulgence of a blazing fire or sun, and  indefinable. You are indestructible, the supreme  one to be known. You are the highest support* of  this universe. You are the inexhaustible protector  of everlasting piety. 1 believe you to be the eternal  being, I see you void of beginning, middle, end — •  of infinite power, of unnumbered arms, having the  sun and moon for eyes, having a mouth like a  blazing fire, and heating the universe with your  radiance. For this space between heaven and  earth and all the quarters are pervaded by you  alone. Looking at this wonderful and terrible form  of yours, O high-souled one ! the three worlds are  affrighted. For here these groups of gods are  entering into you. Some being afraid are praying  with joined hands, and the groups of great sages  and Siddhas are saying ‘ Welfare - ! ’ and praising  you with abundant (hymns) of praise. The Rudras,  and Adityas, the Vasus, the Sddhyas, the Vuvas, the  two Alvins, the Maruts, and the Ushmapas, and the  groups of Gandharvas, Yakshas, demons, and Siddhas are all looking at you amazed. Seeing your  mighty form, with many mouths and eyes, wdth  many arms, thighs, and feet, with many stomachs,  and fearful with many jaws, all people, and I likewise, are much alarmed, O you of mighty arms !  Seeing you, O Vishwu ! touching the skies, radiant,  possessed of many hues, with a gaping mouth, and  with large blazing eyes, I am much alarmed in my  inmost self, and feel no courage, no tranquillity.  And seeing your mouths terrible by the jaws, and",
+   "arnold_span": "D17",
+   "arnold_shared": true,
+   "align_notes": "Arnold 11:23 runs D17->D18 ('Flanks, lit with sun and star').",
+   "meaning_simple": "Many mouths, eyes, arms, thighs, feet, bellies, dreadful teeth. All peoples terrified — and I with them.",
+   "takeaway": "Fear honestly confessed.",
+   "provenance": [
+    "sa:11:23",
+    "telang:T09",
+    "arnold:D17-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:24",
+   "devanagari": "नभःस्पृशं दीप्तमनेकवर्णं\nव्यात्ताननं दीप्तविशालनेत्रम् ।\nदृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा\nधृतिं न विन्दामि शमं च विष्णो",
+   "iast": "nabhaḥspṛśaṃ dīptamanekavarṇaṃ\nvyāttānanaṃ dīptaviśālanetram |\ndṛṣṭvā hi tvāṃ pravyathitāntarātmā\ndhṛtiṃ na vindāmi śamaṃ ca viṣṇo",
+   "speaker": null,
+   "telang_context": "all sides the effulgence of a blazing fire or sun, and  indefinable. You are indestructible, the supreme  one to be known. You are the highest support* of  this universe. You are the inexhaustible protector  of everlasting piety. 1 believe you to be the eternal  being, I see you void of beginning, middle, end — •  of infinite power, of unnumbered arms, having the  sun and moon for eyes, having a mouth like a  blazing fire, and heating the universe with your  radiance. For this space between heaven and  earth and all the quarters are pervaded by you  alone. Looking at this wonderful and terrible form  of yours, O high-souled one ! the three worlds are  affrighted. For here these groups of gods are  entering into you. Some being afraid are praying  with joined hands, and the groups of great sages  and Siddhas are saying ‘ Welfare - ! ’ and praising  you with abundant (hymns) of praise. The Rudras,  and Adityas, the Vasus, the Sddhyas, the Vuvas, the  two Alvins, the Maruts, and the Ushmapas, and the  groups of Gandharvas, Yakshas, demons, and Siddhas are all looking at you amazed. Seeing your  mighty form, with many mouths and eyes, wdth  many arms, thighs, and feet, with many stomachs,  and fearful with many jaws, all people, and I likewise, are much alarmed, O you of mighty arms !  Seeing you, O Vishwu ! touching the skies, radiant,  possessed of many hues, with a gaping mouth, and  with large blazing eyes, I am much alarmed in my  inmost self, and feel no courage, no tranquillity.  And seeing your mouths terrible by the jaws, and",
+   "arnold_span": "D19",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Touching the sky, radiant, many-colored. Jaws agape, eyes ablaze. I shake inside, courage and calm gone.",
+   "takeaway": "The bravest archer unmanned.",
+   "provenance": [
+    "sa:11:24",
+    "telang:T09",
+    "arnold:D19"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:25",
+   "devanagari": "दंष्ट्राकरालानि च ते मुखानि\nदृष्ट्वैव कालानलसन्निभानि ।\nदिशो न जाने न लभे च शर्म\nप्रसीद देवेश जगन्निवास",
+   "iast": "daṃṣṭrākarālāni ca te mukhāni\ndṛṣṭvaiva kālānalasannibhāni |\ndiśo na jāne na labhe ca śarma\nprasīda deveśa jagannivāsa",
+   "speaker": null,
+   "telang_context": "all sides the effulgence of a blazing fire or sun, and  indefinable. You are indestructible, the supreme  one to be known. You are the highest support* of  this universe. You are the inexhaustible protector  of everlasting piety. 1 believe you to be the eternal  being, I see you void of beginning, middle, end — •  of infinite power, of unnumbered arms, having the  sun and moon for eyes, having a mouth like a  blazing fire, and heating the universe with your  radiance. For this space between heaven and  earth and all the quarters are pervaded by you  alone. Looking at this wonderful and terrible form  of yours, O high-souled one ! the three worlds are  affrighted. For here these groups of gods are  entering into you. Some being afraid are praying  with joined hands, and the groups of great sages  and Siddhas are saying ‘ Welfare - ! ’ and praising  you with abundant (hymns) of praise. The Rudras,  and Adityas, the Vasus, the Sddhyas, the Vuvas, the  two Alvins, the Maruts, and the Ushmapas, and the  groups of Gandharvas, Yakshas, demons, and Siddhas are all looking at you amazed. Seeing your  mighty form, with many mouths and eyes, wdth  many arms, thighs, and feet, with many stomachs,  and fearful with many jaws, all people, and I likewise, are much alarmed, O you of mighty arms !  Seeing you, O Vishwu ! touching the skies, radiant,  possessed of many hues, with a gaping mouth, and  with large blazing eyes, I am much alarmed in my  inmost self, and feel no courage, no tranquillity.  And seeing your mouths terrible by the jaws, and\n\nresembling the fire of destruction, I cannot recognise the (various) directions, I feel no comfort. Be  gracious, O lord of gods ! who pervadest the  universe. And all these sons of Dhrftarash/ra,  together with all the bands of kings, and Bhishma  and Dro»a, and this charioteer’s son ' likewise,  together with our principal warriors also, are rapidly  entering your mouths, fearful and horrific* by (reason  of your) jaws. And some with their heads smashed  are seen (to be) stuck in the spaces between the  teeth. As the many rapid currents of a river’s  waters run towards the sea alone, so do these heroes  of the human world enter your mouths blazing all  round. As butterflies, with increased velocity, enter  a blazing fire to their destruction, so too do these  people enter your mouths with increased velocity  (onl)j to their destruction. Swallowing all these  peojale, you are licking them over and over again  from all sides, with your blazing mouths. Your  fierce splendours, O Vishwu ! filling the whole  universe with (their) effulgence, arc heating it. Tell  me who you are in this fierce form. Salutations be  to thee, O chief of the gods ! Be gracious. I wish  to know you, the primeval one, for I do not understand your actions.",
+   "arnold_span": "D20",
+   "arnold_shared": true,
+   "align_notes": "Split across T09-tail/T11-head (running head T10 between). Arnold 11:25 runs D20->D21 ('Fierce as those flames').",
+   "meaning_simple": "These tusk-ringed mouths glow like doomsday fire. I lose my bearings and my peace. Be gracious, all-pervading Lord.",
+   "takeaway": "Lost directions. One address for mercy.",
+   "provenance": [
+    "sa:11:25",
+    "telang:T09+T11-head",
+    "arnold:D20-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:26",
+   "devanagari": "अमी च त्वां धृतराष्ट्रस्य पुत्राः\nसर्वे सहैवावनिपालसंघैः ।\nभीष्मो द्रोणः सूतपुत्रस्तथासौ\nसहास्मदीयैरपि योधमुख्यैः",
+   "iast": "amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ\nsarve sahaivāvanipālasaṃghaiḥ |\nbhīṣmo droṇaḥ sūtaputrastathāsau\nsahāsmadīyairapi yodhamukhyaiḥ",
+   "speaker": null,
+   "telang_context": "resembling the fire of destruction, I cannot recognise the (various) directions, I feel no comfort. Be  gracious, O lord of gods ! who pervadest the  universe. And all these sons of Dhrftarash/ra,  together with all the bands of kings, and Bhishma  and Dro»a, and this charioteer’s son ' likewise,  together with our principal warriors also, are rapidly  entering your mouths, fearful and horrific* by (reason  of your) jaws. And some with their heads smashed  are seen (to be) stuck in the spaces between the  teeth. As the many rapid currents of a river’s  waters run towards the sea alone, so do these heroes  of the human world enter your mouths blazing all  round. As butterflies, with increased velocity, enter  a blazing fire to their destruction, so too do these  people enter your mouths with increased velocity  (onl)j to their destruction. Swallowing all these  peojale, you are licking them over and over again  from all sides, with your blazing mouths. Your  fierce splendours, O Vishwu ! filling the whole  universe with (their) effulgence, arc heating it. Tell  me who you are in this fierce form. Salutations be  to thee, O chief of the gods ! Be gracious. I wish  to know you, the primeval one, for I do not understand your actions.",
+   "arnold_span": "D22",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Dhritarashtra's sons with all their kings. Bhishma, Drona, Karna. Our own captains too.",
+   "takeaway": "The muster roll of the doomed.",
+   "provenance": [
+    "sa:11:26",
+    "telang:T11",
+    "arnold:D22"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:27",
+   "devanagari": "वक्त्राणि ते त्वरमाणा विशन्ति\nदंष्ट्राकरालानि भयानकानि ।\nकेचिद्विलग्ना दशनान्तरेषु\nसंदृश्यन्ते चूर्णितैरुत्तमाङ्गैः",
+   "iast": "vaktrāṇi te tvaramāṇā viśanti\ndaṃṣṭrākarālāni bhayānakāni |\nkecidvilagnā daśanāntareṣu\nsaṃdṛśyante cūrṇitairuttamāṅgaiḥ",
+   "speaker": null,
+   "telang_context": "resembling the fire of destruction, I cannot recognise the (various) directions, I feel no comfort. Be  gracious, O lord of gods ! who pervadest the  universe. And all these sons of Dhrftarash/ra,  together with all the bands of kings, and Bhishma  and Dro»a, and this charioteer’s son ' likewise,  together with our principal warriors also, are rapidly  entering your mouths, fearful and horrific* by (reason  of your) jaws. And some with their heads smashed  are seen (to be) stuck in the spaces between the  teeth. As the many rapid currents of a river’s  waters run towards the sea alone, so do these heroes  of the human world enter your mouths blazing all  round. As butterflies, with increased velocity, enter  a blazing fire to their destruction, so too do these  people enter your mouths with increased velocity  (onl)j to their destruction. Swallowing all these  peojale, you are licking them over and over again  from all sides, with your blazing mouths. Your  fierce splendours, O Vishwu ! filling the whole  universe with (their) effulgence, arc heating it. Tell  me who you are in this fierce form. Salutations be  to thee, O chief of the gods ! Be gracious. I wish  to know you, the primeval one, for I do not understand your actions.",
+   "arnold_span": "D23",
+   "arnold_shared": true,
+   "align_notes": "Arnold simile runs D23->D24 ('Like streams down-driven').",
+   "meaning_simple": "All rush into Your dreadful toothed mouths. Some stick, heads crushed, between the teeth.",
+   "takeaway": "The war's ending, previewed.",
+   "provenance": [
+    "sa:11:27",
+    "telang:T11",
+    "arnold:D23-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:28",
+   "devanagari": "यथा नदीनां बहवोऽम्बुवेगाः\nसमुद्रमेवाभिमुखा द्रवन्ति ।\nतथा तवामी नरलोकवीरा\nविशन्ति वक्त्राण्यभिविज्वलन्ति",
+   "iast": "yathā nadīnāṃ bahavo'mbuvegāḥ\nsamudramevābhimukhā dravanti |\ntathā tavāmī naralokavīrā\nviśanti vaktrāṇyabhivijvalanti",
+   "speaker": null,
+   "telang_context": "resembling the fire of destruction, I cannot recognise the (various) directions, I feel no comfort. Be  gracious, O lord of gods ! who pervadest the  universe. And all these sons of Dhrftarash/ra,  together with all the bands of kings, and Bhishma  and Dro»a, and this charioteer’s son ' likewise,  together with our principal warriors also, are rapidly  entering your mouths, fearful and horrific* by (reason  of your) jaws. And some with their heads smashed  are seen (to be) stuck in the spaces between the  teeth. As the many rapid currents of a river’s  waters run towards the sea alone, so do these heroes  of the human world enter your mouths blazing all  round. As butterflies, with increased velocity, enter  a blazing fire to their destruction, so too do these  people enter your mouths with increased velocity  (onl)j to their destruction. Swallowing all these  peojale, you are licking them over and over again  from all sides, with your blazing mouths. Your  fierce splendours, O Vishwu ! filling the whole  universe with (their) effulgence, arc heating it. Tell  me who you are in this fierce form. Salutations be  to thee, O chief of the gods ! Be gracious. I wish  to know you, the primeval one, for I do not understand your actions.",
+   "arnold_span": "D24",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "As rivers race to the sea, so these heroes pour into Your blazing mouths.",
+   "takeaway": "Courage flowing one way only.",
+   "provenance": [
+    "sa:11:28",
+    "telang:T11",
+    "arnold:D24"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:29",
+   "devanagari": "यथा प्रदीप्तं ज्वलनं पतङ्गा\nविशन्ति नाशाय समृद्धवेगाः ।\nतथैव नाशाय विशन्ति लोका-\nस्तवापि वक्त्राणि समृद्धवेगाः",
+   "iast": "yathā pradīptaṃ jvalanaṃ pataṅgā\nviśanti nāśāya samṛddhavegāḥ |\ntathaiva nāśāya viśanti lokā-\nstavāpi vaktrāṇi samṛddhavegāḥ",
+   "speaker": null,
+   "telang_context": "resembling the fire of destruction, I cannot recognise the (various) directions, I feel no comfort. Be  gracious, O lord of gods ! who pervadest the  universe. And all these sons of Dhrftarash/ra,  together with all the bands of kings, and Bhishma  and Dro»a, and this charioteer’s son ' likewise,  together with our principal warriors also, are rapidly  entering your mouths, fearful and horrific* by (reason  of your) jaws. And some with their heads smashed  are seen (to be) stuck in the spaces between the  teeth. As the many rapid currents of a river’s  waters run towards the sea alone, so do these heroes  of the human world enter your mouths blazing all  round. As butterflies, with increased velocity, enter  a blazing fire to their destruction, so too do these  people enter your mouths with increased velocity  (onl)j to their destruction. Swallowing all these  peojale, you are licking them over and over again  from all sides, with your blazing mouths. Your  fierce splendours, O Vishwu ! filling the whole  universe with (their) effulgence, arc heating it. Tell  me who you are in this fierce form. Salutations be  to thee, O chief of the gods ! Be gracious. I wish  to know you, the primeval one, for I do not understand your actions.",
+   "arnold_span": "D25",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "As moths dive into flame, so these multitudes hasten to their ruin.",
+   "takeaway": "The oldest simile for self-destruction.",
+   "provenance": [
+    "sa:11:29",
+    "telang:T11",
+    "arnold:D25"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:30",
+   "devanagari": "लेलिह्यसे ग्रसमानः समन्ता-\nल्लोकान्समग्रान्वदनैर्ज्वलद्भिः ।\nतेजोभिरापूर्य जगत्समग्रं\nभासस्तवोग्राः प्रतपन्ति विष्णो",
+   "iast": "lelihyase grasamānaḥ samantā-\nllokānsamagrānvadanairjvaladbhiḥ |\ntejobhirāpūrya jagatsamagraṃ\nbhāsastavogrāḥ pratapanti viṣṇo",
+   "speaker": null,
+   "telang_context": "resembling the fire of destruction, I cannot recognise the (various) directions, I feel no comfort. Be  gracious, O lord of gods ! who pervadest the  universe. And all these sons of Dhrftarash/ra,  together with all the bands of kings, and Bhishma  and Dro»a, and this charioteer’s son ' likewise,  together with our principal warriors also, are rapidly  entering your mouths, fearful and horrific* by (reason  of your) jaws. And some with their heads smashed  are seen (to be) stuck in the spaces between the  teeth. As the many rapid currents of a river’s  waters run towards the sea alone, so do these heroes  of the human world enter your mouths blazing all  round. As butterflies, with increased velocity, enter  a blazing fire to their destruction, so too do these  people enter your mouths with increased velocity  (onl)j to their destruction. Swallowing all these  peojale, you are licking them over and over again  from all sides, with your blazing mouths. Your  fierce splendours, O Vishwu ! filling the whole  universe with (their) effulgence, arc heating it. Tell  me who you are in this fierce form. Salutations be  to thee, O chief of the gods ! Be gracious. I wish  to know you, the primeval one, for I do not understand your actions.",
+   "arnold_span": "D26",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Swallowing all from every side, licking them with flaming tongues. Your splendor fills and scorches the universe.",
+   "takeaway": "Appetite as cosmology.",
+   "provenance": [
+    "sa:11:30",
+    "telang:T11",
+    "arnold:D26"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:31",
+   "devanagari": "आख्याहि मे को भवानुग्ररूपो\nनमोऽस्तु ते देववर प्रसीद ।\nविज्ञातुमिच्छामि भवन्तमाद्यं\nन हि प्रजानामि तव प्रवृत्तिम्",
+   "iast": "ākhyāhi me ko bhavānugrarūpo\nnamo'stu te devavara prasīda |\nvijñātumicchāmi bhavantamādyaṃ\nna hi prajānāmi tava pravṛttim",
+   "speaker": null,
+   "telang_context": "resembling the fire of destruction, I cannot recognise the (various) directions, I feel no comfort. Be  gracious, O lord of gods ! who pervadest the  universe. And all these sons of Dhrftarash/ra,  together with all the bands of kings, and Bhishma  and Dro»a, and this charioteer’s son ' likewise,  together with our principal warriors also, are rapidly  entering your mouths, fearful and horrific* by (reason  of your) jaws. And some with their heads smashed  are seen (to be) stuck in the spaces between the  teeth. As the many rapid currents of a river’s  waters run towards the sea alone, so do these heroes  of the human world enter your mouths blazing all  round. As butterflies, with increased velocity, enter  a blazing fire to their destruction, so too do these  people enter your mouths with increased velocity  (onl)j to their destruction. Swallowing all these  peojale, you are licking them over and over again  from all sides, with your blazing mouths. Your  fierce splendours, O Vishwu ! filling the whole  universe with (their) effulgence, arc heating it. Tell  me who you are in this fierce form. Salutations be  to thee, O chief of the gods ! Be gracious. I wish  to know you, the primeval one, for I do not understand your actions.",
+   "arnold_span": "D27",
+   "arnold_shared": true,
+   "align_notes": "Arnold 11:31 runs D27->D28 (Sanskrit 'Namostu Te' kept verbatim).",
+   "meaning_simple": "Who are You in this fierce form? Salutations, chief of gods. Be gracious. I must know the primeval one — Your deeds pass understanding.",
+   "takeaway": "The question the whole chapter bends toward.",
+   "provenance": [
+    "sa:11:31",
+    "telang:T11",
+    "arnold:D27-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:32",
+   "devanagari": "श्रीभगवानुवाच\nकालोऽस्मि लोकक्षयकृत्प्रवृद्धो\nलोकान्समाहर्तुमिह प्रवृत्तः ।\nऋतेऽपि त्वां न भविष्यन्ति सर्वे\nयेऽवस्थिताः प्रत्यनीकेषु योधाः",
+   "iast": "śrībhagavānuvāca\nkālo'smi lokakṣayakṛtpravṛddho\nlokānsamāhartumiha pravṛttaḥ |\nṛte'pi tvāṃ na bhaviṣyanti sarve\nye'vasthitāḥ pratyanīkeṣu yodhāḥ",
+   "speaker": null,
+   "telang_context": "The Deity said :\n\nI am death, the destroyer of the worlds, fully  developed, and I am now active about the over-\n\nthrow of the worlds. Even without you, the warriors standing in the adverse hosts, shall all cease to  be. Therefore, be up, obtain glory, and vanquishing  (your) foes, enjoy a prosperous kingdom. All these  have been already killed by me. Be only the instrument, O Savyasa/^in*! Dro«a, and Bhishma, and  (7ayadratha, and Kar»a, and likewise other valiant  warriors also, whom I have killed, do you kill. Be  not alarmed. Do fight. And in the battle you will  conquer (your) foes.",
+   "arnold_span": "D29",
+   "arnold_shared": true,
+   "align_notes": "T13 truncated ('now act...'); 11:32-tail at T14-head.",
+   "meaning_simple": "Krishna said: I am Time, destroyer of worlds, now risen to devour. Even without you, these warriors will all cease to be.",
+   "takeaway": "The answer, without cushion.",
+   "provenance": [
+    "sa:11:32",
+    "telang:T12+T13+T14-head",
+    "arnold:D29-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:33",
+   "devanagari": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व\nजित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम् ।\nमयैवैते निहताः पूर्वमेव\nनिमित्तमात्रं भव सव्यसाचिन्",
+   "iast": "tasmāttvamuttiṣṭha yaśo labhasva\njitvā śatrūn bhuṅkṣva rājyaṃ samṛddham |\nmayaivaite nihatāḥ pūrvameva\nnimittamātraṃ bhava savyasācin",
+   "speaker": null,
+   "telang_context": "throw of the worlds. Even without you, the warriors standing in the adverse hosts, shall all cease to  be. Therefore, be up, obtain glory, and vanquishing  (your) foes, enjoy a prosperous kingdom. All these  have been already killed by me. Be only the instrument, O Savyasa/^in*! Dro«a, and Bhishma, and  (7ayadratha, and Kar»a, and likewise other valiant  warriors also, whom I have killed, do you kill. Be  not alarmed. Do fight. And in the battle you will  conquer (your) foes.",
+   "arnold_span": "D29",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "So rise, win glory, conquer, enjoy the kingdom. They are already slain by Me. Be merely the instrument.",
+   "takeaway": "Instrument, not author. That is the whole ethic.",
+   "provenance": [
+    "sa:11:33",
+    "telang:T14",
+    "arnold:D29-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:34",
+   "devanagari": "द्रोणं च भीष्मं च जयद्रथं च\nकर्णं तथान्यानपि योधवीरान् ।\nमया हतांस्त्वं जहि मा व्यथिष्ठा\nयुध्यस्व जेतासि रणे सपत्नान्",
+   "iast": "droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca\nkarṇaṃ tathānyānapi yodhavīrān |\nmayā hatāṃstvaṃ jahi mā vyathiṣṭhā\nyudhyasva jetāsi raṇe sapatnān",
+   "speaker": null,
+   "telang_context": "throw of the worlds. Even without you, the warriors standing in the adverse hosts, shall all cease to  be. Therefore, be up, obtain glory, and vanquishing  (your) foes, enjoy a prosperous kingdom. All these  have been already killed by me. Be only the instrument, O Savyasa/^in*! Dro«a, and Bhishma, and  (7ayadratha, and Kar»a, and likewise other valiant  warriors also, whom I have killed, do you kill. Be  not alarmed. Do fight. And in the battle you will  conquer (your) foes.",
+   "arnold_span": "D29",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Strike Drona, Bhishma, Jayadratha, Karna — already slain by Me. Do not grieve. Fight. You will conquer.",
+   "takeaway": "The kill-list as reassurance.",
+   "provenance": [
+    "sa:11:34",
+    "telang:T14",
+    "arnold:D29-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:35",
+   "devanagari": "एतच्छ्रुत्वा वचनं केशवस्य\nकृताञ्जलिर्वेपमानः किरीटी ।\nनमस्कृत्वा भूय एवाह कृष्णं\nसगद्गदं भीतभीतः प्रणम्य",
+   "iast": "etacchrutvā vacanaṃ keśavasya\nkṛtāñjalirvepamānaḥ kirīṭī |\nnamaskṛtvā bhūya evāha kṛṣṇaṃ\nsagadgadaṃ bhītabhītaḥ praṇamya",
+   "speaker": "सञ्जय",
+   "telang_context": "Sa«,^ya said :\n\nHearing these words of Kesava, the wearer of  the coronet trembling, and with joined hands,  bowed down ; and sorely afraid, and with throat  choked up, he again spoke to Krfshwa after saluting  him.",
+   "arnold_span": "D30",
+   "arnold_shared": false,
+   "align_notes": "T16 truncated ('and wi...'); raw: 'and with joined hands, bowed down; and sorely afraid, and with throat choked up, he again spoke to Krshna after saluting him.'",
+   "meaning_simple": "Sanjaya said: hearing this, the trembling crowned one bowed with folded hands. Throat choked, he spoke again.",
+   "takeaway": "The narrator frames the second hymn.",
+   "provenance": [
+    "sa:11:35",
+    "telang:T15+T16",
+    "arnold:D30"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:36",
+   "devanagari": "स्थाने हृषीकेश तव प्रकीर्त्या\nजगत्प्रहृष्यत्यनुरज्यते च ।\nरक्षांसि भीतानि दिशो द्रवन्ति\nसर्वे नमस्यन्ति च सिद्धसंघाः",
+   "iast": "sthāne hṛṣīkeśa tava prakīrtyā\njagatprahṛṣyatyanurajyate ca |\nrakṣāṃsi bhītāni diśo dravanti\nsarve namasyanti ca siddhasaṃghāḥ",
+   "speaker": "अर्जुन",
+   "telang_context": "Ar^una said :\n\nIt is quite proper, O Hrfshlkej'a ! that the universe is delighted and charmed by your renown,  that the demons run away affrighted in all directions,  and that all the assemblages of Siddhas bow down  (to you). And why, O high-souled one ! should  they not bow down to you (w'ho are) greater than  Brahman, and first cause ? O infinite lord of  gods ! O you pervading the universe ! you are  the indestructible, that which is, that which is not,  and what is beyond them Y ou are the primal",
+   "arnold_span": "D31",
+   "arnold_shared": true,
+   "align_notes": "Arnold Siddhas line closes at D32-head ('Of Siddhas sound Thy name').",
+   "meaning_simple": "Arjuna said: rightly does the world rejoice in Your glory. Demons flee terrified. Adepts bow down.",
+   "takeaway": "Fear and joy, correctly assigned.",
+   "provenance": [
+    "sa:11:36",
+    "telang:T17+T18-head",
+    "arnold:D31-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:37",
+   "devanagari": "कस्माच्च ते न नमेरन्महात्मन्\nगरीयसे ब्रह्मणोऽप्यादिकर्त्रे ।\nअनन्त देवेश जगन्निवास\nत्वमक्षरं सदसत्तत्परं यत्",
+   "iast": "kasmācca te na nameranmahātman\ngarīyase brahmaṇo'pyādikartre |\nananta deveśa jagannivāsa\ntvamakṣaraṃ sadasattatparaṃ yat",
+   "speaker": null,
+   "telang_context": "It is quite proper, O Hrfshlkej'a ! that the universe is delighted and charmed by your renown,  that the demons run away affrighted in all directions,  and that all the assemblages of Siddhas bow down  (to you). And why, O high-souled one ! should  they not bow down to you (w'ho are) greater than  Brahman, and first cause ? O infinite lord of  gods ! O you pervading the universe ! you are  the indestructible, that which is, that which is not,  and what is beyond them Y ou are the primal",
+   "arnold_span": "D32",
+   "arnold_shared": true,
+   "align_notes": "Arnold opens 11:37 at D32 (carries 11:36-tail).",
+   "meaning_simple": "Why would they not bow to You — greater than the creator, first cause? Infinite Lord, refuge of worlds. Being, non-being, and beyond both.",
+   "takeaway": "The metaphysical crescendo.",
+   "provenance": [
+    "sa:11:37",
+    "telang:T18",
+    "arnold:D32"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:38",
+   "devanagari": "त्वमादिदेवः पुरुषः पुराण-\nस्त्वमस्य विश्वस्य परं निधानम् ।\nवेत्तासि वेद्यं च परं च धाम\nत्वया ततं विश्वमनन्तरूप",
+   "iast": "tvamādidevaḥ puruṣaḥ purāṇa-\nstvamasya viśvasya paraṃ nidhānam |\nvettāsi vedyaṃ ca paraṃ ca dhāma\ntvayā tataṃ viśvamanantarūpa",
+   "speaker": null,
+   "telang_context": "It is quite proper, O Hrfshlkej'a ! that the universe is delighted and charmed by your renown,  that the demons run away affrighted in all directions,  and that all the assemblages of Siddhas bow down  (to you). And why, O high-souled one ! should  they not bow down to you (w'ho are) greater than  Brahman, and first cause ? O infinite lord of  gods ! O you pervading the universe ! you are  the indestructible, that which is, that which is not,  and what is beyond them Y ou are the primal\n\ngod, the ancient being, you are the highest support  of this universe*. You are that which has knowledge, that which is the object of knowledge, you  are the highest goal. By you is this universe  pervaded, O you of infinite forms! You are the  wind, Yama, fire, Varima, the moon, you Pra^pati,  and the great grandsire*. Obeisance be to thee  a thousand times, and again and again obeisance to  thee ! In front and from behind obeisance to thee!  Obeisance be to thee from all sides, O you who are  all ! You are of infinite power, of unmeasured glory;  you pervade all, and therefore you are all ! Whatever I have said contemptuously, — for instance, ‘ O  Krfshwa ! ’ ‘ O Yddava ! ’ ‘ O friend ! ’ — thinking you  to be (my) friend, and not knowing your greatness  (as shown in) this (universal form), or through  friendliness, or incautiously ; and whatever disrespect  I have shown }'Ou for purposes of merriment, on  (occasions of) play, sleep, dinner, or sitting (together),  whether alone or in the presence (of friends), — for  all that, O undegraded one ! I ask pardon of you  who are indefinable ^ You are the father of the  world — movable and immovable — you its great  and venerable master ; there is none equal to you,  whence can there be one greater, O you whose  power is unparalleled in all the three worlds ?  Therefor® I bow and prostrate myself, and would  propitiate you, the praiseworthy lord. Be pleased,",
+   "arnold_span": "D33",
+   "arnold_shared": false,
+   "align_notes": "Split across T18-tail/T20-head (ornament T19 between).",
+   "meaning_simple": "Primal god, ancient person. Highest refuge of this universe. Knower and known and supreme goal. All-pervading, infinite-formed.",
+   "takeaway": "Titles stacked like temple stones.",
+   "provenance": [
+    "sa:11:38",
+    "telang:T18+T20-head",
+    "arnold:D33"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:39",
+   "devanagari": "वायुर्यमोऽग्निर्वरुणः शशाङ्कः\nप्रजापतिस्त्वं प्रपितामहश्च ।\nनमो नमस्तेऽस्तु सहस्रकृत्वः\nपुनश्च भूयोऽपि नमो नमस्ते",
+   "iast": "vāyuryamo'gnirvaruṇaḥ śaśāṅkaḥ\nprajāpatistvaṃ prapitāmahaśca |\nnamo namaste'stu sahasrakṛtvaḥ\npunaśca bhūyo'pi namo namaste",
+   "speaker": null,
+   "telang_context": "god, the ancient being, you are the highest support  of this universe*. You are that which has knowledge, that which is the object of knowledge, you  are the highest goal. By you is this universe  pervaded, O you of infinite forms! You are the  wind, Yama, fire, Varima, the moon, you Pra^pati,  and the great grandsire*. Obeisance be to thee  a thousand times, and again and again obeisance to  thee ! In front and from behind obeisance to thee!  Obeisance be to thee from all sides, O you who are  all ! You are of infinite power, of unmeasured glory;  you pervade all, and therefore you are all ! Whatever I have said contemptuously, — for instance, ‘ O  Krfshwa ! ’ ‘ O Yddava ! ’ ‘ O friend ! ’ — thinking you  to be (my) friend, and not knowing your greatness  (as shown in) this (universal form), or through  friendliness, or incautiously ; and whatever disrespect  I have shown }'Ou for purposes of merriment, on  (occasions of) play, sleep, dinner, or sitting (together),  whether alone or in the presence (of friends), — for  all that, O undegraded one ! I ask pardon of you  who are indefinable ^ You are the father of the  world — movable and immovable — you its great  and venerable master ; there is none equal to you,  whence can there be one greater, O you whose  power is unparalleled in all the three worlds ?  Therefor® I bow and prostrate myself, and would  propitiate you, the praiseworthy lord. Be pleased,",
+   "arnold_span": "D34",
+   "arnold_shared": true,
+   "align_notes": "Arnold deity-list runs D34->D35 (Yama/Agni/Varuna at D35).",
+   "meaning_simple": "Wind, death, fire, ocean, moon. Creator and great grandsire both.",
+   "takeaway": "Elements and ancestors in one breath.",
+   "provenance": [
+    "sa:11:39",
+    "telang:T20",
+    "arnold:D34-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:40",
+   "devanagari": "नमः पुरस्तादथ पृष्ठतस्ते\nनमोऽस्तु ते सर्वत एव सर्व ।\nअनन्तवीर्यामितविक्रमस्त्वं\nसर्वं समाप्नोषि ततोऽसि सर्वः",
+   "iast": "namaḥ purastādatha pṛṣṭhataste\nnamo'stu te sarvata eva sarva |\nanantavīryāmitavikramastvaṃ\nsarvaṃ samāpnoṣi tato'si sarvaḥ",
+   "speaker": null,
+   "telang_context": "god, the ancient being, you are the highest support  of this universe*. You are that which has knowledge, that which is the object of knowledge, you  are the highest goal. By you is this universe  pervaded, O you of infinite forms! You are the  wind, Yama, fire, Varima, the moon, you Pra^pati,  and the great grandsire*. Obeisance be to thee  a thousand times, and again and again obeisance to  thee ! In front and from behind obeisance to thee!  Obeisance be to thee from all sides, O you who are  all ! You are of infinite power, of unmeasured glory;  you pervade all, and therefore you are all ! Whatever I have said contemptuously, — for instance, ‘ O  Krfshwa ! ’ ‘ O Yddava ! ’ ‘ O friend ! ’ — thinking you  to be (my) friend, and not knowing your greatness  (as shown in) this (universal form), or through  friendliness, or incautiously ; and whatever disrespect  I have shown }'Ou for purposes of merriment, on  (occasions of) play, sleep, dinner, or sitting (together),  whether alone or in the presence (of friends), — for  all that, O undegraded one ! I ask pardon of you  who are indefinable ^ You are the father of the  world — movable and immovable — you its great  and venerable master ; there is none equal to you,  whence can there be one greater, O you whose  power is unparalleled in all the three worlds ?  Therefor® I bow and prostrate myself, and would  propitiate you, the praiseworthy lord. Be pleased,",
+   "arnold_span": "D36",
+   "arnold_shared": true,
+   "align_notes": "Arnold salutation runs D36->D37 ('Cried here, above, below').",
+   "meaning_simple": "Salutations a thousand times, again and again. Before, behind, on every side — to You who are all.",
+   "takeaway": "Prostration in every direction.",
+   "provenance": [
+    "sa:11:40",
+    "telang:T20",
+    "arnold:D36-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:41",
+   "devanagari": "सखेति मत्वा प्रसभं यदुक्तं\nहे कृष्ण हे यादव हे सखेति ।\nअजानता महिमानं तवेदं\nमया प्रमादात्प्रणयेन वापि",
+   "iast": "sakheti matvā prasabhaṃ yaduktaṃ\nhe kṛṣṇa he yādava he sakheti |\najānatā mahimānaṃ tavedaṃ\nmayā pramādātpraṇayena vāpi",
+   "speaker": null,
+   "telang_context": "god, the ancient being, you are the highest support  of this universe*. You are that which has knowledge, that which is the object of knowledge, you  are the highest goal. By you is this universe  pervaded, O you of infinite forms! You are the  wind, Yama, fire, Varima, the moon, you Pra^pati,  and the great grandsire*. Obeisance be to thee  a thousand times, and again and again obeisance to  thee ! In front and from behind obeisance to thee!  Obeisance be to thee from all sides, O you who are  all ! You are of infinite power, of unmeasured glory;  you pervade all, and therefore you are all ! Whatever I have said contemptuously, — for instance, ‘ O  Krfshwa ! ’ ‘ O Yddava ! ’ ‘ O friend ! ’ — thinking you  to be (my) friend, and not knowing your greatness  (as shown in) this (universal form), or through  friendliness, or incautiously ; and whatever disrespect  I have shown }'Ou for purposes of merriment, on  (occasions of) play, sleep, dinner, or sitting (together),  whether alone or in the presence (of friends), — for  all that, O undegraded one ! I ask pardon of you  who are indefinable ^ You are the father of the  world — movable and immovable — you its great  and venerable master ; there is none equal to you,  whence can there be one greater, O you whose  power is unparalleled in all the three worlds ?  Therefor® I bow and prostrate myself, and would  propitiate you, the praiseworthy lord. Be pleased,",
+   "arnold_span": "D38",
+   "arnold_shared": true,
+   "align_notes": "Arnold apology runs D38->D39 ('Thy hidden majesty').",
+   "meaning_simple": "For calling You 'friend,' 'Krishna,' 'clansman' — light words from ignorance of this greatness —",
+   "takeaway": "The apology begins. Casualness confessed.",
+   "provenance": [
+    "sa:11:41",
+    "telang:T20",
+    "arnold:D38-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:42",
+   "devanagari": "यच्चावहासार्थमसत्कृतोऽसि\nविहारशय्यासनभोजनेषु ।\nएकोऽथवाप्यच्युत तत्समक्षं\nतत्क्षामये त्वामहमप्रमेयम्",
+   "iast": "yaccāvahāsārthamasatkṛto'si\nvihāraśayyāsanabhojaneṣu |\neko'thavāpyacyuta tatsamakṣaṃ\ntatkṣāmaye tvāmahamaprameyam",
+   "speaker": null,
+   "telang_context": "god, the ancient being, you are the highest support  of this universe*. You are that which has knowledge, that which is the object of knowledge, you  are the highest goal. By you is this universe  pervaded, O you of infinite forms! You are the  wind, Yama, fire, Varima, the moon, you Pra^pati,  and the great grandsire*. Obeisance be to thee  a thousand times, and again and again obeisance to  thee ! In front and from behind obeisance to thee!  Obeisance be to thee from all sides, O you who are  all ! You are of infinite power, of unmeasured glory;  you pervade all, and therefore you are all ! Whatever I have said contemptuously, — for instance, ‘ O  Krfshwa ! ’ ‘ O Yddava ! ’ ‘ O friend ! ’ — thinking you  to be (my) friend, and not knowing your greatness  (as shown in) this (universal form), or through  friendliness, or incautiously ; and whatever disrespect  I have shown }'Ou for purposes of merriment, on  (occasions of) play, sleep, dinner, or sitting (together),  whether alone or in the presence (of friends), — for  all that, O undegraded one ! I ask pardon of you  who are indefinable ^ You are the father of the  world — movable and immovable — you its great  and venerable master ; there is none equal to you,  whence can there be one greater, O you whose  power is unparalleled in all the three worlds ?  Therefor® I bow and prostrate myself, and would  propitiate you, the praiseworthy lord. Be pleased,",
+   "arnold_span": "D39",
+   "arnold_shared": true,
+   "align_notes": "Arnold pardon plea closes at D40-head ('Alone, or in the throng').",
+   "meaning_simple": "For jests at play, rest, meals, and councils. Alone or before others. Forgive me, imperishable one.",
+   "takeaway": "Every intimacy re-examined.",
+   "provenance": [
+    "sa:11:42",
+    "telang:T20",
+    "arnold:D39-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:43",
+   "devanagari": "पितासि लोकस्य चराचरस्य\nत्वमस्य पूज्यश्च गुरुर्गरीयान् ।\nन त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो\nलोकत्रयेऽप्यप्रतिमप्रभाव",
+   "iast": "pitāsi lokasya carācarasya\ntvamasya pūjyaśca gururgarīyān |\nna tvatsamo'styabhyadhikaḥ kuto'nyo\nlokatraye'pyapratimaprabhāva",
+   "speaker": null,
+   "telang_context": "god, the ancient being, you are the highest support  of this universe*. You are that which has knowledge, that which is the object of knowledge, you  are the highest goal. By you is this universe  pervaded, O you of infinite forms! You are the  wind, Yama, fire, Varima, the moon, you Pra^pati,  and the great grandsire*. Obeisance be to thee  a thousand times, and again and again obeisance to  thee ! In front and from behind obeisance to thee!  Obeisance be to thee from all sides, O you who are  all ! You are of infinite power, of unmeasured glory;  you pervade all, and therefore you are all ! Whatever I have said contemptuously, — for instance, ‘ O  Krfshwa ! ’ ‘ O Yddava ! ’ ‘ O friend ! ’ — thinking you  to be (my) friend, and not knowing your greatness  (as shown in) this (universal form), or through  friendliness, or incautiously ; and whatever disrespect  I have shown }'Ou for purposes of merriment, on  (occasions of) play, sleep, dinner, or sitting (together),  whether alone or in the presence (of friends), — for  all that, O undegraded one ! I ask pardon of you  who are indefinable ^ You are the father of the  world — movable and immovable — you its great  and venerable master ; there is none equal to you,  whence can there be one greater, O you whose  power is unparalleled in all the three worlds ?  Therefor® I bow and prostrate myself, and would  propitiate you, the praiseworthy lord. Be pleased,",
+   "arnold_span": "D41",
+   "arnold_shared": true,
+   "align_notes": "Arnold opens 11:43 at D40-tail ('Father of all below').",
+   "meaning_simple": "Father of all that moves and stands. Greatest teacher. None equals You — how could any surpass?",
+   "takeaway": "No comparison available. That is the point.",
+   "provenance": [
+    "sa:11:43",
+    "telang:T20",
+    "arnold:D41-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:44",
+   "devanagari": "तस्मात्प्रणम्य प्रणिधाय कायं\nप्रसादये त्वामहमीशमीड्यम् ।\nपितेव पुत्रस्य सखेव सख्युः\nप्रियः प्रियायार्हसि देव सोढुम्",
+   "iast": "tasmātpraṇamya praṇidhāya kāyaṃ\nprasādaye tvāmahamīśamīḍyam |\npiteva putrasya sakheva sakhyuḥ\npriyaḥ priyāyārhasi deva soḍhum",
+   "speaker": null,
+   "telang_context": "god, the ancient being, you are the highest support  of this universe*. You are that which has knowledge, that which is the object of knowledge, you  are the highest goal. By you is this universe  pervaded, O you of infinite forms! You are the  wind, Yama, fire, Varima, the moon, you Pra^pati,  and the great grandsire*. Obeisance be to thee  a thousand times, and again and again obeisance to  thee ! In front and from behind obeisance to thee!  Obeisance be to thee from all sides, O you who are  all ! You are of infinite power, of unmeasured glory;  you pervade all, and therefore you are all ! Whatever I have said contemptuously, — for instance, ‘ O  Krfshwa ! ’ ‘ O Yddava ! ’ ‘ O friend ! ’ — thinking you  to be (my) friend, and not knowing your greatness  (as shown in) this (universal form), or through  friendliness, or incautiously ; and whatever disrespect  I have shown }'Ou for purposes of merriment, on  (occasions of) play, sleep, dinner, or sitting (together),  whether alone or in the presence (of friends), — for  all that, O undegraded one ! I ask pardon of you  who are indefinable ^ You are the father of the  world — movable and immovable — you its great  and venerable master ; there is none equal to you,  whence can there be one greater, O you whose  power is unparalleled in all the three worlds ?  Therefor® I bow and prostrate myself, and would  propitiate you, the praiseworthy lord. Be pleased,\n\nO god ! to pardon (my guilt) as a father (that of  his) son, a friend (that of his) friend, or a husband  (that of his) beloved. I am delighted at seeing  what I had never seen before, and my heart is also  alarmed by fear. Show me that same form, O god !  Be gracious, O lord of gods ! O you pervading the  universe ! I wish to see you bearing the coronet  and the mace, with the discus in hand, just the same  (as before) ^ O you of thousand arms ! O you of  all forms ! assume that same four-handed form.",
+   "arnold_span": "D42",
+   "arnold_shared": false,
+   "align_notes": "Split across T20-tail/T21-head.",
+   "meaning_simple": "So I bow, prostrate, begging grace. Bear with me as a father his son, a friend his friend, a lover his beloved.",
+   "takeaway": "Three mercies invoked for one pardon.",
+   "provenance": [
+    "sa:11:44",
+    "telang:T20+T21-head",
+    "arnold:D42"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:45",
+   "devanagari": "अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा\nभयेन च प्रव्यथितं मनो मे ।\nतदेव मे दर्शय देव रूपं\nप्रसीद देवेश जगन्निवास",
+   "iast": "adṛṣṭapūrvaṃ hṛṣito'smi dṛṣṭvā\nbhayena ca pravyathitaṃ mano me |\ntadeva me darśaya deva rūpaṃ\nprasīda deveśa jagannivāsa",
+   "speaker": null,
+   "telang_context": "O god ! to pardon (my guilt) as a father (that of  his) son, a friend (that of his) friend, or a husband  (that of his) beloved. I am delighted at seeing  what I had never seen before, and my heart is also  alarmed by fear. Show me that same form, O god !  Be gracious, O lord of gods ! O you pervading the  universe ! I wish to see you bearing the coronet  and the mace, with the discus in hand, just the same  (as before) ^ O you of thousand arms ! O you of  all forms ! assume that same four-handed form.",
+   "arnold_span": "D43",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Thrilled to see the never-seen, yet trembling — show me again the familiar form, gracious Lord of gods.",
+   "takeaway": "Joy and fear ask together.",
+   "provenance": [
+    "sa:11:45",
+    "telang:T21",
+    "arnold:D43"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:46",
+   "devanagari": "किरीटिनं गदिनं चक्रहस्त-\nमिच्छामि त्वां द्रष्टुमहं तथैव ।\nतेनैव रूपेण चतुर्भुजेन\nसहस्रबाहो भव विश्वमूर्ते",
+   "iast": "kirīṭinaṃ gadinaṃ cakrahasta-\nmicchāmi tvāṃ draṣṭumahaṃ tathaiva |\ntenaiva rūpeṇa caturbhujena\nsahasrabāho bhava viśvamūrte",
+   "speaker": null,
+   "telang_context": "O god ! to pardon (my guilt) as a father (that of  his) son, a friend (that of his) friend, or a husband  (that of his) beloved. I am delighted at seeing  what I had never seen before, and my heart is also  alarmed by fear. Show me that same form, O god !  Be gracious, O lord of gods ! O you pervading the  universe ! I wish to see you bearing the coronet  and the mace, with the discus in hand, just the same  (as before) ^ O you of thousand arms ! O you of  all forms ! assume that same four-handed form.",
+   "arnold_span": "D44",
+   "arnold_shared": true,
+   "align_notes": "Arnold form-wish closes at D45 ('My Charioteer, in Krishna's kind disguise').",
+   "meaning_simple": "Crown, mace, discus in hand, as before. Thousand-armed one — return to the four-armed form.",
+   "takeaway": "The specific request: shrink the infinite.",
+   "provenance": [
+    "sa:11:46",
+    "telang:T21",
+    "arnold:D44-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:47",
+   "devanagari": "श्रीभगवानुवाच\nमया प्रसन्नेन तवार्जुनेदं\nरूपं परं दर्शितमात्मयोगात् ।\nतेजोमयं विश्वमनन्तमाद्यं\nयन्मे त्वदन्येन न दृष्टपूर्वम्",
+   "iast": "śrībhagavānuvāca\nmayā prasannena tavārjunedaṃ\nrūpaṃ paraṃ darśitamātmayogāt |\ntejomayaṃ viśvamanantamādyaṃ\nyanme tvadanyena na dṛṣṭapūrvam",
+   "speaker": null,
+   "telang_context": "The Deity said :\n\nO Ar^na ! being pleased (with you), I have by  my own mystic power shown you this supreme form,  full of glory, universal, infinite, primeval, and which  has not been seen before by any one else but you,  O you hero among the Kauravas ! I cannot be seen  in this form by any one but you, (even) by (the help  of) the study of the Vedas, or of** sacrifices, nor by  gifts, nor by actions, nor by fierce penances. Be not  alarmed, be not perplexed, at seeing this form of  mine, fearful like this. Free from fear and with  delighted heart, see now again that same form of  mine.",
+   "arnold_span": "D46",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Krishna said: out of love I showed this supreme, infinite, primal form — seen by you alone, Arjuna.",
+   "takeaway": "Grace, not achievement, explains the vision.",
+   "provenance": [
+    "sa:11:47",
+    "telang:T22+T23-head",
+    "arnold:D46-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:48",
+   "devanagari": "न वेदयज्ञाध्ययनैर्न दानै-\nर्न च क्रियाभिर्न तपोभिरुग्रैः ।\nएवंरूपः शक्य अहं नृलोके\nद्रष्टुं त्वदन्येन कुरुप्रवीर",
+   "iast": "na vedayajñādhyayanairna dānai-\nrna ca kriyābhirna tapobhirugraiḥ |\nevaṃrūpaḥ śakya ahaṃ nṛloke\ndraṣṭuṃ tvadanyena kurupravīra",
+   "speaker": null,
+   "telang_context": "O Ar^na ! being pleased (with you), I have by  my own mystic power shown you this supreme form,  full of glory, universal, infinite, primeval, and which  has not been seen before by any one else but you,  O you hero among the Kauravas ! I cannot be seen  in this form by any one but you, (even) by (the help  of) the study of the Vedas, or of** sacrifices, nor by  gifts, nor by actions, nor by fierce penances. Be not  alarmed, be not perplexed, at seeing this form of  mine, fearful like this. Free from fear and with  delighted heart, see now again that same form of  mine.",
+   "arnold_span": "D46",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "No scripture, sacrifice, gift, rite, or fierce discipline can show this form. None but you has seen it.",
+   "takeaway": "The vision is unearnable. Twice stated.",
+   "provenance": [
+    "sa:11:48",
+    "telang:T23",
+    "arnold:D46-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:49",
+   "devanagari": "मा ते व्यथा मा च विमूढभावो\nदृष्ट्वा रूपं घोरमीदृङ्ममेदम् ।\nव्यपेतभीः प्रीतमनाः पुनस्त्वं\nतदेव मे रूपमिदं प्रपश्य",
+   "iast": "mā te vyathā mā ca vimūḍhabhāvo\ndṛṣṭvā rūpaṃ ghoramīdṛṅmamedam |\nvyapetabhīḥ prītamanāḥ punastvaṃ\ntadeva me rūpamidaṃ prapaśya",
+   "speaker": null,
+   "telang_context": "O Ar^na ! being pleased (with you), I have by  my own mystic power shown you this supreme form,  full of glory, universal, infinite, primeval, and which  has not been seen before by any one else but you,  O you hero among the Kauravas ! I cannot be seen  in this form by any one but you, (even) by (the help  of) the study of the Vedas, or of** sacrifices, nor by  gifts, nor by actions, nor by fierce penances. Be not  alarmed, be not perplexed, at seeing this form of  mine, fearful like this. Free from fear and with  delighted heart, see now again that same form of  mine.",
+   "arnold_span": "D46",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Do not fear this terrible form of Mine. Glad-hearted, fearless — see again My familiar shape.",
+   "takeaway": "Comfort before the withdrawal.",
+   "provenance": [
+    "sa:11:49",
+    "telang:T23",
+    "arnold:D46-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:50",
+   "devanagari": "इत्यर्जुनं वासुदेवस्तथोक्त्वा\nस्वकं रूपं दर्शयामास भूयः ।\nआश्वासयामास च भीतमेनं\nभूत्वा पुनः सौम्यवपुर्महात्मा",
+   "iast": "ityarjunaṃ vāsudevastathoktvā\nsvakaṃ rūpaṃ darśayāmāsa bhūyaḥ |\nāśvāsayāmāsa ca bhītamenaṃ\nbhūtvā punaḥ saumyavapurmahātmā",
+   "speaker": "सञ्जय",
+   "telang_context": "Sa«faya said :\n\nHaving thus spoken to Ar^una, V^sudeva again  showed his own form, and the high-souled one  becoming again of a mild form, comforted him who  had been affrighted.",
+   "arnold_span": "D47",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Sanjaya said: so speaking, Krishna resumed His own gentle form and comforted the frightened prince.",
+   "takeaway": "The cosmos folds back into the charioteer.",
+   "provenance": [
+    "sa:11:50",
+    "telang:T24+T25",
+    "arnold:D47"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:51",
+   "devanagari": "दृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन ।\nइदानीमस्मि संवृत्तः सचेताः प्रकृतिं गतः",
+   "iast": "dṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana |\nidānīmasmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ",
+   "speaker": "अर्जुन",
+   "telang_context": "Ar/tina said :\n\nO (9anardana ! seeing this mild, human form of  yours, I am now in my right mind, and have come  to my normal state.",
+   "arnold_span": "D48",
+   "arnold_shared": false,
+   "align_notes": "T27 truncated ('my right'); raw: 'mind, and have come to my normal state.'",
+   "meaning_simple": "Arjuna said: seeing again this gentle human form, my mind steadies and returns to normal.",
+   "takeaway": "Recovery, reported simply.",
+   "provenance": [
+    "sa:11:51",
+    "telang:T26+T27",
+    "arnold:D48"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:52",
+   "devanagari": "श्रीभगवानुवाच\nसुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम ।\nदेवा अप्यस्य रूपस्य नित्यं दर्शनकाङ्क्षिणः",
+   "iast": "śrībhagavānuvāca\nsudurdarśamidaṃ rūpaṃ dṛṣṭavānasi yanmama |\ndevā apyasya rūpasya nityaṃ darśanakāṅkṣiṇaḥ",
+   "speaker": null,
+   "telang_context": "The Deity said :\n\nEven the gods are always desiring to see this  form of mine, which it is difficult to get a sight  of, and which you have seen. I cannot be seen, as  you have seen me, by (means of) the Vedas, not by  penance, not by gift, nor yet by sacrifice. But, O  Ar^na ! by devotion to me exclusively, I can in  this form be truly known, seen, and assimilated *  with, O terror of your foes! He who performs acts  for (propitiating) me, to whom I am the highest  (object), who is my devotee, who is free from attachment, and who has no enmity towards any being, he.  O son of V&Hi^u ! comes to me.",
+   "arnold_span": "D49",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Krishna said: even gods forever long to see this form you have seen. It is hard won.",
+   "takeaway": "The vision envied by heaven itself.",
+   "provenance": [
+    "sa:11:52",
+    "telang:T28+T29-head",
+    "arnold:D49-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:53",
+   "devanagari": "नाहं वेदैर्न तपसा न दानेन न चेज्यया ।\nशक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा",
+   "iast": "nāhaṃ vedairna tapasā na dānena na cejyayā |\nśakya evaṃvidho draṣṭuṃ dṛṣṭavānasi māṃ yathā",
+   "speaker": null,
+   "telang_context": "Even the gods are always desiring to see this  form of mine, which it is difficult to get a sight  of, and which you have seen. I cannot be seen, as  you have seen me, by (means of) the Vedas, not by  penance, not by gift, nor yet by sacrifice. But, O  Ar^na ! by devotion to me exclusively, I can in  this form be truly known, seen, and assimilated *  with, O terror of your foes! He who performs acts  for (propitiating) me, to whom I am the highest  (object), who is my devotee, who is free from attachment, and who has no enmity towards any being, he.  O son of V&Hi^u ! comes to me.",
+   "arnold_span": "D49",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Not by scriptures, penance, gifts, or rites can I be seen as you have seen Me.",
+   "takeaway": "Unearnable — third stating, for emphasis kept.",
+   "provenance": [
+    "sa:11:53",
+    "telang:T29",
+    "arnold:D49-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:54",
+   "devanagari": "भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन ।\nज्ञातुं द्रष्टुं च तत्त्वेन प्रवेष्टुं च परंतप",
+   "iast": "bhaktyā tvananyayā śakya ahamevaṃvidho'rjuna |\njñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca paraṃtapa",
+   "speaker": null,
+   "telang_context": "Even the gods are always desiring to see this  form of mine, which it is difficult to get a sight  of, and which you have seen. I cannot be seen, as  you have seen me, by (means of) the Vedas, not by  penance, not by gift, nor yet by sacrifice. But, O  Ar^na ! by devotion to me exclusively, I can in  this form be truly known, seen, and assimilated *  with, O terror of your foes! He who performs acts  for (propitiating) me, to whom I am the highest  (object), who is my devotee, who is free from attachment, and who has no enmity towards any being, he.  O son of V&Hi^u ! comes to me.",
+   "arnold_span": "D49",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "But by single-pointed devotion I can be known, seen, and entered truly.",
+   "takeaway": "The one key: undivided love.",
+   "provenance": [
+    "sa:11:54",
+    "telang:T29",
+    "arnold:D49-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "11:55",
+   "devanagari": "मत्कर्मकृन्मत्परमो मद्भक्तः सङ्गवर्जितः ।\nनिर्वैरः सर्वभूतेषु यः स मामेति पाण्डव",
+   "iast": "matkarmakṛnmatparamo madbhaktaḥ saṅgavarjitaḥ |\nnirvairaḥ sarvabhūteṣu yaḥ sa māmeti pāṇḍava",
+   "speaker": null,
+   "telang_context": "Even the gods are always desiring to see this  form of mine, which it is difficult to get a sight  of, and which you have seen. I cannot be seen, as  you have seen me, by (means of) the Vedas, not by  penance, not by gift, nor yet by sacrifice. But, O  Ar^na ! by devotion to me exclusively, I can in  this form be truly known, seen, and assimilated *  with, O terror of your foes! He who performs acts  for (propitiating) me, to whom I am the highest  (object), who is my devotee, who is free from attachment, and who has no enmity towards any being, he.  O son of V&Hi^u ! comes to me.",
+   "arnold_span": "D49",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Who works for Me, holds Me highest, loves Me, drops attachments, hates no being — such a one reaches Me.",
+   "takeaway": "The chapter's whole teaching in one verse.",
+   "provenance": [
+    "sa:11:55",
+    "telang:T29",
+    "arnold:D49-shared"
+   ],
+   "status": "approved"
+  }
+ ]
+}
