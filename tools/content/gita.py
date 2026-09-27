@@ -296,7 +296,7 @@ def _is_running_head(p: str) -> bool:
 
 def _looks_footnote(p: str) -> bool:
     s = p.strip()
-    if re.match(r"^['®^•\*\-–\d\u2018\u2019\u201c\u201d\u201f\"\[]", s):
+    if re.match(r"^['®^•\*\-–\d\u2018\u2019\u201c\u201d\u201f\"\[\u25a0]", s):
         return True
     if len(s) < 150 and re.search(r",?\s+p{1,2}\.\s*\d", s):
         return True  # citation fragment ("Katha Upanishad, p. 114")
