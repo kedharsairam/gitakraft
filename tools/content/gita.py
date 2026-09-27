@@ -692,6 +692,88 @@ CREATE TABLE IF NOT EXISTS chapters(
 """
 
 
+def cmd_export_app(args) -> int:
+    """Export the frozen app content bundle (deterministic JSON).
+
+    Gates: every chapter's draft must exist with ALL records approved and
+    non-empty meaning+takeaway, and Sanskrit verse counts must match the
+    vulgate registry. Any failure -> loud refusal, no file written.
+    The bundle is the app's content source of truth: byte-stable key
+    order and indent so regenerations diff cleanly in git.
+    """
+    from chapters import DISPLAY_TITLES
+    from datetime import date
+    chapters = [args.chapter] if args.chapter else sorted(CHAPTERS)
+    bundle_chapters = []
+    bundle_verses = []
+    failures = 0
+    for ch in chapters:
+        subpage, expected, _ = CHAPTERS[ch]
+        sapath = WORK / f"ch{ch:02d}.json"
+        drpath = WORK / f"draft_ch{ch:02d}.json"
+        if not sapath.exists() or not drpath.exists():
+            print(f"export_app: ch{ch:02d} missing ch/draft file")
+            failures += 1
+            continue
+        sav = json.loads(sapath.read_text(encoding="utf-8"))["verses"]
+        drr = json.loads(drpath.read_text(encoding="utf-8"))["records"]
+        if len(sav) != expected or len(drr) != expected:
+            print(f"export_app: ch{ch:02d} count mismatch "
+                  f"(sa={len(sav)} draft={len(drr)} want={expected})")
+            failures += 1
+            continue
+        drm = {r["id"]: r for r in drr}
+        for i, v in enumerate(sav, start=1):
+            vid = f"{ch}:{i}"
+            r = drm.get(vid)
+            if r is None or r.get("status") != "approved" \
+                    or not r.get("meaning_simple", "").strip() \
+                    or not r.get("takeaway", "").strip():
+                print(f"export_app: {vid} not approved/complete")
+                failures += 1
+                continue
+            bundle_verses.append({
+                "id": vid, "ch": ch, "n": i,
+                "speaker": v.get("speaker"),
+                "devanagari": v["devanagari"],
+                "iast": v.get("iast", ""),
+                "meaning": r["meaning_simple"],
+                "takeaway": r["takeaway"],
+            })
+        bundle_chapters.append({
+            "n": ch, "name": subpage,
+            "title": DISPLAY_TITLES[ch], "verses": expected,
+        })
+    if failures:
+        print(f"export_app: REFUSED ({failures} failures), no file written")
+        return 1
+    feelings = []
+    fpath = ROOT / "data" / "content" / "feelings.json"
+    if fpath.exists():
+        all_ids = {v["id"] for v in bundle_verses}
+        for f in json.loads(fpath.read_text(encoding="utf-8"))["feelings"]:
+            bad = [vid for vid in f["verses"] if vid not in all_ids]
+            if bad:
+                print(f"export_app: feeling {f['name']!r} bad refs: {bad}")
+                failures += 1
+                continue
+            feelings.append(f)
+    if failures:
+        print(f"export_app: REFUSED ({failures} failures), no file written")
+        return 1
+    bundle = {"bundle": 1, "generated": date.today().isoformat(),
+              "chapters": bundle_chapters, "verses": bundle_verses,
+              "feelings": feelings}
+    out = Path(args.out or (ROOT / "app" / "src" / "main"
+                            / "assets" / "gita-bundle.json"))
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(bundle, ensure_ascii=False, indent=1)
+                   + "\n", encoding="utf-8")
+    print(f"export_app: {len(bundle_verses)} verses, "
+          f"{len(bundle_chapters)} chapters -> {out}")
+    return 0
+
+
 def cmd_export(args) -> int:
     out = Path(args.out or (ROOT / "app" / "src" / "main" / "assets" / "gita.db"))
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -778,16 +860,16 @@ def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="gita", description="GitaKraft content pipeline")
     sub = ap.add_subparsers(dest="cmd", required=True)
     for name in ("fetch", "normalize", "transliterate", "validate", "export",
-                 "fetch_en", "norm_en", "anchor_en", "triptych", "check_align",
+                 "export_app", "fetch_en", "norm_en", "anchor_en", "triptych", "check_align",
                  "draft", "check_draft"):
         p = sub.add_parser(name)
         p.add_argument("--chapter", type=int, default=None)
-        if name == "export":
+        if name in ("export", "export_app"):
             p.add_argument("--out", default=None)
     args = ap.parse_args(argv)
     return {"fetch": cmd_fetch, "normalize": cmd_normalize,
             "transliterate": cmd_transliterate, "validate": cmd_validate,
-            "export": cmd_export, "fetch_en": cmd_fetch_en,
+            "export": cmd_export, "export_app": cmd_export_app, "fetch_en": cmd_fetch_en,
             "norm_en": cmd_norm_en, "anchor_en": cmd_anchor_en,
             "triptych": cmd_triptych, "check_align": cmd_check_align,
             "draft": cmd_draft, "check_draft": cmd_check_draft}[args.cmd](args)

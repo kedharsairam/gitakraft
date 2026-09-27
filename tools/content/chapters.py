@@ -30,6 +30,30 @@ CHAPTERS = {
 
 EXPECTED_TOTAL = 700
 
+# Plain-English display titles for the app library (approved by Kedhar
+# 2026-09-27; he drafts nothing, vetoes only). Traditional names stay in
+# CHAPTERS above; these are what readers see.
+DISPLAY_TITLES = {
+    1: "Arjuna's Despair",
+    2: "Wisdom of the Soul",
+    3: "Selfless Action",
+    4: "Wisdom in Action",
+    5: "The Art of Letting Go",
+    6: "The Disciplined Mind",
+    7: "Knowing the Whole",
+    8: "Death and Beyond",
+    9: "The Kingly Secret",
+    10: "Everywhere the Divine",
+    11: "The Universe in One",
+    12: "Love Is the Way",
+    13: "The Field and the Witness",
+    14: "Three Moods of Nature",
+    15: "Roots Above",
+    16: "Two Natures",
+    17: "Faith, Food, and Ritual",
+    18: "Freedom and Surrender",
+}
+
 WIKISOURCE_API = "https://sa.wikisource.org/w/api.php"
 EN_WIKISOURCE_API = "https://en.wikisource.org/w/api.php"
 TELANG_INDEX = "Sacred Books of the East - Volume VIII.djvu"

@@ -1,0 +1,136 @@
+{
+ "feelings": [
+  {
+   "line": "For when someone is gone.",
+   "name": "Grieving",
+   "verses": [
+    "2:11",
+    "2:13",
+    "2:20",
+    "2:22",
+    "2:27"
+   ]
+  },
+  {
+   "line": "For when the heart pounds.",
+   "name": "Afraid",
+   "verses": [
+    "2:40",
+    "6:35",
+    "11:49",
+    "16:1",
+    "18:66"
+   ]
+  },
+  {
+   "line": "For when anger burns.",
+   "name": "Angry",
+   "verses": [
+    "2:56",
+    "2:62",
+    "2:63",
+    "5:23",
+    "16:21"
+   ]
+  },
+  {
+   "line": "For when nothing is clear.",
+   "name": "Confused",
+   "verses": [
+    "2:7",
+    "3:2",
+    "4:42",
+    "10:11",
+    "18:63"
+   ]
+  },
+  {
+   "line": "For when faith wavers.",
+   "name": "Doubtful",
+   "verses": [
+    "4:40",
+    "6:40",
+    "9:3",
+    "12:2",
+    "17:3"
+   ]
+  },
+  {
+   "line": "For when the mind will not sit still.",
+   "name": "Restless",
+   "verses": [
+    "6:26",
+    "6:33",
+    "6:34",
+    "6:35",
+    "12:9"
+   ]
+  },
+  {
+   "line": "For when you have fallen short.",
+   "name": "Failing",
+   "verses": [
+    "2:40",
+    "6:40",
+    "9:30",
+    "12:11",
+    "18:66"
+   ]
+  },
+  {
+   "line": "For when the past accuses.",
+   "name": "Guilty",
+   "verses": [
+    "4:36",
+    "4:37",
+    "9:30",
+    "10:3",
+    "18:66"
+   ]
+  },
+  {
+   "line": "For when others seem ahead.",
+   "name": "Envious",
+   "verses": [
+    "3:35",
+    "6:9",
+    "12:13",
+    "12:18",
+    "18:47"
+   ]
+  },
+  {
+   "line": "For when two roads pull.",
+   "name": "Indecisive",
+   "verses": [
+    "2:31",
+    "3:35",
+    "8:7",
+    "18:63",
+    "18:64"
+   ]
+  },
+  {
+   "line": "For when effort runs dry.",
+   "name": "Weary",
+   "verses": [
+    "6:15",
+    "6:16",
+    "6:17",
+    "9:22",
+    "9:34"
+   ]
+  },
+  {
+   "line": "For when you ask what it is all for.",
+   "name": "Seeking Purpose",
+   "verses": [
+    "2:47",
+    "3:8",
+    "3:19",
+    "18:45",
+    "18:46"
+   ]
+  }
+ ]
+}
