@@ -5,6 +5,7 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
@@ -115,7 +116,10 @@ fun SearchScreen(vm: SearchViewModel, onVerse: (String) -> Unit) {
                     )
                 }
             } else {
-                LazyColumn(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+                LazyColumn(
+                    contentPadding = PaddingValues(bottom = 24.dp),
+                    verticalArrangement = Arrangement.spacedBy(4.dp),
+                ) {
                     items(results, key = { it.id }) { v ->
                         VerseSearchRow(verse = v, onOpen = { onVerse(v.id) })
                     }
@@ -173,6 +177,7 @@ fun BookmarksScreen(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
+            contentPadding = PaddingValues(bottom = 24.dp),
             verticalArrangement = Arrangement.spacedBy(4.dp),
         ) {
             items(marks, key = { it.id }) { v ->
