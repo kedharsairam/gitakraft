@@ -102,7 +102,10 @@ fun HomeScreen(
             verticalArrangement = Arrangement.spacedBy(16.dp),
         ) {
             item {
-                Column(modifier = Modifier.padding(horizontal = 16.dp)) {
+                Column(
+                    modifier = Modifier.padding(horizontal = 16.dp)
+                        .padding(top = 12.dp),
+                ) {
                     Text(
                         text = LocalDate.now().format(
                             java.time.format.DateTimeFormatter
@@ -196,7 +199,7 @@ fun HomeScreen(
                         modifier = Modifier.padding(horizontal = 12.dp)
                             .padding(top = 8.dp),
                         horizontalArrangement = Arrangement.spacedBy(8.dp),
-                        verticalArrangement = Arrangement.spacedBy(8.dp),
+                        verticalArrangement = Arrangement.spacedBy(4.dp),
                     ) {
                         for (f in feelings) {
                             FilterChip(
