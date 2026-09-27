@@ -1,0 +1,720 @@
+{
+ "chapter": 2,
+ "sanskrit": [
+  {
+   "id": "2:1",
+   "speaker": "सञ्जय",
+   "devanagari": "तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् ।\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः",
+   "iast": "taṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam |\nviṣīdantamidaṃ vākyamuvāca madhusūdanaḥ"
+  },
+  {
+   "id": "2:2",
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच\nकुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् ।\nअनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन",
+   "iast": "śrībhagavānuvāca\nkutastvā kaśmalamidaṃ viṣame samupasthitam |\nanāryajuṣṭamasvargyamakīrtikaramarjuna"
+  },
+  {
+   "id": "2:3",
+   "speaker": null,
+   "devanagari": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते ।\nक्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप",
+   "iast": "klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate |\nkṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa"
+  },
+  {
+   "id": "2:4",
+   "speaker": "अर्जुन",
+   "devanagari": "कथं भीष्ममहं संख्ये द्रोणं च मधुसूदन ।\nइषुभिः प्रति योत्स्यामि पूजार्हावरिसूदन",
+   "iast": "kathaṃ bhīṣmamahaṃ saṃkhye droṇaṃ ca madhusūdana |\niṣubhiḥ prati yotsyāmi pūjārhāvarisūdana"
+  },
+  {
+   "id": "2:5",
+   "speaker": null,
+   "devanagari": "गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके ।\nहत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान्",
+   "iast": "gurūnahatvā hi mahānubhāvān śreyo bhoktuṃ bhaikṣyamapīha loke |\nhatvārthakāmāṃstu gurūnihaiva bhuñjīya bhogān rudhirapradigdhān"
+  },
+  {
+   "id": "2:6",
+   "speaker": null,
+   "devanagari": "न चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः ।\nयानेव हत्वा न जिजीविषाम- स्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः",
+   "iast": "na caitadvidmaḥ kataranno garīyo yadvā jayema yadi vā no jayeyuḥ |\nyāneva hatvā na jijīviṣāma- ste'vasthitāḥ pramukhe dhārtarāṣṭrāḥ"
+  },
+  {
+   "id": "2:7",
+   "speaker": null,
+   "devanagari": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः ।\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्",
+   "iast": "kārpaṇyadoṣopahatasvabhāvaḥ pṛcchāmi tvāṃ dharmasammūḍhacetāḥ |\nyacchreyaḥ syānniścitaṃ brūhi tanme śiṣyaste'haṃ śādhi māṃ tvāṃ prapannam"
+  },
+  {
+   "id": "2:8",
+   "speaker": null,
+   "devanagari": "न हि प्रपश्यामि ममापनुद्याद् यच्छोकमुच्छोषणमिन्द्रियाणाम् ।\nअवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम्",
+   "iast": "na hi prapaśyāmi mamāpanudyād yacchokamucchoṣaṇamindriyāṇām |\navāpya bhūmāvasapatnamṛddhaṃ rājyaṃ surāṇāmapi cādhipatyam"
+  },
+  {
+   "id": "2:9",
+   "speaker": "सञ्जय",
+   "devanagari": "एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप ।\nन योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह",
+   "iast": "evamuktvā hṛṣīkeśaṃ guḍākeśaḥ parantapa |\nna yotsya iti govindamuktvā tūṣṇīṃ babhūva ha"
+  },
+  {
+   "id": "2:10",
+   "speaker": null,
+   "devanagari": "तमुवाच हृषीकेशः प्रहसन्निव भारत ।\nसेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः",
+   "iast": "tamuvāca hṛṣīkeśaḥ prahasanniva bhārata |\nsenayorubhayormadhye viṣīdantamidaṃ vacaḥ"
+  },
+  {
+   "id": "2:11",
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच\nअशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे ।\nगतासूनगतासूंश्च नानुशोचन्ति पण्डिताः",
+   "iast": "śrībhagavānuvāca\naśocyānanvaśocastvaṃ prajñāvādāṃśca bhāṣase |\ngatāsūnagatāsūṃśca nānuśocanti paṇḍitāḥ"
+  },
+  {
+   "id": "2:12",
+   "speaker": null,
+   "devanagari": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः ।\nन चैव न भविष्यामः सर्वे वयमतः परम्",
+   "iast": "na tvevāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ |\nna caiva na bhaviṣyāmaḥ sarve vayamataḥ param"
+  },
+  {
+   "id": "2:13",
+   "speaker": null,
+   "devanagari": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति",
+   "iast": "dehino'sminyathā dehe kaumāraṃ yauvanaṃ jarā |\ntathā dehāntaraprāptirdhīrastatra na muhyati"
+  },
+  {
+   "id": "2:14",
+   "speaker": null,
+   "devanagari": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः ।\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत",
+   "iast": "mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ |\nāgamāpāyino'nityāstāṃstitikṣasva bhārata"
+  },
+  {
+   "id": "2:15",
+   "speaker": null,
+   "devanagari": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ ।\nसमदुःखसुखं धीरं सोऽमृतत्वाय कल्पते",
+   "iast": "yaṃ hi na vyathayantyete puruṣaṃ puruṣarṣabha |\nsamaduḥkhasukhaṃ dhīraṃ so'mṛtatvāya kalpate"
+  },
+  {
+   "id": "2:16",
+   "speaker": null,
+   "devanagari": "नासतो विद्यते भावो नाभावो विद्यते सतः ।\nउभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः",
+   "iast": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ |\nubhayorapi dṛṣṭo'ntastvanayostattvadarśibhiḥ"
+  },
+  {
+   "id": "2:17",
+   "speaker": null,
+   "devanagari": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् ।\nविनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति",
+   "iast": "avināśi tu tadviddhi yena sarvamidaṃ tatam |\nvināśamavyayasyāsya na kaścitkartumarhati"
+  },
+  {
+   "id": "2:18",
+   "speaker": null,
+   "devanagari": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः ।\nअनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत",
+   "iast": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ |\nanāśino'prameyasya tasmādyudhyasva bhārata"
+  },
+  {
+   "id": "2:19",
+   "speaker": null,
+   "devanagari": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् ।\nउभौ तौ न विजानीतो नायं हन्ति न हन्यते",
+   "iast": "ya enaṃ vetti hantāraṃ yaścainaṃ manyate hatam |\nubhau tau na vijānīto nāyaṃ hanti na hanyate"
+  },
+  {
+   "id": "2:20",
+   "speaker": null,
+   "devanagari": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः ।\nअजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे",
+   "iast": "na jāyate mriyate vā kadācinnāyaṃ bhūtvā bhavitā vā na bhūyaḥ |\najo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre"
+  },
+  {
+   "id": "2:21",
+   "speaker": null,
+   "devanagari": "वेदाविनाशिनं नित्यं य एनमजमव्ययम् ।\nकथं स पुरुषः पार्थ कं घातयति हन्ति कम्",
+   "iast": "vedāvināśinaṃ nityaṃ ya enamajamavyayam |\nkathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam"
+  },
+  {
+   "id": "2:22",
+   "speaker": null,
+   "devanagari": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि ।\nतथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही",
+   "iast": "vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro'parāṇi |\ntathā śarīrāṇi vihāya jīrṇānyanyāni saṃyāti navāni dehī"
+  },
+  {
+   "id": "2:23",
+   "speaker": null,
+   "devanagari": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः",
+   "iast": "nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ |\nna cainaṃ kledayantyāpo na śoṣayati mārutaḥ"
+  },
+  {
+   "id": "2:24",
+   "speaker": null,
+   "devanagari": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च ।\nनित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः",
+   "iast": "acchedyo'yamadāhyo'yamakledyo'śoṣya eva ca |\nnityaḥ sarvagataḥ sthāṇuracalo'yaṃ sanātanaḥ"
+  },
+  {
+   "id": "2:25",
+   "speaker": null,
+   "devanagari": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते ।\nतस्मादेवं विदित्वैनं नानुशोचितुमर्हसि",
+   "iast": "avyakto'yamacintyo'yamavikāryo'yamucyate |\ntasmādevaṃ viditvainaṃ nānuśocitumarhasi"
+  },
+  {
+   "id": "2:26",
+   "speaker": null,
+   "devanagari": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।\nतथापि त्वं महाबाहो नैवं शोचितुमर्हसि",
+   "iast": "atha cainaṃ nityajātaṃ nityaṃ vā manyase mṛtam |\ntathāpi tvaṃ mahābāho naivaṃ śocitumarhasi"
+  },
+  {
+   "id": "2:27",
+   "speaker": null,
+   "devanagari": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च ।\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि",
+   "iast": "jātasya hi dhruvo mṛtyurdhruvaṃ janma mṛtasya ca |\ntasmādaparihārye'rthe na tvaṃ śocitumarhasi"
+  },
+  {
+   "id": "2:28",
+   "speaker": null,
+   "devanagari": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत ।\nअव्यक्तनिधनान्येव तत्र का परिदेवना",
+   "iast": "avyaktādīni bhūtāni vyaktamadhyāni bhārata |\navyaktanidhanānyeva tatra kā paridevanā"
+  },
+  {
+   "id": "2:29",
+   "speaker": null,
+   "devanagari": "आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्यः ।\nआश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाप्येनं वेद न चैव कश्चित्",
+   "iast": "āścaryavatpaśyati kaścidenamāścaryavadvadati tathaiva cānyaḥ |\nāścaryavaccainamanyaḥ śṛṇoti śrutvāpyenaṃ veda na caiva kaścit"
+  },
+  {
+   "id": "2:30",
+   "speaker": null,
+   "devanagari": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत ।\nतस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि",
+   "iast": "dehī nityamavadhyo'yaṃ dehe sarvasya bhārata |\ntasmātsarvāṇi bhūtāni na tvaṃ śocitumarhasi"
+  },
+  {
+   "id": "2:31",
+   "speaker": null,
+   "devanagari": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि ।\nधर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते",
+   "iast": "svadharmamapi cāvekṣya na vikampitumarhasi |\ndharmyāddhi yuddhācchreyo'nyatkṣatriyasya na vidyate"
+  },
+  {
+   "id": "2:32",
+   "speaker": null,
+   "devanagari": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् ।\nसुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्",
+   "iast": "yadṛcchayā copapannaṃ svargadvāramapāvṛtam |\nsukhinaḥ kṣatriyāḥ pārtha labhante yuddhamīdṛśam"
+  },
+  {
+   "id": "2:33",
+   "speaker": null,
+   "devanagari": "अथ चेत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि ।\nततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि",
+   "iast": "atha cettvamimaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi |\ntataḥ svadharmaṃ kīrtiṃ ca hitvā pāpamavāpsyasi"
+  },
+  {
+   "id": "2:34",
+   "speaker": null,
+   "devanagari": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् ।\nसम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते",
+   "iast": "akīrtiṃ cāpi bhūtāni kathayiṣyanti te'vyayām |\nsambhāvitasya cākīrtirmaraṇādatiricyate"
+  },
+  {
+   "id": "2:35",
+   "speaker": null,
+   "devanagari": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः ।\nयेषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम्",
+   "iast": "bhayādraṇāduparataṃ maṃsyante tvāṃ mahārathāḥ |\nyeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam"
+  },
+  {
+   "id": "2:36",
+   "speaker": null,
+   "devanagari": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः ।\nनिन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम्",
+   "iast": "avācyavādāṃśca bahūnvadiṣyanti tavāhitāḥ |\nnindantastava sāmarthyaṃ tato duḥkhataraṃ nu kim"
+  },
+  {
+   "id": "2:37",
+   "speaker": null,
+   "devanagari": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् ।\nतस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः",
+   "iast": "hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm |\ntasmāduttiṣṭha kaunteya yuddhāya kṛtaniścayaḥ"
+  },
+  {
+   "id": "2:38",
+   "speaker": null,
+   "devanagari": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ ।\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि",
+   "iast": "sukhaduḥkhe same kṛtvā lābhālābhau jayājayau |\ntato yuddhāya yujyasva naivaṃ pāpamavāpsyasi"
+  },
+  {
+   "id": "2:39",
+   "speaker": null,
+   "devanagari": "एषा तेऽभिहिता सांख्ये बुद्धिर्योगे त्विमां शृणु ।\nबुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि",
+   "iast": "eṣā te'bhihitā sāṃkhye buddhiryoge tvimāṃ śṛṇu |\nbuddhyā yukto yayā pārtha karmabandhaṃ prahāsyasi"
+  },
+  {
+   "id": "2:40",
+   "speaker": null,
+   "devanagari": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते ।\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्",
+   "iast": "nehābhikramanāśo'sti pratyavāyo na vidyate |\nsvalpamapyasya dharmasya trāyate mahato bhayāt"
+  },
+  {
+   "id": "2:41",
+   "speaker": null,
+   "devanagari": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन ।\nबहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम्",
+   "iast": "vyavasāyātmikā buddhirekeha kurunandana |\nbahuśākhā hyanantāśca buddhayo'vyavasāyinām"
+  },
+  {
+   "id": "2:42",
+   "speaker": null,
+   "devanagari": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः ।\nवेदवादरताः पार्थ नान्यदस्तीति वादिनः",
+   "iast": "yāmimāṃ puṣpitāṃ vācaṃ pravadantyavipaścitaḥ |\nvedavādaratāḥ pārtha nānyadastīti vādinaḥ"
+  },
+  {
+   "id": "2:43",
+   "speaker": null,
+   "devanagari": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् ।\nक्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति",
+   "iast": "kāmātmānaḥ svargaparā janmakarmaphalapradām |\nkriyāviśeṣabahulāṃ bhogaiśvaryagatiṃ prati"
+  },
+  {
+   "id": "2:44",
+   "speaker": null,
+   "devanagari": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् ।\nव्यवसायात्मिका बुद्धिः समाधौ न विधीयते",
+   "iast": "bhogaiśvaryaprasaktānāṃ tayāpahṛtacetasām |\nvyavasāyātmikā buddhiḥ samādhau na vidhīyate"
+  },
+  {
+   "id": "2:45",
+   "speaker": null,
+   "devanagari": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन ।\nनिर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान्",
+   "iast": "traiguṇyaviṣayā vedā nistraiguṇyo bhavārjuna |\nnirdvandvo nityasattvastho niryogakṣema ātmavān"
+  },
+  {
+   "id": "2:46",
+   "speaker": null,
+   "devanagari": "यावानर्थ उदपाने सर्वतः संप्लुतोदके ।\nतावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः",
+   "iast": "yāvānartha udapāne sarvataḥ saṃplutodake |\ntāvānsarveṣu vedeṣu brāhmaṇasya vijānataḥ"
+  },
+  {
+   "id": "2:47",
+   "speaker": null,
+   "devanagari": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि",
+   "iast": "karmaṇyevādhikāraste mā phaleṣu kadācana |\nmā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi"
+  },
+  {
+   "id": "2:48",
+   "speaker": null,
+   "devanagari": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनंजय ।\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते",
+   "iast": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanaṃjaya |\nsiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate"
+  },
+  {
+   "id": "2:49",
+   "speaker": null,
+   "devanagari": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनंजय ।\nबुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः",
+   "iast": "dūreṇa hyavaraṃ karma buddhiyogāddhanaṃjaya |\nbuddhau śaraṇamanviccha kṛpaṇāḥ phalahetavaḥ"
+  },
+  {
+   "id": "2:50",
+   "speaker": null,
+   "devanagari": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते ।\nतस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्",
+   "iast": "buddhiyukto jahātīha ubhe sukṛtaduṣkṛte |\ntasmādyogāya yujyasva yogaḥ karmasu kauśalam"
+  },
+  {
+   "id": "2:51",
+   "speaker": null,
+   "devanagari": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः ।\nजन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्",
+   "iast": "karmajaṃ buddhiyuktā hi phalaṃ tyaktvā manīṣiṇaḥ |\njanmabandhavinirmuktāḥ padaṃ gacchantyanāmayam"
+  },
+  {
+   "id": "2:52",
+   "speaker": null,
+   "devanagari": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति ।\nतदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च",
+   "iast": "yadā te mohakalilaṃ buddhirvyatitariṣyati |\ntadā gantāsi nirvedaṃ śrotavyasya śrutasya ca"
+  },
+  {
+   "id": "2:53",
+   "speaker": null,
+   "devanagari": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला ।\nसमाधावचला बुद्धिस्तदा योगमवाप्स्यसि",
+   "iast": "śrutivipratipannā te yadā sthāsyati niścalā |\nsamādhāvacalā buddhistadā yogamavāpsyasi"
+  },
+  {
+   "id": "2:54",
+   "speaker": "अर्जुन",
+   "devanagari": "स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव ।\nस्थितधीः किं प्रभाषेत किमासीत व्रजेत किम्",
+   "iast": "sthitaprajñasya kā bhāṣā samādhisthasya keśava |\nsthitadhīḥ kiṃ prabhāṣeta kimāsīta vrajeta kim"
+  },
+  {
+   "id": "2:55",
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच\nप्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् ।\nआत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते",
+   "iast": "śrībhagavānuvāca\nprajahāti yadā kāmānsarvānpārtha manogatān |\nātmanyevātmanā tuṣṭaḥ sthitaprajñastadocyate"
+  },
+  {
+   "id": "2:56",
+   "speaker": null,
+   "devanagari": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः ।\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते",
+   "iast": "duḥkheṣvanudvignamanāḥ sukheṣu vigataspṛhaḥ |\nvītarāgabhayakrodhaḥ sthitadhīrmunirucyate"
+  },
+  {
+   "id": "2:57",
+   "speaker": null,
+   "devanagari": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् ।\nनाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता",
+   "iast": "yaḥ sarvatrānabhisnehastattatprāpya śubhāśubham |\nnābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā"
+  },
+  {
+   "id": "2:58",
+   "speaker": null,
+   "devanagari": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः ।\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता",
+   "iast": "yadā saṃharate cāyaṃ kūrmo'ṅgānīva sarvaśaḥ |\nindriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā"
+  },
+  {
+   "id": "2:59",
+   "speaker": null,
+   "devanagari": "विषया विनिवर्तन्ते निराहारस्य देहिनः ।\nरसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते",
+   "iast": "viṣayā vinivartante nirāhārasya dehinaḥ |\nrasavarjaṃ raso'pyasya paraṃ dṛṣṭvā nivartate"
+  },
+  {
+   "id": "2:60",
+   "speaker": null,
+   "devanagari": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः ।\nइन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः",
+   "iast": "yatato hyapi kaunteya puruṣasya vipaścitaḥ |\nindriyāṇi pramāthīni haranti prasabhaṃ manaḥ"
+  },
+  {
+   "id": "2:61",
+   "speaker": null,
+   "devanagari": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः ।\nवशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता",
+   "iast": "tāni sarvāṇi saṃyamya yukta āsīta matparaḥ |\nvaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā"
+  },
+  {
+   "id": "2:62",
+   "speaker": null,
+   "devanagari": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।\nसङ्गात्संजायते कामः कामात्क्रोधोऽभिजायते",
+   "iast": "dhyāyato viṣayānpuṃsaḥ saṅgasteṣūpajāyate |\nsaṅgātsaṃjāyate kāmaḥ kāmātkrodho'bhijāyate"
+  },
+  {
+   "id": "2:63",
+   "speaker": null,
+   "devanagari": "क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः ।\nस्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति",
+   "iast": "krodhādbhavati saṃmohaḥ saṃmohātsmṛtivibhramaḥ |\nsmṛtibhraṃśādbuddhināśo buddhināśātpraṇaśyati"
+  },
+  {
+   "id": "2:64",
+   "speaker": null,
+   "devanagari": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् ।\nआत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति",
+   "iast": "rāgadveṣaviyuktaistu viṣayānindriyaiścaran |\nātmavaśyairvidheyātmā prasādamadhigacchati"
+  },
+  {
+   "id": "2:65",
+   "speaker": null,
+   "devanagari": "प्रसादे सर्वदुःखानां हानिरस्योपजायते ।\nप्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते",
+   "iast": "prasāde sarvaduḥkhānāṃ hānirasyopajāyate |\nprasannacetaso hyāśu buddhiḥ paryavatiṣṭhate"
+  },
+  {
+   "id": "2:66",
+   "speaker": null,
+   "devanagari": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना ।\nन चाभावयतः शान्तिरशान्तस्य कुतः सुखम्",
+   "iast": "nāsti buddhirayuktasya na cāyuktasya bhāvanā |\nna cābhāvayataḥ śāntiraśāntasya kutaḥ sukham"
+  },
+  {
+   "id": "2:67",
+   "speaker": null,
+   "devanagari": "इन्द्रियाणां हि चरतां यन्मनोऽनु विधीयते ।\nतदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि",
+   "iast": "indriyāṇāṃ hi caratāṃ yanmano'nu vidhīyate |\ntadasya harati prajñāṃ vāyurnāvamivāmbhasi"
+  },
+  {
+   "id": "2:68",
+   "speaker": null,
+   "devanagari": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः ।\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता",
+   "iast": "tasmādyasya mahābāho nigṛhītāni sarvaśaḥ |\nindriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā"
+  },
+  {
+   "id": "2:69",
+   "speaker": null,
+   "devanagari": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी ।\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः",
+   "iast": "yā niśā sarvabhūtānāṃ tasyāṃ jāgarti saṃyamī |\nyasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ"
+  },
+  {
+   "id": "2:70",
+   "speaker": null,
+   "devanagari": "आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत् ।\nतद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी",
+   "iast": "āpūryamāṇamacalapratiṣṭhaṃ samudramāpaḥ praviśanti yadvat |\ntadvatkāmā yaṃ praviśanti sarve sa śāntimāpnoti na kāmakāmī"
+  },
+  {
+   "id": "2:71",
+   "speaker": null,
+   "devanagari": "विहाय कामान्यः सर्वान् पुमांश्चरति निःस्पृहः ।\nनिर्ममो निरहंकारः स शान्तिमधिगच्छति",
+   "iast": "vihāya kāmānyaḥ sarvān pumāṃścarati niḥspṛhaḥ |\nnirmamo nirahaṃkāraḥ sa śāntimadhigacchati"
+  },
+  {
+   "id": "2:72",
+   "speaker": null,
+   "devanagari": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति ।\nस्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति",
+   "iast": "eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati |\nsthitvāsyāmantakāle'pi brahmanirvāṇamṛcchati"
+  }
+ ],
+ "telang_paras": [
+  {
+   "text": "Saw^aya said :",
+   "footnote?": false
+  },
+  {
+   "text": "To him, who was thus overcome with pity, and  dejected, and whose eyes were full of tears and  turbid, the destroyer of Madhu spoke these words.",
+   "footnote?": false
+  },
+  {
+   "text": "The Deity said :",
+   "footnote?": false
+  },
+  {
+   "text": "How (comes it that) this delusion, O Ar^una !  which is discarded by the good, which excludes from  heaven, and occasions infamy, has overtaken you  in this (place of) peril ? Be not effeminate, O son  of PWthi ! it is not worthy of you. Cast off this  base weakness of heart, and arise, O terror of  (your) foes !",
+   "footnote?": false
+  },
+  {
+   "text": "Ai;funa said :",
+   "footnote?": false
+  },
+  {
+   "text": "How, O destroyer of Madhu ! shall I encounter  with arrows in the battle Bhishma and Dro»a —  both, O destroyer of iNiemies ! entitled to reverence t",
+   "footnote?": false
+  },
+  {
+   "text": "CIIAPTER ir, II.",
+   "footnote?": false
+  },
+  {
+   "text": "Without killing (my) preceptors — (men) of great  glory — it is better to live even on alms in this  world, but if killing them, though they are avaricious of w'orklly goods, I should only enjoy bloodtainted enjoyments. Nor do we know which of  the two is better for us — whether that we should  vanquish them, or that they should vanquish us.  Even those, whom having killed, we do not wish  to live — even those sons of Dhmarash/ra stand  (arrayed) against us. With a heart contaminated  by the taint of helplessness*, with a mind confounded about my duty, I ask you. Tell me what  is assuredly good for me. I am your disciple;  instruct me, who have thrown myself on your  (indulgence). For I do not perceive what is to  dispel that grief which will dry up my organs^ after  I shall have obtained a prosperous kingdom on earth  without a foe, or even the sovereignty of the gods",
+   "footnote?": false
+  },
+  {
+   "text": "Saw^aya said :",
+   "footnote?": false
+  },
+  {
+   "text": "Having spoken thus to Hf'fshikem, O terror of  (your) foes ! Giu4ikc5a said to Govinda, ‘ I shall not  engage in battle;’ and verily remained silent. To  him thus desponding between the two armies, O  descendant of Bharata ! Hr/sh!kc^a spoke these  words with a slight smile.",
+   "footnote?": false
+  },
+  {
+   "text": "The Deity said :",
+   "footnote?": false
+  },
+  {
+   "text": ". You fiave grieved for those who deserve no grief,",
+   "footnote?": false
+  },
+  {
+   "text": "’ I'he commentators say that ‘heart’ here signifies the dispositions which are stated in chapter XVIIl infra, p. 126. The  feeling of * helplessness ’ is incompatible with what is there stated  as the proper disposition for a Kshatriya.",
+   "footnote?": true
+  },
+  {
+   "text": "* I.e. by the heat of vexation ; the meaning is, ‘ which will cause  constant vexation of spirit/",
+   "footnote?": true
+  },
+  {
+   "text": "^ I.e. if the means employed are the sinful acts referred to.",
+   "footnote?": true
+  },
+  {
+   "text": "and you speak words of wisdom*. Learned men  grieve not for the living nor the dead. Never did  I not exist, nor you, nor these rulers of men ; nor  will any one of us ever hereafter cease to be. As  in this body, infancy and youth and old age (come)  to the embodied (self) so does the acquisition of  another body ; a sensible man is not deceived about  that. The contacts of the senses ®, O son of Kuntl !  which produce cold and heat, pleasure and pain, are  not permanent, they are for ever coming and going.  Bear them, O descendant of Bharata ! For, O chief  of men ! that sensible man whom they * afflict not,  (pain and pleasure being alike to him), he merits  immortality. There is no existence for that which  is unreal ; there is no non-existence for that which is  real. And the (correct) conclusion about both ® is  perceived by those who perceive the truth. Know  that to be indestructible which pervades all this ;  the destruction of that inexhaustible (principle) none  can bring about. These bodies appertaining to the  embodied (self) which is eternal, indestructible, and  indefinable, are declared to be perishable; therefore  do engage in battle, O descendant of Bharata ! He  who thinks one to be the killer and he who thinks",
+   "footnote?": false
+  },
+  {
+   "text": "’ Scil. regardinp; family-rites, &c., for, says Nflaka;«/Aa, they indicate knowledge of soul as distinct from body.",
+   "footnote?": true
+  },
+  {
+   "text": "* A common word in the Gita, that which presides *over eacli  individual body.",
+   "footnote?": true
+  },
+  {
+   "text": "Scil. with external objects. * I.e. the ‘contacts.'",
+   "footnote?": false
+  },
+  {
+   "text": "^ The sense is this — there arc two things apparently, the soul  which is indescructilde, and the feelings of pain &c. which ‘come  and go.' 1 1 c true philosopher knows that the former only is real and  ex. 4s; an' diat the . lucr is unreal and non-existent. He therefore  docb not n.ind the latter.",
+   "footnote?": true
+  },
+  {
+   "text": "® yc.l. Ly those who are possessed of true knowledge.",
+   "footnote?": true
+  },
+  {
+   "text": "one to be killed, both know nothing. He kills not,  is not killed^. He is not born, nor does he ever  die, nor, having existed, does he exist no more.  Unborn, everlasting, unchangeable, and very ancient,  he is not killed when the body is killed ^ O son of  PWthi ! how can that man who knows the self thus  to be indestructible, everlasting, unborn, and imperishable, kill any one, or cause any one to be  killed ? As a man, casting off old clothes, puts  on others and new ones, so the embodied (self),  casting off old bodies, goes to others and new ones.  Weapons do not divide the self (into pieces) ; fire  does not burn it ; waters do not moisten it ; the  wind does not dry it up. It is not divisible ; it is  not combustible ; it is not to be moistened ; it is  not to be dried up. It is everlasting, all-pervading,  stable, firm, and eternal®. It is said to be unpcrceived, to be unthinkable, to be unchangeable.  Therefore knowing it to be such, you ought not to  grieve. But even if you think that the self is constantly born, and constantly dies, still, O you of  mighty arms ! you ought not to grieve thus. For  to one that is born, death is certain ; and to one  that dies, birth is certain ■*. Therefore about (this)",
+   "footnote?": false
+  },
+  {
+   "text": "’ Cf. Ka/Aa-upanishad, p. 104. ■ Ka///a-upanishad, pp. 103, 104.",
+   "footnote?": true
+  },
+  {
+   "text": "\" ‘Eternal.’ Nilaka«/Aa explains this by ‘unlimited by time,  lilacc,’ &c? Sankara and others as ‘uncreated,’ ‘without cause.’  Stable=not assuming new forms; firm=noi abandoning the original  form. (,9rtdhara.) The latter signifies a slight change ; the former  a total change.",
+   "footnote?": false
+  },
+  {
+   "text": "* Cf. the following from the Sutta NipSta (Sir M. C. Swamy’s  translation), pp. 124, 125 : ‘There is, indeed, no means by which  those born could be prevented from dying.’ ‘ Even thus the world  is afflicted with death and decay ; therefore wise men, knowing the  course of things in the world, do not give way to grief.’",
+   "footnote?": true
+  },
+  {
+   "text": "unavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.",
+   "footnote?": false
+  },
+  {
+   "text": "' Cf. Sutta Ki'iiata, p. J25. ‘In vain do you grieve, not knowing  well the two ends of him whose manner cither of coming or going  yon know not.’",
+   "footnote?": true
+  },
+  {
+   "text": "• I.e. the self spoken of above.",
+   "footnote?": true
+  },
+  {
+   "text": "’ Ka/iia-upanishad, p. 96., * One of the warrior caste.",
+   "footnote?": true
+  },
+  {
+   "text": "’ Without any effort, thafls to say, of one’s own.",
+   "footnote?": true
+  },
+  {
+   "text": "you will obtain heaven; victorious, you will enjoy  the earth. Therefore arise, O son of Kunti! resolved to (engage in) battle. Looking on pleasure  and pain, on gain and loss, on victory and defeat  as the same, prepare for battle, and thus you will  not incur sin. The knowledge here declared to you  is that relating to the Sdhkhya ^ Now hear that  relating to the Y oga. Possessed of this knowledge,  0 sen of P;Vthd ! you will cast off the bonds of  action. In this (path to final emancipation) nothing  that is commenced becomes abortive ; no obstacles  exist ; and even a little of this (form of) piety protects one from great danger K There is here \\  O descendant of Kuril ! but one state of mind consisting in firm understanding. But the states of  mind of those who have no firm understanding are  manifold and endless. The state of mind which  consists in firm understanding regarding steady contemplation * does not belong to those, O son of  Pr/’thd ! who are strongly attached to (worldly)  pleasures and power, and whose minds are drawn  away by that flowery talk which is full of (the  ordinances of) specific acts for the attainment of  (those) pleasures and (that) power, and which promises birth as the fruit of acts ® — (that flowery",
+   "footnote?": false
+  },
+  {
+   "text": "* SdiilAya is explained in different modes by the different commentators, but the meaning here seems to be, that the doctrine  stated is the doctrine of true knov ledge aiul of emancipation by  means of it. Sec infra, p. 52.",
+   "footnote?": true
+  },
+  {
+   "text": "‘ Viz. this mortal mundane life.",
+   "footnote?": true
+  },
+  {
+   "text": "^ I.e. for those who enter on this ‘ path/",
+   "footnote?": true
+  },
+  {
+   "text": "* I.e. of the supreme Being; Yoga meaning really the dedication  of all acts to that Being.",
+   "footnote?": true
+  },
+  {
+   "text": "^ See Sutla Nipata, p. 4.",
+   "footnote?": true
+  },
+  {
+   "text": "talk) which those unwise ones utter, who are enamoured of Vedic words, who say there is nothing  else, who are full of desires, and whose goal is  heaven \\ The Vedas (merely) relate to the effects  of the three qualities*; do you, O Ar^ma! rise  above those effects of the three qualities, and be  free from the pairs of opposites ®, always preserve  courage *, be free from anxiety for new acquisitions  or protection of old acquisitions, and be self-controlled®. To the instructed BrAhma«a, there is in  all the Vedas as much utility as in a reservoir of  water into which waters flow from all sides®. Your  business is with action alone ; not by any means  with fruit. Let not the fruit of action be your  motive (to action). Let not your attachment be  (fixed) on inaction \\ Having recourse to devotion,  O Dhanawfaya ! perform actions, casting off (all)  attachment, and being equable in success or illsuccess; (such) equabilityns called devotion. Action,",
+   "footnote?": false
+  },
+  {
+   "text": "’ This is a merely temporary good, and not therefore deserving  to be aspired to before final emancipation.",
+   "footnote?": true
+  },
+  {
+   "text": "® I.e. the whole course of worldly affairs. As to qualities, see  cha[)ter XIV.",
+   "footnote?": true
+  },
+  {
+   "text": "® Heat and c old, pain and pleasure, and so forth. Cf. Manu I, 26.",
+   "footnote?": true
+  },
+  {
+   "text": "* Cf. Sutta Nipata, p. 1 7 and other places.",
+   "footnote?": true
+  },
+  {
+   "text": "® Keeping the mind from worldly objects.",
+   "footnote?": true
+  },
+  {
+   "text": "* The meaning here is not easily apprehended. 1 suggest the  following explanation: — Having said that the Vedas arc concerned  with actions for special benefits, Krrshwa compares them to a  reservoir which provides water for various special purposes,  drinking, bathing, &c. The Vedas similarly prescribe particular rites  and ceremonies for going to heaven, or destroying an enemy, &c.  But, says Krishna, man’s duty is merely to perform the actions  prescribed for him, and not entertain desires for the sijecial benefits  named. The stanza occutc4n the Sanatsu^tfya, too.",
+   "footnote?": true
+  },
+  {
+   "text": "’’ Doing nothing at all.",
+   "footnote?": true
+  },
+  {
+   "text": "O Dhanaw^ya! is far inferior to the devotion of  the mind. In that devotion seek shelter. Wretched  are those whose motive (to action) is the fruit (of  action). He who has obtained devotion in this  world casts off both merit and sin h Therefore  apply yourself to devotion ; devotion in (all) actions  is wisdom. The wise who have obtained devotion  cast off the fruit of action ; and released from the  shackles of (repeated) births®, repair to that seat  where there is no unhappiness When your mind  shall have crossed beyond the taint of delusion, then  will you become indifferent to all that you have  heard ,or will hear •*. When your mind, that was  confounded by what you have heard®, will stand  firm and steady in contemplation®, then will you  acquire devotion.",
+   "footnote?": false
+  },
+  {
+   "text": "Ar4nina said :",
+   "footnote?": false
+  },
+  {
+   "text": "What are the characteristics, O Kemva! of one  whose mind is steady, and who is intent on contemplation ? How should one of a steady mind  speak, how sit, how move ?",
+   "footnote?": false
+  },
+  {
+   "text": "The Deity said :",
+   "footnote?": false
+  },
+  {
+   "text": "When a man, O son of IVrtha ! abandons all the  desires of his heart, and is pleased in his self only",
+   "footnote?": false
+  },
+  {
+   "text": "‘ Jlerit merely leads to licavcn, as lo which see note on last  jwge. Cf* Suita Nipata, pp. 4, 136, 145 note.",
+   "footnote?": true
+  },
+  {
+   "text": "* SuUa Nipata, pp. 3-7, &c.",
+   "footnote?": true
+  },
+  {
+   "text": "\" Sutia Nipdta, p. 21.",
+   "footnote?": false
+  },
+  {
+   "text": "* 'I’his, according to Anandagiri, means all writings other than  those on the science of the soul.",
+   "footnote?": true
+  },
+  {
+   "text": "I.e. about the means for the acquisition of various desired  things.",
+   "footnote?": true
+  },
+  {
+   "text": "' I.e.. of the soul (A'ahkara), of the supreme Deing (5riJhara).  Substantially they both mean the same thing.",
+   "footnote?": true
+  },
+  {
+   "text": "[S] E",
+   "footnote?": false
+  },
+  {
+   "text": "and by his self*, he is then called of a steady mind.  .He whose heart is not agitated in the midst of  calamities, who has no longing for pleasures, and  from whom (the feelings of) affection, fear, and  wrath ^ have departed, is called a sage of a steady  mind. His mind is steady, who, being without  attachments anywhere, feels no exultation and no  aversion on encountering the various agreeable and  disagreeable ® (things of this world). A man’s mind  is steady, when he withdraws his senses from (all)  objects of sense, as the tortoise (withdraws) its  limbs from all sides. Objects of sense withdraw  themselves from a person who is abstinent ; not so  the taste (for those objects). But even the taste  departs from him, when he has seen the Supreme *.  The boisterous senses, O son of Kunti ! carry away  by force the mind even of a wise man, who exerts  himself (for final emancipation). Restraining them  all, a man should remain engaged in devotion,  making me his only resort. For his mind is steady  whose senses are under his control. The man who  ponders over objects of .sense forms an attachment  to them ; from (that) attachment is produced desire;  and from desire anger is produced ® ; from anger  results want of discrimination\"; from want of dis-",
+   "footnote?": false
+  },
+  {
+   "text": "^ 1. c. pleased, without regard to external objects, by sclf-contemplation alone. *",
+   "footnote?": true
+  },
+  {
+   "text": "^ Cf. SuUa Kipala, p. 3.",
+   "footnote?": true
+  },
+  {
+   "text": "® The word jubhiuubha in this sense also occurs in the Dhammupada, stanza 78, and in the Maitri-upanishad, p. 34.",
+   "footnote?": true
+  },
+  {
+   "text": "* See on this, U'iJson s Essays on Sanskrit Literature, vol. iii.  p 130.",
+   "footnote?": true
+  },
+  {
+   "text": "' I. e. . hen the desire is frustrated.",
+   "footnote?": true
+  },
+  {
+   "text": "‘ J. c. between right arift^vrong. Confusion of memory =f<-rgetfulness of .S’aslras and rules prescribed in them.",
+   "footnote?": true
+  },
+  {
+   "text": "crimination, confusion of the memory ; from confusion of the memory, loss of reason ; and in  consequence of loss of reason he is utterly ruined.  But the self-restrained man who moves among '  objects with senses under the control of his own  self, and free from affection and aversion, obtains  tranquillity-. When there is tranquillity, all his  miseries are destroyed, for the mind of him whose  heart is tranquil soon becomes steady. He who  is not self-restrained has no Steadiness of mind ;  nor has he who is not self-restrained perseverance *  in the pursuit of self-knowledge ; there is no tranquillity. for him who does not persevere in the  pursuit of self-knowledge ; and whence can there be  happiness for one who is not tranquil ? For the  heart which follows the rambling senses leads aw-ay  his judgment, as the wind leads a boat astray upon  the waters. Therefore, O )ou of mighty arms !  his mind is steady whose senses are restrained on  all sides from objects of sense. The self-restrained  man is awake, when it is night for all beings ; and  when all bein.t;s arc awake, that is die night of the  right-seeing sage*. He into whom all objects of  desire enter, as waters enter the ocean, which,  (though) replenished, (still) keeps its position unmoved,— he only obtains tranquillity ; not he who  desires (those) objects of desire. The man who,",
+   "footnote?": false
+  },
+  {
+   "text": "’ Cl. Sutta Nipaia, p. 45,",
+   "footnote?": true
+  },
+  {
+   "text": "Cf. Alaiiri-upanishad, p. 134, where the commentator explains  it to moan freedom from tlosires.-",
+   "footnote?": false
+  },
+  {
+   "text": "’ I'or a somewhat similar use of the word hhavana in this sense,  comp. Dhammapada, stanza 301.",
+   "footnote?": true
+  },
+  {
+   "text": "* Spiritual matters arc dark as nij'hl to the eommon run of men,  while they are wide awake in all worldly ]iursuits. With the sage  the case is exactly the reverse.",
+   "footnote?": true
+  },
+  {
+   "text": "K 2",
+   "footnote?": false
+  },
+  {
+   "text": "casting off all desires, lives free from attachments,  •who is free from egoism \\ and from (the feeling  that this or that is) mine ^ obtains tranquillity. This,  O son of Pmhd ! is the Brahmic ® state ; attaining  to this, one is never deluded ; and remaining in it  in (one’s) last moments, one attains (brahma-nirvfiwa)  the Brahmic bliss *.",
+   "footnote?": false
+  }
+ ],
+ "arnold": "CHAPTER II\n\n  Sanjaya.\n  Him, filled with such compassion and such grief,\n  With eyes tear-dimmed, despondent, in stern words\n  The Driver, Madhusudan, thus addressed:\n\n  Krishna.\n  How hath this weakness taken thee? Whence springs\n  The inglorious trouble, shameful to the brave,\n  Barring the path of virtue? Nay, Arjun!\n  Forbid thyself to feebleness! it mars\n  Thy warrior-name! cast off the coward-fit!\n  Wake! Be thyself! Arise, Scourge of thy Foes!\n\n  Arjuna.\n  How can I, in the battle, shoot with shafts\n  On Bhishma, or on Drona-O thou Chief!--\n  Both worshipful, both honourable men?\n\n  Better to live on beggar's bread\n    With those we love alive,\n  Than taste their blood in rich feasts spread,\n    And guiltily survive!\n  Ah! were it worse-who knows?--to be\n    Victor or vanquished here,\n  When those confront us angrily\n    Whose death leaves living drear?\n  In pity lost, by doubtings tossed,\n    My thoughts-distracted-turn\n  To Thee, the Guide I reverence most,\n    That I may counsel learn:\n  I know not what would heal the grief\n    Burned into soul and sense,\n  If I were earth's unchallenged chief--\n    A god--and these gone thence!\n\n  Sanjaya.\n  So spake Arjuna to the Lord of  Hearts,\n  And sighing,\"I will not fight!\" held silence then.\n  To whom, with tender smile, (O Bharata! )\n  While the Prince wept despairing 'twixt those hosts,\n  Krishna made answer in divinest verse:\n\n  Krishna.\n  Thou grievest where no grief should be! thou speak'st\n  Words lacking wisdom! for the wise in heart\n  Mourn not for those that live, nor those that die.\n  Nor I, nor thou, nor any one of these,\n  Ever was not, nor ever will not be,\n  For ever and for ever afterwards.\n  All, that doth live, lives always! To man's frame\n  As there come infancy and youth and age,\n  So come there raisings-up and layings-down\n  Of other and of other life-abodes,\n  Which the wise know, and fear not. This that irks--\n  Thy sense-life, thrilling to the elements--\n  Bringing thee heat and cold, sorrows and joys,\n  'Tis brief and mutable! Bear with it, Prince!\n  As the wise bear. The soul which is not moved,\n  The soul that with a strong and constant calm\n  Takes sorrow and takes joy indifferently,\n  Lives in the life undying! That which is\n  Can never cease to be; that which is not\n  Will not exist. To see this truth of both\n  Is theirs who part essence from accident,\n  Substance from shadow. Indestructible,\n  Learn thou! the Life is, spreading life through all;\n  It cannot anywhere, by any means,\n  Be anywise diminished, stayed, or changed.\n  But for these fleeting frames which it informs\n  With spirit deathless, endless, infinite,\n  They perish. Let them perish, Prince! and fight!\n  He who shall say, \"Lo! I have slain a man!\"\n  He who shall think, \"Lo! I am slain!\" those both\n  Know naught! Life cannot slay. Life is not slain!\n  Never the spirit was born; the spirit shall cease to be never;\n  Never was time it was not; End and Beginning are dreams!\n  Birthless and deathless and changeless remaineth the spirit for ever;\n  Death hath not touched it at all, dead though the house of it seems!\n\n  Who knoweth it exhaustless, self-sustained,\n  Immortal, indestructible,--shall such\n  Say, \"I have killed a man, or caused to kill?\"\n\n  Nay, but as when one layeth\n    His worn-out robes away,\n  And taking new ones, sayeth,\n    \"These will I wear to-day!\"\n  So putteth by the spirit\n    Lightly its garb of flesh,\n  And passeth to inherit\n    A residence afresh.\n\n  I say to thee weapons reach not the Life;\n  Flame burns it not, waters cannot o'erwhelm,\n  Nor dry winds wither it. Impenetrable,\n  Unentered, unassailed, unharmed, untouched,\n  Immortal, all-arriving, stable, sure,\n  Invisible, ineffable, by word\n  And thought uncompassed, ever all itself,\n  Thus is the Soul declared! How wilt thou, then,--\n  Knowing it so,--grieve when thou shouldst not grieve?\n  How, if thou hearest that the man new-dead\n  Is, like the man new-born, still living man--\n  One same, existent Spirit--wilt thou weep?\n  The end of birth is death; the end of death\n  Is birth: this is ordained! and mournest thou,\n  Chief of the stalwart arm! for what befalls\n  Which could not otherwise befall? The birth\n  Of living things comes unperceived; the death\n  Comes unperceived; between them, beings perceive:\n  What is there sorrowful herein, dear Prince?\n\n  Wonderful, wistful, to contemplate!\n    Difficult, doubtful, to speak upon!\n  Strange and great for tongue to relate,\n    Mystical hearing for every one!\n  Nor wotteth man this, what a marvel it is,\n    When seeing, and saying, and hearing are done!\n\n  This Life within all living things, my Prince!\n  Hides beyond harm; scorn thou to suffer, then,\n  For that which cannot suffer. Do thy part!\n  Be mindful of thy name, and tremble not!\n  Nought better can betide a martial soul\n  Than lawful war; happy the warrior\n  To whom comes joy of battle--comes, as now,\n  Glorious and fair, unsought; opening for him\n  A gateway unto Heav'n. But, if thou shunn'st\n  This honourable field--a Kshattriya--\n  If, knowing thy duty and thy task, thou bidd'st\n  Duty and task go by--that shall be sin!\n  And those to come shall speak thee infamy\n  From age to age; but infamy is worse\n  For men of noble blood to bear than death!\n  The chiefs upon their battle-chariots\n  Will deem 'twas fear that drove thee from the fray.\n  Of those who held thee mighty-souled the scorn\n  Thou must abide, while all thine enemies\n  Will scatter bitter speech of thee, to mock\n  The valour which thou hadst; what fate could fall\n  More grievously than this? Either--being killed--\n  Thou wilt win Swarga's safety, or--alive\n  And victor--thou wilt reign an earthly king.\n  Therefore, arise, thou Son of Kunti! brace\n  Thine arm for conflict, nerve thy heart to meet--\n  As things alike to thee--pleasure or pain,\n  Profit or ruin, victory or defeat:\n  So minded, gird thee to the fight, for so\n  Thou shalt not sin!\n\n  Thus far I speak to thee\n  As from the \"Sankhya\"--unspiritually--\n  Hear now the deeper teaching of the Yog,\n  Which holding, understanding, thou shalt burst\n  Thy Karmabandh, the bondage of wrought deeds.\n  Here shall no end be hindered, no hope marred,\n  No loss be feared: faith--yea, a little faith--\n  Shall save thee from the anguish of thy dread.\n  Here, Glory of the Kurus! shines one rule--\n  One steadfast rule--while shifting souls have laws\n  Many and hard. Specious, but wrongful deem\n  The speech of those ill-taught ones who extol\n  The letter of their Vedas, saying, \"This\n  Is all we have, or need;\" being weak at heart\n  With wants, seekers of Heaven: which comes--they say--\n  As \"fruit of good deeds done;\" promising men\n  Much profit in new births for works of faith;\n  In various rites abounding; following whereon\n  Large merit shall accrue towards wealth and power;\n  Albeit, who wealth and power do most desire\n  Least fixity of soul have such, least hold\n  On heavenly meditation. Much these teach,\n  From Veds, concerning the \"three qualities;\"\n  But thou, be free of the \"three qualities,\"\n  Free of the \"pairs of opposites,\"[FN#2] and free\n  From that sad righteousness which calculates;\n  Self-ruled, Arjuna! simple, satisfied![FN#3]\n  Look! like as when a tank pours water forth\n  To suit all needs, so do these Brahmans draw\n  Text for all wants from tank of Holy Writ.\n  But thou, want not! ask not! Find full reward\n  Of doing right in right! Let right deeds be\n  Thy motive, not the fruit which comes from them.\n  And live in action! Labour! Make thine acts\n  Thy piety, casting all self aside,\n  Contemning gain and merit; equable\n  In good or evil: equability\n  Is Yog, is piety!\n\n  Yet, the right act\n  Is less, far less, than the right-thinking mind.\n  Seek refuge in thy soul; have there thy heaven!\n  Scorn them that follow virtue for her gifts!\n  The mind of pure devotion--even here--\n  Casts equally aside good deeds and bad,\n  Passing above them. Unto pure devotion\n  Devote thyself: with perfect meditation\n  Comes perfect act, and the right-hearted rise--\n  More certainly because they seek no gain--\n  Forth from the bands of body, step by step,\n  To highest seats of bliss. When thy firm soul\n  Hath shaken off those tangled oracles\n  Which ignorantly guide, then shall it soar\n  To high neglect of what's denied or said,\n  This way or that way, in doctrinal writ.\n  Troubled no longer by the priestly lore,\n  Safe shall it live, and sure; steadfastly bent\n  On meditation. This is Yog--and Peace!\n\n  Arjuna.\n  What is his mark who hath that steadfast heart,\n  Confirmed in holy meditation? How\n  Know we his speech, Kesava? Sits he, moves he\n  Like other men?\n\n  Krishna.\n  When one, O Pritha's Son!\n  Abandoning desires which shake the mind--\n  Finds in his soul full comfort for his soul,\n  He hath attained the Yog--that man is such!\n  In sorrows not dejected, and in joys\n  Not overjoyed; dwelling outside the stress\n  Of passion, fear, and anger; fixed in calms\n  Of lofty contemplation;--such an one\n  Is Muni, is the Sage, the true Recluse!\n  He who to none and nowhere overbound\n  By ties of flesh, takes evil things and good\n  Neither desponding nor exulting, such\n  Bears wisdom's plainest mark! He who shall draw\n  As the wise tortoise draws its four feet safe\n  Under its shield, his five frail senses back\n  Under the spirit's buckler from the world\n  Which else assails them, such an one, my Prince!\n  Hath wisdom's mark! Things that solicit sense\n  Hold off from the self-governed; nay, it comes,\n  The appetites of him who lives beyond\n  Depart,--aroused no more. Yet may it chance,\n  O Son of Kunti! that a governed mind\n  Shall some time feel the sense-storms sweep, and wrest\n  Strong self-control by the roots. Let him regain\n  His kingdom! let him conquer this, and sit\n  On Me intent. That man alone is wise\n  Who keeps the mastery of himself! If one\n  Ponders on objects of the sense, there springs\n  Attraction; from attraction grows desire,\n  Desire flames to fierce passion, passion breeds\n  Recklessness; then the memory--all betrayed--\n  Lets noble purpose go, and saps the mind,\n  Till purpose, mind, and man are all undone.\n  But, if one deals with objects of the sense\n  Not loving and not hating, making them\n  Serve his free soul, which rests serenely lord,\n  Lo! such a man comes to tranquillity;\n  And out of that tranquillity shall rise\n  The end and healing of his earthly pains,\n  Since the will governed sets the soul at peace.\n  The soul of the ungoverned is not his,\n  Nor hath he knowledge of himself; which lacked,\n  How grows serenity? and, wanting that,\n  Whence shall he hope for happiness?\n\n  The mind\n  That gives itself to follow shows of sense\n  Seeth its helm of wisdom rent away,\n  And, like a ship in waves of whirlwind, drives\n  To wreck and death. Only with him, great Prince!\n  Whose senses are not swayed by things of sense--\n  Only with him who holds his mastery,\n  Shows wisdom perfect. What is midnight-gloom\n  To unenlightened souls shines wakeful day\n  To his clear gaze; what seems as wakeful day\n  Is known for night, thick night of ignorance,\n  To his true-seeing eyes. Such is the Saint!\n\n  And like the ocean, day by day receiving\n      Floods from all lands, which never overflows\n  Its boundary-line not leaping, and not leaving,\n      Fed by the rivers, but unswelled by those;--\n\n  So is the perfect one! to his soul's ocean\n      The world of sense pours streams of witchery;\n  They leave him as they find, without commotion,\n      Taking their tribute, but remaining sea.\n\n  Yea! whoso, shaking off the yoke of flesh\n  Lives lord, not servant, of his lusts; set free\n  From pride, from passion, from the sin of \"Self,\"\n  Toucheth tranquillity! O Pritha's Son!\n  That is the state of Brahm! There rests no dread\n  When that last step is reached! Live where he will,\n  Die when he may, such passeth from all 'plaining,\n  To blest Nirvana, with the Gods, attaining.\n\n  HERE ENDETH CHAPTER II. OF THE BHAGAVAD-GITA,\n  Entitled \"Sankhya-Yog,\"\n  Or \"The Book of Doctrines.\""
+}

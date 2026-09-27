@@ -1,0 +1,1301 @@
+{
+ "chapter": 2,
+ "records": [
+  {
+   "id": "2:1",
+   "devanagari": "तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् ।\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः",
+   "iast": "taṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam |\nviṣīdantamidaṃ vākyamuvāca madhusūdanaḥ",
+   "speaker": "सञ्जय",
+   "telang_context": "Saw^aya said :\n\nTo him, who was thus overcome with pity, and  dejected, and whose eyes were full of tears and  turbid, the destroyer of Madhu spoke these words.",
+   "arnold_span": "B01",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Sanjaya said: to Arjuna, drowned in pity, his eyes full of tears and troubled, Krishna spoke these words.",
+   "takeaway": "Help arrives when grief is deepest.",
+   "provenance": [
+    "sa:2:1",
+    "telang:T00+T01",
+    "arnold:B01"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:2",
+   "devanagari": "श्रीभगवानुवाच\nकुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् ।\nअनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन",
+   "iast": "śrībhagavānuvāca\nkutastvā kaśmalamidaṃ viṣame samupasthitam |\nanāryajuṣṭamasvargyamakīrtikaramarjuna",
+   "speaker": null,
+   "telang_context": "The Deity said :\n\nHow (comes it that) this delusion, O Ar^una !  which is discarded by the good, which excludes from  heaven, and occasions infamy, has overtaken you  in this (place of) peril ? Be not effeminate, O son  of PWthi ! it is not worthy of you. Cast off this  base weakness of heart, and arise, O terror of  (your) foes !",
+   "arnold_span": "B02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Krishna said: where has this weakness come from, Arjuna, here on the field of battle? It suits no noble man, wins no heaven, and brings only shame.",
+   "takeaway": "Name weakness plainly before fighting it.",
+   "provenance": [
+    "sa:2:2",
+    "telang:T02+T03-head",
+    "arnold:B02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:3",
+   "devanagari": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते ।\nक्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप",
+   "iast": "klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate |\nkṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa",
+   "speaker": null,
+   "telang_context": "How (comes it that) this delusion, O Ar^una !  which is discarded by the good, which excludes from  heaven, and occasions infamy, has overtaken you  in this (place of) peril ? Be not effeminate, O son  of PWthi ! it is not worthy of you. Cast off this  base weakness of heart, and arise, O terror of  (your) foes !",
+   "arnold_span": "B02",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Do not turn coward, Arjuna. It does not suit you. Shake off this petty faint-heartedness and stand up, scorcher of foes.",
+   "takeaway": "You are bigger than this moment.",
+   "provenance": [
+    "sa:2:3",
+    "telang:T03",
+    "arnold:B02-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:4",
+   "devanagari": "कथं भीष्ममहं संख्ये द्रोणं च मधुसूदन ।\nइषुभिः प्रति योत्स्यामि पूजार्हावरिसूदन",
+   "iast": "kathaṃ bhīṣmamahaṃ saṃkhye droṇaṃ ca madhusūdana |\niṣubhiḥ prati yotsyāmi pūjārhāvarisūdana",
+   "speaker": "अर्जुन",
+   "telang_context": "Ai;funa said :\n\nHow, O destroyer of Madhu ! shall I encounter  with arrows in the battle Bhishma and Dro»a —  both, O destroyer of iNiemies ! entitled to reverence t",
+   "arnold_span": "B03",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Arjuna said: how can I shoot arrows at Bhishma and Drona in battle, Krishna? Both deserve my worship, destroyer of foes.",
+   "takeaway": "The hardest fights are against people you respect.",
+   "provenance": [
+    "sa:2:4",
+    "telang:T04+T05-head",
+    "arnold:B03"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:5",
+   "devanagari": "गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके ।\nहत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान्",
+   "iast": "gurūnahatvā hi mahānubhāvān śreyo bhoktuṃ bhaikṣyamapīha loke |\nhatvārthakāmāṃstu gurūnihaiva bhuñjīya bhogān rudhirapradigdhān",
+   "speaker": null,
+   "telang_context": "Without killing (my) preceptors — (men) of great  glory — it is better to live even on alms in this  world, but if killing them, though they are avaricious of w'orklly goods, I should only enjoy bloodtainted enjoyments. Nor do we know which of  the two is better for us — whether that we should  vanquish them, or that they should vanquish us.  Even those, whom having killed, we do not wish  to live — even those sons of Dhmarash/ra stand  (arrayed) against us. With a heart contaminated  by the taint of helplessness*, with a mind confounded about my duty, I ask you. Tell me what  is assuredly good for me. I am your disciple;  instruct me, who have thrown myself on your  (indulgence). For I do not perceive what is to  dispel that grief which will dry up my organs^ after  I shall have obtained a prosperous kingdom on earth  without a foe, or even the sovereignty of the gods",
+   "arnold_span": "B04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Better to beg for food in this world than kill these great teachers. Killing them, I would enjoy only blood-stained pleasures.",
+   "takeaway": "Count what victory eats, not just what it feeds.",
+   "provenance": [
+    "sa:2:5",
+    "telang:T05",
+    "arnold:B04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:6",
+   "devanagari": "न चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः ।\nयानेव हत्वा न जिजीविषाम- स्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः",
+   "iast": "na caitadvidmaḥ kataranno garīyo yadvā jayema yadi vā no jayeyuḥ |\nyāneva hatvā na jijīviṣāma- ste'vasthitāḥ pramukhe dhārtarāṣṭrāḥ",
+   "speaker": null,
+   "telang_context": "Without killing (my) preceptors — (men) of great  glory — it is better to live even on alms in this  world, but if killing them, though they are avaricious of w'orklly goods, I should only enjoy bloodtainted enjoyments. Nor do we know which of  the two is better for us — whether that we should  vanquish them, or that they should vanquish us.  Even those, whom having killed, we do not wish  to live — even those sons of Dhmarash/ra stand  (arrayed) against us. With a heart contaminated  by the taint of helplessness*, with a mind confounded about my duty, I ask you. Tell me what  is assuredly good for me. I am your disciple;  instruct me, who have thrown myself on your  (indulgence). For I do not perceive what is to  dispel that grief which will dry up my organs^ after  I shall have obtained a prosperous kingdom on earth  without a foe, or even the sovereignty of the gods",
+   "arnold_span": "B04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "We do not even know which is better for us — victory or defeat. The sons of Dhritarashtra stand before us, and we would not want to live after killing them.",
+   "takeaway": "Uncertainty is honest; pretending otherwise is not.",
+   "provenance": [
+    "sa:2:6",
+    "telang:T05",
+    "arnold:B04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:7",
+   "devanagari": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः ।\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्",
+   "iast": "kārpaṇyadoṣopahatasvabhāvaḥ pṛcchāmi tvāṃ dharmasammūḍhacetāḥ |\nyacchreyaḥ syānniścitaṃ brūhi tanme śiṣyaste'haṃ śādhi māṃ tvāṃ prapannam",
+   "speaker": null,
+   "telang_context": "Without killing (my) preceptors — (men) of great  glory — it is better to live even on alms in this  world, but if killing them, though they are avaricious of w'orklly goods, I should only enjoy bloodtainted enjoyments. Nor do we know which of  the two is better for us — whether that we should  vanquish them, or that they should vanquish us.  Even those, whom having killed, we do not wish  to live — even those sons of Dhmarash/ra stand  (arrayed) against us. With a heart contaminated  by the taint of helplessness*, with a mind confounded about my duty, I ask you. Tell me what  is assuredly good for me. I am your disciple;  instruct me, who have thrown myself on your  (indulgence). For I do not perceive what is to  dispel that grief which will dry up my organs^ after  I shall have obtained a prosperous kingdom on earth  without a foe, or even the sovereignty of the gods\n\nWithout killing (my) preceptors — (men) of great  glory — it is better to live even on alms in this  world, but if killing them, though they are avaricious of w'orklly goods, I should only enjoy bloodtainted enjoyments. Nor do we know which of  the two is better for us — whether that we should  vanquish them, or that they should vanquish us.  Even those, whom having killed, we do not wish  to live — even those sons of Dhmarash/ra stand  (arrayed) against us. With a heart contaminated  by the taint of helplessness*, with a mind confounded about my duty, I ask you. Tell me what  is assuredly good for me. I am your disciple;  instruct me, who have thrown myself on your  (indulgence). For I do not perceive what is to  dispel that grief which will dry up my organs^ after  I shall have obtained a prosperous kingdom on earth  without a foe, or even the sovereignty of the gods",
+   "arnold_span": "B04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "My heart is poisoned by pity, and my mind is confused about duty. Tell me plainly what is good. I am your student now — teach me.",
+   "takeaway": "Asking for help is a decision, not a defeat.",
+   "provenance": [
+    "sa:2:7",
+    "telang:T05",
+    "arnold:B04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:8",
+   "devanagari": "न हि प्रपश्यामि ममापनुद्याद् यच्छोकमुच्छोषणमिन्द्रियाणाम् ।\nअवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम्",
+   "iast": "na hi prapaśyāmi mamāpanudyād yacchokamucchoṣaṇamindriyāṇām |\navāpya bhūmāvasapatnamṛddhaṃ rājyaṃ surāṇāmapi cādhipatyam",
+   "speaker": null,
+   "telang_context": "Without killing (my) preceptors — (men) of great  glory — it is better to live even on alms in this  world, but if killing them, though they are avaricious of w'orklly goods, I should only enjoy bloodtainted enjoyments. Nor do we know which of  the two is better for us — whether that we should  vanquish them, or that they should vanquish us.  Even those, whom having killed, we do not wish  to live — even those sons of Dhmarash/ra stand  (arrayed) against us. With a heart contaminated  by the taint of helplessness*, with a mind confounded about my duty, I ask you. Tell me what  is assuredly good for me. I am your disciple;  instruct me, who have thrown myself on your  (indulgence). For I do not perceive what is to  dispel that grief which will dry up my organs^ after  I shall have obtained a prosperous kingdom on earth  without a foe, or even the sovereignty of the gods",
+   "arnold_span": "B04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "I see nothing that could drive away this grief. It dries up my senses. Not rule over a rich, unrivaled earth. Not even lordship of the gods.",
+   "takeaway": "Grief does not negotiate.",
+   "provenance": [
+    "sa:2:8",
+    "telang:T05",
+    "arnold:B04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:9",
+   "devanagari": "एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप ।\nन योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह",
+   "iast": "evamuktvā hṛṣīkeśaṃ guḍākeśaḥ parantapa |\nna yotsya iti govindamuktvā tūṣṇīṃ babhūva ha",
+   "speaker": "सञ्जय",
+   "telang_context": "Saw^aya said :\n\nHaving spoken thus to Hf'fshikem, O terror of  (your) foes ! Giu4ikc5a said to Govinda, ‘ I shall not  engage in battle;’ and verily remained silent. To  him thus desponding between the two armies, O  descendant of Bharata ! Hr/sh!kc^a spoke these  words with a slight smile.",
+   "arnold_span": "B05",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Sanjaya said: having spoken thus to Krishna, Arjuna said, I will not fight — and fell silent.",
+   "takeaway": "Sometimes the sentence ends with silence.",
+   "provenance": [
+    "sa:2:9",
+    "telang:T06+T07-head",
+    "arnold:B05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:10",
+   "devanagari": "तमुवाच हृषीकेशः प्रहसन्निव भारत ।\nसेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः",
+   "iast": "tamuvāca hṛṣīkeśaḥ prahasanniva bhārata |\nsenayorubhayormadhye viṣīdantamidaṃ vacaḥ",
+   "speaker": null,
+   "telang_context": "Having spoken thus to Hf'fshikem, O terror of  (your) foes ! Giu4ikc5a said to Govinda, ‘ I shall not  engage in battle;’ and verily remained silent. To  him thus desponding between the two armies, O  descendant of Bharata ! Hr/sh!kc^a spoke these  words with a slight smile.\n\nThe Deity said :",
+   "arnold_span": "B05",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "To Arjuna, grieving between the two armies, Krishna spoke these words with a slight smile.",
+   "takeaway": "A smile before hard truths.",
+   "provenance": [
+    "sa:2:10",
+    "telang:T07+T08",
+    "arnold:B05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:11",
+   "devanagari": "श्रीभगवानुवाच\nअशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे ।\nगतासूनगतासूंश्च नानुशोचन्ति पण्डिताः",
+   "iast": "śrībhagavānuvāca\naśocyānanvaśocastvaṃ prajñāvādāṃśca bhāṣase |\ngatāsūnagatāsūṃśca nānuśocanti paṇḍitāḥ",
+   "speaker": null,
+   "telang_context": "The Deity said :\n\n. You fiave grieved for those who deserve no grief,\n\nand you speak words of wisdom*. Learned men  grieve not for the living nor the dead. Never did  I not exist, nor you, nor these rulers of men ; nor  will any one of us ever hereafter cease to be. As  in this body, infancy and youth and old age (come)  to the embodied (self) so does the acquisition of  another body ; a sensible man is not deceived about  that. The contacts of the senses ®, O son of Kuntl !  which produce cold and heat, pleasure and pain, are  not permanent, they are for ever coming and going.  Bear them, O descendant of Bharata ! For, O chief  of men ! that sensible man whom they * afflict not,  (pain and pleasure being alike to him), he merits  immortality. There is no existence for that which  is unreal ; there is no non-existence for that which is  real. And the (correct) conclusion about both ® is  perceived by those who perceive the truth. Know  that to be indestructible which pervades all this ;  the destruction of that inexhaustible (principle) none  can bring about. These bodies appertaining to the  embodied (self) which is eternal, indestructible, and  indefinable, are declared to be perishable; therefore  do engage in battle, O descendant of Bharata ! He  who thinks one to be the killer and he who thinks",
+   "arnold_span": "B06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "You grieve for those who deserve no grief, yet your words sound wise. The wise grieve neither for the living nor for the dead.",
+   "takeaway": "Grief has a proper object. Find it.",
+   "provenance": [
+    "sa:2:11",
+    "telang:T08+T09-head",
+    "arnold:B06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:12",
+   "devanagari": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः ।\nन चैव न भविष्यामः सर्वे वयमतः परम्",
+   "iast": "na tvevāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ |\nna caiva na bhaviṣyāmaḥ sarve vayamataḥ param",
+   "speaker": null,
+   "telang_context": "and you speak words of wisdom*. Learned men  grieve not for the living nor the dead. Never did  I not exist, nor you, nor these rulers of men ; nor  will any one of us ever hereafter cease to be. As  in this body, infancy and youth and old age (come)  to the embodied (self) so does the acquisition of  another body ; a sensible man is not deceived about  that. The contacts of the senses ®, O son of Kuntl !  which produce cold and heat, pleasure and pain, are  not permanent, they are for ever coming and going.  Bear them, O descendant of Bharata ! For, O chief  of men ! that sensible man whom they * afflict not,  (pain and pleasure being alike to him), he merits  immortality. There is no existence for that which  is unreal ; there is no non-existence for that which is  real. And the (correct) conclusion about both ® is  perceived by those who perceive the truth. Know  that to be indestructible which pervades all this ;  the destruction of that inexhaustible (principle) none  can bring about. These bodies appertaining to the  embodied (self) which is eternal, indestructible, and  indefinable, are declared to be perishable; therefore  do engage in battle, O descendant of Bharata ! He  who thinks one to be the killer and he who thinks",
+   "arnold_span": "B06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Never was there a time when I did not exist, nor you, nor these kings. And none of us will ever cease to be.",
+   "takeaway": "You are older than your birthday.",
+   "provenance": [
+    "sa:2:12",
+    "telang:T09",
+    "arnold:B06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:13",
+   "devanagari": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति",
+   "iast": "dehino'sminyathā dehe kaumāraṃ yauvanaṃ jarā |\ntathā dehāntaraprāptirdhīrastatra na muhyati",
+   "speaker": null,
+   "telang_context": "and you speak words of wisdom*. Learned men  grieve not for the living nor the dead. Never did  I not exist, nor you, nor these rulers of men ; nor  will any one of us ever hereafter cease to be. As  in this body, infancy and youth and old age (come)  to the embodied (self) so does the acquisition of  another body ; a sensible man is not deceived about  that. The contacts of the senses ®, O son of Kuntl !  which produce cold and heat, pleasure and pain, are  not permanent, they are for ever coming and going.  Bear them, O descendant of Bharata ! For, O chief  of men ! that sensible man whom they * afflict not,  (pain and pleasure being alike to him), he merits  immortality. There is no existence for that which  is unreal ; there is no non-existence for that which is  real. And the (correct) conclusion about both ® is  perceived by those who perceive the truth. Know  that to be indestructible which pervades all this ;  the destruction of that inexhaustible (principle) none  can bring about. These bodies appertaining to the  embodied (self) which is eternal, indestructible, and  indefinable, are declared to be perishable; therefore  do engage in battle, O descendant of Bharata ! He  who thinks one to be the killer and he who thinks",
+   "arnold_span": "B06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "As childhood, youth, and old age come to the body, so the self moves on to another body. Steady people are not confused by this.",
+   "takeaway": "Change of address, not end of story.",
+   "provenance": [
+    "sa:2:13",
+    "telang:T09",
+    "arnold:B06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:14",
+   "devanagari": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः ।\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत",
+   "iast": "mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ |\nāgamāpāyino'nityāstāṃstitikṣasva bhārata",
+   "speaker": null,
+   "telang_context": "and you speak words of wisdom*. Learned men  grieve not for the living nor the dead. Never did  I not exist, nor you, nor these rulers of men ; nor  will any one of us ever hereafter cease to be. As  in this body, infancy and youth and old age (come)  to the embodied (self) so does the acquisition of  another body ; a sensible man is not deceived about  that. The contacts of the senses ®, O son of Kuntl !  which produce cold and heat, pleasure and pain, are  not permanent, they are for ever coming and going.  Bear them, O descendant of Bharata ! For, O chief  of men ! that sensible man whom they * afflict not,  (pain and pleasure being alike to him), he merits  immortality. There is no existence for that which  is unreal ; there is no non-existence for that which is  real. And the (correct) conclusion about both ® is  perceived by those who perceive the truth. Know  that to be indestructible which pervades all this ;  the destruction of that inexhaustible (principle) none  can bring about. These bodies appertaining to the  embodied (self) which is eternal, indestructible, and  indefinable, are declared to be perishable; therefore  do engage in battle, O descendant of Bharata ! He  who thinks one to be the killer and he who thinks",
+   "arnold_span": "B06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Cold and heat, pleasure and pain come and go with the senses, Arjuna. They are not permanent — bear them.",
+   "takeaway": "Feelings are weather, not climate.",
+   "provenance": [
+    "sa:2:14",
+    "telang:T09",
+    "arnold:B06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:15",
+   "devanagari": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ ।\nसमदुःखसुखं धीरं सोऽमृतत्वाय कल्पते",
+   "iast": "yaṃ hi na vyathayantyete puruṣaṃ puruṣarṣabha |\nsamaduḥkhasukhaṃ dhīraṃ so'mṛtatvāya kalpate",
+   "speaker": null,
+   "telang_context": "and you speak words of wisdom*. Learned men  grieve not for the living nor the dead. Never did  I not exist, nor you, nor these rulers of men ; nor  will any one of us ever hereafter cease to be. As  in this body, infancy and youth and old age (come)  to the embodied (self) so does the acquisition of  another body ; a sensible man is not deceived about  that. The contacts of the senses ®, O son of Kuntl !  which produce cold and heat, pleasure and pain, are  not permanent, they are for ever coming and going.  Bear them, O descendant of Bharata ! For, O chief  of men ! that sensible man whom they * afflict not,  (pain and pleasure being alike to him), he merits  immortality. There is no existence for that which  is unreal ; there is no non-existence for that which is  real. And the (correct) conclusion about both ® is  perceived by those who perceive the truth. Know  that to be indestructible which pervades all this ;  the destruction of that inexhaustible (principle) none  can bring about. These bodies appertaining to the  embodied (self) which is eternal, indestructible, and  indefinable, are declared to be perishable; therefore  do engage in battle, O descendant of Bharata ! He  who thinks one to be the killer and he who thinks",
+   "arnold_span": "B06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The person these cannot shake — steady in pain and pleasure alike — is fit for deathlessness.",
+   "takeaway": "Steadiness is a superpower.",
+   "provenance": [
+    "sa:2:15",
+    "telang:T09",
+    "arnold:B06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:16",
+   "devanagari": "नासतो विद्यते भावो नाभावो विद्यते सतः ।\nउभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः",
+   "iast": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ |\nubhayorapi dṛṣṭo'ntastvanayostattvadarśibhiḥ",
+   "speaker": null,
+   "telang_context": "and you speak words of wisdom*. Learned men  grieve not for the living nor the dead. Never did  I not exist, nor you, nor these rulers of men ; nor  will any one of us ever hereafter cease to be. As  in this body, infancy and youth and old age (come)  to the embodied (self) so does the acquisition of  another body ; a sensible man is not deceived about  that. The contacts of the senses ®, O son of Kuntl !  which produce cold and heat, pleasure and pain, are  not permanent, they are for ever coming and going.  Bear them, O descendant of Bharata ! For, O chief  of men ! that sensible man whom they * afflict not,  (pain and pleasure being alike to him), he merits  immortality. There is no existence for that which  is unreal ; there is no non-existence for that which is  real. And the (correct) conclusion about both ® is  perceived by those who perceive the truth. Know  that to be indestructible which pervades all this ;  the destruction of that inexhaustible (principle) none  can bring about. These bodies appertaining to the  embodied (self) which is eternal, indestructible, and  indefinable, are declared to be perishable; therefore  do engage in battle, O descendant of Bharata ! He  who thinks one to be the killer and he who thinks",
+   "arnold_span": "B06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The unreal never truly is; the real never ceases to be. Those who see truth perceive both correctly.",
+   "takeaway": "Learn to tell the passing from the permanent.",
+   "provenance": [
+    "sa:2:16",
+    "telang:T09",
+    "arnold:B06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:17",
+   "devanagari": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् ।\nविनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति",
+   "iast": "avināśi tu tadviddhi yena sarvamidaṃ tatam |\nvināśamavyayasyāsya na kaścitkartumarhati",
+   "speaker": null,
+   "telang_context": "and you speak words of wisdom*. Learned men  grieve not for the living nor the dead. Never did  I not exist, nor you, nor these rulers of men ; nor  will any one of us ever hereafter cease to be. As  in this body, infancy and youth and old age (come)  to the embodied (self) so does the acquisition of  another body ; a sensible man is not deceived about  that. The contacts of the senses ®, O son of Kuntl !  which produce cold and heat, pleasure and pain, are  not permanent, they are for ever coming and going.  Bear them, O descendant of Bharata ! For, O chief  of men ! that sensible man whom they * afflict not,  (pain and pleasure being alike to him), he merits  immortality. There is no existence for that which  is unreal ; there is no non-existence for that which is  real. And the (correct) conclusion about both ® is  perceived by those who perceive the truth. Know  that to be indestructible which pervades all this ;  the destruction of that inexhaustible (principle) none  can bring about. These bodies appertaining to the  embodied (self) which is eternal, indestructible, and  indefinable, are declared to be perishable; therefore  do engage in battle, O descendant of Bharata ! He  who thinks one to be the killer and he who thinks",
+   "arnold_span": "B06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Know that which fills this whole world to be indestructible. No one can destroy the imperishable.",
+   "takeaway": "What is everywhere cannot be broken anywhere.",
+   "provenance": [
+    "sa:2:17",
+    "telang:T09",
+    "arnold:B06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:18",
+   "devanagari": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः ।\nअनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत",
+   "iast": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ |\nanāśino'prameyasya tasmādyudhyasva bhārata",
+   "speaker": null,
+   "telang_context": "and you speak words of wisdom*. Learned men  grieve not for the living nor the dead. Never did  I not exist, nor you, nor these rulers of men ; nor  will any one of us ever hereafter cease to be. As  in this body, infancy and youth and old age (come)  to the embodied (self) so does the acquisition of  another body ; a sensible man is not deceived about  that. The contacts of the senses ®, O son of Kuntl !  which produce cold and heat, pleasure and pain, are  not permanent, they are for ever coming and going.  Bear them, O descendant of Bharata ! For, O chief  of men ! that sensible man whom they * afflict not,  (pain and pleasure being alike to him), he merits  immortality. There is no existence for that which  is unreal ; there is no non-existence for that which is  real. And the (correct) conclusion about both ® is  perceived by those who perceive the truth. Know  that to be indestructible which pervades all this ;  the destruction of that inexhaustible (principle) none  can bring about. These bodies appertaining to the  embodied (self) which is eternal, indestructible, and  indefinable, are declared to be perishable; therefore  do engage in battle, O descendant of Bharata ! He  who thinks one to be the killer and he who thinks\n\nand you speak words of wisdom*. Learned men  grieve not for the living nor the dead. Never did  I not exist, nor you, nor these rulers of men ; nor  will any one of us ever hereafter cease to be. As  in this body, infancy and youth and old age (come)  to the embodied (self) so does the acquisition of  another body ; a sensible man is not deceived about  that. The contacts of the senses ®, O son of Kuntl !  which produce cold and heat, pleasure and pain, are  not permanent, they are for ever coming and going.  Bear them, O descendant of Bharata ! For, O chief  of men ! that sensible man whom they * afflict not,  (pain and pleasure being alike to him), he merits  immortality. There is no existence for that which  is unreal ; there is no non-existence for that which is  real. And the (correct) conclusion about both ® is  perceived by those who perceive the truth. Know  that to be indestructible which pervades all this ;  the destruction of that inexhaustible (principle) none  can bring about. These bodies appertaining to the  embodied (self) which is eternal, indestructible, and  indefinable, are declared to be perishable; therefore  do engage in battle, O descendant of Bharata ! He  who thinks one to be the killer and he who thinks",
+   "arnold_span": "B06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "These bodies, belonging to the eternal, indestructible, immeasurable self, must come to an end. So fight, Arjuna.",
+   "takeaway": "The conclusion lands like a hammer — on purpose.",
+   "provenance": [
+    "sa:2:18",
+    "telang:T09+T10-head",
+    "arnold:B06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:19",
+   "devanagari": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् ।\nउभौ तौ न विजानीतो नायं हन्ति न हन्यते",
+   "iast": "ya enaṃ vetti hantāraṃ yaścainaṃ manyate hatam |\nubhau tau na vijānīto nāyaṃ hanti na hanyate",
+   "speaker": null,
+   "telang_context": "and you speak words of wisdom*. Learned men  grieve not for the living nor the dead. Never did  I not exist, nor you, nor these rulers of men ; nor  will any one of us ever hereafter cease to be. As  in this body, infancy and youth and old age (come)  to the embodied (self) so does the acquisition of  another body ; a sensible man is not deceived about  that. The contacts of the senses ®, O son of Kuntl !  which produce cold and heat, pleasure and pain, are  not permanent, they are for ever coming and going.  Bear them, O descendant of Bharata ! For, O chief  of men ! that sensible man whom they * afflict not,  (pain and pleasure being alike to him), he merits  immortality. There is no existence for that which  is unreal ; there is no non-existence for that which is  real. And the (correct) conclusion about both ® is  perceived by those who perceive the truth. Know  that to be indestructible which pervades all this ;  the destruction of that inexhaustible (principle) none  can bring about. These bodies appertaining to the  embodied (self) which is eternal, indestructible, and  indefinable, are declared to be perishable; therefore  do engage in battle, O descendant of Bharata ! He  who thinks one to be the killer and he who thinks\n\none to be killed, both know nothing. He kills not,  is not killed^. He is not born, nor does he ever  die, nor, having existed, does he exist no more.  Unborn, everlasting, unchangeable, and very ancient,  he is not killed when the body is killed ^ O son of  PWthi ! how can that man who knows the self thus  to be indestructible, everlasting, unborn, and imperishable, kill any one, or cause any one to be  killed ? As a man, casting off old clothes, puts  on others and new ones, so the embodied (self),  casting off old bodies, goes to others and new ones.  Weapons do not divide the self (into pieces) ; fire  does not burn it ; waters do not moisten it ; the  wind does not dry it up. It is not divisible ; it is  not combustible ; it is not to be moistened ; it is  not to be dried up. It is everlasting, all-pervading,  stable, firm, and eternal®. It is said to be unpcrceived, to be unthinkable, to be unchangeable.  Therefore knowing it to be such, you ought not to  grieve. But even if you think that the self is constantly born, and constantly dies, still, O you of  mighty arms ! you ought not to grieve thus. For  to one that is born, death is certain ; and to one  that dies, birth is certain ■*. Therefore about (this)",
+   "arnold_span": "B06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Whoever thinks the self kills, and whoever thinks it is killed — both are wrong. It kills not, and is not killed.",
+   "takeaway": "The self is not the body. Sit with that.",
+   "provenance": [
+    "sa:2:19",
+    "telang:T10+T11-head",
+    "arnold:B06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:20",
+   "devanagari": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः ।\nअजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे",
+   "iast": "na jāyate mriyate vā kadācinnāyaṃ bhūtvā bhavitā vā na bhūyaḥ |\najo nityaḥ śāśvato'yaṃ purāṇo na hanyate hanyamāne śarīre",
+   "speaker": null,
+   "telang_context": "one to be killed, both know nothing. He kills not,  is not killed^. He is not born, nor does he ever  die, nor, having existed, does he exist no more.  Unborn, everlasting, unchangeable, and very ancient,  he is not killed when the body is killed ^ O son of  PWthi ! how can that man who knows the self thus  to be indestructible, everlasting, unborn, and imperishable, kill any one, or cause any one to be  killed ? As a man, casting off old clothes, puts  on others and new ones, so the embodied (self),  casting off old bodies, goes to others and new ones.  Weapons do not divide the self (into pieces) ; fire  does not burn it ; waters do not moisten it ; the  wind does not dry it up. It is not divisible ; it is  not combustible ; it is not to be moistened ; it is  not to be dried up. It is everlasting, all-pervading,  stable, firm, and eternal®. It is said to be unpcrceived, to be unthinkable, to be unchangeable.  Therefore knowing it to be such, you ought not to  grieve. But even if you think that the self is constantly born, and constantly dies, still, O you of  mighty arms ! you ought not to grieve thus. For  to one that is born, death is certain ; and to one  that dies, birth is certain ■*. Therefore about (this)",
+   "arnold_span": "B06",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "It is never born and never dies. Unborn, eternal, ancient — it is not killed when the body is killed.",
+   "takeaway": "Older than old.",
+   "provenance": [
+    "sa:2:20",
+    "telang:T11",
+    "arnold:B06-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:21",
+   "devanagari": "वेदाविनाशिनं नित्यं य एनमजमव्ययम् ।\nकथं स पुरुषः पार्थ कं घातयति हन्ति कम्",
+   "iast": "vedāvināśinaṃ nityaṃ ya enamajamavyayam |\nkathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam",
+   "speaker": null,
+   "telang_context": "one to be killed, both know nothing. He kills not,  is not killed^. He is not born, nor does he ever  die, nor, having existed, does he exist no more.  Unborn, everlasting, unchangeable, and very ancient,  he is not killed when the body is killed ^ O son of  PWthi ! how can that man who knows the self thus  to be indestructible, everlasting, unborn, and imperishable, kill any one, or cause any one to be  killed ? As a man, casting off old clothes, puts  on others and new ones, so the embodied (self),  casting off old bodies, goes to others and new ones.  Weapons do not divide the self (into pieces) ; fire  does not burn it ; waters do not moisten it ; the  wind does not dry it up. It is not divisible ; it is  not combustible ; it is not to be moistened ; it is  not to be dried up. It is everlasting, all-pervading,  stable, firm, and eternal®. It is said to be unpcrceived, to be unthinkable, to be unchangeable.  Therefore knowing it to be such, you ought not to  grieve. But even if you think that the self is constantly born, and constantly dies, still, O you of  mighty arms ! you ought not to grieve thus. For  to one that is born, death is certain ; and to one  that dies, birth is certain ■*. Therefore about (this)",
+   "arnold_span": "B07",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Know the self as indestructible, eternal, unborn, imperishable. Then ask: how could such a person kill — or cause killing?",
+   "takeaway": "Understanding changes what your hands can do.",
+   "provenance": [
+    "sa:2:21",
+    "telang:T11",
+    "arnold:B07"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:22",
+   "devanagari": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि ।\nतथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही",
+   "iast": "vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro'parāṇi |\ntathā śarīrāṇi vihāya jīrṇānyanyāni saṃyāti navāni dehī",
+   "speaker": null,
+   "telang_context": "one to be killed, both know nothing. He kills not,  is not killed^. He is not born, nor does he ever  die, nor, having existed, does he exist no more.  Unborn, everlasting, unchangeable, and very ancient,  he is not killed when the body is killed ^ O son of  PWthi ! how can that man who knows the self thus  to be indestructible, everlasting, unborn, and imperishable, kill any one, or cause any one to be  killed ? As a man, casting off old clothes, puts  on others and new ones, so the embodied (self),  casting off old bodies, goes to others and new ones.  Weapons do not divide the self (into pieces) ; fire  does not burn it ; waters do not moisten it ; the  wind does not dry it up. It is not divisible ; it is  not combustible ; it is not to be moistened ; it is  not to be dried up. It is everlasting, all-pervading,  stable, firm, and eternal®. It is said to be unpcrceived, to be unthinkable, to be unchangeable.  Therefore knowing it to be such, you ought not to  grieve. But even if you think that the self is constantly born, and constantly dies, still, O you of  mighty arms ! you ought not to grieve thus. For  to one that is born, death is certain ; and to one  that dies, birth is certain ■*. Therefore about (this)",
+   "arnold_span": "B08",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "A person drops worn-out clothes and puts on new ones. So the self drops worn-out bodies and enters new ones.",
+   "takeaway": "The most famous image in the book — and it earns it.",
+   "provenance": [
+    "sa:2:22",
+    "telang:T11",
+    "arnold:B08"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:23",
+   "devanagari": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः",
+   "iast": "nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ |\nna cainaṃ kledayantyāpo na śoṣayati mārutaḥ",
+   "speaker": null,
+   "telang_context": "one to be killed, both know nothing. He kills not,  is not killed^. He is not born, nor does he ever  die, nor, having existed, does he exist no more.  Unborn, everlasting, unchangeable, and very ancient,  he is not killed when the body is killed ^ O son of  PWthi ! how can that man who knows the self thus  to be indestructible, everlasting, unborn, and imperishable, kill any one, or cause any one to be  killed ? As a man, casting off old clothes, puts  on others and new ones, so the embodied (self),  casting off old bodies, goes to others and new ones.  Weapons do not divide the self (into pieces) ; fire  does not burn it ; waters do not moisten it ; the  wind does not dry it up. It is not divisible ; it is  not combustible ; it is not to be moistened ; it is  not to be dried up. It is everlasting, all-pervading,  stable, firm, and eternal®. It is said to be unpcrceived, to be unthinkable, to be unchangeable.  Therefore knowing it to be such, you ought not to  grieve. But even if you think that the self is constantly born, and constantly dies, still, O you of  mighty arms ! you ought not to grieve thus. For  to one that is born, death is certain ; and to one  that dies, birth is certain ■*. Therefore about (this)",
+   "arnold_span": "B09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Weapons cannot cut it, fire cannot burn it, water cannot wet it, wind cannot dry it.",
+   "takeaway": "List what cannot touch you. It is longer than you think.",
+   "provenance": [
+    "sa:2:23",
+    "telang:T11",
+    "arnold:B09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:24",
+   "devanagari": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च ।\nनित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः",
+   "iast": "acchedyo'yamadāhyo'yamakledyo'śoṣya eva ca |\nnityaḥ sarvagataḥ sthāṇuracalo'yaṃ sanātanaḥ",
+   "speaker": null,
+   "telang_context": "one to be killed, both know nothing. He kills not,  is not killed^. He is not born, nor does he ever  die, nor, having existed, does he exist no more.  Unborn, everlasting, unchangeable, and very ancient,  he is not killed when the body is killed ^ O son of  PWthi ! how can that man who knows the self thus  to be indestructible, everlasting, unborn, and imperishable, kill any one, or cause any one to be  killed ? As a man, casting off old clothes, puts  on others and new ones, so the embodied (self),  casting off old bodies, goes to others and new ones.  Weapons do not divide the self (into pieces) ; fire  does not burn it ; waters do not moisten it ; the  wind does not dry it up. It is not divisible ; it is  not combustible ; it is not to be moistened ; it is  not to be dried up. It is everlasting, all-pervading,  stable, firm, and eternal®. It is said to be unpcrceived, to be unthinkable, to be unchangeable.  Therefore knowing it to be such, you ought not to  grieve. But even if you think that the self is constantly born, and constantly dies, still, O you of  mighty arms ! you ought not to grieve thus. For  to one that is born, death is certain ; and to one  that dies, birth is certain ■*. Therefore about (this)",
+   "arnold_span": "B09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "It cannot be cut or burned. Not wetted or dried. It is eternal, everywhere, steady, firm, everlasting.",
+   "takeaway": "Five adjectives for what does not change; zero for what does. Notice the ratio.",
+   "provenance": [
+    "sa:2:24",
+    "telang:T11",
+    "arnold:B09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:25",
+   "devanagari": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते ।\nतस्मादेवं विदित्वैनं नानुशोचितुमर्हसि",
+   "iast": "avyakto'yamacintyo'yamavikāryo'yamucyate |\ntasmādevaṃ viditvainaṃ nānuśocitumarhasi",
+   "speaker": null,
+   "telang_context": "one to be killed, both know nothing. He kills not,  is not killed^. He is not born, nor does he ever  die, nor, having existed, does he exist no more.  Unborn, everlasting, unchangeable, and very ancient,  he is not killed when the body is killed ^ O son of  PWthi ! how can that man who knows the self thus  to be indestructible, everlasting, unborn, and imperishable, kill any one, or cause any one to be  killed ? As a man, casting off old clothes, puts  on others and new ones, so the embodied (self),  casting off old bodies, goes to others and new ones.  Weapons do not divide the self (into pieces) ; fire  does not burn it ; waters do not moisten it ; the  wind does not dry it up. It is not divisible ; it is  not combustible ; it is not to be moistened ; it is  not to be dried up. It is everlasting, all-pervading,  stable, firm, and eternal®. It is said to be unpcrceived, to be unthinkable, to be unchangeable.  Therefore knowing it to be such, you ought not to  grieve. But even if you think that the self is constantly born, and constantly dies, still, O you of  mighty arms ! you ought not to grieve thus. For  to one that is born, death is certain ; and to one  that dies, birth is certain ■*. Therefore about (this)",
+   "arnold_span": "B09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "It is called unperceived, unthinkable, unchanging. Knowing the self as such, you should not grieve.",
+   "takeaway": "Some things are understood by admitting they cannot be pictured.",
+   "provenance": [
+    "sa:2:25",
+    "telang:T11",
+    "arnold:B09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:26",
+   "devanagari": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।\nतथापि त्वं महाबाहो नैवं शोचितुमर्हसि",
+   "iast": "atha cainaṃ nityajātaṃ nityaṃ vā manyase mṛtam |\ntathāpi tvaṃ mahābāho naivaṃ śocitumarhasi",
+   "speaker": null,
+   "telang_context": "one to be killed, both know nothing. He kills not,  is not killed^. He is not born, nor does he ever  die, nor, having existed, does he exist no more.  Unborn, everlasting, unchangeable, and very ancient,  he is not killed when the body is killed ^ O son of  PWthi ! how can that man who knows the self thus  to be indestructible, everlasting, unborn, and imperishable, kill any one, or cause any one to be  killed ? As a man, casting off old clothes, puts  on others and new ones, so the embodied (self),  casting off old bodies, goes to others and new ones.  Weapons do not divide the self (into pieces) ; fire  does not burn it ; waters do not moisten it ; the  wind does not dry it up. It is not divisible ; it is  not combustible ; it is not to be moistened ; it is  not to be dried up. It is everlasting, all-pervading,  stable, firm, and eternal®. It is said to be unpcrceived, to be unthinkable, to be unchangeable.  Therefore knowing it to be such, you ought not to  grieve. But even if you think that the self is constantly born, and constantly dies, still, O you of  mighty arms ! you ought not to grieve thus. For  to one that is born, death is certain ; and to one  that dies, birth is certain ■*. Therefore about (this)",
+   "arnold_span": "B09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "But even if you think the self is constantly born and constantly dying — even then, you should not grieve.",
+   "takeaway": "Krishna argues the other side too. Steelman everything.",
+   "provenance": [
+    "sa:2:26",
+    "telang:T11",
+    "arnold:B09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:27",
+   "devanagari": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च ।\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि",
+   "iast": "jātasya hi dhruvo mṛtyurdhruvaṃ janma mṛtasya ca |\ntasmādaparihārye'rthe na tvaṃ śocitumarhasi",
+   "speaker": null,
+   "telang_context": "one to be killed, both know nothing. He kills not,  is not killed^. He is not born, nor does he ever  die, nor, having existed, does he exist no more.  Unborn, everlasting, unchangeable, and very ancient,  he is not killed when the body is killed ^ O son of  PWthi ! how can that man who knows the self thus  to be indestructible, everlasting, unborn, and imperishable, kill any one, or cause any one to be  killed ? As a man, casting off old clothes, puts  on others and new ones, so the embodied (self),  casting off old bodies, goes to others and new ones.  Weapons do not divide the self (into pieces) ; fire  does not burn it ; waters do not moisten it ; the  wind does not dry it up. It is not divisible ; it is  not combustible ; it is not to be moistened ; it is  not to be dried up. It is everlasting, all-pervading,  stable, firm, and eternal®. It is said to be unpcrceived, to be unthinkable, to be unchangeable.  Therefore knowing it to be such, you ought not to  grieve. But even if you think that the self is constantly born, and constantly dies, still, O you of  mighty arms ! you ought not to grieve thus. For  to one that is born, death is certain ; and to one  that dies, birth is certain ■*. Therefore about (this)\n\nunavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.",
+   "arnold_span": "B09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "For to one that is born, death is certain; and to one that dies, birth is certain. So for what cannot be avoided, you should not grieve.",
+   "takeaway": "Grief over the inevitable is optional suffering.",
+   "provenance": [
+    "sa:2:27",
+    "telang:T11+T12-head",
+    "arnold:B09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:28",
+   "devanagari": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत ।\nअव्यक्तनिधनान्येव तत्र का परिदेवना",
+   "iast": "avyaktādīni bhūtāni vyaktamadhyāni bhārata |\navyaktanidhanānyeva tatra kā paridevanā",
+   "speaker": null,
+   "telang_context": "unavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.",
+   "arnold_span": "B09",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "All beings begin unseen, appear in the middle, and end unseen. What is there to mourn in that?",
+   "takeaway": "The visible part was always the middle.",
+   "provenance": [
+    "sa:2:28",
+    "telang:T12",
+    "arnold:B09-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:29",
+   "devanagari": "आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्यः ।\nआश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाप्येनं वेद न चैव कश्चित्",
+   "iast": "āścaryavatpaśyati kaścidenamāścaryavadvadati tathaiva cānyaḥ |\nāścaryavaccainamanyaḥ śṛṇoti śrutvāpyenaṃ veda na caiva kaścit",
+   "speaker": null,
+   "telang_context": "unavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.",
+   "arnold_span": "B10",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "One person sees the self as a wonder. Another speaks of it as a wonder. A third hears of it as a wonder. And even hearing it, no one truly knows it.",
+   "takeaway": "The deepest things stay strange. That is fine.",
+   "provenance": [
+    "sa:2:29",
+    "telang:T12",
+    "arnold:B10"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:30",
+   "devanagari": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत ।\nतस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि",
+   "iast": "dehī nityamavadhyo'yaṃ dehe sarvasya bhārata |\ntasmātsarvāṇi bhūtāni na tvaṃ śocitumarhasi",
+   "speaker": null,
+   "telang_context": "unavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.",
+   "arnold_span": "B11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The self dwelling in every body can never be killed. So grieve for no being.",
+   "takeaway": "The argument closes where it opened — with grief itself.",
+   "provenance": [
+    "sa:2:30",
+    "telang:T12",
+    "arnold:B11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:31",
+   "devanagari": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि ।\nधर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते",
+   "iast": "svadharmamapi cāvekṣya na vikampitumarhasi |\ndharmyāddhi yuddhācchreyo'nyatkṣatriyasya na vidyate",
+   "speaker": null,
+   "telang_context": "unavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.",
+   "arnold_span": "B11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Looking to your own duty as well, you must not waver. For a warrior, nothing is better than a righteous battle.",
+   "takeaway": "Duty is not passion — it is assignment.",
+   "provenance": [
+    "sa:2:31",
+    "telang:T12",
+    "arnold:B11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:32",
+   "devanagari": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् ।\nसुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्",
+   "iast": "yadṛcchayā copapannaṃ svargadvāramapāvṛtam |\nsukhinaḥ kṣatriyāḥ pārtha labhante yuddhamīdṛśam",
+   "speaker": null,
+   "telang_context": "unavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.",
+   "arnold_span": "B11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Happy are the warriors who find such a battle come of itself — an open door to heaven.",
+   "takeaway": "Rare chances are doors. Walk through.",
+   "provenance": [
+    "sa:2:32",
+    "telang:T12",
+    "arnold:B11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:33",
+   "devanagari": "अथ चेत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि ।\nततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि",
+   "iast": "atha cettvamimaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi |\ntataḥ svadharmaṃ kīrtiṃ ca hitvā pāpamavāpsyasi",
+   "speaker": null,
+   "telang_context": "unavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.",
+   "arnold_span": "B11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "But if you refuse this righteous battle, you abandon duty and honor — and take on sin.",
+   "takeaway": "Refusal is also a choice, with its own bill.",
+   "provenance": [
+    "sa:2:33",
+    "telang:T12",
+    "arnold:B11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:34",
+   "devanagari": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् ।\nसम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते",
+   "iast": "akīrtiṃ cāpi bhūtāni kathayiṣyanti te'vyayām |\nsambhāvitasya cākīrtirmaraṇādatiricyate",
+   "speaker": null,
+   "telang_context": "unavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.",
+   "arnold_span": "B11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "All beings will tell of your lasting shame. And for an honored person, shame is worse than death.",
+   "takeaway": "Reputation is currency. Spend it knowingly.",
+   "provenance": [
+    "sa:2:34",
+    "telang:T12",
+    "arnold:B11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:35",
+   "devanagari": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः ।\nयेषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम्",
+   "iast": "bhayādraṇāduparataṃ maṃsyante tvāṃ mahārathāḥ |\nyeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam",
+   "speaker": null,
+   "telang_context": "unavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.",
+   "arnold_span": "B11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The great warriors will think you fled from fear. Fallen from their esteem, you will sink low.",
+   "takeaway": "Cowardice has compound interest.",
+   "provenance": [
+    "sa:2:35",
+    "telang:T12",
+    "arnold:B11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:36",
+   "devanagari": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः ।\nनिन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम्",
+   "iast": "avācyavādāṃśca bahūnvadiṣyanti tavāhitāḥ |\nnindantastava sāmarthyaṃ tato duḥkhataraṃ nu kim",
+   "speaker": null,
+   "telang_context": "unavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.",
+   "arnold_span": "B11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Your enemies will mock your strength with cruel words. What could hurt more than that?",
+   "takeaway": "He counts the cost of walking away, rupee by rupee.",
+   "provenance": [
+    "sa:2:36",
+    "telang:T12+T13-head",
+    "arnold:B11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:37",
+   "devanagari": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् ।\nतस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः",
+   "iast": "hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm |\ntasmāduttiṣṭha kaunteya yuddhāya kṛtaniścayaḥ",
+   "speaker": null,
+   "telang_context": "unavoidable thing, you ought not to grieve. The  source of things, O descendant of Bharata ! is im-  ■ perceived ; their middle state is perceived ; and their  end again is unperceived. What (occasion is there  for any) lamentation regarding them ' ? One looks  upon it ^ as a wonder ; another similarly speaks of  it as a wonder ; another too hears of it as a wonder ;  and even after having heard of it, no one does  really know it ®. This embodied (self), O descendant  of Bharata ! within every one’s body is ever indestructible. Therefore you ought not to grieve  for any being. Having regard to your own duty  also, you ought not to falter, for there is nothing  better for a Kshatriya * than a righteous battle.  Happy those Kshatriyas; O son of P/'/'tha! who  can find such a battle (to fight) — come of itself \"’ —  an open door to heaven ! But if you will not fight  this righteous battle, then you will have abandoned  your own duty and your fame, and you will incur  sin. All beings, too, will tell of your everla.sting  infamy ; and to one who has been honoured, infamy  is (a) greater (evil) than death. (Warriors who are)  masters of great cars will think that you abstained  from the battle through fear, and having been highly  thought of by them, you will fall down to littleness.  Your enemies, too, decrying your power, will speak  much about you that .should not be spokeg. And  what, indeed, more lamcntoble than that ? Killed.\n\nyou will obtain heaven; victorious, you will enjoy  the earth. Therefore arise, O son of Kunti! resolved to (engage in) battle. Looking on pleasure  and pain, on gain and loss, on victory and defeat  as the same, prepare for battle, and thus you will  not incur sin. The knowledge here declared to you  is that relating to the Sdhkhya ^ Now hear that  relating to the Y oga. Possessed of this knowledge,  0 sen of P;Vthd ! you will cast off the bonds of  action. In this (path to final emancipation) nothing  that is commenced becomes abortive ; no obstacles  exist ; and even a little of this (form of) piety protects one from great danger K There is here \\  O descendant of Kuril ! but one state of mind consisting in firm understanding. But the states of  mind of those who have no firm understanding are  manifold and endless. The state of mind which  consists in firm understanding regarding steady contemplation * does not belong to those, O son of  Pr/’thd ! who are strongly attached to (worldly)  pleasures and power, and whose minds are drawn  away by that flowery talk which is full of (the  ordinances of) specific acts for the attainment of  (those) pleasures and (that) power, and which promises birth as the fruit of acts ® — (that flowery",
+   "arnold_span": "B11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Killed, you win heaven; victorious, you enjoy the earth. So rise up, determined to fight.",
+   "takeaway": "Both outcomes honored. Only standing still is shameful.",
+   "provenance": [
+    "sa:2:37",
+    "telang:T13+T14-head",
+    "arnold:B11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:38",
+   "devanagari": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ ।\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि",
+   "iast": "sukhaduḥkhe same kṛtvā lābhālābhau jayājayau |\ntato yuddhāya yujyasva naivaṃ pāpamavāpsyasi",
+   "speaker": null,
+   "telang_context": "you will obtain heaven; victorious, you will enjoy  the earth. Therefore arise, O son of Kunti! resolved to (engage in) battle. Looking on pleasure  and pain, on gain and loss, on victory and defeat  as the same, prepare for battle, and thus you will  not incur sin. The knowledge here declared to you  is that relating to the Sdhkhya ^ Now hear that  relating to the Y oga. Possessed of this knowledge,  0 sen of P;Vthd ! you will cast off the bonds of  action. In this (path to final emancipation) nothing  that is commenced becomes abortive ; no obstacles  exist ; and even a little of this (form of) piety protects one from great danger K There is here \\  O descendant of Kuril ! but one state of mind consisting in firm understanding. But the states of  mind of those who have no firm understanding are  manifold and endless. The state of mind which  consists in firm understanding regarding steady contemplation * does not belong to those, O son of  Pr/’thd ! who are strongly attached to (worldly)  pleasures and power, and whose minds are drawn  away by that flowery talk which is full of (the  ordinances of) specific acts for the attainment of  (those) pleasures and (that) power, and which promises birth as the fruit of acts ® — (that flowery",
+   "arnold_span": "B11",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Treating pleasure and pain, gain and loss, victory and defeat as the same, fight — and you will incur no sin.",
+   "takeaway": "The equation that runs the whole book.",
+   "provenance": [
+    "sa:2:38",
+    "telang:T14",
+    "arnold:B11-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:39",
+   "devanagari": "एषा तेऽभिहिता सांख्ये बुद्धिर्योगे त्विमां शृणु ।\nबुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि",
+   "iast": "eṣā te'bhihitā sāṃkhye buddhiryoge tvimāṃ śṛṇu |\nbuddhyā yukto yayā pārtha karmabandhaṃ prahāsyasi",
+   "speaker": null,
+   "telang_context": "you will obtain heaven; victorious, you will enjoy  the earth. Therefore arise, O son of Kunti! resolved to (engage in) battle. Looking on pleasure  and pain, on gain and loss, on victory and defeat  as the same, prepare for battle, and thus you will  not incur sin. The knowledge here declared to you  is that relating to the Sdhkhya ^ Now hear that  relating to the Y oga. Possessed of this knowledge,  0 sen of P;Vthd ! you will cast off the bonds of  action. In this (path to final emancipation) nothing  that is commenced becomes abortive ; no obstacles  exist ; and even a little of this (form of) piety protects one from great danger K There is here \\  O descendant of Kuril ! but one state of mind consisting in firm understanding. But the states of  mind of those who have no firm understanding are  manifold and endless. The state of mind which  consists in firm understanding regarding steady contemplation * does not belong to those, O son of  Pr/’thd ! who are strongly attached to (worldly)  pleasures and power, and whose minds are drawn  away by that flowery talk which is full of (the  ordinances of) specific acts for the attainment of  (those) pleasures and (that) power, and which promises birth as the fruit of acts ® — (that flowery",
+   "arnold_span": "B12",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "This wisdom of understanding has been taught to you. Now hear the wisdom of discipline — holding it, you will break the bonds of action.",
+   "takeaway": "Two paths, one destination.",
+   "provenance": [
+    "sa:2:39",
+    "telang:T14",
+    "arnold:B12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:40",
+   "devanagari": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते ।\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्",
+   "iast": "nehābhikramanāśo'sti pratyavāyo na vidyate |\nsvalpamapyasya dharmasya trāyate mahato bhayāt",
+   "speaker": null,
+   "telang_context": "you will obtain heaven; victorious, you will enjoy  the earth. Therefore arise, O son of Kunti! resolved to (engage in) battle. Looking on pleasure  and pain, on gain and loss, on victory and defeat  as the same, prepare for battle, and thus you will  not incur sin. The knowledge here declared to you  is that relating to the Sdhkhya ^ Now hear that  relating to the Y oga. Possessed of this knowledge,  0 sen of P;Vthd ! you will cast off the bonds of  action. In this (path to final emancipation) nothing  that is commenced becomes abortive ; no obstacles  exist ; and even a little of this (form of) piety protects one from great danger K There is here \\  O descendant of Kuril ! but one state of mind consisting in firm understanding. But the states of  mind of those who have no firm understanding are  manifold and endless. The state of mind which  consists in firm understanding regarding steady contemplation * does not belong to those, O son of  Pr/’thd ! who are strongly attached to (worldly)  pleasures and power, and whose minds are drawn  away by that flowery talk which is full of (the  ordinances of) specific acts for the attainment of  (those) pleasures and (that) power, and which promises birth as the fruit of acts ® — (that flowery",
+   "arnold_span": "B12",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "On this path no effort is wasted and no obstacle exists. Even a little of this discipline saves you from great fear.",
+   "takeaway": "Small steps count in full.",
+   "provenance": [
+    "sa:2:40",
+    "telang:T14",
+    "arnold:B12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:41",
+   "devanagari": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन ।\nबहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम्",
+   "iast": "vyavasāyātmikā buddhirekeha kurunandana |\nbahuśākhā hyanantāśca buddhayo'vyavasāyinām",
+   "speaker": null,
+   "telang_context": "you will obtain heaven; victorious, you will enjoy  the earth. Therefore arise, O son of Kunti! resolved to (engage in) battle. Looking on pleasure  and pain, on gain and loss, on victory and defeat  as the same, prepare for battle, and thus you will  not incur sin. The knowledge here declared to you  is that relating to the Sdhkhya ^ Now hear that  relating to the Y oga. Possessed of this knowledge,  0 sen of P;Vthd ! you will cast off the bonds of  action. In this (path to final emancipation) nothing  that is commenced becomes abortive ; no obstacles  exist ; and even a little of this (form of) piety protects one from great danger K There is here \\  O descendant of Kuril ! but one state of mind consisting in firm understanding. But the states of  mind of those who have no firm understanding are  manifold and endless. The state of mind which  consists in firm understanding regarding steady contemplation * does not belong to those, O son of  Pr/’thd ! who are strongly attached to (worldly)  pleasures and power, and whose minds are drawn  away by that flowery talk which is full of (the  ordinances of) specific acts for the attainment of  (those) pleasures and (that) power, and which promises birth as the fruit of acts ® — (that flowery",
+   "arnold_span": "B12",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Here there is one firm resolve. The thoughts of the irresolute branch endlessly.",
+   "takeaway": "One pointed mind beats a hundred clever ones.",
+   "provenance": [
+    "sa:2:41",
+    "telang:T14",
+    "arnold:B12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:42",
+   "devanagari": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः ।\nवेदवादरताः पार्थ नान्यदस्तीति वादिनः",
+   "iast": "yāmimāṃ puṣpitāṃ vācaṃ pravadantyavipaścitaḥ |\nvedavādaratāḥ pārtha nānyadastīti vādinaḥ",
+   "speaker": null,
+   "telang_context": "you will obtain heaven; victorious, you will enjoy  the earth. Therefore arise, O son of Kunti! resolved to (engage in) battle. Looking on pleasure  and pain, on gain and loss, on victory and defeat  as the same, prepare for battle, and thus you will  not incur sin. The knowledge here declared to you  is that relating to the Sdhkhya ^ Now hear that  relating to the Y oga. Possessed of this knowledge,  0 sen of P;Vthd ! you will cast off the bonds of  action. In this (path to final emancipation) nothing  that is commenced becomes abortive ; no obstacles  exist ; and even a little of this (form of) piety protects one from great danger K There is here \\  O descendant of Kuril ! but one state of mind consisting in firm understanding. But the states of  mind of those who have no firm understanding are  manifold and endless. The state of mind which  consists in firm understanding regarding steady contemplation * does not belong to those, O son of  Pr/’thd ! who are strongly attached to (worldly)  pleasures and power, and whose minds are drawn  away by that flowery talk which is full of (the  ordinances of) specific acts for the attainment of  (those) pleasures and (that) power, and which promises birth as the fruit of acts ® — (that flowery\n\ntalk) which those unwise ones utter, who are enamoured of Vedic words, who say there is nothing  else, who are full of desires, and whose goal is  heaven \\ The Vedas (merely) relate to the effects  of the three qualities*; do you, O Ar^ma! rise  above those effects of the three qualities, and be  free from the pairs of opposites ®, always preserve  courage *, be free from anxiety for new acquisitions  or protection of old acquisitions, and be self-controlled®. To the instructed BrAhma«a, there is in  all the Vedas as much utility as in a reservoir of  water into which waters flow from all sides®. Your  business is with action alone ; not by any means  with fruit. Let not the fruit of action be your  motive (to action). Let not your attachment be  (fixed) on inaction \\ Having recourse to devotion,  O Dhanawfaya ! perform actions, casting off (all)  attachment, and being equable in success or illsuccess; (such) equabilityns called devotion. Action,",
+   "arnold_span": "B12",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The unwise love flowery Vedic phrases. They promise heaven and declare nothing else exists.",
+   "takeaway": "Beware beautiful words that end thinking.",
+   "provenance": [
+    "sa:2:42",
+    "telang:T14+T15-head",
+    "arnold:B12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:43",
+   "devanagari": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् ।\nक्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति",
+   "iast": "kāmātmānaḥ svargaparā janmakarmaphalapradām |\nkriyāviśeṣabahulāṃ bhogaiśvaryagatiṃ prati",
+   "speaker": null,
+   "telang_context": "talk) which those unwise ones utter, who are enamoured of Vedic words, who say there is nothing  else, who are full of desires, and whose goal is  heaven \\ The Vedas (merely) relate to the effects  of the three qualities*; do you, O Ar^ma! rise  above those effects of the three qualities, and be  free from the pairs of opposites ®, always preserve  courage *, be free from anxiety for new acquisitions  or protection of old acquisitions, and be self-controlled®. To the instructed BrAhma«a, there is in  all the Vedas as much utility as in a reservoir of  water into which waters flow from all sides®. Your  business is with action alone ; not by any means  with fruit. Let not the fruit of action be your  motive (to action). Let not your attachment be  (fixed) on inaction \\ Having recourse to devotion,  O Dhanawfaya ! perform actions, casting off (all)  attachment, and being equable in success or illsuccess; (such) equabilityns called devotion. Action,",
+   "arnold_span": "B12",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Full of desires, heaven-bent, promising rebirth as the fruit of rites.",
+   "takeaway": "Wanting heaven can be its own trap.",
+   "provenance": [
+    "sa:2:43",
+    "telang:T15",
+    "arnold:B12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:44",
+   "devanagari": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् ।\nव्यवसायात्मिका बुद्धिः समाधौ न विधीयते",
+   "iast": "bhogaiśvaryaprasaktānāṃ tayāpahṛtacetasām |\nvyavasāyātmikā buddhiḥ samādhau na vidhīyate",
+   "speaker": null,
+   "telang_context": "you will obtain heaven; victorious, you will enjoy  the earth. Therefore arise, O son of Kunti! resolved to (engage in) battle. Looking on pleasure  and pain, on gain and loss, on victory and defeat  as the same, prepare for battle, and thus you will  not incur sin. The knowledge here declared to you  is that relating to the Sdhkhya ^ Now hear that  relating to the Y oga. Possessed of this knowledge,  0 sen of P;Vthd ! you will cast off the bonds of  action. In this (path to final emancipation) nothing  that is commenced becomes abortive ; no obstacles  exist ; and even a little of this (form of) piety protects one from great danger K There is here \\  O descendant of Kuril ! but one state of mind consisting in firm understanding. But the states of  mind of those who have no firm understanding are  manifold and endless. The state of mind which  consists in firm understanding regarding steady contemplation * does not belong to those, O son of  Pr/’thd ! who are strongly attached to (worldly)  pleasures and power, and whose minds are drawn  away by that flowery talk which is full of (the  ordinances of) specific acts for the attainment of  (those) pleasures and (that) power, and which promises birth as the fruit of acts ® — (that flowery",
+   "arnold_span": "B12",
+   "arnold_shared": true,
+   "align_notes": "Shares one flowing sentence with the 2:42 span (Telang renders 2:44's clause inside the flowery-talk sentence); both verses cite it.",
+   "meaning_simple": "Attached to pleasures and power, their minds stolen by such talk — they never reach steady resolve.",
+   "takeaway": "Wanting everything is how you hold nothing.",
+   "provenance": [
+    "sa:2:44",
+    "telang:T14-tail+T15-head",
+    "arnold:B12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:45",
+   "devanagari": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन ।\nनिर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान्",
+   "iast": "traiguṇyaviṣayā vedā nistraiguṇyo bhavārjuna |\nnirdvandvo nityasattvastho niryogakṣema ātmavān",
+   "speaker": null,
+   "telang_context": "talk) which those unwise ones utter, who are enamoured of Vedic words, who say there is nothing  else, who are full of desires, and whose goal is  heaven \\ The Vedas (merely) relate to the effects  of the three qualities*; do you, O Ar^ma! rise  above those effects of the three qualities, and be  free from the pairs of opposites ®, always preserve  courage *, be free from anxiety for new acquisitions  or protection of old acquisitions, and be self-controlled®. To the instructed BrAhma«a, there is in  all the Vedas as much utility as in a reservoir of  water into which waters flow from all sides®. Your  business is with action alone ; not by any means  with fruit. Let not the fruit of action be your  motive (to action). Let not your attachment be  (fixed) on inaction \\ Having recourse to devotion,  O Dhanawfaya ! perform actions, casting off (all)  attachment, and being equable in success or illsuccess; (such) equabilityns called devotion. Action,",
+   "arnold_span": "B12",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The Vedas deal with nature's three qualities. Rise above them, Arjuna — beyond opposites, steady, self-possessed.",
+   "takeaway": "Transcend the categories; do not redecorate them.",
+   "provenance": [
+    "sa:2:45",
+    "telang:T15",
+    "arnold:B12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:46",
+   "devanagari": "यावानर्थ उदपाने सर्वतः संप्लुतोदके ।\nतावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः",
+   "iast": "yāvānartha udapāne sarvataḥ saṃplutodake |\ntāvānsarveṣu vedeṣu brāhmaṇasya vijānataḥ",
+   "speaker": null,
+   "telang_context": "talk) which those unwise ones utter, who are enamoured of Vedic words, who say there is nothing  else, who are full of desires, and whose goal is  heaven \\ The Vedas (merely) relate to the effects  of the three qualities*; do you, O Ar^ma! rise  above those effects of the three qualities, and be  free from the pairs of opposites ®, always preserve  courage *, be free from anxiety for new acquisitions  or protection of old acquisitions, and be self-controlled®. To the instructed BrAhma«a, there is in  all the Vedas as much utility as in a reservoir of  water into which waters flow from all sides®. Your  business is with action alone ; not by any means  with fruit. Let not the fruit of action be your  motive (to action). Let not your attachment be  (fixed) on inaction \\ Having recourse to devotion,  O Dhanawfaya ! perform actions, casting off (all)  attachment, and being equable in success or illsuccess; (such) equabilityns called devotion. Action,",
+   "arnold_span": "B12",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "To the knower, all the Vedas are as useful as a water tank in a flooded land.",
+   "takeaway": "Outgrow the map once you have seen the territory.",
+   "provenance": [
+    "sa:2:46",
+    "telang:T15",
+    "arnold:B12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:47",
+   "devanagari": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि",
+   "iast": "karmaṇyevādhikāraste mā phaleṣu kadācana |\nmā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi",
+   "speaker": null,
+   "telang_context": "talk) which those unwise ones utter, who are enamoured of Vedic words, who say there is nothing  else, who are full of desires, and whose goal is  heaven \\ The Vedas (merely) relate to the effects  of the three qualities*; do you, O Ar^ma! rise  above those effects of the three qualities, and be  free from the pairs of opposites ®, always preserve  courage *, be free from anxiety for new acquisitions  or protection of old acquisitions, and be self-controlled®. To the instructed BrAhma«a, there is in  all the Vedas as much utility as in a reservoir of  water into which waters flow from all sides®. Your  business is with action alone ; not by any means  with fruit. Let not the fruit of action be your  motive (to action). Let not your attachment be  (fixed) on inaction \\ Having recourse to devotion,  O Dhanawfaya ! perform actions, casting off (all)  attachment, and being equable in success or illsuccess; (such) equabilityns called devotion. Action,",
+   "arnold_span": "B12",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Your right is to action alone, never to its fruits. Never let results be your motive — and never sit idle either.",
+   "takeaway": "THE verse. Act fully, clutch nothing.",
+   "provenance": [
+    "sa:2:47",
+    "telang:T15",
+    "arnold:B12-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:48",
+   "devanagari": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनंजय ।\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते",
+   "iast": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanaṃjaya |\nsiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate",
+   "speaker": null,
+   "telang_context": "talk) which those unwise ones utter, who are enamoured of Vedic words, who say there is nothing  else, who are full of desires, and whose goal is  heaven \\ The Vedas (merely) relate to the effects  of the three qualities*; do you, O Ar^ma! rise  above those effects of the three qualities, and be  free from the pairs of opposites ®, always preserve  courage *, be free from anxiety for new acquisitions  or protection of old acquisitions, and be self-controlled®. To the instructed BrAhma«a, there is in  all the Vedas as much utility as in a reservoir of  water into which waters flow from all sides®. Your  business is with action alone ; not by any means  with fruit. Let not the fruit of action be your  motive (to action). Let not your attachment be  (fixed) on inaction \\ Having recourse to devotion,  O Dhanawfaya ! perform actions, casting off (all)  attachment, and being equable in success or illsuccess; (such) equabilityns called devotion. Action,\n\nO Dhanaw^ya! is far inferior to the devotion of  the mind. In that devotion seek shelter. Wretched  are those whose motive (to action) is the fruit (of  action). He who has obtained devotion in this  world casts off both merit and sin h Therefore  apply yourself to devotion ; devotion in (all) actions  is wisdom. The wise who have obtained devotion  cast off the fruit of action ; and released from the  shackles of (repeated) births®, repair to that seat  where there is no unhappiness When your mind  shall have crossed beyond the taint of delusion, then  will you become indifferent to all that you have  heard ,or will hear •*. When your mind, that was  confounded by what you have heard®, will stand  firm and steady in contemplation®, then will you  acquire devotion.",
+   "arnold_span": "B12",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Established in discipline, do your work, dropping attachment. Steadiness in success and failure — that steadiness is discipline.",
+   "takeaway": "Discipline, defined in one line.",
+   "provenance": [
+    "sa:2:48",
+    "telang:T15+T16-head",
+    "arnold:B12-shared+B13-head"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:49",
+   "devanagari": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनंजय ।\nबुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः",
+   "iast": "dūreṇa hyavaraṃ karma buddhiyogāddhanaṃjaya |\nbuddhau śaraṇamanviccha kṛpaṇāḥ phalahetavaḥ",
+   "speaker": null,
+   "telang_context": "O Dhanaw^ya! is far inferior to the devotion of  the mind. In that devotion seek shelter. Wretched  are those whose motive (to action) is the fruit (of  action). He who has obtained devotion in this  world casts off both merit and sin h Therefore  apply yourself to devotion ; devotion in (all) actions  is wisdom. The wise who have obtained devotion  cast off the fruit of action ; and released from the  shackles of (repeated) births®, repair to that seat  where there is no unhappiness When your mind  shall have crossed beyond the taint of delusion, then  will you become indifferent to all that you have  heard ,or will hear •*. When your mind, that was  confounded by what you have heard®, will stand  firm and steady in contemplation®, then will you  acquire devotion.",
+   "arnold_span": "B13",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Action done for gain sits far below the discipline of understanding. Take shelter in understanding. The profit-hunters are pitiful.",
+   "takeaway": "Work for wages, or work for wisdom. Know which.",
+   "provenance": [
+    "sa:2:49",
+    "telang:T16",
+    "arnold:B13-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:50",
+   "devanagari": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते ।\nतस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्",
+   "iast": "buddhiyukto jahātīha ubhe sukṛtaduṣkṛte |\ntasmādyogāya yujyasva yogaḥ karmasu kauśalam",
+   "speaker": null,
+   "telang_context": "O Dhanaw^ya! is far inferior to the devotion of  the mind. In that devotion seek shelter. Wretched  are those whose motive (to action) is the fruit (of  action). He who has obtained devotion in this  world casts off both merit and sin h Therefore  apply yourself to devotion ; devotion in (all) actions  is wisdom. The wise who have obtained devotion  cast off the fruit of action ; and released from the  shackles of (repeated) births®, repair to that seat  where there is no unhappiness When your mind  shall have crossed beyond the taint of delusion, then  will you become indifferent to all that you have  heard ,or will hear •*. When your mind, that was  confounded by what you have heard®, will stand  firm and steady in contemplation®, then will you  acquire devotion.",
+   "arnold_span": "B13",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Joined to understanding, one drops both good and bad deeds here. So devote yourself to discipline — skill in action is discipline.",
+   "takeaway": "Skill plus detachment. That is the whole formula.",
+   "provenance": [
+    "sa:2:50",
+    "telang:T16",
+    "arnold:B13-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:51",
+   "devanagari": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः ।\nजन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्",
+   "iast": "karmajaṃ buddhiyuktā hi phalaṃ tyaktvā manīṣiṇaḥ |\njanmabandhavinirmuktāḥ padaṃ gacchantyanāmayam",
+   "speaker": null,
+   "telang_context": "O Dhanaw^ya! is far inferior to the devotion of  the mind. In that devotion seek shelter. Wretched  are those whose motive (to action) is the fruit (of  action). He who has obtained devotion in this  world casts off both merit and sin h Therefore  apply yourself to devotion ; devotion in (all) actions  is wisdom. The wise who have obtained devotion  cast off the fruit of action ; and released from the  shackles of (repeated) births®, repair to that seat  where there is no unhappiness When your mind  shall have crossed beyond the taint of delusion, then  will you become indifferent to all that you have  heard ,or will hear •*. When your mind, that was  confounded by what you have heard®, will stand  firm and steady in contemplation®, then will you  acquire devotion.",
+   "arnold_span": "B13",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The wise join themselves to understanding. They drop the fruits of action. They walk free of rebirth's chains, to the place beyond sorrow.",
+   "takeaway": "The destination has a name: beyond sorrow.",
+   "provenance": [
+    "sa:2:51",
+    "telang:T16",
+    "arnold:B13-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:52",
+   "devanagari": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति ।\nतदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च",
+   "iast": "yadā te mohakalilaṃ buddhirvyatitariṣyati |\ntadā gantāsi nirvedaṃ śrotavyasya śrutasya ca",
+   "speaker": null,
+   "telang_context": "O Dhanaw^ya! is far inferior to the devotion of  the mind. In that devotion seek shelter. Wretched  are those whose motive (to action) is the fruit (of  action). He who has obtained devotion in this  world casts off both merit and sin h Therefore  apply yourself to devotion ; devotion in (all) actions  is wisdom. The wise who have obtained devotion  cast off the fruit of action ; and released from the  shackles of (repeated) births®, repair to that seat  where there is no unhappiness When your mind  shall have crossed beyond the taint of delusion, then  will you become indifferent to all that you have  heard ,or will hear •*. When your mind, that was  confounded by what you have heard®, will stand  firm and steady in contemplation®, then will you  acquire devotion.",
+   "arnold_span": "B13",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "When your understanding crosses past confusion, you will turn indifferent. Indifferent to everything heard — or yet to be heard.",
+   "takeaway": "Outgrow even the scriptures — it says so itself.",
+   "provenance": [
+    "sa:2:52",
+    "telang:T16",
+    "arnold:B13-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:53",
+   "devanagari": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला ।\nसमाधावचला बुद्धिस्तदा योगमवाप्स्यसि",
+   "iast": "śrutivipratipannā te yadā sthāsyati niścalā |\nsamādhāvacalā buddhistadā yogamavāpsyasi",
+   "speaker": null,
+   "telang_context": "O Dhanaw^ya! is far inferior to the devotion of  the mind. In that devotion seek shelter. Wretched  are those whose motive (to action) is the fruit (of  action). He who has obtained devotion in this  world casts off both merit and sin h Therefore  apply yourself to devotion ; devotion in (all) actions  is wisdom. The wise who have obtained devotion  cast off the fruit of action ; and released from the  shackles of (repeated) births®, repair to that seat  where there is no unhappiness When your mind  shall have crossed beyond the taint of delusion, then  will you become indifferent to all that you have  heard ,or will hear •*. When your mind, that was  confounded by what you have heard®, will stand  firm and steady in contemplation®, then will you  acquire devotion.",
+   "arnold_span": "B13",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Your understanding is confused by hearsay today. When it stands firm and steady in contemplation, you will reach discipline.",
+   "takeaway": "Hold still long enough and stillness holds you.",
+   "provenance": [
+    "sa:2:53",
+    "telang:T16",
+    "arnold:B13-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:54",
+   "devanagari": "स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव ।\nस्थितधीः किं प्रभाषेत किमासीत व्रजेत किम्",
+   "iast": "sthitaprajñasya kā bhāṣā samādhisthasya keśava |\nsthitadhīḥ kiṃ prabhāṣeta kimāsīta vrajeta kim",
+   "speaker": "अर्जुन",
+   "telang_context": "Ar4nina said :\n\nWhat are the characteristics, O Kemva! of one  whose mind is steady, and who is intent on contemplation ? How should one of a steady mind  speak, how sit, how move ?",
+   "arnold_span": "B14",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Arjuna said: what marks the steady-minded, Krishna? How does such a one speak, sit, walk?",
+   "takeaway": "The student asks the practical question.",
+   "provenance": [
+    "sa:2:54",
+    "telang:T17+T18",
+    "arnold:B14"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:55",
+   "devanagari": "श्रीभगवानुवाच\nप्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् ।\nआत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते",
+   "iast": "śrībhagavānuvāca\nprajahāti yadā kāmānsarvānpārtha manogatān |\nātmanyevātmanā tuṣṭaḥ sthitaprajñastadocyate",
+   "speaker": null,
+   "telang_context": "The Deity said :\n\nWhen a man, O son of IVrtha ! abandons all the  desires of his heart, and is pleased in his self only\n\nand by his self*, he is then called of a steady mind.  .He whose heart is not agitated in the midst of  calamities, who has no longing for pleasures, and  from whom (the feelings of) affection, fear, and  wrath ^ have departed, is called a sage of a steady  mind. His mind is steady, who, being without  attachments anywhere, feels no exultation and no  aversion on encountering the various agreeable and  disagreeable ® (things of this world). A man’s mind  is steady, when he withdraws his senses from (all)  objects of sense, as the tortoise (withdraws) its  limbs from all sides. Objects of sense withdraw  themselves from a person who is abstinent ; not so  the taste (for those objects). But even the taste  departs from him, when he has seen the Supreme *.  The boisterous senses, O son of Kunti ! carry away  by force the mind even of a wise man, who exerts  himself (for final emancipation). Restraining them  all, a man should remain engaged in devotion,  making me his only resort. For his mind is steady  whose senses are under his control. The man who  ponders over objects of .sense forms an attachment  to them ; from (that) attachment is produced desire;  and from desire anger is produced ® ; from anger  results want of discrimination\"; from want of dis-",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "When one drops all the mind's desires and rests content in the self, by the self — that one is called steady.",
+   "takeaway": "Want nothing, have everything.",
+   "provenance": [
+    "sa:2:55",
+    "telang:T18+T19-head",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:56",
+   "devanagari": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः ।\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते",
+   "iast": "duḥkheṣvanudvignamanāḥ sukheṣu vigataspṛhaḥ |\nvītarāgabhayakrodhaḥ sthitadhīrmunirucyate",
+   "speaker": null,
+   "telang_context": "and by his self*, he is then called of a steady mind.  .He whose heart is not agitated in the midst of  calamities, who has no longing for pleasures, and  from whom (the feelings of) affection, fear, and  wrath ^ have departed, is called a sage of a steady  mind. His mind is steady, who, being without  attachments anywhere, feels no exultation and no  aversion on encountering the various agreeable and  disagreeable ® (things of this world). A man’s mind  is steady, when he withdraws his senses from (all)  objects of sense, as the tortoise (withdraws) its  limbs from all sides. Objects of sense withdraw  themselves from a person who is abstinent ; not so  the taste (for those objects). But even the taste  departs from him, when he has seen the Supreme *.  The boisterous senses, O son of Kunti ! carry away  by force the mind even of a wise man, who exerts  himself (for final emancipation). Restraining them  all, a man should remain engaged in devotion,  making me his only resort. For his mind is steady  whose senses are under his control. The man who  ponders over objects of .sense forms an attachment  to them ; from (that) attachment is produced desire;  and from desire anger is produced ® ; from anger  results want of discrimination\"; from want of dis-",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Unshaken in sorrow. Uninterested in pleasures. Free of craving, fear, and anger. Such a sage is steady.",
+   "takeaway": "Steadiness has four enemies. Name yours.",
+   "provenance": [
+    "sa:2:56",
+    "telang:T19",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:57",
+   "devanagari": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् ।\nनाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता",
+   "iast": "yaḥ sarvatrānabhisnehastattatprāpya śubhāśubham |\nnābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā",
+   "speaker": null,
+   "telang_context": "and by his self*, he is then called of a steady mind.  .He whose heart is not agitated in the midst of  calamities, who has no longing for pleasures, and  from whom (the feelings of) affection, fear, and  wrath ^ have departed, is called a sage of a steady  mind. His mind is steady, who, being without  attachments anywhere, feels no exultation and no  aversion on encountering the various agreeable and  disagreeable ® (things of this world). A man’s mind  is steady, when he withdraws his senses from (all)  objects of sense, as the tortoise (withdraws) its  limbs from all sides. Objects of sense withdraw  themselves from a person who is abstinent ; not so  the taste (for those objects). But even the taste  departs from him, when he has seen the Supreme *.  The boisterous senses, O son of Kunti ! carry away  by force the mind even of a wise man, who exerts  himself (for final emancipation). Restraining them  all, a man should remain engaged in devotion,  making me his only resort. For his mind is steady  whose senses are under his control. The man who  ponders over objects of .sense forms an attachment  to them ; from (that) attachment is produced desire;  and from desire anger is produced ® ; from anger  results want of discrimination\"; from want of dis-",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Untied everywhere. Neither thrilled by good fortune nor disgusted by bad. Such understanding is steady.",
+   "takeaway": "Equanimity is not indifference. It is freedom.",
+   "provenance": [
+    "sa:2:57",
+    "telang:T19",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:58",
+   "devanagari": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः ।\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता",
+   "iast": "yadā saṃharate cāyaṃ kūrmo'ṅgānīva sarvaśaḥ |\nindriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā",
+   "speaker": null,
+   "telang_context": "and by his self*, he is then called of a steady mind.  .He whose heart is not agitated in the midst of  calamities, who has no longing for pleasures, and  from whom (the feelings of) affection, fear, and  wrath ^ have departed, is called a sage of a steady  mind. His mind is steady, who, being without  attachments anywhere, feels no exultation and no  aversion on encountering the various agreeable and  disagreeable ® (things of this world). A man’s mind  is steady, when he withdraws his senses from (all)  objects of sense, as the tortoise (withdraws) its  limbs from all sides. Objects of sense withdraw  themselves from a person who is abstinent ; not so  the taste (for those objects). But even the taste  departs from him, when he has seen the Supreme *.  The boisterous senses, O son of Kunti ! carry away  by force the mind even of a wise man, who exerts  himself (for final emancipation). Restraining them  all, a man should remain engaged in devotion,  making me his only resort. For his mind is steady  whose senses are under his control. The man who  ponders over objects of .sense forms an attachment  to them ; from (that) attachment is produced desire;  and from desire anger is produced ® ; from anger  results want of discrimination\"; from want of dis-",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "When one pulls the senses back from their objects, as a tortoise pulls in its limbs — understanding holds steady.",
+   "takeaway": "The tortoise is the book's favorite yogi.",
+   "provenance": [
+    "sa:2:58",
+    "telang:T19",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:59",
+   "devanagari": "विषया विनिवर्तन्ते निराहारस्य देहिनः ।\nरसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते",
+   "iast": "viṣayā vinivartante nirāhārasya dehinaḥ |\nrasavarjaṃ raso'pyasya paraṃ dṛṣṭvā nivartate",
+   "speaker": null,
+   "telang_context": "and by his self*, he is then called of a steady mind.  .He whose heart is not agitated in the midst of  calamities, who has no longing for pleasures, and  from whom (the feelings of) affection, fear, and  wrath ^ have departed, is called a sage of a steady  mind. His mind is steady, who, being without  attachments anywhere, feels no exultation and no  aversion on encountering the various agreeable and  disagreeable ® (things of this world). A man’s mind  is steady, when he withdraws his senses from (all)  objects of sense, as the tortoise (withdraws) its  limbs from all sides. Objects of sense withdraw  themselves from a person who is abstinent ; not so  the taste (for those objects). But even the taste  departs from him, when he has seen the Supreme *.  The boisterous senses, O son of Kunti ! carry away  by force the mind even of a wise man, who exerts  himself (for final emancipation). Restraining them  all, a man should remain engaged in devotion,  making me his only resort. For his mind is steady  whose senses are under his control. The man who  ponders over objects of .sense forms an attachment  to them ; from (that) attachment is produced desire;  and from desire anger is produced ® ; from anger  results want of discrimination\"; from want of dis-",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Sense objects fade for the abstinent — but the taste lingers. Even taste leaves once the highest is seen.",
+   "takeaway": "Willpower starves; vision cures.",
+   "provenance": [
+    "sa:2:59",
+    "telang:T19",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:60",
+   "devanagari": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः ।\nइन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः",
+   "iast": "yatato hyapi kaunteya puruṣasya vipaścitaḥ |\nindriyāṇi pramāthīni haranti prasabhaṃ manaḥ",
+   "speaker": null,
+   "telang_context": "and by his self*, he is then called of a steady mind.  .He whose heart is not agitated in the midst of  calamities, who has no longing for pleasures, and  from whom (the feelings of) affection, fear, and  wrath ^ have departed, is called a sage of a steady  mind. His mind is steady, who, being without  attachments anywhere, feels no exultation and no  aversion on encountering the various agreeable and  disagreeable ® (things of this world). A man’s mind  is steady, when he withdraws his senses from (all)  objects of sense, as the tortoise (withdraws) its  limbs from all sides. Objects of sense withdraw  themselves from a person who is abstinent ; not so  the taste (for those objects). But even the taste  departs from him, when he has seen the Supreme *.  The boisterous senses, O son of Kunti ! carry away  by force the mind even of a wise man, who exerts  himself (for final emancipation). Restraining them  all, a man should remain engaged in devotion,  making me his only resort. For his mind is steady  whose senses are under his control. The man who  ponders over objects of .sense forms an attachment  to them ; from (that) attachment is produced desire;  and from desire anger is produced ® ; from anger  results want of discrimination\"; from want of dis-",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The senses are turbulent. They violently carry off the mind — even of a striving wise man.",
+   "takeaway": "Respect the opponent.",
+   "provenance": [
+    "sa:2:60",
+    "telang:T19",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:61",
+   "devanagari": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः ।\nवशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता",
+   "iast": "tāni sarvāṇi saṃyamya yukta āsīta matparaḥ |\nvaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā",
+   "speaker": null,
+   "telang_context": "and by his self*, he is then called of a steady mind.  .He whose heart is not agitated in the midst of  calamities, who has no longing for pleasures, and  from whom (the feelings of) affection, fear, and  wrath ^ have departed, is called a sage of a steady  mind. His mind is steady, who, being without  attachments anywhere, feels no exultation and no  aversion on encountering the various agreeable and  disagreeable ® (things of this world). A man’s mind  is steady, when he withdraws his senses from (all)  objects of sense, as the tortoise (withdraws) its  limbs from all sides. Objects of sense withdraw  themselves from a person who is abstinent ; not so  the taste (for those objects). But even the taste  departs from him, when he has seen the Supreme *.  The boisterous senses, O son of Kunti ! carry away  by force the mind even of a wise man, who exerts  himself (for final emancipation). Restraining them  all, a man should remain engaged in devotion,  making me his only resort. For his mind is steady  whose senses are under his control. The man who  ponders over objects of .sense forms an attachment  to them ; from (that) attachment is produced desire;  and from desire anger is produced ® ; from anger  results want of discrimination\"; from want of dis-",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Holding them all in check, sit devoted, with Me as the highest goal. Who masters the senses owns a steady mind.",
+   "takeaway": "Devotion here is a technique, not a sentiment.",
+   "provenance": [
+    "sa:2:61",
+    "telang:T19",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:62",
+   "devanagari": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।\nसङ्गात्संजायते कामः कामात्क्रोधोऽभिजायते",
+   "iast": "dhyāyato viṣayānpuṃsaḥ saṅgasteṣūpajāyate |\nsaṅgātsaṃjāyate kāmaḥ kāmātkrodho'bhijāyate",
+   "speaker": null,
+   "telang_context": "and by his self*, he is then called of a steady mind.  .He whose heart is not agitated in the midst of  calamities, who has no longing for pleasures, and  from whom (the feelings of) affection, fear, and  wrath ^ have departed, is called a sage of a steady  mind. His mind is steady, who, being without  attachments anywhere, feels no exultation and no  aversion on encountering the various agreeable and  disagreeable ® (things of this world). A man’s mind  is steady, when he withdraws his senses from (all)  objects of sense, as the tortoise (withdraws) its  limbs from all sides. Objects of sense withdraw  themselves from a person who is abstinent ; not so  the taste (for those objects). But even the taste  departs from him, when he has seen the Supreme *.  The boisterous senses, O son of Kunti ! carry away  by force the mind even of a wise man, who exerts  himself (for final emancipation). Restraining them  all, a man should remain engaged in devotion,  making me his only resort. For his mind is steady  whose senses are under his control. The man who  ponders over objects of .sense forms an attachment  to them ; from (that) attachment is produced desire;  and from desire anger is produced ® ; from anger  results want of discrimination\"; from want of dis-",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Dwelling on sense objects breeds attachment. From attachment comes desire. From desire, anger.",
+   "takeaway": "The chain reaction, link by link.",
+   "provenance": [
+    "sa:2:62",
+    "telang:T19",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:63",
+   "devanagari": "क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः ।\nस्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति",
+   "iast": "krodhādbhavati saṃmohaḥ saṃmohātsmṛtivibhramaḥ |\nsmṛtibhraṃśādbuddhināśo buddhināśātpraṇaśyati",
+   "speaker": null,
+   "telang_context": "and by his self*, he is then called of a steady mind.  .He whose heart is not agitated in the midst of  calamities, who has no longing for pleasures, and  from whom (the feelings of) affection, fear, and  wrath ^ have departed, is called a sage of a steady  mind. His mind is steady, who, being without  attachments anywhere, feels no exultation and no  aversion on encountering the various agreeable and  disagreeable ® (things of this world). A man’s mind  is steady, when he withdraws his senses from (all)  objects of sense, as the tortoise (withdraws) its  limbs from all sides. Objects of sense withdraw  themselves from a person who is abstinent ; not so  the taste (for those objects). But even the taste  departs from him, when he has seen the Supreme *.  The boisterous senses, O son of Kunti ! carry away  by force the mind even of a wise man, who exerts  himself (for final emancipation). Restraining them  all, a man should remain engaged in devotion,  making me his only resort. For his mind is steady  whose senses are under his control. The man who  ponders over objects of .sense forms an attachment  to them ; from (that) attachment is produced desire;  and from desire anger is produced ® ; from anger  results want of discrimination\"; from want of dis-\n\ncrimination, confusion of the memory ; from confusion of the memory, loss of reason ; and in  consequence of loss of reason he is utterly ruined.  But the self-restrained man who moves among '  objects with senses under the control of his own  self, and free from affection and aversion, obtains  tranquillity-. When there is tranquillity, all his  miseries are destroyed, for the mind of him whose  heart is tranquil soon becomes steady. He who  is not self-restrained has no Steadiness of mind ;  nor has he who is not self-restrained perseverance *  in the pursuit of self-knowledge ; there is no tranquillity. for him who does not persevere in the  pursuit of self-knowledge ; and whence can there be  happiness for one who is not tranquil ? For the  heart which follows the rambling senses leads aw-ay  his judgment, as the wind leads a boat astray upon  the waters. Therefore, O )ou of mighty arms !  his mind is steady whose senses are restrained on  all sides from objects of sense. The self-restrained  man is awake, when it is night for all beings ; and  when all bein.t;s arc awake, that is die night of the  right-seeing sage*. He into whom all objects of  desire enter, as waters enter the ocean, which,  (though) replenished, (still) keeps its position unmoved,— he only obtains tranquillity ; not he who  desires (those) objects of desire. The man who,",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "From anger comes confusion. From confusion, memory fails. With reason gone, one is destroyed.",
+   "takeaway": "Read it backwards as an escape manual.",
+   "provenance": [
+    "sa:2:63",
+    "telang:T19+T20-head",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:64",
+   "devanagari": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् ।\nआत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति",
+   "iast": "rāgadveṣaviyuktaistu viṣayānindriyaiścaran |\nātmavaśyairvidheyātmā prasādamadhigacchati",
+   "speaker": null,
+   "telang_context": "crimination, confusion of the memory ; from confusion of the memory, loss of reason ; and in  consequence of loss of reason he is utterly ruined.  But the self-restrained man who moves among '  objects with senses under the control of his own  self, and free from affection and aversion, obtains  tranquillity-. When there is tranquillity, all his  miseries are destroyed, for the mind of him whose  heart is tranquil soon becomes steady. He who  is not self-restrained has no Steadiness of mind ;  nor has he who is not self-restrained perseverance *  in the pursuit of self-knowledge ; there is no tranquillity. for him who does not persevere in the  pursuit of self-knowledge ; and whence can there be  happiness for one who is not tranquil ? For the  heart which follows the rambling senses leads aw-ay  his judgment, as the wind leads a boat astray upon  the waters. Therefore, O )ou of mighty arms !  his mind is steady whose senses are restrained on  all sides from objects of sense. The self-restrained  man is awake, when it is night for all beings ; and  when all bein.t;s arc awake, that is die night of the  right-seeing sage*. He into whom all objects of  desire enter, as waters enter the ocean, which,  (though) replenished, (still) keeps its position unmoved,— he only obtains tranquillity ; not he who  desires (those) objects of desire. The man who,",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "But one who moves among sense objects with senses ruled by the self will find peace. Free of likes and dislikes.",
+   "takeaway": "Not escape from the world. Mastery inside it.",
+   "provenance": [
+    "sa:2:64",
+    "telang:T20",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:65",
+   "devanagari": "प्रसादे सर्वदुःखानां हानिरस्योपजायते ।\nप्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते",
+   "iast": "prasāde sarvaduḥkhānāṃ hānirasyopajāyate |\nprasannacetaso hyāśu buddhiḥ paryavatiṣṭhate",
+   "speaker": null,
+   "telang_context": "crimination, confusion of the memory ; from confusion of the memory, loss of reason ; and in  consequence of loss of reason he is utterly ruined.  But the self-restrained man who moves among '  objects with senses under the control of his own  self, and free from affection and aversion, obtains  tranquillity-. When there is tranquillity, all his  miseries are destroyed, for the mind of him whose  heart is tranquil soon becomes steady. He who  is not self-restrained has no Steadiness of mind ;  nor has he who is not self-restrained perseverance *  in the pursuit of self-knowledge ; there is no tranquillity. for him who does not persevere in the  pursuit of self-knowledge ; and whence can there be  happiness for one who is not tranquil ? For the  heart which follows the rambling senses leads aw-ay  his judgment, as the wind leads a boat astray upon  the waters. Therefore, O )ou of mighty arms !  his mind is steady whose senses are restrained on  all sides from objects of sense. The self-restrained  man is awake, when it is night for all beings ; and  when all bein.t;s arc awake, that is die night of the  right-seeing sage*. He into whom all objects of  desire enter, as waters enter the ocean, which,  (though) replenished, (still) keeps its position unmoved,— he only obtains tranquillity ; not he who  desires (those) objects of desire. The man who,",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "In peace, all sorrows end; and the peaceful mind soon grows steady.",
+   "takeaway": "Peace first, steadiness follows. Not the reverse.",
+   "provenance": [
+    "sa:2:65",
+    "telang:T20",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:66",
+   "devanagari": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना ।\nन चाभावयतः शान्तिरशान्तस्य कुतः सुखम्",
+   "iast": "nāsti buddhirayuktasya na cāyuktasya bhāvanā |\nna cābhāvayataḥ śāntiraśāntasya kutaḥ sukham",
+   "speaker": null,
+   "telang_context": "crimination, confusion of the memory ; from confusion of the memory, loss of reason ; and in  consequence of loss of reason he is utterly ruined.  But the self-restrained man who moves among '  objects with senses under the control of his own  self, and free from affection and aversion, obtains  tranquillity-. When there is tranquillity, all his  miseries are destroyed, for the mind of him whose  heart is tranquil soon becomes steady. He who  is not self-restrained has no Steadiness of mind ;  nor has he who is not self-restrained perseverance *  in the pursuit of self-knowledge ; there is no tranquillity. for him who does not persevere in the  pursuit of self-knowledge ; and whence can there be  happiness for one who is not tranquil ? For the  heart which follows the rambling senses leads aw-ay  his judgment, as the wind leads a boat astray upon  the waters. Therefore, O )ou of mighty arms !  his mind is steady whose senses are restrained on  all sides from objects of sense. The self-restrained  man is awake, when it is night for all beings ; and  when all bein.t;s arc awake, that is die night of the  right-seeing sage*. He into whom all objects of  desire enter, as waters enter the ocean, which,  (though) replenished, (still) keeps its position unmoved,— he only obtains tranquillity ; not he who  desires (those) objects of desire. The man who,",
+   "arnold_span": "B15",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Without self-rule there is no understanding, no contemplation — and without contemplation, where is peace? Without peace, where is happiness?",
+   "takeaway": "Four rungs. Miss one, miss all.",
+   "provenance": [
+    "sa:2:66",
+    "telang:T20",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:67",
+   "devanagari": "इन्द्रियाणां हि चरतां यन्मनोऽनु विधीयते ।\nतदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि",
+   "iast": "indriyāṇāṃ hi caratāṃ yanmano'nu vidhīyate |\ntadasya harati prajñāṃ vāyurnāvamivāmbhasi",
+   "speaker": null,
+   "telang_context": "crimination, confusion of the memory ; from confusion of the memory, loss of reason ; and in  consequence of loss of reason he is utterly ruined.  But the self-restrained man who moves among '  objects with senses under the control of his own  self, and free from affection and aversion, obtains  tranquillity-. When there is tranquillity, all his  miseries are destroyed, for the mind of him whose  heart is tranquil soon becomes steady. He who  is not self-restrained has no Steadiness of mind ;  nor has he who is not self-restrained perseverance *  in the pursuit of self-knowledge ; there is no tranquillity. for him who does not persevere in the  pursuit of self-knowledge ; and whence can there be  happiness for one who is not tranquil ? For the  heart which follows the rambling senses leads aw-ay  his judgment, as the wind leads a boat astray upon  the waters. Therefore, O )ou of mighty arms !  his mind is steady whose senses are restrained on  all sides from objects of sense. The self-restrained  man is awake, when it is night for all beings ; and  when all bein.t;s arc awake, that is die night of the  right-seeing sage*. He into whom all objects of  desire enter, as waters enter the ocean, which,  (though) replenished, (still) keeps its position unmoved,— he only obtains tranquillity ; not he who  desires (those) objects of desire. The man who,",
+   "arnold_span": "B16",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The mind that chases wandering senses loses judgment. As wind carries a boat on water.",
+   "takeaway": "Guard the helm.",
+   "provenance": [
+    "sa:2:67",
+    "telang:T20",
+    "arnold:B15-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:68",
+   "devanagari": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः ।\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता",
+   "iast": "tasmādyasya mahābāho nigṛhītāni sarvaśaḥ |\nindriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā",
+   "speaker": null,
+   "telang_context": "crimination, confusion of the memory ; from confusion of the memory, loss of reason ; and in  consequence of loss of reason he is utterly ruined.  But the self-restrained man who moves among '  objects with senses under the control of his own  self, and free from affection and aversion, obtains  tranquillity-. When there is tranquillity, all his  miseries are destroyed, for the mind of him whose  heart is tranquil soon becomes steady. He who  is not self-restrained has no Steadiness of mind ;  nor has he who is not self-restrained perseverance *  in the pursuit of self-knowledge ; there is no tranquillity. for him who does not persevere in the  pursuit of self-knowledge ; and whence can there be  happiness for one who is not tranquil ? For the  heart which follows the rambling senses leads aw-ay  his judgment, as the wind leads a boat astray upon  the waters. Therefore, O )ou of mighty arms !  his mind is steady whose senses are restrained on  all sides from objects of sense. The self-restrained  man is awake, when it is night for all beings ; and  when all bein.t;s arc awake, that is die night of the  right-seeing sage*. He into whom all objects of  desire enter, as waters enter the ocean, which,  (though) replenished, (still) keeps its position unmoved,— he only obtains tranquillity ; not he who  desires (those) objects of desire. The man who,",
+   "arnold_span": "B16",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "So, mighty-armed one: hold the senses back from objects on every side. Then understanding stands firm.",
+   "takeaway": "The argument returns to fortify its own walls.",
+   "provenance": [
+    "sa:2:68",
+    "telang:T20",
+    "arnold:B16-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:69",
+   "devanagari": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी ।\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः",
+   "iast": "yā niśā sarvabhūtānāṃ tasyāṃ jāgarti saṃyamī |\nyasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ",
+   "speaker": null,
+   "telang_context": "crimination, confusion of the memory ; from confusion of the memory, loss of reason ; and in  consequence of loss of reason he is utterly ruined.  But the self-restrained man who moves among '  objects with senses under the control of his own  self, and free from affection and aversion, obtains  tranquillity-. When there is tranquillity, all his  miseries are destroyed, for the mind of him whose  heart is tranquil soon becomes steady. He who  is not self-restrained has no Steadiness of mind ;  nor has he who is not self-restrained perseverance *  in the pursuit of self-knowledge ; there is no tranquillity. for him who does not persevere in the  pursuit of self-knowledge ; and whence can there be  happiness for one who is not tranquil ? For the  heart which follows the rambling senses leads aw-ay  his judgment, as the wind leads a boat astray upon  the waters. Therefore, O )ou of mighty arms !  his mind is steady whose senses are restrained on  all sides from objects of sense. The self-restrained  man is awake, when it is night for all beings ; and  when all bein.t;s arc awake, that is die night of the  right-seeing sage*. He into whom all objects of  desire enter, as waters enter the ocean, which,  (though) replenished, (still) keeps its position unmoved,— he only obtains tranquillity ; not he who  desires (those) objects of desire. The man who,",
+   "arnold_span": "B16",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "What is night for all beings is day for the self-controlled; what is day for beings is night for the seer.",
+   "takeaway": "The awake and the asleep have swapped places.",
+   "provenance": [
+    "sa:2:69",
+    "telang:T20",
+    "arnold:B16-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:70",
+   "devanagari": "आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत् ।\nतद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी",
+   "iast": "āpūryamāṇamacalapratiṣṭhaṃ samudramāpaḥ praviśanti yadvat |\ntadvatkāmā yaṃ praviśanti sarve sa śāntimāpnoti na kāmakāmī",
+   "speaker": null,
+   "telang_context": "crimination, confusion of the memory ; from confusion of the memory, loss of reason ; and in  consequence of loss of reason he is utterly ruined.  But the self-restrained man who moves among '  objects with senses under the control of his own  self, and free from affection and aversion, obtains  tranquillity-. When there is tranquillity, all his  miseries are destroyed, for the mind of him whose  heart is tranquil soon becomes steady. He who  is not self-restrained has no Steadiness of mind ;  nor has he who is not self-restrained perseverance *  in the pursuit of self-knowledge ; there is no tranquillity. for him who does not persevere in the  pursuit of self-knowledge ; and whence can there be  happiness for one who is not tranquil ? For the  heart which follows the rambling senses leads aw-ay  his judgment, as the wind leads a boat astray upon  the waters. Therefore, O )ou of mighty arms !  his mind is steady whose senses are restrained on  all sides from objects of sense. The self-restrained  man is awake, when it is night for all beings ; and  when all bein.t;s arc awake, that is die night of the  right-seeing sage*. He into whom all objects of  desire enter, as waters enter the ocean, which,  (though) replenished, (still) keeps its position unmoved,— he only obtains tranquillity ; not he who  desires (those) objects of desire. The man who,",
+   "arnold_span": "B17",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Waters enter the full, unmoving ocean. So desires enter the sage. He finds peace — not the desirer.",
+   "takeaway": "Be the ocean, not the river.",
+   "provenance": [
+    "sa:2:70",
+    "telang:T20+T21-head",
+    "arnold:B17+B18"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:71",
+   "devanagari": "विहाय कामान्यः सर्वान् पुमांश्चरति निःस्पृहः ।\nनिर्ममो निरहंकारः स शान्तिमधिगच्छति",
+   "iast": "vihāya kāmānyaḥ sarvān pumāṃścarati niḥspṛhaḥ |\nnirmamo nirahaṃkāraḥ sa śāntimadhigacchati",
+   "speaker": null,
+   "telang_context": "casting off all desires, lives free from attachments,  •who is free from egoism \\ and from (the feeling  that this or that is) mine ^ obtains tranquillity. This,  O son of Pmhd ! is the Brahmic ® state ; attaining  to this, one is never deluded ; and remaining in it  in (one’s) last moments, one attains (brahma-nirvfiwa)  the Brahmic bliss *.",
+   "arnold_span": "B19",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Dropping all desires, living free of mine-ness, ego and pride — such a one finds peace.",
+   "takeaway": "Four things to drop. Count them on one hand.",
+   "provenance": [
+    "sa:2:71",
+    "telang:T21",
+    "arnold:B19-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "2:72",
+   "devanagari": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति ।\nस्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति",
+   "iast": "eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati |\nsthitvāsyāmantakāle'pi brahmanirvāṇamṛcchati",
+   "speaker": null,
+   "telang_context": "casting off all desires, lives free from attachments,  •who is free from egoism \\ and from (the feeling  that this or that is) mine ^ obtains tranquillity. This,  O son of Pmhd ! is the Brahmic ® state ; attaining  to this, one is never deluded ; and remaining in it  in (one’s) last moments, one attains (brahma-nirvfiwa)  the Brahmic bliss *.",
+   "arnold_span": "B19",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "This is the state of oneness with ultimate reality. Reaching it, one is never confused; settled in it even at death, one merges into its peace.",
+   "takeaway": "The chapter lands where it began — beyond grief.",
+   "provenance": [
+    "sa:2:72",
+    "telang:T21",
+    "arnold:B19-shared"
+   ],
+   "status": "approved"
+  }
+ ]
+}

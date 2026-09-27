@@ -339,6 +339,8 @@ def cmd_triptych(args) -> int:
                     continue
                 if re.fullmatch(r"CHAPTER\s+[IVX]+,\s*\d+\.?", p):
                     continue
+                if re.fullmatch(r"\.?[Cc][Hh][Aa][Pp][Tt][Ee][Rr]\s+[ivxIVX]+,?\s*\d*\.?", p):
+                    continue
                 if _is_running_head(p):
                     continue
                 # Absorbed marginal markers: leading digits before verse
@@ -554,7 +556,7 @@ CREATE TABLE IF NOT EXISTS chapters(
 """
 
 
-def cmd_check_align(args) -> int:
+def cmd_export(args) -> int:
     out = Path(args.out or (ROOT / "app" / "src" / "main" / "assets" / "gita.db"))
     out.parent.mkdir(parents=True, exist_ok=True)
     if out.exists():
@@ -578,7 +580,7 @@ def cmd_check_align(args) -> int:
     return 0
 
 
-def cmd_export(args) -> int:
+def cmd_check_align(args) -> int:
     """Verify curated align_chNN.json anchors byte-exact against sources.
 
     Every anchor quote must occur verbatim in its para; every verse 1..N
@@ -612,6 +614,8 @@ def cmd_export(args) -> int:
                     print(f"check_align: {r['id']} unknown {s['para']}")
                     bad += 1
                     continue
+                if not s["anchors"]:
+                    continue  # header-only ref: para existence checked above
                 for q in s["anchors"]:
                     if q not in hay:
                         print(f"check_align: {r['id']} anchor missing: {q[:50]!r}")
