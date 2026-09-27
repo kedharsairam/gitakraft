@@ -352,12 +352,24 @@ def running_heads(text: str) -> list[tuple[int, int | None, int | None]]:
     return out
 
 
+def _is_running_headline(text: str, pos: int) -> bool:
+    """True when a CHAPTER match is a page running head (followed by a
+    lone page number), not the chapter title."""
+    import re as _re2
+    tail = text[pos:pos + 120]
+    lines = [ln.strip() for ln in tail.splitlines() if ln.strip()]
+    return len(lines) > 1 and bool(_re2.fullmatch(r"\d{1,3}", lines[1]))
+
+
 def _chapter_title(text: str, numeral: str, after: int = 0) -> int | None:
     lo = max(after, GITA_SPAN[0])
-    m = re.search(r"\nChapter\s+%s\.\s*\n" % numeral, text[lo:GITA_SPAN[1]])
-    if m:
-        return lo + m.start()
-    m = re.search(r"\nCHAPTER\s+%s\s*,?\s*\n" % numeral, text[lo:GITA_SPAN[1]])
+    for pat in (r"\nChapter\s+%s\.\s*\n" % numeral,
+                r"\nCHAPTER\s+%s\s*,?\s*\n" % numeral):
+        for m in re.finditer(pat, text[lo:GITA_SPAN[1]]):
+            if not _is_running_headline(text, lo + m.start()):
+                return lo + m.start()
+    # OCR-mangled title ("ClIAl'TKR V."): TKR + numeral on its own line.
+    m = re.search(r"\n[A-Z][A-Za-z’\']*TKR\s+%s\s*\.?" % numeral, text[lo:GITA_SPAN[1]])
     return lo + m.start() if m else None
 def cmd_fetch_en_ocr(args) -> int:
     """Fetch Telang SBE08 OCR text (Internet Archive, public domain)."""

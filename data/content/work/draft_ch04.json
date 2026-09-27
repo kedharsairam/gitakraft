@@ -1,0 +1,761 @@
+{
+ "chapter": 4,
+ "records": [
+  {
+   "id": "4:1",
+   "devanagari": "विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत्",
+   "iast": "vivasvānmanave prāha manurikṣvākave'bravīt",
+   "speaker": null,
+   "telang_context": "The Deity said :\n\nThis everlasting ' (system of) devotion I declared  to the sun, the sun declared it to Mann and Manu  communicated it to Ikshvdku. Coming thus by steps,  it became known to royal sages. Ilut, O terror of  (your) foes ! that devotion was lost to the world by  long (lajDse of) time. That same primeval devotion  I have declared to you to-day, seeing that you are  my devotee and friend, for it is the highest mystery.",
+   "arnold_span": "D01",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Krishna said: this timeless discipline I taught to the sun-god long ago. He taught Manu, and Manu taught Ikshvaku.",
+   "takeaway": "Wisdom travels teacher to student, age to age.",
+   "provenance": [
+    "sa:4:1",
+    "telang:T00+T01",
+    "arnold:D01-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:2",
+   "devanagari": "एवं परम्पराप्राप्तमिमं राजर्षयो विदुः ।\nस कालेनेह महता योगो नष्टः परन्तप",
+   "iast": "evaṃ paramparāprāptamimaṃ rājarṣayo viduḥ |\nsa kāleneha mahatā yogo naṣṭaḥ parantapa",
+   "speaker": null,
+   "telang_context": "This everlasting ' (system of) devotion I declared  to the sun, the sun declared it to Mann and Manu  communicated it to Ikshvdku. Coming thus by steps,  it became known to royal sages. Ilut, O terror of  (your) foes ! that devotion was lost to the world by  long (lajDse of) time. That same primeval devotion  I have declared to you to-day, seeing that you are  my devotee and friend, for it is the highest mystery.",
+   "arnold_span": "D01",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Passed down this way, kings and sages knew it. But over long time, Arjuna, this discipline faded from the world.",
+   "takeaway": "Even the best teachings need retelling.",
+   "provenance": [
+    "sa:4:2",
+    "telang:T01",
+    "arnold:D01-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:3",
+   "devanagari": "स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः ।\nभक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम्",
+   "iast": "sa evāyaṃ mayā te'dya yogaḥ proktaḥ purātanaḥ |\nbhakto'si me sakhā ceti rahasyaṃ hyetaduttamam",
+   "speaker": null,
+   "telang_context": "This everlasting ' (system of) devotion I declared  to the sun, the sun declared it to Mann and Manu  communicated it to Ikshvdku. Coming thus by steps,  it became known to royal sages. Ilut, O terror of  (your) foes ! that devotion was lost to the world by  long (lajDse of) time. That same primeval devotion  I have declared to you to-day, seeing that you are  my devotee and friend, for it is the highest mystery.",
+   "arnold_span": "D01",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "That same ancient discipline I teach you today. Because you are my devotee and my friend. And this is the deepest secret.",
+   "takeaway": "Truth goes to the ready heart.",
+   "provenance": [
+    "sa:4:3",
+    "telang:T01",
+    "arnold:D01-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:4",
+   "devanagari": "अपरं भवतो जन्म परं जन्म विवस्वतः ।\nकथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति",
+   "iast": "aparaṃ bhavato janma paraṃ janma vivasvataḥ |\nkathametadvijānīyāṃ tvamādau proktavāniti",
+   "speaker": "अर्जुन",
+   "telang_context": "Arguna said :\n\nLater is your birth ; the birth of the sun is prior.  How then shall I understand that you declared (this)  first ?",
+   "arnold_span": "D02",
+   "arnold_shared": false,
+   "align_notes": "",
+   "meaning_simple": "Arjuna said: you were born later, and the sun was born long before. How am I to understand that you taught this first?",
+   "takeaway": "A fair question deserves a straight answer.",
+   "provenance": [
+    "sa:4:4",
+    "telang:T02+T03",
+    "arnold:D02"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:5",
+   "devanagari": "श्रीभगवानुवाच\nबहूनि मे व्यतीतानि जन्मानि तव चार्जुन ।\nतान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप",
+   "iast": "śrībhagavānuvāca\nbahūni me vyatītāni janmāni tava cārjuna |\ntānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa",
+   "speaker": null,
+   "telang_context": "The Deity said :\n\nI have passed through many births, O Ar^una !  and you also. I know them all, but }ou, O terror  of (>our) foes ! do not know them. Even though  I am unborn and inexhaustible in (my) essence,  even though I am lord of all beings, still I take up  the control of my own nature *, and am born b)'",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Krishna said: I have lived through many births, Arjuna, and so have you. I remember them all. You do not.",
+   "takeaway": "Memory is the difference between you and Me. For now.",
+   "provenance": [
+    "sa:4:5",
+    "telang:T04+T05-head",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:6",
+   "devanagari": "अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् ।\nप्रकृतिं स्वामधिष्ठाय संभवाम्यात्ममायया",
+   "iast": "ajo'pi sannavyayātmā bhūtānāmīśvaro'pi san |\nprakṛtiṃ svāmadhiṣṭhāya saṃbhavāmyātmamāyayā",
+   "speaker": null,
+   "telang_context": "I have passed through many births, O Ar^una !  and you also. I know them all, but }ou, O terror  of (>our) foes ! do not know them. Even though  I am unborn and inexhaustible in (my) essence,  even though I am lord of all beings, still I take up  the control of my own nature *, and am born b)'\n\nmeans of my delusive power. Whensoever, O descendant of Bharata ! piety languishes, and impiety  is in the ascendant, I create myself. I am born age  after age, for the protection of the good, for the  destruction of evil-doers, and the establishment of  piety. Whoever truly knows thus my divine birth  and work, casts off (this) body and is not born again.  He comes to me, O Ar^ma ! Many from whom  affection, fear', and wrath have departed, who are  full of me, who depend on me, and who are purified  by the penance of knowledge have come into my  essence. I serve men in the way in which they  approach me '*. In every way, O son of IV/tha !  men follow in my path Desiring the success of  actions '*, men in this world worship the divinities,  for in this world of mortals, the success produced  bj\" action is soon obtained. The fourfold division  of castes was created by me according to the aj)-  portionnient of qualities and duties. But though  • I am its author, know me to be inexhaustible, and  not the author. Actions defile me not. I have no  attachment to the fruit of actions. I le who knows  me thus is not tied dov n by actions. Knowing  this, the men of old who wished for final emancipation, performed action. 1 htu'efore do you, too,  perform action as tvas done by men of old in olden  times. • Even sages arc confused as to what is",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Though I am unborn and undying in my being. Though I am lord of all creatures. I take charge of my own nature. And I am born — by my own power of illusion.",
+   "takeaway": "The unlimited puts on limits, on purpose.",
+   "provenance": [
+    "sa:4:6",
+    "telang:T05+T07-head",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:7",
+   "devanagari": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्",
+   "iast": "yadā yadā hi dharmasya glānirbhavati bhārata |\nabhyutthānamadharmasya tadātmānaṃ sṛjāmyaham",
+   "speaker": null,
+   "telang_context": "means of my delusive power. Whensoever, O descendant of Bharata ! piety languishes, and impiety  is in the ascendant, I create myself. I am born age  after age, for the protection of the good, for the  destruction of evil-doers, and the establishment of  piety. Whoever truly knows thus my divine birth  and work, casts off (this) body and is not born again.  He comes to me, O Ar^ma ! Many from whom  affection, fear', and wrath have departed, who are  full of me, who depend on me, and who are purified  by the penance of knowledge have come into my  essence. I serve men in the way in which they  approach me '*. In every way, O son of IV/tha !  men follow in my path Desiring the success of  actions '*, men in this world worship the divinities,  for in this world of mortals, the success produced  bj\" action is soon obtained. The fourfold division  of castes was created by me according to the aj)-  portionnient of qualities and duties. But though  • I am its author, know me to be inexhaustible, and  not the author. Actions defile me not. I have no  attachment to the fruit of actions. I le who knows  me thus is not tied dov n by actions. Knowing  this, the men of old who wished for final emancipation, performed action. 1 htu'efore do you, too,  perform action as tvas done by men of old in olden  times. • Even sages arc confused as to what is",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Whenever goodness fades, Arjuna, and evil rises up — then I make Myself.",
+   "takeaway": "Help arrives on schedule: when things are worst.",
+   "provenance": [
+    "sa:4:7",
+    "telang:T07",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:8",
+   "devanagari": "परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।\nधर्मसंस्थापनार्थाय सम्भवामि युगे युगे",
+   "iast": "paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām |\ndharmasaṃsthāpanārthāya sambhavāmi yuge yuge",
+   "speaker": null,
+   "telang_context": "means of my delusive power. Whensoever, O descendant of Bharata ! piety languishes, and impiety  is in the ascendant, I create myself. I am born age  after age, for the protection of the good, for the  destruction of evil-doers, and the establishment of  piety. Whoever truly knows thus my divine birth  and work, casts off (this) body and is not born again.  He comes to me, O Ar^ma ! Many from whom  affection, fear', and wrath have departed, who are  full of me, who depend on me, and who are purified  by the penance of knowledge have come into my  essence. I serve men in the way in which they  approach me '*. In every way, O son of IV/tha !  men follow in my path Desiring the success of  actions '*, men in this world worship the divinities,  for in this world of mortals, the success produced  bj\" action is soon obtained. The fourfold division  of castes was created by me according to the aj)-  portionnient of qualities and duties. But though  • I am its author, know me to be inexhaustible, and  not the author. Actions defile me not. I have no  attachment to the fruit of actions. I le who knows  me thus is not tied dov n by actions. Knowing  this, the men of old who wished for final emancipation, performed action. 1 htu'efore do you, too,  perform action as tvas done by men of old in olden  times. • Even sages arc confused as to what is",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Age after age I am born — to guard the good, destroy the wicked, and set goodness firmly back in place.",
+   "takeaway": "The most quoted promise in the book.",
+   "provenance": [
+    "sa:4:8",
+    "telang:T07",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:9",
+   "devanagari": "जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः ।\nत्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन",
+   "iast": "janma karma ca me divyamevaṃ yo vetti tattvataḥ |\ntyaktvā dehaṃ punarjanma naiti māmeti so'rjuna",
+   "speaker": null,
+   "telang_context": "means of my delusive power. Whensoever, O descendant of Bharata ! piety languishes, and impiety  is in the ascendant, I create myself. I am born age  after age, for the protection of the good, for the  destruction of evil-doers, and the establishment of  piety. Whoever truly knows thus my divine birth  and work, casts off (this) body and is not born again.  He comes to me, O Ar^ma ! Many from whom  affection, fear', and wrath have departed, who are  full of me, who depend on me, and who are purified  by the penance of knowledge have come into my  essence. I serve men in the way in which they  approach me '*. In every way, O son of IV/tha !  men follow in my path Desiring the success of  actions '*, men in this world worship the divinities,  for in this world of mortals, the success produced  bj\" action is soon obtained. The fourfold division  of castes was created by me according to the aj)-  portionnient of qualities and duties. But though  • I am its author, know me to be inexhaustible, and  not the author. Actions defile me not. I have no  attachment to the fruit of actions. I le who knows  me thus is not tied dov n by actions. Knowing  this, the men of old who wished for final emancipation, performed action. 1 htu'efore do you, too,  perform action as tvas done by men of old in olden  times. • Even sages arc confused as to what is",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Whoever truly knows My divine birth and work like this leaves the body and is never born again. Such a one comes to Me.",
+   "takeaway": "Know it for real, and you are free.",
+   "provenance": [
+    "sa:4:9",
+    "telang:T07",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:10",
+   "devanagari": "वीतरागभयक्रोधा मन्मया मामुपाश्रिताः ।\nबहवो ज्ञानतपसा पूता मद्भावमागताः",
+   "iast": "vītarāgabhayakrodhā manmayā māmupāśritāḥ |\nbahavo jñānatapasā pūtā madbhāvamāgatāḥ",
+   "speaker": null,
+   "telang_context": "means of my delusive power. Whensoever, O descendant of Bharata ! piety languishes, and impiety  is in the ascendant, I create myself. I am born age  after age, for the protection of the good, for the  destruction of evil-doers, and the establishment of  piety. Whoever truly knows thus my divine birth  and work, casts off (this) body and is not born again.  He comes to me, O Ar^ma ! Many from whom  affection, fear', and wrath have departed, who are  full of me, who depend on me, and who are purified  by the penance of knowledge have come into my  essence. I serve men in the way in which they  approach me '*. In every way, O son of IV/tha !  men follow in my path Desiring the success of  actions '*, men in this world worship the divinities,  for in this world of mortals, the success produced  bj\" action is soon obtained. The fourfold division  of castes was created by me according to the aj)-  portionnient of qualities and duties. But though  • I am its author, know me to be inexhaustible, and  not the author. Actions defile me not. I have no  attachment to the fruit of actions. I le who knows  me thus is not tied dov n by actions. Knowing  this, the men of old who wished for final emancipation, performed action. 1 htu'efore do you, too,  perform action as tvas done by men of old in olden  times. • Even sages arc confused as to what is",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Freed from craving, fear, and anger. Filled with Me. Depending on Me. Purified by the fire of wisdom. Many have entered into My being.",
+   "takeaway": "The entry requirements, stated plainly.",
+   "provenance": [
+    "sa:4:10",
+    "telang:T07",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:11",
+   "devanagari": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् ।\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः",
+   "iast": "ye yathā māṃ prapadyante tāṃstathaiva bhajāmyaham |\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ",
+   "speaker": null,
+   "telang_context": "means of my delusive power. Whensoever, O descendant of Bharata ! piety languishes, and impiety  is in the ascendant, I create myself. I am born age  after age, for the protection of the good, for the  destruction of evil-doers, and the establishment of  piety. Whoever truly knows thus my divine birth  and work, casts off (this) body and is not born again.  He comes to me, O Ar^ma ! Many from whom  affection, fear', and wrath have departed, who are  full of me, who depend on me, and who are purified  by the penance of knowledge have come into my  essence. I serve men in the way in which they  approach me '*. In every way, O son of IV/tha !  men follow in my path Desiring the success of  actions '*, men in this world worship the divinities,  for in this world of mortals, the success produced  bj\" action is soon obtained. The fourfold division  of castes was created by me according to the aj)-  portionnient of qualities and duties. But though  • I am its author, know me to be inexhaustible, and  not the author. Actions defile me not. I have no  attachment to the fruit of actions. I le who knows  me thus is not tied dov n by actions. Knowing  this, the men of old who wished for final emancipation, performed action. 1 htu'efore do you, too,  perform action as tvas done by men of old in olden  times. • Even sages arc confused as to what is",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "However people approach Me, I meet them that way. All paths lead to Me in the end, Arjuna.",
+   "takeaway": "Every sincere road arrives.",
+   "provenance": [
+    "sa:4:11",
+    "telang:T07",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:12",
+   "devanagari": "काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः ।\nक्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा",
+   "iast": "kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ |\nkṣipraṃ hi mānuṣe loke siddhirbhavati karmajā",
+   "speaker": null,
+   "telang_context": "means of my delusive power. Whensoever, O descendant of Bharata ! piety languishes, and impiety  is in the ascendant, I create myself. I am born age  after age, for the protection of the good, for the  destruction of evil-doers, and the establishment of  piety. Whoever truly knows thus my divine birth  and work, casts off (this) body and is not born again.  He comes to me, O Ar^ma ! Many from whom  affection, fear', and wrath have departed, who are  full of me, who depend on me, and who are purified  by the penance of knowledge have come into my  essence. I serve men in the way in which they  approach me '*. In every way, O son of IV/tha !  men follow in my path Desiring the success of  actions '*, men in this world worship the divinities,  for in this world of mortals, the success produced  bj\" action is soon obtained. The fourfold division  of castes was created by me according to the aj)-  portionnient of qualities and duties. But though  • I am its author, know me to be inexhaustible, and  not the author. Actions defile me not. I have no  attachment to the fruit of actions. I le who knows  me thus is not tied dov n by actions. Knowing  this, the men of old who wished for final emancipation, performed action. 1 htu'efore do you, too,  perform action as tvas done by men of old in olden  times. • Even sages arc confused as to what is",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Wanting their actions to pay off, people worship the gods here — because in this human world, results come fast.",
+   "takeaway": "Impatience explains most worship.",
+   "provenance": [
+    "sa:4:12",
+    "telang:T07",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:13",
+   "devanagari": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम्",
+   "iast": "cāturvarṇyaṃ mayā sṛṣṭaṃ guṇakarmavibhāgaśaḥ |\ntasya kartāramapi māṃ viddhyakartāramavyayam",
+   "speaker": null,
+   "telang_context": "means of my delusive power. Whensoever, O descendant of Bharata ! piety languishes, and impiety  is in the ascendant, I create myself. I am born age  after age, for the protection of the good, for the  destruction of evil-doers, and the establishment of  piety. Whoever truly knows thus my divine birth  and work, casts off (this) body and is not born again.  He comes to me, O Ar^ma ! Many from whom  affection, fear', and wrath have departed, who are  full of me, who depend on me, and who are purified  by the penance of knowledge have come into my  essence. I serve men in the way in which they  approach me '*. In every way, O son of IV/tha !  men follow in my path Desiring the success of  actions '*, men in this world worship the divinities,  for in this world of mortals, the success produced  bj\" action is soon obtained. The fourfold division  of castes was created by me according to the aj)-  portionnient of qualities and duties. But though  • I am its author, know me to be inexhaustible, and  not the author. Actions defile me not. I have no  attachment to the fruit of actions. I le who knows  me thus is not tied dov n by actions. Knowing  this, the men of old who wished for final emancipation, performed action. 1 htu'efore do you, too,  perform action as tvas done by men of old in olden  times. • Even sages arc confused as to what is",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The fourfold social order I created, matching inborn nature to work. And though I made it, know Me as the changeless non-maker.",
+   "takeaway": "Made the system, stands outside it.",
+   "provenance": [
+    "sa:4:13",
+    "telang:T07",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:14",
+   "devanagari": "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा ।\nइति मां योऽभिजानाति कर्मभिर्न स बध्यते",
+   "iast": "na māṃ karmāṇi limpanti na me karmaphale spṛhā |\niti māṃ yo'bhijānāti karmabhirna sa badhyate",
+   "speaker": null,
+   "telang_context": "means of my delusive power. Whensoever, O descendant of Bharata ! piety languishes, and impiety  is in the ascendant, I create myself. I am born age  after age, for the protection of the good, for the  destruction of evil-doers, and the establishment of  piety. Whoever truly knows thus my divine birth  and work, casts off (this) body and is not born again.  He comes to me, O Ar^ma ! Many from whom  affection, fear', and wrath have departed, who are  full of me, who depend on me, and who are purified  by the penance of knowledge have come into my  essence. I serve men in the way in which they  approach me '*. In every way, O son of IV/tha !  men follow in my path Desiring the success of  actions '*, men in this world worship the divinities,  for in this world of mortals, the success produced  bj\" action is soon obtained. The fourfold division  of castes was created by me according to the aj)-  portionnient of qualities and duties. But though  • I am its author, know me to be inexhaustible, and  not the author. Actions defile me not. I have no  attachment to the fruit of actions. I le who knows  me thus is not tied dov n by actions. Knowing  this, the men of old who wished for final emancipation, performed action. 1 htu'efore do you, too,  perform action as tvas done by men of old in olden  times. • Even sages arc confused as to what is",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Actions do not stain Me. I hunger for no fruits of action. Whoever knows Me this way is not chained by deeds.",
+   "takeaway": "Do the work. Skip the hunger.",
+   "provenance": [
+    "sa:4:14",
+    "telang:T07",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:15",
+   "devanagari": "एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः ।\nकुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम्",
+   "iast": "evaṃ jñātvā kṛtaṃ karma pūrvairapi mumukṣubhiḥ |\nkuru karmaiva tasmāttvaṃ pūrvaiḥ pūrvataraṃ kṛtam",
+   "speaker": null,
+   "telang_context": "means of my delusive power. Whensoever, O descendant of Bharata ! piety languishes, and impiety  is in the ascendant, I create myself. I am born age  after age, for the protection of the good, for the  destruction of evil-doers, and the establishment of  piety. Whoever truly knows thus my divine birth  and work, casts off (this) body and is not born again.  He comes to me, O Ar^ma ! Many from whom  affection, fear', and wrath have departed, who are  full of me, who depend on me, and who are purified  by the penance of knowledge have come into my  essence. I serve men in the way in which they  approach me '*. In every way, O son of IV/tha !  men follow in my path Desiring the success of  actions '*, men in this world worship the divinities,  for in this world of mortals, the success produced  bj\" action is soon obtained. The fourfold division  of castes was created by me according to the aj)-  portionnient of qualities and duties. But though  • I am its author, know me to be inexhaustible, and  not the author. Actions defile me not. I have no  attachment to the fruit of actions. I le who knows  me thus is not tied dov n by actions. Knowing  this, the men of old who wished for final emancipation, performed action. 1 htu'efore do you, too,  perform action as tvas done by men of old in olden  times. • Even sages arc confused as to what is",
+   "arnold_span": "D03",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Knowing this, even the ancient seekers of freedom did their work. So you too — act, as the ancients acted in olden times.",
+   "takeaway": "Precedent matters. Follow the ones who got free.",
+   "provenance": [
+    "sa:4:15",
+    "telang:T07+T09-head",
+    "arnold:D03-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:16",
+   "devanagari": "किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः ।\nतत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात्",
+   "iast": "kiṃ karma kimakarmeti kavayo'pyatra mohitāḥ |\ntatte karma pravakṣyāmi yajjñātvā mokṣyase'śubhāt",
+   "speaker": null,
+   "telang_context": "means of my delusive power. Whensoever, O descendant of Bharata ! piety languishes, and impiety  is in the ascendant, I create myself. I am born age  after age, for the protection of the good, for the  destruction of evil-doers, and the establishment of  piety. Whoever truly knows thus my divine birth  and work, casts off (this) body and is not born again.  He comes to me, O Ar^ma ! Many from whom  affection, fear', and wrath have departed, who are  full of me, who depend on me, and who are purified  by the penance of knowledge have come into my  essence. I serve men in the way in which they  approach me '*. In every way, O son of IV/tha !  men follow in my path Desiring the success of  actions '*, men in this world worship the divinities,  for in this world of mortals, the success produced  bj\" action is soon obtained. The fourfold division  of castes was created by me according to the aj)-  portionnient of qualities and duties. But though  • I am its author, know me to be inexhaustible, and  not the author. Actions defile me not. I have no  attachment to the fruit of actions. I le who knows  me thus is not tied dov n by actions. Knowing  this, the men of old who wished for final emancipation, performed action. 1 htu'efore do you, too,  perform action as tvas done by men of old in olden  times. • Even sages arc confused as to what is\n\naction, what inaction. Therefore I will speak to  you about action, and learning that, you will be freed  from (this world of) evil. One must possess knowledge about action ; one must also possess knowledge  about prohibited action ; and again one must possess  knowledge about inaction. The truth regarding  action is abstruse. He is wise among men, he is  possessed of devotion, and performs all actions \\  who secs inaction in action, and action in inaction.  The wise call him learned, whose acts are all free  from desires and fancies, and whose actions are  burnt down by the fire of knowledge. Forsaking  all attachment to the fruit of action, always contented, dependent on none, he does nothing at all,  though he engages in action. Devoid of expectations, restraining the mind and the self, and casting  off all belongings -, he incurs no sin, performing  actions merely for the sake of the body Satisfied  Avith earnings coming spontaneously ', rising above  the pairs of opposites, free from all animosity, and  equable on success or ill-success, he is not fettered  down, even though he performs (actions). The acts  of one who is devoid of attachment, who is free \"’,  whose mind is fixed on knowledge, and who performs  action for (the purpo.se of) the sacrifice “ arc all",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Even the wise get confused about what action is and what inaction is. I will explain action to you — knowing it, you will escape evil.",
+   "takeaway": "If the wise get confused, beginners may ask.",
+   "provenance": [
+    "sa:4:16",
+    "telang:T09-head",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:17",
+   "devanagari": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः ।\nअकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः",
+   "iast": "karmaṇo hyapi boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ |\nakarmaṇaśca boddhavyaṃ gahanā karmaṇo gatiḥ",
+   "speaker": null,
+   "telang_context": "action, what inaction. Therefore I will speak to  you about action, and learning that, you will be freed  from (this world of) evil. One must possess knowledge about action ; one must also possess knowledge  about prohibited action ; and again one must possess  knowledge about inaction. The truth regarding  action is abstruse. He is wise among men, he is  possessed of devotion, and performs all actions \\  who secs inaction in action, and action in inaction.  The wise call him learned, whose acts are all free  from desires and fancies, and whose actions are  burnt down by the fire of knowledge. Forsaking  all attachment to the fruit of action, always contented, dependent on none, he does nothing at all,  though he engages in action. Devoid of expectations, restraining the mind and the self, and casting  off all belongings -, he incurs no sin, performing  actions merely for the sake of the body Satisfied  Avith earnings coming spontaneously ', rising above  the pairs of opposites, free from all animosity, and  equable on success or ill-success, he is not fettered  down, even though he performs (actions). The acts  of one who is devoid of attachment, who is free \"’,  whose mind is fixed on knowledge, and who performs  action for (the purpo.se of) the sacrifice “ arc all",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "You must understand action, and forbidden action, and inaction too. The truth about action runs very deep.",
+   "takeaway": "Three things to learn, not one.",
+   "provenance": [
+    "sa:4:17",
+    "telang:T09",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:18",
+   "devanagari": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः ।\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत्",
+   "iast": "karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ |\nsa buddhimānmanuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt",
+   "speaker": null,
+   "telang_context": "action, what inaction. Therefore I will speak to  you about action, and learning that, you will be freed  from (this world of) evil. One must possess knowledge about action ; one must also possess knowledge  about prohibited action ; and again one must possess  knowledge about inaction. The truth regarding  action is abstruse. He is wise among men, he is  possessed of devotion, and performs all actions \\  who secs inaction in action, and action in inaction.  The wise call him learned, whose acts are all free  from desires and fancies, and whose actions are  burnt down by the fire of knowledge. Forsaking  all attachment to the fruit of action, always contented, dependent on none, he does nothing at all,  though he engages in action. Devoid of expectations, restraining the mind and the self, and casting  off all belongings -, he incurs no sin, performing  actions merely for the sake of the body Satisfied  Avith earnings coming spontaneously ', rising above  the pairs of opposites, free from all animosity, and  equable on success or ill-success, he is not fettered  down, even though he performs (actions). The acts  of one who is devoid of attachment, who is free \"’,  whose mind is fixed on knowledge, and who performs  action for (the purpo.se of) the sacrifice “ arc all",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Whoever sees inaction in action, and action in inaction — that person is wise. Disciplined. Doing every deed fully.",
+   "takeaway": "The riddle at the heart of the chapter.",
+   "provenance": [
+    "sa:4:18",
+    "telang:T09",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:19",
+   "devanagari": "यस्य सर्वे समारम्भाः कामसंकल्पवर्जिताः ।\nज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः",
+   "iast": "yasya sarve samārambhāḥ kāmasaṃkalpavarjitāḥ |\njñānāgnidagdhakarmāṇaṃ tamāhuḥ paṇḍitaṃ budhāḥ",
+   "speaker": null,
+   "telang_context": "action, what inaction. Therefore I will speak to  you about action, and learning that, you will be freed  from (this world of) evil. One must possess knowledge about action ; one must also possess knowledge  about prohibited action ; and again one must possess  knowledge about inaction. The truth regarding  action is abstruse. He is wise among men, he is  possessed of devotion, and performs all actions \\  who secs inaction in action, and action in inaction.  The wise call him learned, whose acts are all free  from desires and fancies, and whose actions are  burnt down by the fire of knowledge. Forsaking  all attachment to the fruit of action, always contented, dependent on none, he does nothing at all,  though he engages in action. Devoid of expectations, restraining the mind and the self, and casting  off all belongings -, he incurs no sin, performing  actions merely for the sake of the body Satisfied  Avith earnings coming spontaneously ', rising above  the pairs of opposites, free from all animosity, and  equable on success or ill-success, he is not fettered  down, even though he performs (actions). The acts  of one who is devoid of attachment, who is free \"’,  whose mind is fixed on knowledge, and who performs  action for (the purpo.se of) the sacrifice “ arc all",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The wise call learned the one whose every act is free of selfish desire. Free of planning. Whose deeds are burned up in the fire of wisdom.",
+   "takeaway": "Burn the motive, keep the motion.",
+   "provenance": [
+    "sa:4:19",
+    "telang:T09",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:20",
+   "devanagari": "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः ।\nकर्मण्यभिप्रवृत्तोऽपि नैव किंचित्करोति सः",
+   "iast": "tyaktvā karmaphalāsaṅgaṃ nityatṛpto nirāśrayaḥ |\nkarmaṇyabhipravṛtto'pi naiva kiṃcitkaroti saḥ",
+   "speaker": null,
+   "telang_context": "action, what inaction. Therefore I will speak to  you about action, and learning that, you will be freed  from (this world of) evil. One must possess knowledge about action ; one must also possess knowledge  about prohibited action ; and again one must possess  knowledge about inaction. The truth regarding  action is abstruse. He is wise among men, he is  possessed of devotion, and performs all actions \\  who secs inaction in action, and action in inaction.  The wise call him learned, whose acts are all free  from desires and fancies, and whose actions are  burnt down by the fire of knowledge. Forsaking  all attachment to the fruit of action, always contented, dependent on none, he does nothing at all,  though he engages in action. Devoid of expectations, restraining the mind and the self, and casting  off all belongings -, he incurs no sin, performing  actions merely for the sake of the body Satisfied  Avith earnings coming spontaneously ', rising above  the pairs of opposites, free from all animosity, and  equable on success or ill-success, he is not fettered  down, even though he performs (actions). The acts  of one who is devoid of attachment, who is free \"’,  whose mind is fixed on knowledge, and who performs  action for (the purpo.se of) the sacrifice “ arc all",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Dropping clinging to results. Always content. Needing nothing. Such a one does nothing at all — even while acting hard.",
+   "takeaway": "The busiest idleness and idlest busyness meet here.",
+   "provenance": [
+    "sa:4:20",
+    "telang:T09",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:21",
+   "devanagari": "निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः ।\nशारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम्",
+   "iast": "nirāśīryatacittātmā tyaktasarvaparigrahaḥ |\nśārīraṃ kevalaṃ karma kurvannāpnoti kilbiṣam",
+   "speaker": null,
+   "telang_context": "action, what inaction. Therefore I will speak to  you about action, and learning that, you will be freed  from (this world of) evil. One must possess knowledge about action ; one must also possess knowledge  about prohibited action ; and again one must possess  knowledge about inaction. The truth regarding  action is abstruse. He is wise among men, he is  possessed of devotion, and performs all actions \\  who secs inaction in action, and action in inaction.  The wise call him learned, whose acts are all free  from desires and fancies, and whose actions are  burnt down by the fire of knowledge. Forsaking  all attachment to the fruit of action, always contented, dependent on none, he does nothing at all,  though he engages in action. Devoid of expectations, restraining the mind and the self, and casting  off all belongings -, he incurs no sin, performing  actions merely for the sake of the body Satisfied  Avith earnings coming spontaneously ', rising above  the pairs of opposites, free from all animosity, and  equable on success or ill-success, he is not fettered  down, even though he performs (actions). The acts  of one who is devoid of attachment, who is free \"’,  whose mind is fixed on knowledge, and who performs  action for (the purpo.se of) the sacrifice “ arc all",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Expecting nothing. Mind and self controlled. Owning nothing. One incurs no wrong by acting merely to keep the body going.",
+   "takeaway": "Act for upkeep, not for hunger.",
+   "provenance": [
+    "sa:4:21",
+    "telang:T09",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:22",
+   "devanagari": "यदृच्छालाभसंतुष्टो द्वन्द्वातीतो विमत्सरः ।\nसमः सिद्धावसिद्धौ च कृत्वापि न निबध्यते",
+   "iast": "yadṛcchālābhasaṃtuṣṭo dvandvātīto vimatsaraḥ |\nsamaḥ siddhāvasiddhau ca kṛtvāpi na nibadhyate",
+   "speaker": null,
+   "telang_context": "action, what inaction. Therefore I will speak to  you about action, and learning that, you will be freed  from (this world of) evil. One must possess knowledge about action ; one must also possess knowledge  about prohibited action ; and again one must possess  knowledge about inaction. The truth regarding  action is abstruse. He is wise among men, he is  possessed of devotion, and performs all actions \\  who secs inaction in action, and action in inaction.  The wise call him learned, whose acts are all free  from desires and fancies, and whose actions are  burnt down by the fire of knowledge. Forsaking  all attachment to the fruit of action, always contented, dependent on none, he does nothing at all,  though he engages in action. Devoid of expectations, restraining the mind and the self, and casting  off all belongings -, he incurs no sin, performing  actions merely for the sake of the body Satisfied  Avith earnings coming spontaneously ', rising above  the pairs of opposites, free from all animosity, and  equable on success or ill-success, he is not fettered  down, even though he performs (actions). The acts  of one who is devoid of attachment, who is free \"’,  whose mind is fixed on knowledge, and who performs  action for (the purpo.se of) the sacrifice “ arc all",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Content with whatever comes on its own. Beyond opposites. Free of envy. Steady in success and failure. Such a one is never chained, however hard one acts.",
+   "takeaway": "Contentment is the only wealth that compounds.",
+   "provenance": [
+    "sa:4:22",
+    "telang:T09",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:23",
+   "devanagari": "गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः ।\nयज्ञायाचरतः कर्म समग्रं प्रविलीयते",
+   "iast": "gatasaṅgasya muktasya jñānāvasthitacetasaḥ |\nyajñāyācarataḥ karma samagraṃ pravilīyate",
+   "speaker": null,
+   "telang_context": "action, what inaction. Therefore I will speak to  you about action, and learning that, you will be freed  from (this world of) evil. One must possess knowledge about action ; one must also possess knowledge  about prohibited action ; and again one must possess  knowledge about inaction. The truth regarding  action is abstruse. He is wise among men, he is  possessed of devotion, and performs all actions \\  who secs inaction in action, and action in inaction.  The wise call him learned, whose acts are all free  from desires and fancies, and whose actions are  burnt down by the fire of knowledge. Forsaking  all attachment to the fruit of action, always contented, dependent on none, he does nothing at all,  though he engages in action. Devoid of expectations, restraining the mind and the self, and casting  off all belongings -, he incurs no sin, performing  actions merely for the sake of the body Satisfied  Avith earnings coming spontaneously ', rising above  the pairs of opposites, free from all animosity, and  equable on success or ill-success, he is not fettered  down, even though he performs (actions). The acts  of one who is devoid of attachment, who is free \"’,  whose mind is fixed on knowledge, and who performs  action for (the purpo.se of) the sacrifice “ arc all\n\ndestroyed. Brahman is the oblation ; with Brahman  (as a sacrificial instrument) it is offered up ; Brahman  is in the fire ; and by Brahman it is thrown ; and  Brahman, too, is the goal to which he proceeds who  meditates on Brahman in the action ^ Some devotees perform the sacrifice to the gods, some offer  up the sacrifice by the sacrifice itself in the fire  of Brahman K Others offer up the senses, such as  the sense of hearing and others, in the fires of  restraint * ; others offer up the objects of sense, such  as sound and so forth, into the fires of the senses  Some again offer up all the operations of the senses  and the operations of the life-breaths into the fire of  devotion by self-restraint \"’, kindled by knowledge.  Others perform the sacrifice of wealth, the sacrifice  of penance, the sacrifice of concentration of mind,  the sacrifice of Vedic study ”, and of knowledge, and  others are a.scetics of rigid vows. Some offer up  the upward life-breath into the dotvnward life-breath,  and the downward life-breath into the upper lifebreath, and stopping up the motions of the upward  and downward life-breaths, devote themselves to the  restraint of the life-breaths ’. Others, who (take)",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "For one free of clinging. Liberated. Mind anchored in wisdom. Acting only as offering. Every deed fully dissolves.",
+   "takeaway": "Offer it up and watch it dissolve.",
+   "provenance": [
+    "sa:4:23",
+    "telang:T09+T11-head",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:24",
+   "devanagari": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् ।\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना",
+   "iast": "brahmārpaṇaṃ brahma havirbrahmāgnau brahmaṇā hutam |\nbrahmaiva tena gantavyaṃ brahmakarmasamādhinā",
+   "speaker": null,
+   "telang_context": "destroyed. Brahman is the oblation ; with Brahman  (as a sacrificial instrument) it is offered up ; Brahman  is in the fire ; and by Brahman it is thrown ; and  Brahman, too, is the goal to which he proceeds who  meditates on Brahman in the action ^ Some devotees perform the sacrifice to the gods, some offer  up the sacrifice by the sacrifice itself in the fire  of Brahman K Others offer up the senses, such as  the sense of hearing and others, in the fires of  restraint * ; others offer up the objects of sense, such  as sound and so forth, into the fires of the senses  Some again offer up all the operations of the senses  and the operations of the life-breaths into the fire of  devotion by self-restraint \"’, kindled by knowledge.  Others perform the sacrifice of wealth, the sacrifice  of penance, the sacrifice of concentration of mind,  the sacrifice of Vedic study ”, and of knowledge, and  others are a.scetics of rigid vows. Some offer up  the upward life-breath into the dotvnward life-breath,  and the downward life-breath into the upper lifebreath, and stopping up the motions of the upward  and downward life-breaths, devote themselves to the  restraint of the life-breaths ’. Others, who (take)",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The offering is ultimate reality. The offered, into its fire. Ultimate reality is the goal — for one absorbed in it through action.",
+   "takeaway": "All sacred, all the way down.",
+   "provenance": [
+    "sa:4:24",
+    "telang:T11",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:25",
+   "devanagari": "दैवमेवापरे यज्ञं योगिनः पर्युपासते ।\nब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति",
+   "iast": "daivamevāpare yajñaṃ yoginaḥ paryupāsate |\nbrahmāgnāvapare yajñaṃ yajñenaivopajuhvati",
+   "speaker": null,
+   "telang_context": "destroyed. Brahman is the oblation ; with Brahman  (as a sacrificial instrument) it is offered up ; Brahman  is in the fire ; and by Brahman it is thrown ; and  Brahman, too, is the goal to which he proceeds who  meditates on Brahman in the action ^ Some devotees perform the sacrifice to the gods, some offer  up the sacrifice by the sacrifice itself in the fire  of Brahman K Others offer up the senses, such as  the sense of hearing and others, in the fires of  restraint * ; others offer up the objects of sense, such  as sound and so forth, into the fires of the senses  Some again offer up all the operations of the senses  and the operations of the life-breaths into the fire of  devotion by self-restraint \"’, kindled by knowledge.  Others perform the sacrifice of wealth, the sacrifice  of penance, the sacrifice of concentration of mind,  the sacrifice of Vedic study ”, and of knowledge, and  others are a.scetics of rigid vows. Some offer up  the upward life-breath into the dotvnward life-breath,  and the downward life-breath into the upper lifebreath, and stopping up the motions of the upward  and downward life-breaths, devote themselves to the  restraint of the life-breaths ’. Others, who (take)",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Some worship the gods with offerings. Others offer the act itself into ultimate reality's fire.",
+   "takeaway": "Many altars, one fire.",
+   "provenance": [
+    "sa:4:25",
+    "telang:T11",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:26",
+   "devanagari": "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति ।\nशब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति",
+   "iast": "śrotrādīnīndriyāṇyanye saṃyamāgniṣu juhvati |\nśabdādīnviṣayānanya indriyāgniṣu juhvati",
+   "speaker": null,
+   "telang_context": "destroyed. Brahman is the oblation ; with Brahman  (as a sacrificial instrument) it is offered up ; Brahman  is in the fire ; and by Brahman it is thrown ; and  Brahman, too, is the goal to which he proceeds who  meditates on Brahman in the action ^ Some devotees perform the sacrifice to the gods, some offer  up the sacrifice by the sacrifice itself in the fire  of Brahman K Others offer up the senses, such as  the sense of hearing and others, in the fires of  restraint * ; others offer up the objects of sense, such  as sound and so forth, into the fires of the senses  Some again offer up all the operations of the senses  and the operations of the life-breaths into the fire of  devotion by self-restraint \"’, kindled by knowledge.  Others perform the sacrifice of wealth, the sacrifice  of penance, the sacrifice of concentration of mind,  the sacrifice of Vedic study ”, and of knowledge, and  others are a.scetics of rigid vows. Some offer up  the upward life-breath into the dotvnward life-breath,  and the downward life-breath into the upper lifebreath, and stopping up the motions of the upward  and downward life-breaths, devote themselves to the  restraint of the life-breaths ’. Others, who (take)",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Others offer hearing and the rest of the senses into the fires of restraint. Others offer sights and sounds into the fires of the senses.",
+   "takeaway": "Everything can be fuel, aimed right.",
+   "provenance": [
+    "sa:4:26",
+    "telang:T11",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:27",
+   "devanagari": "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे ।\nआत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते",
+   "iast": "sarvāṇīndriyakarmāṇi prāṇakarmāṇi cāpare |\nātmasaṃyamayogāgnau juhvati jñānadīpite",
+   "speaker": null,
+   "telang_context": "destroyed. Brahman is the oblation ; with Brahman  (as a sacrificial instrument) it is offered up ; Brahman  is in the fire ; and by Brahman it is thrown ; and  Brahman, too, is the goal to which he proceeds who  meditates on Brahman in the action ^ Some devotees perform the sacrifice to the gods, some offer  up the sacrifice by the sacrifice itself in the fire  of Brahman K Others offer up the senses, such as  the sense of hearing and others, in the fires of  restraint * ; others offer up the objects of sense, such  as sound and so forth, into the fires of the senses  Some again offer up all the operations of the senses  and the operations of the life-breaths into the fire of  devotion by self-restraint \"’, kindled by knowledge.  Others perform the sacrifice of wealth, the sacrifice  of penance, the sacrifice of concentration of mind,  the sacrifice of Vedic study ”, and of knowledge, and  others are a.scetics of rigid vows. Some offer up  the upward life-breath into the dotvnward life-breath,  and the downward life-breath into the upper lifebreath, and stopping up the motions of the upward  and downward life-breaths, devote themselves to the  restraint of the life-breaths ’. Others, who (take)",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Others offer every sense-act into the fire of self-restraint. And every breath. Lit by wisdom.",
+   "takeaway": "The inward sacrifice needs no temple.",
+   "provenance": [
+    "sa:4:27",
+    "telang:T11",
+    "arnold:D04-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:28",
+   "devanagari": "द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे ।\nस्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः",
+   "iast": "dravyayajñāstapoyajñā yogayajñāstathāpare |\nsvādhyāyajñānayajñāśca yatayaḥ saṃśitavratāḥ",
+   "speaker": null,
+   "telang_context": "destroyed. Brahman is the oblation ; with Brahman  (as a sacrificial instrument) it is offered up ; Brahman  is in the fire ; and by Brahman it is thrown ; and  Brahman, too, is the goal to which he proceeds who  meditates on Brahman in the action ^ Some devotees perform the sacrifice to the gods, some offer  up the sacrifice by the sacrifice itself in the fire  of Brahman K Others offer up the senses, such as  the sense of hearing and others, in the fires of  restraint * ; others offer up the objects of sense, such  as sound and so forth, into the fires of the senses  Some again offer up all the operations of the senses  and the operations of the life-breaths into the fire of  devotion by self-restraint \"’, kindled by knowledge.  Others perform the sacrifice of wealth, the sacrifice  of penance, the sacrifice of concentration of mind,  the sacrifice of Vedic study ”, and of knowledge, and  others are a.scetics of rigid vows. Some offer up  the upward life-breath into the dotvnward life-breath,  and the downward life-breath into the upper lifebreath, and stopping up the motions of the upward  and downward life-breaths, devote themselves to the  restraint of the life-breaths ’. Others, who (take)",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Others offer wealth. Or penance. Or focus, study, wisdom. Ascetics of strict vows.",
+   "takeaway": "Give what you have. It counts.",
+   "provenance": [
+    "sa:4:28",
+    "telang:T11",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:29",
+   "devanagari": "अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे ।\nप्राणापानगती रुद्ध्वा प्राणायामपरायणाः",
+   "iast": "apāne juhvati prāṇaṃ prāṇe'pānaṃ tathāpare |\nprāṇāpānagatī ruddhvā prāṇāyāmaparāyaṇāḥ",
+   "speaker": null,
+   "telang_context": "destroyed. Brahman is the oblation ; with Brahman  (as a sacrificial instrument) it is offered up ; Brahman  is in the fire ; and by Brahman it is thrown ; and  Brahman, too, is the goal to which he proceeds who  meditates on Brahman in the action ^ Some devotees perform the sacrifice to the gods, some offer  up the sacrifice by the sacrifice itself in the fire  of Brahman K Others offer up the senses, such as  the sense of hearing and others, in the fires of  restraint * ; others offer up the objects of sense, such  as sound and so forth, into the fires of the senses  Some again offer up all the operations of the senses  and the operations of the life-breaths into the fire of  devotion by self-restraint \"’, kindled by knowledge.  Others perform the sacrifice of wealth, the sacrifice  of penance, the sacrifice of concentration of mind,  the sacrifice of Vedic study ”, and of knowledge, and  others are a.scetics of rigid vows. Some offer up  the upward life-breath into the dotvnward life-breath,  and the downward life-breath into the upper lifebreath, and stopping up the motions of the upward  and downward life-breaths, devote themselves to the  restraint of the life-breaths ’. Others, who (take)\n\nlimited food, offer up the life-breaths into the lifebreaths. All of these, conversant with the sacrifice,  have their sins destroyed by the sacrifice. Those  who eat the nectar-like leavings of the sacrifice  repair to the eternal Brahman ^ This world is  not for those who perform no sacrifice, whence  (then) the other, O best of the Kauravas ! Thus  sacrifices of various sorts are laid down in the  Vedas. Know them all to be produced from action ^  and knowing this you will be released (from the  fetters of this world). The sacrifice of knowledge,  O terror of (your) foes ! is superior to the sacrifice  of wealth, for action, O son of IVAha ! is wholly  and entirely comprehended in knowledge. That ^  you should learn by salutation, question, and service \\  The men of knowledge who perceive the truth will  teach knowledge to you. Having learnt that, O son  of Pa//^Ai ! you will not again fall thus into delusion ;  and by means of it, you will see all beings, without  exception, first in yourself, and then in me Even  if you are the most sinful of all sinful men, you  will cross over all trespasses by means of the  boat of knowledge alone. As a fire well kindled,  O Ar^na ! reduces fuel to ashes, so the fire of  knowledge reduces all actions to ashes ®. For there  is in this world no means of sanctification like knowledge and that one perfected by devotiQn finds",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Others, eating little, pour one breath into another, then hold both still — devoted to breath control.",
+   "takeaway": "The body itself becomes the altar.",
+   "provenance": [
+    "sa:4:29",
+    "telang:T11+T13-head",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:30",
+   "devanagari": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति ।\nसर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः",
+   "iast": "apare niyatāhārāḥ prāṇānprāṇeṣu juhvati |\nsarve'pyete yajñavido yajñakṣapitakalmaṣāḥ",
+   "speaker": null,
+   "telang_context": "limited food, offer up the life-breaths into the lifebreaths. All of these, conversant with the sacrifice,  have their sins destroyed by the sacrifice. Those  who eat the nectar-like leavings of the sacrifice  repair to the eternal Brahman ^ This world is  not for those who perform no sacrifice, whence  (then) the other, O best of the Kauravas ! Thus  sacrifices of various sorts are laid down in the  Vedas. Know them all to be produced from action ^  and knowing this you will be released (from the  fetters of this world). The sacrifice of knowledge,  O terror of (your) foes ! is superior to the sacrifice  of wealth, for action, O son of IVAha ! is wholly  and entirely comprehended in knowledge. That ^  you should learn by salutation, question, and service \\  The men of knowledge who perceive the truth will  teach knowledge to you. Having learnt that, O son  of Pa//^Ai ! you will not again fall thus into delusion ;  and by means of it, you will see all beings, without  exception, first in yourself, and then in me Even  if you are the most sinful of all sinful men, you  will cross over all trespasses by means of the  boat of knowledge alone. As a fire well kindled,  O Ar^na ! reduces fuel to ashes, so the fire of  knowledge reduces all actions to ashes ®. For there  is in this world no means of sanctification like knowledge and that one perfected by devotiQn finds",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "All of these know sacrifice, and sacrifice burns away their wrongs.",
+   "takeaway": "Every sincere method works. Pick one and mean it.",
+   "provenance": [
+    "sa:4:30",
+    "telang:T13",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:31",
+   "devanagari": "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् ।\nनायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम",
+   "iast": "yajñaśiṣṭāmṛtabhujo yānti brahma sanātanam |\nnāyaṃ loko'styayajñasya kuto'nyaḥ kurusattama",
+   "speaker": null,
+   "telang_context": "limited food, offer up the life-breaths into the lifebreaths. All of these, conversant with the sacrifice,  have their sins destroyed by the sacrifice. Those  who eat the nectar-like leavings of the sacrifice  repair to the eternal Brahman ^ This world is  not for those who perform no sacrifice, whence  (then) the other, O best of the Kauravas ! Thus  sacrifices of various sorts are laid down in the  Vedas. Know them all to be produced from action ^  and knowing this you will be released (from the  fetters of this world). The sacrifice of knowledge,  O terror of (your) foes ! is superior to the sacrifice  of wealth, for action, O son of IVAha ! is wholly  and entirely comprehended in knowledge. That ^  you should learn by salutation, question, and service \\  The men of knowledge who perceive the truth will  teach knowledge to you. Having learnt that, O son  of Pa//^Ai ! you will not again fall thus into delusion ;  and by means of it, you will see all beings, without  exception, first in yourself, and then in me Even  if you are the most sinful of all sinful men, you  will cross over all trespasses by means of the  boat of knowledge alone. As a fire well kindled,  O Ar^na ! reduces fuel to ashes, so the fire of  knowledge reduces all actions to ashes ®. For there  is in this world no means of sanctification like knowledge and that one perfected by devotiQn finds",
+   "arnold_span": "D04",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Those who taste the nectar left from sacrifice reach the eternal ultimate reality. This world is not for the non-sacrificer — how then the next?",
+   "takeaway": "You cannot skip giving and arrive at having.",
+   "provenance": [
+    "sa:4:31",
+    "telang:T13",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:32",
+   "devanagari": "एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे ।\nकर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे",
+   "iast": "evaṃ bahuvidhā yajñā vitatā brahmaṇo mukhe |\nkarmajānviddhi tānsarvānevaṃ jñātvā vimokṣyase",
+   "speaker": null,
+   "telang_context": "limited food, offer up the life-breaths into the lifebreaths. All of these, conversant with the sacrifice,  have their sins destroyed by the sacrifice. Those  who eat the nectar-like leavings of the sacrifice  repair to the eternal Brahman ^ This world is  not for those who perform no sacrifice, whence  (then) the other, O best of the Kauravas ! Thus  sacrifices of various sorts are laid down in the  Vedas. Know them all to be produced from action ^  and knowing this you will be released (from the  fetters of this world). The sacrifice of knowledge,  O terror of (your) foes ! is superior to the sacrifice  of wealth, for action, O son of IVAha ! is wholly  and entirely comprehended in knowledge. That ^  you should learn by salutation, question, and service \\  The men of knowledge who perceive the truth will  teach knowledge to you. Having learnt that, O son  of Pa//^Ai ! you will not again fall thus into delusion ;  and by means of it, you will see all beings, without  exception, first in yourself, and then in me Even  if you are the most sinful of all sinful men, you  will cross over all trespasses by means of the  boat of knowledge alone. As a fire well kindled,  O Ar^na ! reduces fuel to ashes, so the fire of  knowledge reduces all actions to ashes ®. For there  is in this world no means of sanctification like knowledge and that one perfected by devotiQn finds",
+   "arnold_span": "D05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "So sacrifices of many kinds lie spread in the Vedas. Know them all born of action — and knowing this, you will be free.",
+   "takeaway": "Map the territory, then walk out of it.",
+   "provenance": [
+    "sa:4:32",
+    "telang:T13",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:33",
+   "devanagari": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप ।\nसर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते",
+   "iast": "śreyāndravyamayādyajñājjñānayajñaḥ parantapa |\nsarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate",
+   "speaker": null,
+   "telang_context": "limited food, offer up the life-breaths into the lifebreaths. All of these, conversant with the sacrifice,  have their sins destroyed by the sacrifice. Those  who eat the nectar-like leavings of the sacrifice  repair to the eternal Brahman ^ This world is  not for those who perform no sacrifice, whence  (then) the other, O best of the Kauravas ! Thus  sacrifices of various sorts are laid down in the  Vedas. Know them all to be produced from action ^  and knowing this you will be released (from the  fetters of this world). The sacrifice of knowledge,  O terror of (your) foes ! is superior to the sacrifice  of wealth, for action, O son of IVAha ! is wholly  and entirely comprehended in knowledge. That ^  you should learn by salutation, question, and service \\  The men of knowledge who perceive the truth will  teach knowledge to you. Having learnt that, O son  of Pa//^Ai ! you will not again fall thus into delusion ;  and by means of it, you will see all beings, without  exception, first in yourself, and then in me Even  if you are the most sinful of all sinful men, you  will cross over all trespasses by means of the  boat of knowledge alone. As a fire well kindled,  O Ar^na ! reduces fuel to ashes, so the fire of  knowledge reduces all actions to ashes ®. For there  is in this world no means of sanctification like knowledge and that one perfected by devotiQn finds",
+   "arnold_span": "D05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The sacrifice of wisdom beats any gift of wealth. Every action is fully contained in wisdom.",
+   "takeaway": "Understanding outranks offerings.",
+   "provenance": [
+    "sa:4:33",
+    "telang:T13",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:34",
+   "devanagari": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।\nउपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः",
+   "iast": "tadviddhi praṇipātena paripraśnena sevayā |\nupadekṣyanti te jñānaṃ jñāninastattvadarśinaḥ",
+   "speaker": null,
+   "telang_context": "limited food, offer up the life-breaths into the lifebreaths. All of these, conversant with the sacrifice,  have their sins destroyed by the sacrifice. Those  who eat the nectar-like leavings of the sacrifice  repair to the eternal Brahman ^ This world is  not for those who perform no sacrifice, whence  (then) the other, O best of the Kauravas ! Thus  sacrifices of various sorts are laid down in the  Vedas. Know them all to be produced from action ^  and knowing this you will be released (from the  fetters of this world). The sacrifice of knowledge,  O terror of (your) foes ! is superior to the sacrifice  of wealth, for action, O son of IVAha ! is wholly  and entirely comprehended in knowledge. That ^  you should learn by salutation, question, and service \\  The men of knowledge who perceive the truth will  teach knowledge to you. Having learnt that, O son  of Pa//^Ai ! you will not again fall thus into delusion ;  and by means of it, you will see all beings, without  exception, first in yourself, and then in me Even  if you are the most sinful of all sinful men, you  will cross over all trespasses by means of the  boat of knowledge alone. As a fire well kindled,  O Ar^na ! reduces fuel to ashes, so the fire of  knowledge reduces all actions to ashes ®. For there  is in this world no means of sanctification like knowledge and that one perfected by devotiQn finds",
+   "arnold_span": "D05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Learn it by bowing down, by asking, by serving. Those who see truth will teach you wisdom.",
+   "takeaway": "The student contract: humility, questions, service.",
+   "provenance": [
+    "sa:4:34",
+    "telang:T13",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:35",
+   "devanagari": "यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव ।\nयेन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि",
+   "iast": "yajjñātvā na punarmohamevaṃ yāsyasi pāṇḍava |\nyena bhūtānyaśeṣeṇa drakṣyasyātmanyatho mayi",
+   "speaker": null,
+   "telang_context": "limited food, offer up the life-breaths into the lifebreaths. All of these, conversant with the sacrifice,  have their sins destroyed by the sacrifice. Those  who eat the nectar-like leavings of the sacrifice  repair to the eternal Brahman ^ This world is  not for those who perform no sacrifice, whence  (then) the other, O best of the Kauravas ! Thus  sacrifices of various sorts are laid down in the  Vedas. Know them all to be produced from action ^  and knowing this you will be released (from the  fetters of this world). The sacrifice of knowledge,  O terror of (your) foes ! is superior to the sacrifice  of wealth, for action, O son of IVAha ! is wholly  and entirely comprehended in knowledge. That ^  you should learn by salutation, question, and service \\  The men of knowledge who perceive the truth will  teach knowledge to you. Having learnt that, O son  of Pa//^Ai ! you will not again fall thus into delusion ;  and by means of it, you will see all beings, without  exception, first in yourself, and then in me Even  if you are the most sinful of all sinful men, you  will cross over all trespasses by means of the  boat of knowledge alone. As a fire well kindled,  O Ar^na ! reduces fuel to ashes, so the fire of  knowledge reduces all actions to ashes ®. For there  is in this world no means of sanctification like knowledge and that one perfected by devotiQn finds",
+   "arnold_span": "D05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Learning it, you will never fall into this confusion again. Through it you will see all beings — every one — first in yourself, then in Me.",
+   "takeaway": "Other people are yourself, wearing different faces.",
+   "provenance": [
+    "sa:4:35",
+    "telang:T13",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:36",
+   "devanagari": "अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः ।\nसर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि",
+   "iast": "api cedasi pāpebhyaḥ sarvebhyaḥ pāpakṛttamaḥ |\nsarvaṃ jñānaplavenaiva vṛjinaṃ santariṣyasi",
+   "speaker": null,
+   "telang_context": "limited food, offer up the life-breaths into the lifebreaths. All of these, conversant with the sacrifice,  have their sins destroyed by the sacrifice. Those  who eat the nectar-like leavings of the sacrifice  repair to the eternal Brahman ^ This world is  not for those who perform no sacrifice, whence  (then) the other, O best of the Kauravas ! Thus  sacrifices of various sorts are laid down in the  Vedas. Know them all to be produced from action ^  and knowing this you will be released (from the  fetters of this world). The sacrifice of knowledge,  O terror of (your) foes ! is superior to the sacrifice  of wealth, for action, O son of IVAha ! is wholly  and entirely comprehended in knowledge. That ^  you should learn by salutation, question, and service \\  The men of knowledge who perceive the truth will  teach knowledge to you. Having learnt that, O son  of Pa//^Ai ! you will not again fall thus into delusion ;  and by means of it, you will see all beings, without  exception, first in yourself, and then in me Even  if you are the most sinful of all sinful men, you  will cross over all trespasses by means of the  boat of knowledge alone. As a fire well kindled,  O Ar^na ! reduces fuel to ashes, so the fire of  knowledge reduces all actions to ashes ®. For there  is in this world no means of sanctification like knowledge and that one perfected by devotiQn finds",
+   "arnold_span": "D05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Even if you are the worst sinner alive, you will cross all wrongdoing on the raft of wisdom alone.",
+   "takeaway": "No one is past rescuing. No one.",
+   "provenance": [
+    "sa:4:36",
+    "telang:T13",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:37",
+   "devanagari": "यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन ।\nज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा",
+   "iast": "yathaidhāṃsi samiddho'gnirbhasmasātkurute'rjuna |\njñānāgniḥ sarvakarmāṇi bhasmasātkurute tathā",
+   "speaker": null,
+   "telang_context": "limited food, offer up the life-breaths into the lifebreaths. All of these, conversant with the sacrifice,  have their sins destroyed by the sacrifice. Those  who eat the nectar-like leavings of the sacrifice  repair to the eternal Brahman ^ This world is  not for those who perform no sacrifice, whence  (then) the other, O best of the Kauravas ! Thus  sacrifices of various sorts are laid down in the  Vedas. Know them all to be produced from action ^  and knowing this you will be released (from the  fetters of this world). The sacrifice of knowledge,  O terror of (your) foes ! is superior to the sacrifice  of wealth, for action, O son of IVAha ! is wholly  and entirely comprehended in knowledge. That ^  you should learn by salutation, question, and service \\  The men of knowledge who perceive the truth will  teach knowledge to you. Having learnt that, O son  of Pa//^Ai ! you will not again fall thus into delusion ;  and by means of it, you will see all beings, without  exception, first in yourself, and then in me Even  if you are the most sinful of all sinful men, you  will cross over all trespasses by means of the  boat of knowledge alone. As a fire well kindled,  O Ar^na ! reduces fuel to ashes, so the fire of  knowledge reduces all actions to ashes ®. For there  is in this world no means of sanctification like knowledge and that one perfected by devotiQn finds",
+   "arnold_span": "D05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "As a blazing fire turns fuel to ash, so wisdom's fire turns all actions to ash.",
+   "takeaway": "The second great fire image — it returns because it works.",
+   "provenance": [
+    "sa:4:37",
+    "telang:T13",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:38",
+   "devanagari": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति",
+   "iast": "na hi jñānena sadṛśaṃ pavitramiha vidyate |\ntatsvayaṃ yogasaṃsiddhaḥ kālenātmani vindati",
+   "speaker": null,
+   "telang_context": "limited food, offer up the life-breaths into the lifebreaths. All of these, conversant with the sacrifice,  have their sins destroyed by the sacrifice. Those  who eat the nectar-like leavings of the sacrifice  repair to the eternal Brahman ^ This world is  not for those who perform no sacrifice, whence  (then) the other, O best of the Kauravas ! Thus  sacrifices of various sorts are laid down in the  Vedas. Know them all to be produced from action ^  and knowing this you will be released (from the  fetters of this world). The sacrifice of knowledge,  O terror of (your) foes ! is superior to the sacrifice  of wealth, for action, O son of IVAha ! is wholly  and entirely comprehended in knowledge. That ^  you should learn by salutation, question, and service \\  The men of knowledge who perceive the truth will  teach knowledge to you. Having learnt that, O son  of Pa//^Ai ! you will not again fall thus into delusion ;  and by means of it, you will see all beings, without  exception, first in yourself, and then in me Even  if you are the most sinful of all sinful men, you  will cross over all trespasses by means of the  boat of knowledge alone. As a fire well kindled,  O Ar^na ! reduces fuel to ashes, so the fire of  knowledge reduces all actions to ashes ®. For there  is in this world no means of sanctification like knowledge and that one perfected by devotiQn finds\n\nwithin one’s self in time. He who has faith, whose  senses are restrained, and who is assiduous, obtains  knowledge’. Obtaining knowledge, he acquires,  without delay, the highest tranquillity. He who is  ignorant and devoid of faith, and whose self is full  of misgivings, is ruined. Not this world, not the  next, nor happiness, is for him whose self is full  of misgivings. Actions, O Dhanaw^raya ! do not  fetter one who is self-possessed who has renounced  action by devotion, and who has destroyed misgivings by knowledge. Therefore, O descendant  of Bharata! destroy, with the sword of knowledge,  these misgivings of yours which fill your mind, and  which are produced from ignorance. Engage in  devotion. Arise !",
+   "arnold_span": "D05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Nothing purifies in this world like wisdom. In time, the self, perfected in discipline, finds it within.",
+   "takeaway": "The treasure was inside the house all along.",
+   "provenance": [
+    "sa:4:38",
+    "telang:T13+T14-head",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:39",
+   "devanagari": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः ।\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति",
+   "iast": "śraddhāvām̐llabhate jñānaṃ tatparaḥ saṃyatendriyaḥ |\njñānaṃ labdhvā parāṃ śāntimacireṇādhigacchati",
+   "speaker": null,
+   "telang_context": "within one’s self in time. He who has faith, whose  senses are restrained, and who is assiduous, obtains  knowledge’. Obtaining knowledge, he acquires,  without delay, the highest tranquillity. He who is  ignorant and devoid of faith, and whose self is full  of misgivings, is ruined. Not this world, not the  next, nor happiness, is for him whose self is full  of misgivings. Actions, O Dhanaw^raya ! do not  fetter one who is self-possessed who has renounced  action by devotion, and who has destroyed misgivings by knowledge. Therefore, O descendant  of Bharata! destroy, with the sword of knowledge,  these misgivings of yours which fill your mind, and  which are produced from ignorance. Engage in  devotion. Arise !",
+   "arnold_span": "D05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The faithful one, senses restrained, devoted — gains wisdom. Gaining wisdom, one soon reaches supreme peace.",
+   "takeaway": "Faith, focus, devotion: the three keys on one ring.",
+   "provenance": [
+    "sa:4:39",
+    "telang:T14",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:40",
+   "devanagari": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति ।\nनायं लोकोऽस्ति न परो न सुखं संशयात्मनः",
+   "iast": "ajñaścāśraddadhānaśca saṃśayātmā vinaśyati |\nnāyaṃ loko'sti na paro na sukhaṃ saṃśayātmanaḥ",
+   "speaker": null,
+   "telang_context": "within one’s self in time. He who has faith, whose  senses are restrained, and who is assiduous, obtains  knowledge’. Obtaining knowledge, he acquires,  without delay, the highest tranquillity. He who is  ignorant and devoid of faith, and whose self is full  of misgivings, is ruined. Not this world, not the  next, nor happiness, is for him whose self is full  of misgivings. Actions, O Dhanaw^raya ! do not  fetter one who is self-possessed who has renounced  action by devotion, and who has destroyed misgivings by knowledge. Therefore, O descendant  of Bharata! destroy, with the sword of knowledge,  these misgivings of yours which fill your mind, and  which are produced from ignorance. Engage in  devotion. Arise !",
+   "arnold_span": "D05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "The ignorant, the faithless, the doubting self destroys itself. Neither this world nor the next — nor any happiness — belongs to the doubter.",
+   "takeaway": "Doubt, not failure, is the dead end.",
+   "provenance": [
+    "sa:4:40",
+    "telang:T14",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:41",
+   "devanagari": "योगसंन्यस्तकर्माणं ज्ञानसंछिन्नसंशयम् ।\nआत्मवन्तं न कर्माणि निबध्नन्ति धनंजय",
+   "iast": "yogasaṃnyastakarmāṇaṃ jñānasaṃchinnasaṃśayam |\nātmavantaṃ na karmāṇi nibadhnanti dhanaṃjaya",
+   "speaker": null,
+   "telang_context": "within one’s self in time. He who has faith, whose  senses are restrained, and who is assiduous, obtains  knowledge’. Obtaining knowledge, he acquires,  without delay, the highest tranquillity. He who is  ignorant and devoid of faith, and whose self is full  of misgivings, is ruined. Not this world, not the  next, nor happiness, is for him whose self is full  of misgivings. Actions, O Dhanaw^raya ! do not  fetter one who is self-possessed who has renounced  action by devotion, and who has destroyed misgivings by knowledge. Therefore, O descendant  of Bharata! destroy, with the sword of knowledge,  these misgivings of yours which fill your mind, and  which are produced from ignorance. Engage in  devotion. Arise !",
+   "arnold_span": "D05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "Actions do not chain the self-possessed. The one who renounced action through discipline. Whose doubts wisdom destroyed.",
+   "takeaway": "Cut the chains before they tighten.",
+   "provenance": [
+    "sa:4:41",
+    "telang:T14",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  },
+  {
+   "id": "4:42",
+   "devanagari": "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः ।\nछित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत",
+   "iast": "tasmādajñānasambhūtaṃ hṛtsthaṃ jñānāsinātmanaḥ |\nchittvainaṃ saṃśayaṃ yogamātiṣṭhottiṣṭha bhārata",
+   "speaker": null,
+   "telang_context": "within one’s self in time. He who has faith, whose  senses are restrained, and who is assiduous, obtains  knowledge’. Obtaining knowledge, he acquires,  without delay, the highest tranquillity. He who is  ignorant and devoid of faith, and whose self is full  of misgivings, is ruined. Not this world, not the  next, nor happiness, is for him whose self is full  of misgivings. Actions, O Dhanaw^raya ! do not  fetter one who is self-possessed who has renounced  action by devotion, and who has destroyed misgivings by knowledge. Therefore, O descendant  of Bharata! destroy, with the sword of knowledge,  these misgivings of yours which fill your mind, and  which are produced from ignorance. Engage in  devotion. Arise !",
+   "arnold_span": "D05",
+   "arnold_shared": true,
+   "align_notes": "",
+   "meaning_simple": "So cut this doubt born of ignorance with the sword of wisdom. Stand in discipline and rise up to fight.",
+   "takeaway": "The chapter ends the way it began — with a sword and a sunrise.",
+   "provenance": [
+    "sa:4:42",
+    "telang:T14",
+    "arnold:D05-shared"
+   ],
+   "status": "approved"
+  }
+ ]
+}

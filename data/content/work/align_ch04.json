@@ -1,0 +1,695 @@
+{
+ "chapter": 4,
+ "records": [
+  {
+   "id": "4:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "declared  to the sun",
+      "highest mystery"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:2",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "royal sages",
+      "was lost"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:3",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "primeval",
+      "mystery"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:4",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "Arguna said :"
+     ]
+    },
+    {
+     "para": "T03",
+     "anchors": [
+      "Later is your birth",
+      "understand"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "4:5",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T05",
+     "anchors": [
+      "many births",
+      "know them all"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:6",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "unborn",
+      "am born"
+     ]
+    },
+    {
+     "para": "T07",
+     "anchors": [
+      "means of my delusive power"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:7",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "born age  after",
+      "establishment of  piety"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:8",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "born age  after age",
+      "establishment of  piety"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:9",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "truly knows",
+      "comes to me"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:10",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "affection, fear",
+      "my  essence"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:11",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "serve men",
+      "follow in my path"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:12",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "Desiring the success",
+      "soon obtained"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:13",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "fourfold division",
+      "not the author"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:14",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "defile me not",
+      "not tied"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:15",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "men of old",
+      "confused as to what is"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:16",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": []
+    },
+    {
+     "para": "T09",
+     "anchors": [
+      "action, what inaction",
+      "will speak"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:17",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "possess knowledge about action",
+      "abstruse"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:18",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "He is wise",
+      "performs all actions"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:19",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "call him learned",
+      "fire of knowledge"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:20",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "Forsaking",
+      "does nothing"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:21",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "Devoid of expectations",
+      "sake of the body"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:22",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "Satisfied",
+      "not fettered"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:23",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "devoid of attachment"
+     ]
+    },
+    {
+     "para": "T11",
+     "anchors": [
+      "destroyed",
+      "oblation"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:24",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "Brahman is the oblation",
+      "meditates on Brahman"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:25",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "in the fire  of Brahman"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:26",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "offer up the senses",
+      "fires of the senses"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:27",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "Some again",
+      "rigid vows"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:28",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "upward",
+      "restraint of the life-breaths"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:29",
+   "telang": [
+    {
+     "para": "T11",
+     "anchors": [
+      "Others, who (take)"
+     ]
+    },
+    {
+     "para": "T13",
+     "anchors": [
+      "limited food",
+      "lifebreaths"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:30",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "All of these",
+      "eternal Brahman"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:31",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "nectar-like leavings",
+      "perform no sacrifice"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:32",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "various sorts",
+      "released"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:33",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "sacrifice of knowledge",
+      "comprehended in knowledge"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:34",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "salutation",
+      "will  teach"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:35",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "Having learnt",
+      "first in yourself"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:36",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "most sinful",
+      "boat of knowledge"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:37",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "fire well kindled",
+      "reduces"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:38",
+   "telang": [
+    {
+     "para": "T13",
+     "anchors": [
+      "sanctification like knowledge",
+      "finds"
+     ]
+    },
+    {
+     "para": "T14",
+     "anchors": [
+      "within one"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:39",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "obtains  knowledge"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:40",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "nor happiness"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:41",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "do not  fetter"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "4:42",
+   "telang": [
+    {
+     "para": "T14",
+     "anchors": [
+      "Therefore",
+      "Arise"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": true,
+   "notes": ""
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T06",
+   "reason": "Commentary on transmission lineage, not verse prose."
+  },
+  {
+   "para": "T08",
+   "reason": "Footnote fragment."
+  },
+  {
+   "para": "T10",
+   "reason": "Footnote gloss."
+  },
+  {
+   "para": "T12",
+   "reason": "Commentary gloss on operations named."
+  }
+ ]
+}
