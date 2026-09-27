@@ -93,6 +93,8 @@ class GitaRepository private constructor(private val db: GitaDatabase) {
 
     fun readPerChapter(): Flow<List<ChapterRead>> = dao.readPerChapter()
 
+    fun readIds(): Flow<List<String>> = dao.readIds()
+
     companion object {
         @Volatile
         private var instance: GitaRepository? = null
