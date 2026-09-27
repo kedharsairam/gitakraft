@@ -1,0 +1,457 @@
+{
+ "chapter": 7,
+ "records": [
+  {
+   "id": "7:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "The Deity said :"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "now hear how you can without",
+      "know me fully"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:2",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "tell you exhaustively",
+      "further left"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:3",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "Among thousands of men",
+      "only some know me truly"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "7:4",
+   "telang": [
+    {
+     "para": "T01",
+     "anchors": [
+      "Earth, water, fire"
+     ]
+    },
+    {
+     "para": "T02",
+     "anchors": [
+      "and egoism",
+      "eightfold"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": false,
+   "notes": "Split across T01-tail/T02-head (page-74 break residue)."
+  },
+  {
+   "id": "7:5",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "another (form of my) nature",
+      "universe is upheld"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:6",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "all things have these",
+      "producer and the destroyer"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:7",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "nothing else",
+      "pearls upon a thread"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:8",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "taste in water",
+      "manliness in human beings"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:9",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "fragrant smell",
+      "penance"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:10",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "eternal seed",
+      "glory of the glorious"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:11",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "fondness or desire",
+      "love unopposed to piety"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": "Verse ends mid-T02; T03 opens with its tail ('beings.')."
+  },
+  {
+   "id": "7:12",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "quality of",
+      "they are in me"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:13",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "deluded by these three states",
+      "beyond them and inexhaustible"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:14",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "difficult to transcend",
+      "cross beyond this delusion"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:15",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "Wicked",
+      "demoniac"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "7:16",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "four classes",
+      "possessed of knowledge"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "7:17",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "devoted",
+      "dear to me"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:18",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "noble",
+      "nothing higher"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:19",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "many lives",
+      "Vasudeva is everything"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:20",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "approach other"
+     ]
+    },
+    {
+     "para": "T04",
+     "anchors": [
+      "controlled by their own natures"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": "Split across T03-tail/T04-head."
+  },
+  {
+   "id": "7:21",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "Whichever form",
+      "faith steady"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:22",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "that faith",
+      "given by me"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:23",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "perishable",
+      "go to me"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:24",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "undiscerning ones",
+      "become perceptible"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:25",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "mystic power",
+      "unborn and inexhaustible"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:26",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "things which have been",
+      "But me nobody knows"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:27",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "terror",
+      "aversion"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "7:28",
+   "telang": [
+    {
+     "para": "T04",
+     "anchors": [
+      "meritorious actions",
+      "by the pairs of"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": true,
+   "notes": "TRUNCATED WITNESS: triptych T04 ends mid-verse ('by the pairs of') — Telang print running head 'CHAPTER VIII, 4.' (p77) cut the ch07 span. Raw tail: 'opposites, and being firm in their beliefs'. Full tail + 7:29-30 sit at raw offsets ~172950-173400 (ch08-span head)."
+  },
+  {
+   "id": "7:29",
+   "telang": [],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": "NO TRIPTYCH WITNESS (see 7:28 note). Raw: 'Those who, resting on me, work for release from old age and death know the Brahman the whole Adhyatina, and all action.' Arnold G10 covers 7:29-30."
+  },
+  {
+   "id": "7:30",
+   "telang": [],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": "NO TRIPTYCH WITNESS (see 7:28 note). Raw: 'And those who know me with the Adhibhuta, the Adhidaiva, and the Adhiyajna, having minds devoted to abstraction, know me at the time of departure (from this world).' Arnold G10 covers 7:29-30."
+  }
+ ],
+ "dropped": []
+}
