@@ -1,0 +1,574 @@
+{
+ "chapter": 9,
+ "records": [
+  {
+   "id": "9:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "not given to  carping",
+      "released from evil"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:2",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "chief among the  sciences",
+      "imperishable, not"
+     ]
+    },
+    {
+     "para": "T03",
+     "anchors": [
+      "opposed to the sacred law",
+      "easy to practise"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": true,
+   "notes": "Split across T00-tail/T03-head."
+  },
+  {
+   "id": "9:3",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "faitli",
+      "mortal world"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:4",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "pervaded",
+      "live in them"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:5",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "Nor yet",
+      "divine power"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:6",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "ubiquitous atmosphere",
+      "similarly"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:7",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "expiration",
+      "bring them forth"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:8",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "Taking the control",
+      "again and again"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:9",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "fetter",
+      "unconcerned"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:10",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "supervisor",
+      "revolves"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:11",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "Deluded people"
+     ]
+    },
+    {
+     "para": "T06",
+     "anchors": [
+      "assumed  a human body"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": "Split across T03-tail/T06-head (p83 break splits 'knowledge': 'knovv-'/'ledge')."
+  },
+  {
+   "id": "9:12",
+   "telang": [
+    {
+     "para": "T03",
+     "anchors": [
+      "vain acts"
+     ]
+    },
+    {
+     "para": "T06",
+     "anchors": [
+      "minds are disordered"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": "Split across T03-tail/T06-head (see 9:11 note)."
+  },
+  {
+   "id": "9:13",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "high-souled ones",
+      "godlike"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:14",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "glorifying me",
+      "always devoted"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:15",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "sacrifice of knowledge",
+      "numerous forms"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:16",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "Kratu",
+      "I the offering"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:17",
+   "telang": [
+    {
+     "para": "T06",
+     "anchors": [
+      "father of this",
+      "the supervisor"
+     ]
+    },
+    {
+     "para": "T07",
+     "anchors": [
+      "residence"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": "Split across T06-tail/T07-head."
+  },
+  {
+   "id": "9:18",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "cause heat",
+      "immortality"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:19",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "branches",
+      "celestial pleasures"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:20",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "great heavenly",
+      "merit is exhausted"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:21",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "objects of  desire",
+      "going and coming"
+     ]
+    }
+   ],
+   "arnold": "D13",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:22",
+   "telang": [
+    {
+     "para": "T07",
+     "anchors": [
+      "meditating on me and",
+      "constantly devoted"
+     ]
+    },
+    {
+     "para": "T08",
+     "anchors": [
+      "new gifts",
+      "acquired by  them"
+     ]
+    }
+   ],
+   "arnold": "D14",
+   "arnold_shared": false,
+   "notes": "Split across T07-tail/T08-head."
+  },
+  {
+   "id": "9:23",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "other divinities",
+      "irregularly"
+     ]
+    }
+   ],
+   "arnold": "D15",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:24",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "enjoyer",
+      "do they fall"
+     ]
+    }
+   ],
+   "arnold": "D15",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:25",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "gods go to the gods"
+     ]
+    },
+    {
+     "para": "T09",
+     "anchors": [
+      "manes",
+      "go to me"
+     ]
+    }
+   ],
+   "arnold": "D15",
+   "arnold_shared": true,
+   "notes": "Split across T08-tail/T09-head."
+  },
+  {
+   "id": "9:26",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "leaf, flower",
+      "I accept"
+     ]
+    }
+   ],
+   "arnold": "D15",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:27",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "you eat",
+      "offered to me"
+     ]
+    }
+   ],
+   "arnold": "D15",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:28",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "bonds of action",
+      "come to me"
+     ]
+    }
+   ],
+   "arnold": "D15",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:29",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "alike to all",
+      "I too in them"
+     ]
+    }
+   ],
+   "arnold": "D16",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "9:30",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "ill-conducted",
+      "well resolved"
+     ]
+    }
+   ],
+   "arnold": "D17",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:31",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "devout of heart",
+      "never ruined"
+     ]
+    }
+   ],
+   "arnold": "D17",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:32",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "sinful",
+      "supreme goal"
+     ]
+    }
+   ],
+   "arnold": "D17",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "9:33",
+   "telang": [
+    {
+     "para": "T09",
+     "anchors": [
+      "What then (need"
+     ]
+    },
+    {
+     "para": "T10",
+     "anchors": [
+      "royal saints"
+     ]
+    }
+   ],
+   "arnold": "D17",
+   "arnold_shared": true,
+   "notes": "Split across T09-tail/T10-head."
+  },
+  {
+   "id": "9:34",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "transient unhappy",
+      "certainly"
+     ]
+    }
+   ],
+   "arnold": "D17",
+   "arnold_shared": true,
+   "notes": ""
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T01",
+   "reason": "Telang footnote on 8:24-25 time-verses spilled into ch09 span ('I own I have no clear notion...'); no ch9 home."
+  },
+  {
+   "para": "T02",
+   "reason": "Running-head residue ('S2 bhagavadgita.')."
+  },
+  {
+   "para": "T04",
+   "reason": "Footnote tail ('Viz. the supervision'); belongs with 9:9-10 glosses."
+  },
+  {
+   "para": "T05",
+   "reason": "Print ornament residue ('%')."
+  }
+ ]
+}
