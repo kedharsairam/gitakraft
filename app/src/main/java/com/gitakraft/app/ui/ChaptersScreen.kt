@@ -74,7 +74,7 @@ fun ChaptersScreen(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
-            contentPadding = PaddingValues(bottom = 24.dp),
+            contentPadding = PaddingValues(bottom = 150.dp),
             verticalArrangement = Arrangement.spacedBy(8.dp),
         ) {
             stickyHeader {

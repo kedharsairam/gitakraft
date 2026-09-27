@@ -131,25 +131,11 @@ fun SearchScreen(vm: SearchViewModel, onVerse: (String) -> Unit) {
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun BookmarksScreen(
-    vm: BookmarksViewModel,
-    onBack: () -> Unit,
-    onVerse: (String) -> Unit,
-) {
+fun BookmarksScreen(vm: BookmarksViewModel, onVerse: (String) -> Unit) {
     val marks by vm.bookmarks().collectAsState(initial = emptyList())
     Scaffold(
         topBar = {
-            TopAppBar(
-                title = { Text("Saved") },
-                navigationIcon = {
-                    IconButton(onClick = onBack) {
-                        Icon(
-                            imageVector = Icons.AutoMirrored.Filled.ArrowBack,
-                            contentDescription = "Back",
-                        )
-                    }
-                },
-            )
+            TopAppBar(title = { Text("Saved") })
         },
     ) { padding ->
         if (marks.isEmpty()) {
@@ -177,7 +163,7 @@ fun BookmarksScreen(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
-            contentPadding = PaddingValues(bottom = 24.dp),
+            contentPadding = PaddingValues(bottom = 150.dp),
             verticalArrangement = Arrangement.spacedBy(4.dp),
         ) {
             items(marks, key = { it.id }) { v ->

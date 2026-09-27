@@ -52,30 +52,20 @@ private val ThemeNames = listOf("System", "Light", "Dark")
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun SettingsScreen(vm: SettingsViewModel, onBack: () -> Unit) {
+fun SettingsScreen(vm: SettingsViewModel) {
     val themeMode by vm.themeMode.collectAsState()
     val fontScale by vm.fontScale.collectAsState()
     val iastDefault by vm.iastDefault.collectAsState()
     Scaffold(
         topBar = {
-            TopAppBar(
-                title = { Text("Settings") },
-                navigationIcon = {
-                    IconButton(onClick = onBack) {
-                        Icon(
-                            imageVector = Icons.AutoMirrored.Filled.ArrowBack,
-                            contentDescription = "Back",
-                        )
-                    }
-                },
-            )
+            TopAppBar(title = { Text("Settings") })
         },
     ) { padding ->
         LazyColumn(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
-            contentPadding = PaddingValues(bottom = 24.dp),
+            contentPadding = PaddingValues(bottom = 150.dp),
             verticalArrangement = Arrangement.spacedBy(20.dp),
         ) {
             item {

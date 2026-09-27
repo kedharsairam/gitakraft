@@ -14,7 +14,6 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
 import androidx.compose.material.icons.filled.Search
-import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
@@ -53,7 +52,6 @@ fun HomeScreen(
     onVerse: (String) -> Unit,
     onFeeling: (String) -> Unit,
     onSearch: () -> Unit,
-    onSettings: () -> Unit,
 ) {
     val ready by vm.ready.collectAsState()
     val continueTo by vm.continueTo.collectAsState()
@@ -74,12 +72,6 @@ fun HomeScreen(
                             contentDescription = "Search verses",
                         )
                     }
-                    IconButton(onClick = onSettings) {
-                        Icon(
-                            imageVector = Icons.Filled.Settings,
-                            contentDescription = "Settings",
-                        )
-                    }
                 },
             )
         },
@@ -98,7 +90,7 @@ fun HomeScreen(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
-            contentPadding = PaddingValues(bottom = 24.dp),
+            contentPadding = PaddingValues(bottom = 150.dp),
             verticalArrangement = Arrangement.spacedBy(16.dp),
         ) {
             item {
