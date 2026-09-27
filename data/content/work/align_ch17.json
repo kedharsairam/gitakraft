@@ -1,0 +1,459 @@
+{
+ "chapter": 17,
+ "records": [
+  {
+   "id": "17:1",
+   "telang": [
+    {
+     "para": "T00",
+     "anchors": [
+      "Ar^na said ;"
+     ]
+    },
+    {
+     "para": "T01",
+     "anchors": [
+      "abandoning scripture",
+      "or darkness"
+     ]
+    }
+   ],
+   "arnold": "D01",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "17:2",
+   "telang": [
+    {
+     "para": "T02",
+     "anchors": [
+      "The Deity said ;"
+     ]
+    },
+    {
+     "para": "T03",
+     "anchors": [
+      "three kinds",
+      "Hear abouc"
+     ]
+    },
+    {
+     "para": "T05",
+     "anchors": [
+      "heart"
+     ]
+    }
+   ],
+   "arnold": "D02",
+   "arnold_shared": false,
+   "notes": "17:2-tail ('conformable to the heart') opens T05-head."
+  },
+  {
+   "id": "17:3",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "full of faith",
+      "a man himself"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "17:4",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "quality of goodness worship",
+      "Bhiitas"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "17:5",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "demoniac convictions",
+      "stubbornness"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "17:6",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "torment",
+      "seated within"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "17:7",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "liked by all",
+      "as follows"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "17:8",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "increase life",
+      "liked by the good"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "17:9",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "saltish",
+      "desired by the passionate"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "17:10",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "leavings",
+      "liked by the  dark"
+     ]
+    }
+   ],
+   "arnold": "D03",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "17:11",
+   "telang": [
+    {
+     "para": "T05",
+     "anchors": [
+      "prescribed",
+      "performed by persons"
+     ]
+    },
+    {
+     "para": "T08",
+     "anchors": [
+      "not wishing",
+      "must needs"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": "Split across T05-tail/T08-head ('persons'/'not wishing'; 't-' debris dropped)."
+  },
+  {
+   "id": "17:12",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "expectation",
+      "ostentation"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "17:13",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "no food is dealt out",
+      "without faith"
+     ]
+    }
+   ],
+   "arnold": "D04",
+   "arnold_shared": true,
+   "notes": ""
+  },
+  {
+   "id": "17:14",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "preceptors",
+      "bodily"
+     ]
+    }
+   ],
+   "arnold": "D05",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "17:15",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "true, agreeable",
+      "vocal"
+     ]
+    }
+   ],
+   "arnold": "D06",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "17:16",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "taciturnity",
+      "mental"
+     ]
+    }
+   ],
+   "arnold": "D07",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "17:17",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "perfect faith",
+      "called good"
+     ]
+    }
+   ],
+   "arnold": "D08",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "17:18",
+   "telang": [
+    {
+     "para": "T08",
+     "anchors": [
+      "respect, honour",
+      "ostenta-"
+     ]
+    },
+    {
+     "para": "T10",
+     "anchors": [
+      "tiousness",
+      "passionate"
+     ]
+    }
+   ],
+   "arnold": "D09",
+   "arnold_shared": false,
+   "notes": "Split across T08-tail/T10-head ('ostenta-'/'tiousness'; gloss T09 between)."
+  },
+  {
+   "id": "17:19",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "misguided",
+      "destruction of another"
+     ]
+    }
+   ],
+   "arnold": "D10",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "17:20",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "ought to be given",
+      "proper) person"
+     ]
+    }
+   ],
+   "arnold": "D11",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "17:21",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "return of services",
+      "passionate"
+     ]
+    }
+   ],
+   "arnold": "D12",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "17:22",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "unfit persons",
+      "contempt"
+     ]
+    }
+   ],
+   "arnold": "D13",
+   "arnold_shared": false,
+   "notes": ""
+  },
+  {
+   "id": "17:23",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "threefold designation",
+      "olden times"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 17:23-28 (Om-Tat-Sat close); Telang + Sanskrit only."
+  },
+  {
+   "id": "17:24",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "study the Brahman",
+      "Om"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 17:23-28; Telang + Sanskrit only."
+  },
+  {
+   "id": "17:25",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "final emancipation",
+      "Tad"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "Arnold omits 17:23-28; Telang + Sanskrit only."
+  },
+  {
+   "id": "17:26",
+   "telang": [
+    {
+     "para": "T10",
+     "anchors": [
+      "existence and goodness",
+      "auspicious act"
+     ]
+    }
+   ],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "T10 truncated ('Constancy in'); raw: '(making) sacrifices, penances, and gifts, is called Sat; and (all) action, too, of which that is the object, is also called Sat.' Arnold omits."
+  },
+  {
+   "id": "17:27",
+   "telang": [],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "NO TRIPTYCH WITNESS (XVIir-head cut). Raw: '(making) sacrifices, penances, and gifts, is called Sat; and (all) action, too, of which that is the object, is also called Sat.' Arnold omits."
+  },
+  {
+   "id": "17:28",
+   "telang": [],
+   "arnold": null,
+   "arnold_shared": false,
+   "notes": "NO TRIPTYCH WITNESS (XVIir-head cut). Raw: 'Whatever oblation is offered, whatever is given, whatever penance is performed, and whatever is done, without faith, that is called Asat, and that is nought, both after death and here.' Arnold omits."
+  }
+ ],
+ "dropped": [
+  {
+   "para": "T04",
+   "reason": "Page number ('ii8' = print p118)."
+  },
+  {
+   "para": "T06",
+   "reason": "Page-break debris ('t-' orphan between 17:11 halves)."
+  },
+  {
+   "para": "T07",
+   "reason": "Page number ('II9' = print p119)."
+  },
+  {
+   "para": "T09",
+   "reason": "Footnote gloss on 17:18 ('Respect = people rising...')."
+  }
+ ]
+}
