@@ -1,5 +1,6 @@
 package com.gitakraft.app.nav
 
+import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Book
@@ -49,6 +50,10 @@ fun AppNav(factory: RepoFactory, iastDefault: Boolean) {
     )
     val showBar = entry?.destination?.route in tabs.map { it.first }
     Scaffold(
+        // Screens own their top bars (each consumes the status-bar inset
+        // exactly once). The shell must not add it again, or every screen
+        // sits one status-bar too low. Bottom bar still offsets content.
+        contentWindowInsets = WindowInsets(0, 0, 0, 0),
         bottomBar = {
             if (showBar) {
                 NavigationBar {
