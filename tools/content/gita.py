@@ -25,6 +25,7 @@ from chapters import CHAPTERS, EXPECTED_TOTAL, WIKISOURCE_API
 from chapters import EN_WIKISOURCE_API, TELANG_INDEX, TELANG_PAGE_FROM, TELANG_PAGE_TO
 from iast import transliterate, detransliterate
 from drafting import cmd_draft, cmd_check_draft
+from review import cmd_review
 from verify import cmd_verify
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -862,11 +863,15 @@ def main(argv: list[str] | None = None) -> int:
     sub = ap.add_subparsers(dest="cmd", required=True)
     for name in ("fetch", "normalize", "transliterate", "validate", "export",
                  "export_app", "fetch_en", "norm_en", "anchor_en", "triptych", "check_align",
-                 "draft", "check_draft", "verify"):
+                 "draft", "check_draft", "verify", "review"):
         p = sub.add_parser(name)
         p.add_argument("--chapter", type=int, default=None)
         if name in ("export", "export_app"):
             p.add_argument("--out", default=None)
+        if name == "review":
+            p.add_argument("--status", action="store_true")
+            p.add_argument("--sign-off", default=None)
+            p.add_argument("--reopen", default=None)
     args = ap.parse_args(argv)
     return {"fetch": cmd_fetch, "normalize": cmd_normalize,
             "transliterate": cmd_transliterate, "validate": cmd_validate,
@@ -874,7 +879,7 @@ def main(argv: list[str] | None = None) -> int:
             "norm_en": cmd_norm_en, "anchor_en": cmd_anchor_en,
             "triptych": cmd_triptych, "check_align": cmd_check_align,
             "draft": cmd_draft, "check_draft": cmd_check_draft,
-            "verify": cmd_verify}[args.cmd](args)
+            "verify": cmd_verify, "review": cmd_review}[args.cmd](args)
 
 
 if __name__ == "__main__":
