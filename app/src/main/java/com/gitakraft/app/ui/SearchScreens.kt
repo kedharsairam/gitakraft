@@ -1,5 +1,8 @@
 package com.gitakraft.app.ui
 
+import androidx.compose.foundation.ExperimentalFoundationApi
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.combinedClickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
@@ -14,23 +17,32 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material.icons.filled.CheckCircle
 import androidx.compose.material.icons.filled.Clear
+import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material.icons.filled.Search
+import androidx.compose.material.icons.outlined.RadioButtonUnchecked
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.FilterChip
+import androidx.compose.material3.Card
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.SearchBar
+import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
+import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.focus.FocusRequester
@@ -45,20 +57,71 @@ fun VerseSearchRow(verse: VerseRow, onOpen: () -> Unit) {
     VerseListRow(verse = verse, read = false, onOpen = onOpen, numberLabel = verse.id)
 }
 
+@OptIn(ExperimentalFoundationApi::class)
 @Composable
-fun BookmarkRow(verse: VerseRow, onOpen: () -> Unit, onRemove: () -> Unit) {
-    Row(
-        modifier = Modifier.fillMaxWidth(),
-        verticalAlignment = Alignment.CenterVertically,
+fun SavedVerseCard(
+    verse: VerseRow,
+    selected: Boolean,
+    selectionMode: Boolean,
+    onOpen: () -> Unit,
+    onToggleSelect: () -> Unit,
+    onRemove: () -> Unit,
+) {
+    Card(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(horizontal = 16.dp, vertical = 2.dp)
+            .combinedClickable(
+                onClick = { if (selectionMode) onToggleSelect() else onOpen() },
+                onLongClick = onToggleSelect,
+            ),
     ) {
-        androidx.compose.foundation.layout.Box(modifier = Modifier.weight(1f)) {
-            VerseListRow(verse = verse, read = true, onOpen = onOpen, numberLabel = verse.id)
-        }
-        IconButton(onClick = onRemove) {
-            Icon(
-                imageVector = Icons.Filled.Delete,
-                contentDescription = "Remove verse ${verse.id} from saved",
-            )
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(12.dp),
+            verticalAlignment = Alignment.Top,
+        ) {
+            if (selectionMode) {
+                Icon(
+                    imageVector = if (selected) {
+                        Icons.Filled.CheckCircle
+                    } else {
+                        Icons.Outlined.RadioButtonUnchecked
+                    },
+                    contentDescription = if (selected) {
+                        "Selected"
+                    } else {
+                        "Not selected"
+                    },
+                    tint = if (selected) {
+                        MaterialTheme.colorScheme.primary
+                    } else {
+                        MaterialTheme.colorScheme.onSurfaceVariant
+                    },
+                    modifier = Modifier.padding(end = 8.dp, top = 2.dp),
+                )
+            }
+            Column(modifier = Modifier.weight(1f)) {
+                Text(
+                    text = verse.id,
+                    style = MaterialTheme.typography.labelMedium,
+                    color = MaterialTheme.colorScheme.primary,
+                )
+                Text(
+                    text = verse.takeaway,
+                    style = MaterialTheme.typography.bodyMedium,
+                    modifier = Modifier.padding(top = 4.dp),
+                )
+            }
+            if (!selectionMode) {
+                IconButton(onClick = onRemove) {
+                    Icon(
+                        imageVector = Icons.Filled.Delete,
+                        contentDescription = "Remove verse ${verse.id} from saved",
+                    )
+                }
+            }
         }
     }
 }
@@ -133,7 +196,8 @@ fun SearchScreen(
                 },
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(horizontal = 16.dp, vertical = 8.dp)
+                    .padding(horizontal = 16.dp)
+                    .padding(top = 4.dp, bottom = 8.dp)
                     .focusRequester(focusRequester),
             ) {}
             if (query.isBlank()) {
@@ -217,13 +281,87 @@ fun SearchScreen(
     }
 }
 
-@OptIn(ExperimentalMaterial3Api::class)
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalFoundationApi::class)
 @Composable
 fun BookmarksScreen(vm: BookmarksViewModel, onVerse: (String) -> Unit) {
     val marks by vm.bookmarks().collectAsState(initial = emptyList())
+    val chapters by vm.chapters().collectAsState(initial = emptyList())
+    val titleOf = chapters.associate { it.n to it.title }
+    val groups = marks.groupBy { it.ch }.toSortedMap()
+    var selection by remember { mutableStateOf(setOf<String>()) }
+    var pendingDelete by remember { mutableStateOf<Set<String>?>(null) }
+    val selecting = selection.isNotEmpty()
+
+    // Every removal — single or batch — asks first. Nothing vanishes silently.
+    pendingDelete?.let { ids ->
+        AlertDialog(
+            onDismissRequest = { pendingDelete = null },
+            title = {
+                Text(
+                    if (ids.size == 1) {
+                        "Remove this verse?"
+                    } else {
+                        "Remove ${ids.size} verses?"
+                    },
+                )
+            },
+            text = {
+                Text(
+                    if (ids.size == 1) {
+                        "Verse ${ids.first()} will leave your library. " +
+                            "You can save it again any time."
+                    } else {
+                        "These ${ids.size} verses will leave your library. " +
+                            "You can save them again any time."
+                    },
+                )
+            },
+            confirmButton = {
+                TextButton(
+                    onClick = {
+                        vm.removeMany(ids)
+                        selection = emptySet()
+                        pendingDelete = null
+                    },
+                ) {
+                    Text("Remove")
+                }
+            },
+            dismissButton = {
+                TextButton(onClick = { pendingDelete = null }) {
+                    Text("Cancel")
+                }
+            },
+        )
+    }
+
     Scaffold(
         topBar = {
-            TopAppBar(title = { Text("Saved") })
+            TopAppBar(
+                title = {
+                    Text(if (selecting) "${selection.size} selected" else "Saved")
+                },
+                navigationIcon = {
+                    if (selecting) {
+                        IconButton(onClick = { selection = emptySet() }) {
+                            Icon(
+                                imageVector = Icons.Filled.Close,
+                                contentDescription = "Clear selection",
+                            )
+                        }
+                    }
+                },
+                actions = {
+                    if (selecting) {
+                        IconButton(onClick = { pendingDelete = selection }) {
+                            Icon(
+                                imageVector = Icons.Filled.Delete,
+                                contentDescription = "Delete selected",
+                            )
+                        }
+                    }
+                },
+            )
         },
     ) { padding ->
         if (marks.isEmpty()) {
@@ -236,13 +374,14 @@ fun BookmarksScreen(vm: BookmarksViewModel, onVerse: (String) -> Unit) {
             ) {
                 Text(
                     text = "No saved verses yet.",
-                    style = MaterialTheme.typography.bodyMedium,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    style = MaterialTheme.typography.titleMedium,
+                    fontWeight = FontWeight.SemiBold,
                 )
                 Text(
                     text = "Star any verse while reading.",
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    modifier = Modifier.padding(top = 4.dp),
                 )
             }
             return@Scaffold
@@ -254,12 +393,42 @@ fun BookmarksScreen(vm: BookmarksViewModel, onVerse: (String) -> Unit) {
             contentPadding = PaddingValues(bottom = 150.dp),
             verticalArrangement = Arrangement.spacedBy(4.dp),
         ) {
-            items(marks, key = { it.id }) { v ->
-                BookmarkRow(
-                    verse = v,
-                    onOpen = { onVerse(v.id) },
-                    onRemove = { vm.remove(v.id) },
+            item {
+                Text(
+                    text = "${marks.size} saved verse${if (marks.size == 1) "" else "s"}",
+                    style = MaterialTheme.typography.titleMedium,
+                    modifier = Modifier.padding(horizontal = 16.dp, vertical = 8.dp),
                 )
+            }
+            groups.forEach { (ch, verses) ->
+                stickyHeader {
+                    Surface(shadowElevation = 2.dp) {
+                        Text(
+                            text = "Chapter $ch · ${titleOf[ch] ?: ""}",
+                            style = MaterialTheme.typography.labelMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .padding(horizontal = 16.dp, vertical = 8.dp),
+                        )
+                    }
+                }
+                items(verses, key = { it.id }) { v ->
+                    SavedVerseCard(
+                        verse = v,
+                        selected = v.id in selection,
+                        selectionMode = selecting,
+                        onOpen = { onVerse(v.id) },
+                        onToggleSelect = {
+                            selection = if (v.id in selection) {
+                                selection - v.id
+                            } else {
+                                selection + v.id
+                            }
+                        },
+                        onRemove = { pendingDelete = setOf(v.id) },
+                    )
+                }
             }
         }
     }

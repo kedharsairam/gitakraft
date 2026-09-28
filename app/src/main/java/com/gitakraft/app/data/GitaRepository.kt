@@ -83,6 +83,10 @@ class GitaRepository private constructor(private val db: GitaDatabase) {
         else dao.removeBookmark(id)
     }
 
+    suspend fun removeBookmarks(ids: Set<String>) {
+        if (ids.isNotEmpty()) dao.removeBookmarks(ids.toList())
+    }
+
     fun readPerChapter(): Flow<List<ChapterRead>> = dao.readPerChapter()
 
     fun readIds(): Flow<List<String>> = dao.readIds()

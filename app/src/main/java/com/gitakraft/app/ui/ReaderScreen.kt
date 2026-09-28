@@ -9,6 +9,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
@@ -29,6 +30,9 @@ import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.SnackbarHost
+import androidx.compose.material3.SnackbarHostState
+import androidx.compose.material3.SnackbarResult
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
@@ -37,6 +41,8 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
@@ -48,6 +54,7 @@ import androidx.compose.ui.unit.dp
 import com.gitakraft.app.ui.theme.VerseIast
 import com.gitakraft.app.ui.theme.VerseSanskrit
 import kotlinx.coroutines.delay
+import kotlinx.coroutines.launch
 
 private const val DWELL_MS = 1500L
 
@@ -73,6 +80,14 @@ fun ReaderScreen(
     }
 
     val v = verse
+    val snackbar = remember { SnackbarHostState() }
+    val scope = rememberCoroutineScope()
+    // Sibling navigation is hoisted: the pinned bottom bar needs it too.
+    val (pch, _) = id.split(":").map { it.toInt() }
+    val siblings by vm.versesInChapter(pch).collectAsState(initial = emptyList())
+    val idx = if (v == null) -1 else siblings.indexOfFirst { it.id == v.id }
+    val prevId = siblings.getOrNull(idx - 1)?.id
+    val nextId = siblings.getOrNull(idx + 1)?.id
     Scaffold(
         topBar = {
             TopAppBar(
@@ -108,7 +123,25 @@ fun ReaderScreen(
                                 contentDescription = "Share verse",
                             )
                         }
-                        IconButton(onClick = { vm.toggleBookmark(id, !bookmarked) }) {
+                        IconButton(
+                            onClick = {
+                                val was = bookmarked
+                                vm.toggleBookmark(id, !was)
+                                scope.launch {
+                                    val r = snackbar.showSnackbar(
+                                        if (!was) {
+                                            "Verse $id saved"
+                                        } else {
+                                            "Verse $id removed from library"
+                                        },
+                                        actionLabel = "Undo",
+                                    )
+                                    if (r == SnackbarResult.ActionPerformed) {
+                                        vm.toggleBookmark(id, was)
+                                    }
+                                }
+                            },
+                        ) {
                             Icon(
                                 imageVector = if (bookmarked) {
                                     Icons.Filled.Bookmark
@@ -126,6 +159,50 @@ fun ReaderScreen(
                 },
             )
         },
+        bottomBar = {
+            // Pinned transport: counter, hairline and prev/next never
+            // scroll with the verse — they behave like a bottom bar.
+            if (v != null && siblings.isNotEmpty()) {
+                Column(modifier = Modifier.padding(horizontal = 24.dp)) {
+                    LinearProgressIndicator(
+                        progress = { (idx + 1).toFloat() / siblings.size },
+                        modifier = Modifier.fillMaxWidth(),
+                    )
+                    Spacer(modifier = Modifier.height(8.dp))
+                    Row(
+                        modifier = Modifier.fillMaxWidth(),
+                        horizontalArrangement = Arrangement.SpaceBetween,
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        // Uniform 120dp buttons: equal widths keep the
+                        // counter optically centered whatever the labels.
+                        OutlinedButton(
+                            onClick = { prevId?.let(onNavigate) },
+                            enabled = prevId != null,
+                            modifier = Modifier.width(120.dp),
+                        ) {
+                            Text("Previous")
+                        }
+                        Text(
+                            text = "${idx + 1} of ${siblings.size}",
+                            style = MaterialTheme.typography.bodyMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                            textAlign = TextAlign.Center,
+                            modifier = Modifier.weight(1f),
+                        )
+                        Button(
+                            onClick = { nextId?.let(onNavigate) },
+                            enabled = nextId != null,
+                            modifier = Modifier.width(120.dp),
+                        ) {
+                            Text("Next")
+                        }
+                    }
+                    Spacer(modifier = Modifier.height(12.dp))
+                }
+            }
+        },
+        snackbarHost = { SnackbarHost(snackbar) },
     ) { padding ->
         if (v == null) {
             Column(
@@ -137,11 +214,7 @@ fun ReaderScreen(
             }
             return@Scaffold
         }
-        val (ch, n) = v.id.split(":").map { it.toInt() }
-        val siblings by vm.versesInChapter(ch).collectAsState(initial = emptyList())
-        val idx = siblings.indexOfFirst { it.id == v.id }
-        val prevId = siblings.getOrNull(idx - 1)?.id
-        val nextId = siblings.getOrNull(idx + 1)?.id
+        val ch = pch
 
         // Chapter-complete sheet: last verse read, everything read.
         var celebrated by rememberSaveable(id) { mutableStateOf(false) }
@@ -217,39 +290,7 @@ fun ReaderScreen(
                     )
                 }
             }
-            Spacer(modifier = Modifier.height(24.dp))
-            // Hairline: position within this chapter.
-            if (siblings.isNotEmpty()) {
-                LinearProgressIndicator(
-                    progress = { (idx + 1).toFloat() / siblings.size },
-                    modifier = Modifier.fillMaxWidth(),
-                )
-                Spacer(modifier = Modifier.height(8.dp))
-            }
-            Row(
-                modifier = Modifier.fillMaxWidth(),
-                horizontalArrangement = Arrangement.SpaceBetween,
-                verticalAlignment = Alignment.CenterVertically,
-            ) {
-                OutlinedButton(
-                    onClick = { prevId?.let(onNavigate) },
-                    enabled = prevId != null,
-                ) {
-                    Text("Previous")
-                }
-                Text(
-                    text = "$n of ${siblings.size}",
-                    style = MaterialTheme.typography.bodyMedium,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant,
-                )
-                Button(
-                    onClick = { nextId?.let(onNavigate) },
-                    enabled = nextId != null,
-                ) {
-                    Text("Next")
-                }
-            }
-            Spacer(modifier = Modifier.height(24.dp))
+            Spacer(modifier = Modifier.height(16.dp))
         }
     }
 }

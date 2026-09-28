@@ -123,6 +123,9 @@ interface GitaDao {
     @Query("DELETE FROM bookmarks WHERE verseId = :id")
     suspend fun removeBookmark(id: String)
 
+    @Query("DELETE FROM bookmarks WHERE verseId IN (:ids)")
+    suspend fun removeBookmarks(ids: List<String>)
+
     @Query(
         "SELECT v.* FROM verses v JOIN bookmarks b ON b.verseId = v.id " +
             "ORDER BY b.createdAt DESC",

@@ -128,9 +128,14 @@ class FeelingsViewModel(private val repo: GitaRepository) : ViewModel() {
 
 class BookmarksViewModel(private val repo: GitaRepository) : ViewModel() {
     fun bookmarks() = repo.bookmarks()
+    fun chapters() = repo.chapters()
 
     fun remove(id: String) {
         viewModelScope.launch { repo.toggleBookmark(id, false) }
+    }
+
+    fun removeMany(ids: Set<String>) {
+        viewModelScope.launch { repo.removeBookmarks(ids) }
     }
 }
 

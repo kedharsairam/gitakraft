@@ -44,6 +44,7 @@ import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import com.gitakraft.app.BuildConfig
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -96,10 +97,46 @@ fun SettingsScreen(vm: SettingsViewModel) {
                             fontWeight = FontWeight.SemiBold,
                         )
                         Text(
-                            text = "Version 0.1.0 · Content v1",
+                            text = "The Bhagavad Gita in plain English",
                             style = MaterialTheme.typography.bodyMedium,
                             color = MaterialTheme.colorScheme.onSurfaceVariant,
                         )
+                    }
+                }
+            }
+            item {
+                SettingGroup(
+                    title = "Journey",
+                    footer = "Your reading lives on this phone.",
+                ) {
+                    Text(
+                        text = "$totalRead of 700 verses",
+                        style = MaterialTheme.typography.titleMedium,
+                    )
+                    LinearProgressIndicator(
+                        progress = {
+                            com.gitakraft.app.domain.Reading.fraction(
+                                totalRead,
+                                700,
+                            )
+                        },
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(top = 8.dp)
+                            .clip(MaterialTheme.shapes.small),
+                    )
+                    Row(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(top = 12.dp),
+                        horizontalArrangement = Arrangement.SpaceEvenly,
+                    ) {
+                        JourneyStat(value = "$totalRead", label = "verses")
+                        JourneyStat(
+                            value = "$completedCount/18",
+                            label = "chapters",
+                        )
+                        JourneyStat(value = "$savedCount", label = "saved")
                     }
                 }
             }
@@ -147,58 +184,26 @@ fun SettingsScreen(vm: SettingsViewModel) {
                 }
             }
             item {
-                SettingGroup(
-                    title = "Journey",
-                    footer = "Your reading lives on this phone.",
-                ) {
-                    Text(
-                        text = "$totalRead of 700 verses",
-                        style = MaterialTheme.typography.titleMedium,
-                    )
-                    LinearProgressIndicator(
-                        progress = {
-                            com.gitakraft.app.domain.Reading.fraction(
-                                totalRead,
-                                700,
-                            )
-                        },
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .padding(top = 8.dp)
-                            .clip(MaterialTheme.shapes.small),
-                    )
-                    Row(
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .padding(top = 12.dp),
-                        horizontalArrangement = Arrangement.SpaceEvenly,
-                    ) {
-                        JourneyStat(value = "$totalRead", label = "verses")
-                        JourneyStat(
-                            value = "$completedCount/18",
-                            label = "chapters",
-                        )
-                        JourneyStat(value = "$savedCount", label = "saved")
-                    }
-                }
-            }
-            item {
-                SettingGroup(title = "Developer") {
+                // About: developer, version and reference rows together —
+                // one group, WallKraft pattern. Nothing scattered.
+                SettingGroup(title = "About") {
                     Row(
                         verticalAlignment = Alignment.CenterVertically,
                         horizontalArrangement = Arrangement.spacedBy(12.dp),
-                        modifier = Modifier.fillMaxWidth(),
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(vertical = 6.dp),
                     ) {
                         Box(
                             contentAlignment = Alignment.Center,
                             modifier = Modifier
-                                .size(48.dp)
-                                .clip(RoundedCornerShape(14.dp))
+                                .size(40.dp)
+                                .clip(RoundedCornerShape(12.dp))
                                 .background(MaterialTheme.colorScheme.primary),
                         ) {
                             Text(
                                 text = "गी",
-                                style = MaterialTheme.typography.titleLarge,
+                                style = MaterialTheme.typography.titleMedium,
                                 fontWeight = FontWeight.Bold,
                                 color = MaterialTheme.colorScheme.onPrimary,
                             )
@@ -215,10 +220,25 @@ fun SettingsScreen(vm: SettingsViewModel) {
                             )
                         }
                     }
-                }
-            }
-            item {
-                SettingGroup(title = "About") {
+                    HorizontalDivider(modifier = Modifier.padding(vertical = 2.dp))
+                    Row(
+                        verticalAlignment = Alignment.CenterVertically,
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(vertical = 6.dp),
+                    ) {
+                        Text(
+                            text = "Version",
+                            style = MaterialTheme.typography.bodyLarge,
+                            modifier = Modifier.weight(1f),
+                        )
+                        Text(
+                            text = "${BuildConfig.VERSION_NAME} · Content v1",
+                            style = MaterialTheme.typography.bodyMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        )
+                    }
+                    HorizontalDivider(modifier = Modifier.padding(vertical = 2.dp))
                     SettingInfoRow(
                         icon = Icons.Filled.Book,
                         tint = Color(0xFFFF9F0A),
@@ -226,6 +246,7 @@ fun SettingsScreen(vm: SettingsViewModel) {
                         sublabel = "Telang (1882) and Arnold renderings, public domain. " +
                             "Numbering follows Gita Press.",
                     )
+                    HorizontalDivider(modifier = Modifier.padding(vertical = 2.dp))
                     SettingInfoRow(
                         icon = Icons.Filled.Info,
                         tint = Color(0xFF0A84FF),
@@ -233,6 +254,7 @@ fun SettingsScreen(vm: SettingsViewModel) {
                         sublabel = "The Kashmir recension differs in places. " +
                             "This app follows the vulgate text.",
                     )
+                    HorizontalDivider(modifier = Modifier.padding(vertical = 2.dp))
                     SettingInfoRow(
                         icon = Icons.Filled.Lock,
                         tint = Color(0xFF30D158),
