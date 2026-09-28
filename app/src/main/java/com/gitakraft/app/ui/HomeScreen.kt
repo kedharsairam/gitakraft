@@ -233,7 +233,9 @@ fun HomeScreen(
                 }
             }
         }
-        // One-time welcome: orientation + privacy line, then out of the way.
+        // One-time welcome: orientation, one button, out of the way. The
+        // button only dismisses — the user lands on Home and proceeds
+        // at their own pace via the BEGIN tile.
         if (showWelcome && ready) {
             AlertDialog(
                 onDismissRequest = { vm.dismissWelcome() },
@@ -246,18 +248,8 @@ fun HomeScreen(
                     )
                 },
                 confirmButton = {
-                    TextButton(
-                        onClick = {
-                            vm.dismissWelcome()
-                            onVerse("1:1")
-                        },
-                    ) {
-                        Text("Begin the Journey")
-                    }
-                },
-                dismissButton = {
                     TextButton(onClick = { vm.dismissWelcome() }) {
-                        Text("Look around")
+                        Text("Begin the Journey")
                     }
                 },
             )
