@@ -118,11 +118,11 @@ fun AppSnackbarWithIcon(data: SnackbarData) {
 }
 
 /**
- * The house timeout: 3 seconds. Long enough to read a one-liner and
+ * The house timeout: 5 seconds. Long enough to read a one-liner and
  * reach Undo; short enough to never feel stuck. Every notice in the
  * app goes through here — one duration, no exceptions.
  */
-const val NOTICE_TIMEOUT_MS = 3_000L
+const val NOTICE_TIMEOUT_MS = 5_000L
 
 suspend fun SnackbarHostState.showTimed(
     message: String,
