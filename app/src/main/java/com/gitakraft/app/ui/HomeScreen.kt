@@ -57,9 +57,6 @@ fun HomeScreen(
     val continueTo by vm.continueTo.collectAsState()
     val verseOfDay by vm.verseOfDay.collectAsState()
     val feelings by vm.feelings().collectAsState(initial = emptyList())
-    val totalRead by vm.totalRead.collectAsState()
-    val completedCount by vm.completedCount.collectAsState()
-    val savedCount by vm.savedCount.collectAsState()
 
     Scaffold(
         topBar = {
@@ -164,16 +161,34 @@ fun HomeScreen(
                             containerColor = MaterialTheme.colorScheme.tertiaryContainer,
                         ),
                     ) {
-                        Column(modifier = Modifier.padding(16.dp)) {
-                            Text(
-                                text = "VERSE OF THE DAY · ${vod.id}",
-                                style = MaterialTheme.typography.labelMedium,
-                                color = MaterialTheme.colorScheme.onTertiaryContainer,
-                            )
-                            Text(
-                                text = vod.takeaway,
-                                style = MaterialTheme.typography.headlineMedium,
-                                modifier = Modifier.padding(top = 8.dp),
+                        Row(
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .padding(20.dp),
+                            verticalAlignment = Alignment.CenterVertically,
+                        ) {
+                            Column(modifier = Modifier.weight(1f)) {
+                                Text(
+                                    text = "VERSE OF THE DAY",
+                                    style = MaterialTheme.typography.labelMedium,
+                                    color = MaterialTheme.colorScheme.onTertiaryContainer,
+                                )
+                                Text(
+                                    text = "॥ ${devDigits(vod.ch)} · ${devDigits(vod.n)} ॥",
+                                    style = MaterialTheme.typography.displayLarge,
+                                    color = MaterialTheme.colorScheme.primary,
+                                    modifier = Modifier.padding(top = 8.dp),
+                                )
+                                Text(
+                                    text = vod.takeaway,
+                                    style = MaterialTheme.typography.titleLarge,
+                                    modifier = Modifier.padding(top = 8.dp),
+                                )
+                            }
+                            Icon(
+                                imageVector = Icons.AutoMirrored.Filled.ArrowForward,
+                                contentDescription = "Read verse ${vod.id}",
+                                tint = MaterialTheme.colorScheme.onTertiaryContainer,
                             )
                         }
                     }
@@ -208,52 +223,6 @@ fun HomeScreen(
                     }
                 }
             }
-            item {
-                Row(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .padding(horizontal = 16.dp),
-                    horizontalArrangement = Arrangement.spacedBy(8.dp),
-                ) {
-                    StatCard(
-                        value = "$totalRead",
-                        label = "verses",
-                        modifier = Modifier.weight(1f),
-                    )
-                    StatCard(
-                        value = "$completedCount/18",
-                        label = "chapters",
-                        modifier = Modifier.weight(1f),
-                    )
-                    StatCard(
-                        value = "$savedCount",
-                        label = "saved",
-                        modifier = Modifier.weight(1f),
-                    )
-                }
-            }
-        }
-    }
-}
-
-@Composable
-private fun StatCard(value: String, label: String, modifier: Modifier = Modifier) {
-    Card(modifier = modifier) {
-        Column(
-            modifier = Modifier.padding(12.dp),
-            horizontalAlignment = Alignment.CenterHorizontally,
-        ) {
-            Text(
-                text = value,
-                style = MaterialTheme.typography.titleLarge,
-                fontWeight = FontWeight.SemiBold,
-                color = MaterialTheme.colorScheme.primary,
-            )
-            Text(
-                text = label,
-                style = MaterialTheme.typography.bodyMedium,
-                color = MaterialTheme.colorScheme.onSurfaceVariant,
-            )
         }
     }
 }

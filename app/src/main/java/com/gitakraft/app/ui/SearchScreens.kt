@@ -2,11 +2,14 @@ package com.gitakraft.app.ui
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
@@ -15,6 +18,7 @@ import androidx.compose.material.icons.filled.Clear
 import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.FilterChip
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
@@ -23,10 +27,16 @@ import androidx.compose.material3.SearchBar
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.focus.FocusRequester
+import androidx.compose.ui.focus.focusRequester
+import androidx.compose.ui.platform.LocalSoftwareKeyboardController
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.gitakraft.app.data.VerseRow
 
@@ -53,12 +63,46 @@ fun BookmarkRow(verse: VerseRow, onOpen: () -> Unit, onRemove: () -> Unit) {
     }
 }
 
-@OptIn(ExperimentalMaterial3Api::class)
+private val SEARCH_SUGGESTIONS = listOf(
+    "duty",
+    "fear",
+    "anger",
+    "peace",
+    "surrender",
+    "soul",
+)
+
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
 @Composable
-fun SearchScreen(vm: SearchViewModel, onVerse: (String) -> Unit) {
+fun SearchScreen(
+    vm: SearchViewModel,
+    onVerse: (String) -> Unit,
+    onBack: () -> Unit,
+) {
     val query by vm.query.collectAsState()
     val results by vm.results.collectAsState()
-    Scaffold { padding ->
+    // Autofocus on entry: the field takes focus and the keyboard opens.
+    val focusRequester = remember { FocusRequester() }
+    val keyboard = LocalSoftwareKeyboardController.current
+    LaunchedEffect(Unit) {
+        focusRequester.requestFocus()
+        keyboard?.show()
+    }
+    Scaffold(
+        topBar = {
+            TopAppBar(
+                title = { Text("Search") },
+                navigationIcon = {
+                    IconButton(onClick = onBack) {
+                        Icon(
+                            imageVector = Icons.AutoMirrored.Filled.ArrowBack,
+                            contentDescription = "Back",
+                        )
+                    }
+                },
+            )
+        },
+    ) { padding ->
         Column(
             modifier = Modifier
                 .fillMaxSize()
@@ -67,7 +111,7 @@ fun SearchScreen(vm: SearchViewModel, onVerse: (String) -> Unit) {
             SearchBar(
                 query = query,
                 onQueryChange = { vm.query.value = it },
-                onSearch = {},
+                onSearch = { keyboard?.hide() },
                 active = false,
                 onActiveChange = {},
                 placeholder = { Text("Search 700 verses…") },
@@ -89,19 +133,51 @@ fun SearchScreen(vm: SearchViewModel, onVerse: (String) -> Unit) {
                 },
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(horizontal = 16.dp, vertical = 8.dp),
+                    .padding(horizontal = 16.dp, vertical = 8.dp)
+                    .focusRequester(focusRequester),
             ) {}
             if (query.isBlank()) {
                 Column(
-                    modifier = Modifier.fillMaxSize(),
-                    verticalArrangement = Arrangement.Center,
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .padding(top = 24.dp),
                     horizontalAlignment = Alignment.CenterHorizontally,
                 ) {
+                    Icon(
+                        imageVector = Icons.Filled.Search,
+                        contentDescription = null,
+                        tint = MaterialTheme.colorScheme.onSurfaceVariant,
+                        modifier = Modifier.size(48.dp),
+                    )
                     Text(
-                        text = "Search meanings, takeaways, verse numbers.",
+                        text = "Search meanings and takeaways.",
+                        style = MaterialTheme.typography.titleMedium,
+                        fontWeight = FontWeight.SemiBold,
+                        modifier = Modifier.padding(top = 16.dp),
+                    )
+                    Text(
+                        text = "Try a word below to begin.",
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        modifier = Modifier.padding(top = 4.dp),
                     )
+                    FlowRow(
+                        modifier = Modifier.padding(horizontal = 24.dp)
+                            .padding(top = 16.dp),
+                        horizontalArrangement = Arrangement.spacedBy(
+                            8.dp,
+                            Alignment.CenterHorizontally,
+                        ),
+                        verticalArrangement = Arrangement.spacedBy(4.dp),
+                    ) {
+                        for (s in SEARCH_SUGGESTIONS) {
+                            FilterChip(
+                                selected = false,
+                                onClick = { vm.query.value = s },
+                                label = { Text(s) },
+                            )
+                        }
+                    }
                 }
             } else if (results.isEmpty()) {
                 Column(
@@ -110,12 +186,24 @@ fun SearchScreen(vm: SearchViewModel, onVerse: (String) -> Unit) {
                     horizontalAlignment = Alignment.CenterHorizontally,
                 ) {
                     Text(
-                        text = "No matches. Try the Feelings tab.",
+                        text = "No matches for “$query”.",
+                        style = MaterialTheme.typography.titleMedium,
+                        fontWeight = FontWeight.SemiBold,
+                    )
+                    Text(
+                        text = "Try a single word, or browse by feeling.",
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        modifier = Modifier.padding(top = 4.dp),
                     )
                 }
             } else {
+                Text(
+                    text = "${results.size} result${if (results.size == 1) "" else "s"}",
+                    style = MaterialTheme.typography.labelMedium,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    modifier = Modifier.padding(horizontal = 16.dp, vertical = 4.dp),
+                )
                 LazyColumn(
                     contentPadding = PaddingValues(bottom = 24.dp),
                     verticalArrangement = Arrangement.spacedBy(4.dp),

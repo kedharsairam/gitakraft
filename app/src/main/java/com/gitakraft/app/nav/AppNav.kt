@@ -13,9 +13,9 @@ import androidx.compose.material.icons.filled.Book
 import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Settings
+import androidx.compose.material.icons.outlined.Book
 import androidx.compose.material.icons.outlined.BookmarkBorder
 import androidx.compose.material.icons.outlined.Home
-import androidx.compose.material.icons.outlined.MenuBook
 import androidx.compose.material.icons.outlined.Settings
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
@@ -61,7 +61,7 @@ fun AppNav(factory: RepoFactory, iastDefault: Boolean) {
     val entry by nav.currentBackStackEntryAsState()
     val tabs = listOf(
         GlassTab(Routes.HOME, "Home", Icons.Filled.Home, Icons.Outlined.Home),
-        GlassTab(Routes.CHAPTERS, "Chapters", Icons.Filled.Book, Icons.Outlined.MenuBook),
+        GlassTab(Routes.CHAPTERS, "Chapters", Icons.Filled.Book, Icons.Outlined.Book),
         GlassTab(Routes.BOOKMARKS, "Saved", Icons.Filled.Bookmark, Icons.Outlined.BookmarkBorder),
         GlassTab(Routes.SETTINGS, "Settings", Icons.Filled.Settings, Icons.Outlined.Settings),
     )
@@ -160,7 +160,11 @@ fun AppNav(factory: RepoFactory, iastDefault: Boolean) {
                     }
                     composable(Routes.SEARCH) {
                         val vm: SearchViewModel = viewModel(factory = factory)
-                        SearchScreen(vm = vm, onVerse = { nav.navigate(Routes.reader(it)) })
+                        SearchScreen(
+                            vm = vm,
+                            onVerse = { nav.navigate(Routes.reader(it)) },
+                            onBack = { nav.popBackStack() },
+                        )
                     }
                     composable(Routes.SETTINGS) {
                         val vm: SettingsViewModel = viewModel(factory = factory)

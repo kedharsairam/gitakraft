@@ -1,12 +1,10 @@
 package com.gitakraft.app.ui.theme
 
-import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Shapes
 import androidx.compose.material3.Typography
 import androidx.compose.material3.darkColorScheme
-import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle
@@ -17,41 +15,15 @@ import androidx.compose.ui.unit.sp
 // -- Brand --
 val Saffron = Color(0xFFFF9F0A)
 
-// Light: deep amber fill so white label text clears 4.5:1.
-val AmberDeep = Color(0xFF8A5200)
-
 // Dark: saffron fill with near-black label text (≈9:1).
 val InkOnSaffron = Color(0xFF1A1207)
 
-// -- Light: warm paper, deep ink --
-val Paper = Color(0xFFFAF7F0)
-val PaperSurface = Color(0xFFFFFFFF)
-val Ink = Color(0xFF1C1A16)
-val InkMuted = Color(0xFF6B6257)
-val TakeawayTintLight = Color(0xFFFFF3DF)
-
-// -- Dark: near-black, warm gray --
+// -- Dark: near-black, warm gray (the only theme) --
 val BackgroundDark = Color(0xFF121212)
 val SurfaceDark = Color(0xFF1C1C1E)
 val SurfaceHighDark = Color(0xFF2E2E33)
 val TextSecondaryDark = Color(0xFFB8B0A4)
 val TakeawayTintDark = Color(0xFF2A2118)
-
-private val LightColorScheme = lightColorScheme(
-    primary = AmberDeep,
-    onPrimary = Color.White,
-    secondary = Saffron,
-    onSecondary = InkOnSaffron,
-    background = Paper,
-    onBackground = Ink,
-    surface = PaperSurface,
-    onSurface = Ink,
-    surfaceVariant = Paper,
-    onSurfaceVariant = InkMuted,
-    outlineVariant = Color(0xFFE2DACA),
-    tertiaryContainer = TakeawayTintLight,
-    onTertiaryContainer = Ink,
-)
 
 private val DarkColorScheme = darkColorScheme(
     primary = Saffron,
@@ -93,12 +65,9 @@ val VerseSanskrit = TextStyle(fontSize = 28.sp, fontWeight = FontWeight.Medium, 
 val VerseIast = TextStyle(fontSize = 15.sp, fontWeight = FontWeight.Normal, lineHeight = 22.sp)
 
 @Composable
-fun GitaKraftTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
-    content: @Composable () -> Unit,
-) {
+fun GitaKraftTheme(content: @Composable () -> Unit) {
     MaterialTheme(
-        colorScheme = if (darkTheme) DarkColorScheme else LightColorScheme,
+        colorScheme = DarkColorScheme,
         typography = GitaTypography,
         shapes = GitaShapes,
         content = content,

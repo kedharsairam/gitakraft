@@ -48,7 +48,7 @@ class RepoFactory(
             modelClass.isAssignableFrom(BookmarksViewModel::class.java) ->
                 BookmarksViewModel(repo) as T
             modelClass.isAssignableFrom(SettingsViewModel::class.java) ->
-                SettingsViewModel(settings) as T
+                SettingsViewModel(repo, settings) as T
             else -> throw IllegalArgumentException(modelClass.name)
         }
 }
@@ -57,11 +57,6 @@ class HomeViewModel(private val repo: GitaRepository) : ViewModel() {
     val ready: StateFlow<Boolean> = repo.ready
 
     private val chapters = repo.chapters()
-    private val reads = repo.readPerChapter()
-
-    val totalRead: StateFlow<Int> =
-        reads.map { list -> list.sumOf { it.read } }
-            .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 0)
 
     /** First unread verse id ("ch:n"), null when the whole Gita is read. */
     val continueTo: StateFlow<String?> =
@@ -71,19 +66,6 @@ class HomeViewModel(private val repo: GitaRepository) : ViewModel() {
                 chs.associate { it.n to it.verseCount },
             )
         }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), null)
-
-    /** Chapters fully read — for the stats line. */
-    val completedCount: StateFlow<Int> =
-        combine(chapters, repo.readIds()) { chs, ids ->
-            Reading.completedChapters(
-                ids.toSet(),
-                chs.associate { it.n to it.verseCount },
-            ).size
-        }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 0)
-
-    val savedCount: StateFlow<Int> =
-        repo.bookmarks().map { it.size }
-            .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 0)
 
     /** Deterministic verse-of-the-day with its loaded row. */
     val verseOfDay: StateFlow<VerseRow?> =
@@ -162,17 +144,33 @@ class SearchViewModel(private val repo: GitaRepository) : ViewModel() {
         }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), emptyList())
 }
 
-class SettingsViewModel(private val settings: SettingsRepo) : ViewModel() {
-    val themeMode = settings.themeMode
-        .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 0)
+class SettingsViewModel(
+    private val repo: GitaRepository,
+    private val settings: SettingsRepo,
+) : ViewModel() {
     val fontScale = settings.fontScale
         .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 1f)
     val iastDefault = settings.iastDefault
         .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), true)
 
-    fun setThemeMode(mode: Int) {
-        viewModelScope.launch { settings.setThemeMode(mode) }
-    }
+    /** Journey stats moved off home: total progress, chapters, saved. */
+    private val reads = repo.readPerChapter()
+
+    val totalRead: StateFlow<Int> =
+        reads.map { list -> list.sumOf { it.read } }
+            .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 0)
+
+    val completedCount: StateFlow<Int> =
+        combine(repo.chapters(), repo.readIds()) { chs, ids ->
+            Reading.completedChapters(
+                ids.toSet(),
+                chs.associate { it.n to it.verseCount },
+            ).size
+        }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 0)
+
+    val savedCount: StateFlow<Int> =
+        repo.bookmarks().map { it.size }
+            .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), 0)
 
     fun setFontScale(scale: Float) {
         viewModelScope.launch { settings.setFontScale(scale) }

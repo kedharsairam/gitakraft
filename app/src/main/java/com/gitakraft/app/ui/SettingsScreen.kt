@@ -18,18 +18,15 @@ import androidx.compose.material.icons.filled.Book
 import androidx.compose.material.icons.filled.FormatSize
 import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.Lock
-import androidx.compose.material.icons.filled.Palette
 import androidx.compose.material.icons.filled.Translate
 import androidx.compose.material3.Card
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
+import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
-import androidx.compose.material3.SegmentedButton
-import androidx.compose.material3.SegmentedButtonDefaults
-import androidx.compose.material3.SingleChoiceSegmentedButtonRow
 import androidx.compose.material3.Slider
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
@@ -48,14 +45,14 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 
-private val ThemeNames = listOf("System", "Light", "Dark")
-
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun SettingsScreen(vm: SettingsViewModel) {
-    val themeMode by vm.themeMode.collectAsState()
     val fontScale by vm.fontScale.collectAsState()
     val iastDefault by vm.iastDefault.collectAsState()
+    val totalRead by vm.totalRead.collectAsState()
+    val completedCount by vm.completedCount.collectAsState()
+    val savedCount by vm.savedCount.collectAsState()
     Scaffold(
         topBar = {
             TopAppBar(title = { Text("Settings") })
@@ -150,33 +147,72 @@ fun SettingsScreen(vm: SettingsViewModel) {
                 }
             }
             item {
-                SettingGroup(title = "Appearance") {
+                SettingGroup(
+                    title = "Journey",
+                    footer = "Your reading lives on this phone.",
+                ) {
+                    Text(
+                        text = "$totalRead of 700 verses",
+                        style = MaterialTheme.typography.titleMedium,
+                    )
+                    LinearProgressIndicator(
+                        progress = {
+                            com.gitakraft.app.domain.Reading.fraction(
+                                totalRead,
+                                700,
+                            )
+                        },
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(top = 8.dp)
+                            .clip(MaterialTheme.shapes.small),
+                    )
+                    Row(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(top = 12.dp),
+                        horizontalArrangement = Arrangement.SpaceEvenly,
+                    ) {
+                        JourneyStat(value = "$totalRead", label = "verses")
+                        JourneyStat(
+                            value = "$completedCount/18",
+                            label = "chapters",
+                        )
+                        JourneyStat(value = "$savedCount", label = "saved")
+                    }
+                }
+            }
+            item {
+                SettingGroup(title = "Developer") {
                     Row(
                         verticalAlignment = Alignment.CenterVertically,
                         horizontalArrangement = Arrangement.spacedBy(12.dp),
                         modifier = Modifier.fillMaxWidth(),
                     ) {
-                        IconTile(icon = Icons.Filled.Palette, tint = Color(0xFFFF9F0A))
-                        Text(
-                            text = "Theme",
-                            style = MaterialTheme.typography.bodyLarge,
-                            modifier = Modifier.weight(1f),
-                        )
-                    }
-                    SingleChoiceSegmentedButtonRow(
-                        modifier = Modifier.fillMaxWidth(),
-                    ) {
-                        ThemeNames.forEachIndexed { i, name ->
-                            SegmentedButton(
-                                selected = themeMode == i,
-                                onClick = { vm.setThemeMode(i) },
-                                shape = SegmentedButtonDefaults.itemShape(
-                                    index = i,
-                                    count = ThemeNames.size,
-                                ),
-                            ) {
-                                Text(name)
-                            }
+                        Box(
+                            contentAlignment = Alignment.Center,
+                            modifier = Modifier
+                                .size(48.dp)
+                                .clip(RoundedCornerShape(14.dp))
+                                .background(MaterialTheme.colorScheme.primary),
+                        ) {
+                            Text(
+                                text = "गी",
+                                style = MaterialTheme.typography.titleLarge,
+                                fontWeight = FontWeight.Bold,
+                                color = MaterialTheme.colorScheme.onPrimary,
+                            )
+                        }
+                        Column(modifier = Modifier.weight(1f)) {
+                            Text(
+                                text = "Kedhar Sairam",
+                                style = MaterialTheme.typography.bodyLarge,
+                            )
+                            Text(
+                                text = "Design & development",
+                                style = MaterialTheme.typography.bodyMedium,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                            )
                         }
                     }
                 }
@@ -312,6 +348,23 @@ private fun SettingSwitchRow(
             )
         }
         Switch(checked = checked, onCheckedChange = onChecked)
+    }
+}
+
+@Composable
+private fun JourneyStat(value: String, label: String) {
+    Column(horizontalAlignment = Alignment.CenterHorizontally) {
+        Text(
+            text = value,
+            style = MaterialTheme.typography.titleLarge,
+            fontWeight = FontWeight.SemiBold,
+            color = MaterialTheme.colorScheme.primary,
+        )
+        Text(
+            text = label,
+            style = MaterialTheme.typography.bodyMedium,
+            color = MaterialTheme.colorScheme.onSurfaceVariant,
+        )
     }
 }
 
