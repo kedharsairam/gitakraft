@@ -141,5 +141,49 @@ class TestConcur(unittest.TestCase):
         self.assertEqual(stem("bows"), "bow")
 
 
+class TestIast2(unittest.TestCase):
+    # Differential engine: every case asserts iast == iast2 exactly,
+    # including quirk-compatibility (bare-ḷ, nukta pass-through, oṃ).
+    CASES_DEVA = [
+        "धर्मक्षेत्रे कुरुक्षेत्रे",
+        "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् ।",
+        "श्रद्धावाँल्लभते ज्ञानं",
+        "पश्यञ्शृण्वन्स्पृशञ्जिघ्रन्",
+        "ॐ तत्सदिति",
+        "कृष्ण",
+        "ज्ञानी तु",
+        "संशयः",
+    ]
+    CASES_IAST = [
+        "dharmakṣetre kurukṣetre",
+        "śraddhāvām̐llabhate jñānaṃ",
+        "oṃ tatsaditi",
+        "kṛṣṇa",
+        "jñaḥ",
+        "kḷptam",  # bare-ḷ quirk: both engines render ṛ-matra
+        "qalam",  # nukta q: both pass through (documented approx)
+    ]
+
+    def test_transliterate_agrees(self):
+        from iast import transliterate
+        from iast2 import transliterate2
+        for dev in self.CASES_DEVA:
+            self.assertEqual(transliterate2(dev), transliterate(dev), dev)
+
+    def test_detransliterate_agrees(self):
+        from iast import detransliterate
+        from iast2 import detransliterate2
+        for txt in self.CASES_IAST:
+            self.assertEqual(detransliterate2(txt), detransliterate(txt),
+                             txt)
+
+    def test_round_trip2(self):
+        import unicodedata
+        from iast2 import transliterate2, detransliterate2
+        for dev in self.CASES_DEVA:
+            rt = detransliterate2(transliterate2(dev))
+            self.assertEqual(rt, unicodedata.normalize("NFC", dev), dev)
+
+
 if __name__ == "__main__":
     unittest.main()

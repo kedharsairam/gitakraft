@@ -29,6 +29,7 @@ from review import cmd_review
 from verify import cmd_verify
 from witnesses import cmd_witness
 from concur import cmd_concur
+from iast2 import cmd_iast2
 
 ROOT = Path(__file__).resolve().parents[2]
 RAW = ROOT / "data" / "content" / "raw"
@@ -885,7 +886,8 @@ def main(argv: list[str] | None = None) -> int:
     sub = ap.add_subparsers(dest="cmd", required=True)
     for name in ("fetch", "normalize", "transliterate", "validate", "export",
                  "export_app", "fetch_en", "norm_en", "anchor_en", "triptych", "check_align",
-                 "draft", "check_draft", "verify", "review", "witness", "concur"):
+                 "draft", "check_draft", "verify", "review", "witness", "concur",
+                 "iast2"):
         p = sub.add_parser(name)
         p.add_argument("--chapter", type=int, default=None)
         if name in ("export", "export_app"):
@@ -904,7 +906,8 @@ def main(argv: list[str] | None = None) -> int:
             "triptych": cmd_triptych, "check_align": cmd_check_align,
             "draft": cmd_draft, "check_draft": cmd_check_draft,
             "verify": cmd_verify, "review": cmd_review,
-            "witness": cmd_witness, "concur": cmd_concur}[args.cmd](args)
+            "witness": cmd_witness, "concur": cmd_concur,
+            "iast2": cmd_iast2}[args.cmd](args)
 
 
 if __name__ == "__main__":
