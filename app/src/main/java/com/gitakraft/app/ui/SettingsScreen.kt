@@ -306,32 +306,40 @@ fun SettingsScreen(vm: SettingsViewModel) {
                                 vm.checkUpdates()
                             }
                         },
+                        // Fixed 104dp slot, end-aligned: the row geometry
+                        // never moves however the state changes — button,
+                        // spinner and dot all live in the same footprint.
                         trailing = {
-                            when (updateState) {
-                                is SettingsViewModel.UpdateUiState.Checking ->
-                                    CircularProgressIndicator(
-                                        modifier = Modifier.size(20.dp),
-                                        strokeWidth = 2.dp,
-                                    )
-                                is SettingsViewModel.UpdateUiState.Available ->
-                                    Box(
-                                        modifier = Modifier
-                                            .size(8.dp)
-                                            .clip(CircleShape)
-                                            .background(
-                                                MaterialTheme.colorScheme.primary,
-                                            ),
-                                    )
-                                // A real button: rows that act must look
-                                // the part, not hide behind a tap target.
-                                else -> Button(
-                                    onClick = { vm.checkUpdates() },
-                                    contentPadding = PaddingValues(
-                                        horizontal = 16.dp,
-                                        vertical = 8.dp,
-                                    ),
-                                ) {
-                                    Text("Check")
+                            Box(
+                                contentAlignment = Alignment.CenterEnd,
+                                modifier = Modifier.width(104.dp),
+                            ) {
+                                when (updateState) {
+                                    is SettingsViewModel.UpdateUiState.Checking ->
+                                        CircularProgressIndicator(
+                                            modifier = Modifier.size(20.dp),
+                                            strokeWidth = 2.dp,
+                                        )
+                                    is SettingsViewModel.UpdateUiState.Available ->
+                                        Box(
+                                            modifier = Modifier
+                                                .size(8.dp)
+                                                .clip(CircleShape)
+                                                .background(
+                                                    MaterialTheme.colorScheme.primary,
+                                                ),
+                                        )
+                                    // A real button: rows that act must look
+                                    // the part, not hide behind a tap target.
+                                    else -> Button(
+                                        onClick = { vm.checkUpdates() },
+                                        contentPadding = PaddingValues(
+                                            horizontal = 16.dp,
+                                            vertical = 8.dp,
+                                        ),
+                                    ) {
+                                        Text("Check")
+                                    }
                                 }
                             }
                         },
