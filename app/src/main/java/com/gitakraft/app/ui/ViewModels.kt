@@ -38,7 +38,7 @@ class RepoFactory(
     override fun <T : ViewModel> create(modelClass: Class<T>, extras: CreationExtras): T =
         when {
             modelClass.isAssignableFrom(HomeViewModel::class.java) ->
-                HomeViewModel(repo) as T
+                HomeViewModel(repo, settings) as T
             modelClass.isAssignableFrom(ChaptersViewModel::class.java) ->
                 ChaptersViewModel(repo) as T
             modelClass.isAssignableFrom(ChapterViewModel::class.java) ->
@@ -57,7 +57,10 @@ class RepoFactory(
         }
 }
 
-class HomeViewModel(private val repo: GitaRepository) : ViewModel() {
+class HomeViewModel(
+    private val repo: GitaRepository,
+    private val settings: SettingsRepo,
+) : ViewModel() {
     val ready: StateFlow<Boolean> = repo.ready
 
     private val chapters = repo.chapters()
@@ -83,6 +86,20 @@ class HomeViewModel(private val repo: GitaRepository) : ViewModel() {
         }
 
     fun feelings() = repo.feelings()
+
+    /** One-time welcome: shown until dismissed (any exit marks it seen). */
+    val showWelcome: StateFlow<Boolean> =
+        settings.welcomed.map { !it }
+            .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), false)
+
+    /** True once the first verse is read: drives BEGIN vs CONTINUE. */
+    val hasStarted: StateFlow<Boolean> =
+        repo.readIds().map { it.isNotEmpty() }
+            .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), false)
+
+    fun dismissWelcome() {
+        viewModelScope.launch { settings.setWelcomed() }
+    }
 }
 
 class ChaptersViewModel(private val repo: GitaRepository) : ViewModel() {

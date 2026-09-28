@@ -14,6 +14,7 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
 import androidx.compose.material.icons.filled.Search
+import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
@@ -24,6 +25,7 @@ import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
+import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
@@ -57,6 +59,8 @@ fun HomeScreen(
     val continueTo by vm.continueTo.collectAsState()
     val verseOfDay by vm.verseOfDay.collectAsState()
     val feelings by vm.feelings().collectAsState(initial = emptyList())
+    val showWelcome by vm.showWelcome.collectAsState()
+    val hasStarted by vm.hasStarted.collectAsState()
 
     Scaffold(
         topBar = {
@@ -130,7 +134,12 @@ fun HomeScreen(
                         ) {
                             Column(modifier = Modifier.weight(1f)) {
                                 Text(
-                                    text = "CONTINUE",
+                                    // First run says BEGIN; afterwards CONTINUE.
+                                    text = if (hasStarted) {
+                                        "CONTINUE"
+                                    } else {
+                                        "BEGIN THE JOURNEY"
+                                    },
                                     style = MaterialTheme.typography.labelMedium,
                                     color = MaterialTheme.colorScheme.onPrimary,
                                 )
@@ -223,6 +232,35 @@ fun HomeScreen(
                     }
                 }
             }
+        }
+        // One-time welcome: orientation + privacy line, then out of the way.
+        if (showWelcome && ready) {
+            AlertDialog(
+                onDismissRequest = { vm.dismissWelcome() },
+                title = { Text("Welcome to GitaKraft") },
+                text = {
+                    Text(
+                        "The Bhagavad Gita in plain English — " +
+                            "700 verses across 18 chapters, " +
+                            "fully offline, at your own pace.",
+                    )
+                },
+                confirmButton = {
+                    TextButton(
+                        onClick = {
+                            vm.dismissWelcome()
+                            onVerse("1:1")
+                        },
+                    ) {
+                        Text("Begin the Journey")
+                    }
+                },
+                dismissButton = {
+                    TextButton(onClick = { vm.dismissWelcome() }) {
+                        Text("Look around")
+                    }
+                },
+            )
         }
     }
 }
