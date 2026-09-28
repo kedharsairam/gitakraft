@@ -1,0 +1,2346 @@
+{
+ "witness": {
+  "name": "gretil",
+  "url": "http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/ext/bhgce__u.htm",
+  "file": "gretil_bhgce.htm",
+  "sha256": "f797fb6d64009cebb11e1cf75041b3bf0a2e6735da331dc473342a8bebcdec25",
+  "note": "BORI-based Mahabharata text, input Tokunaga et al., revised Smith; via GRETIL. Reference only."
+ },
+ "verses": {
+  "1:1": {
+   "status": "MATCH"
+  },
+  "1:2": {
+   "status": "MATCH"
+  },
+  "1:3": {
+   "status": "MATCH"
+  },
+  "1:4": {
+   "status": "MATCH"
+  },
+  "1:5": {
+   "status": "MATCH"
+  },
+  "1:6": {
+   "status": "SANDHI-JOINT"
+  },
+  "1:7": {
+   "status": "MATCH"
+  },
+  "1:8": {
+   "status": "MATCH"
+  },
+  "1:9": {
+   "status": "MATCH"
+  },
+  "1:10": {
+   "status": "MATCH"
+  },
+  "1:11": {
+   "status": "SANDHI-JOINT"
+  },
+  "1:12": {
+   "status": "MATCH"
+  },
+  "1:13": {
+   "status": "MATCH"
+  },
+  "1:14": {
+   "status": "MATCH"
+  },
+  "1:15": {
+   "status": "MATCH"
+  },
+  "1:16": {
+   "status": "MATCH"
+  },
+  "1:17": {
+   "status": "MATCH"
+  },
+  "1:18": {
+   "status": "MATCH"
+  },
+  "1:19": {
+   "status": "MATCH"
+  },
+  "1:20": {
+   "status": "MATCH"
+  },
+  "1:21": {
+   "status": "MATCH"
+  },
+  "1:22": {
+   "status": "MATCH",
+   "adjudication": {
+    "finding": "ours निरिक्षे (short i) vs witness nirīkṣe; etymology (root īkṣ, 'to see') agrees with witness",
+    "note": "ours had निरिक्षे (short i); root is √īkṣ so निरीक्षे required. GRETIL nirīkṣe + Samkara-bhasya quotation nirīkṣe unanimous. FIXED 2026-09-28.",
+    "verdict": "fixed"
+   }
+  },
+  "1:23": {
+   "status": "SANDHI-JOINT"
+  },
+  "1:24": {
+   "status": "MATCH"
+  },
+  "1:25": {
+   "status": "MATCH"
+  },
+  "1:26": {
+   "status": "MATCH"
+  },
+  "1:27": {
+   "status": "MATCH"
+  },
+  "1:28": {
+   "status": "DIVERGENCE",
+   "detail": "div:@9: ours[..दृष्ट्वेमंस्वजनंकृष्ण..] vs wit[..दृष्ट्वेमांस्वजनांकृष..]",
+   "ours": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् ।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्",
+   "witness": "kṛpayā parayāviṣṭo viṣīdann idam abravīt / dṛṣṭvemān svajanān kṛṣṇa yuyutsūn samavasthitān",
+   "adjudication": {
+    "finding": "vulgate singular (drstvemam svajanam, yuyutsum samupasthitam) vs BORI plural (iman svajanan, yuyutsun samavasthitan)",
+    "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "1:29": {
+   "status": "MATCH"
+  },
+  "1:30": {
+   "status": "MATCH"
+  },
+  "1:31": {
+   "status": "MATCH"
+  },
+  "1:32": {
+   "status": "MATCH"
+  },
+  "1:33": {
+   "status": "SANDHI-JOINT"
+  },
+  "1:34": {
+   "status": "DIVERGENCE",
+   "detail": "div:@22: ours[..वशुराःपौत्राश्श्यालास्सं..] vs wit[..वशुराःपौत्रास्स्यालास्सं..]",
+   "ours": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः ।\nमातुलाः श्वशुराः पौत्राः श्यालाः संबन्धिनस्तथा",
+   "witness": "ācāryāḥ pitaraḥ putrās tathaiva ca pitāmahāḥ / mātulāḥ śvaśurāḥ pautrāḥ syālāḥ saṃbandhinas tathā",
+   "adjudication": {
+    "finding": "ours syalah (standard word) vs BORI syalah",
+    "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "1:35": {
+   "status": "MATCH"
+  },
+  "1:36": {
+   "status": "MATCH"
+  },
+  "1:37": {
+   "status": "DIVERGENCE",
+   "detail": "div:@35: ours[..्तराष्ट्रांस्वबांधवान्..] vs wit[..्तराष्ट्रांसबांधवान्..]",
+   "ours": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् ।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव",
+   "witness": "tasmān nārhā vayaṃ hantuṃ dhārtarāṣṭrān sabāndhavān / svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava",
+   "adjudication": {
+    "finding": "ours sva-bandhavan (Gita Press prints sva-) vs BORI sa-bandhavan",
+    "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "1:38": {
+   "status": "MATCH"
+  },
+  "1:39": {
+   "status": "MATCH"
+  },
+  "1:40": {
+   "status": "MATCH"
+  },
+  "1:41": {
+   "status": "MATCH"
+  },
+  "1:42": {
+   "status": "MATCH"
+  },
+  "1:43": {
+   "status": "MATCH"
+  },
+  "1:44": {
+   "status": "MATCH"
+  },
+  "1:45": {
+   "status": "MATCH"
+  },
+  "1:46": {
+   "status": "MATCH"
+  },
+  "1:47": {
+   "status": "SANDHI-JOINT"
+  },
+  "2:1": {
+   "status": "MATCH"
+  },
+  "2:2": {
+   "status": "MATCH"
+  },
+  "2:3": {
+   "status": "MATCH"
+  },
+  "2:4": {
+   "status": "MATCH"
+  },
+  "2:5": {
+   "status": "DIVERGENCE",
+   "detail": "div:@40: ours[..भोक्तुंभैक्ष्यमपीहलोके..] vs wit[..भोक्तुंभैक्षमपीहलोके..]",
+   "ours": "गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके ।\nहत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान्",
+   "witness": "gurūn ahatvā hi mahānubhāvāñ; śreyo bhoktuṃ bhaikṣam apīha loke / hatvārthakāmāṃs tu gurūn ihaiva; bhuñjīya bhogān rudhirapradigdhān",
+   "adjudication": {
+    "finding": "ours bhaiksyam (noun, begging) vs GRETIL bhaiksam (drops y)",
+    "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "2:6": {
+   "status": "MATCH"
+  },
+  "2:7": {
+   "status": "MATCH"
+  },
+  "2:8": {
+   "status": "MATCH"
+  },
+  "2:9": {
+   "status": "SANDHI-JOINT"
+  },
+  "2:10": {
+   "status": "MATCH"
+  },
+  "2:11": {
+   "status": "MATCH"
+  },
+  "2:12": {
+   "status": "MATCH"
+  },
+  "2:13": {
+   "status": "MATCH"
+  },
+  "2:14": {
+   "status": "MATCH"
+  },
+  "2:15": {
+   "status": "MATCH"
+  },
+  "2:16": {
+   "status": "MATCH"
+  },
+  "2:17": {
+   "status": "MATCH"
+  },
+  "2:18": {
+   "status": "SANDHI-JOINT"
+  },
+  "2:19": {
+   "status": "SANDHI-JOINT"
+  },
+  "2:20": {
+   "status": "MATCH"
+  },
+  "2:21": {
+   "status": "SANDHI-JOINT"
+  },
+  "2:22": {
+   "status": "MATCH"
+  },
+  "2:23": {
+   "status": "MATCH"
+  },
+  "2:24": {
+   "status": "SANDHI-JOINT"
+  },
+  "2:25": {
+   "status": "MATCH"
+  },
+  "2:26": {
+   "status": "DIVERGENCE",
+   "detail": "div:@18: ours[..्वंमहाबाहोनैवंशोचितुमर्ह..] vs wit[..्वंमहाबाहोनैनंशोचितुमर्ह..]",
+   "ours": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।\nतथापि त्वं महाबाहो नैवं शोचितुमर्हसि",
+   "witness": "atha cainaṃ nityajātaṃ nityaṃ vā manyase mṛtam / tathāpi tvaṃ mahābāho nainaṃ śocitum arhasi",
+   "adjudication": {
+    "finding": "ours naivam vs GRETIL nainam",
+    "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "2:27": {
+   "status": "MATCH"
+  },
+  "2:28": {
+   "status": "MATCH"
+  },
+  "2:29": {
+   "status": "MATCH"
+  },
+  "2:30": {
+   "status": "MATCH"
+  },
+  "2:31": {
+   "status": "MATCH"
+  },
+  "2:32": {
+   "status": "MATCH"
+  },
+  "2:33": {
+   "status": "MATCH"
+  },
+  "2:34": {
+   "status": "MATCH"
+  },
+  "2:35": {
+   "status": "MATCH"
+  },
+  "2:36": {
+   "status": "MATCH"
+  },
+  "2:37": {
+   "status": "MATCH"
+  },
+  "2:38": {
+   "status": "MATCH"
+  },
+  "2:39": {
+   "status": "MATCH"
+  },
+  "2:40": {
+   "status": "MATCH"
+  },
+  "2:41": {
+   "status": "MATCH"
+  },
+  "2:42": {
+   "status": "MATCH"
+  },
+  "2:43": {
+   "status": "MATCH"
+  },
+  "2:44": {
+   "status": "MATCH"
+  },
+  "2:45": {
+   "status": "SANDHI-JOINT"
+  },
+  "2:46": {
+   "status": "SANDHI-JOINT"
+  },
+  "2:47": {
+   "status": "MATCH"
+  },
+  "2:48": {
+   "status": "SANDHI-JOINT"
+  },
+  "2:49": {
+   "status": "MATCH"
+  },
+  "2:50": {
+   "status": "SANDHI-JOINT"
+  },
+  "2:51": {
+   "status": "MATCH"
+  },
+  "2:52": {
+   "status": "MATCH"
+  },
+  "2:53": {
+   "status": "MATCH"
+  },
+  "2:54": {
+   "status": "MATCH"
+  },
+  "2:55": {
+   "status": "MATCH"
+  },
+  "2:56": {
+   "status": "MATCH"
+  },
+  "2:57": {
+   "status": "MATCH"
+  },
+  "2:58": {
+   "status": "MATCH"
+  },
+  "2:59": {
+   "status": "MATCH"
+  },
+  "2:60": {
+   "status": "MATCH"
+  },
+  "2:61": {
+   "status": "SANDHI-JOINT"
+  },
+  "2:62": {
+   "status": "MATCH"
+  },
+  "2:63": {
+   "status": "MATCH"
+  },
+  "2:64": {
+   "status": "MATCH"
+  },
+  "2:65": {
+   "status": "MATCH"
+  },
+  "2:66": {
+   "status": "MATCH"
+  },
+  "2:67": {
+   "status": "MATCH"
+  },
+  "2:68": {
+   "status": "MATCH"
+  },
+  "2:69": {
+   "status": "MATCH"
+  },
+  "2:70": {
+   "status": "MATCH"
+  },
+  "2:71": {
+   "status": "MATCH"
+  },
+  "2:72": {
+   "status": "MATCH"
+  },
+  "3:1": {
+   "status": "MATCH"
+  },
+  "3:2": {
+   "status": "DIVERGENCE",
+   "detail": "div:@11: ours[..व्यामिश्रेणेववाक्येनबुद..] vs wit[..व्यामिश्रेणैववाक्येनबुद..]",
+   "ours": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्",
+   "witness": "vyāmiśreṇaiva vākyena buddhiṃ mohayasīva me / tad ekaṃ vada niścitya yena śreyo 'ham āpnuyām",
+   "adjudication": {
+    "finding": "ours vyamisreneva vs GRETIL vyamisrenaiva",
+    "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "3:3": {
+   "status": "MATCH"
+  },
+  "3:4": {
+   "status": "MATCH"
+  },
+  "3:5": {
+   "status": "MATCH"
+  },
+  "3:6": {
+   "status": "SANDHI-JOINT"
+  },
+  "3:7": {
+   "status": "MATCH"
+  },
+  "3:8": {
+   "status": "MATCH",
+   "adjudication": {
+    "finding": "",
+    "note": "ours had प्रसिद्ध्येद (double d); root is √sidh so प्रसिध्येद. GRETIL prasidhyed + Samkara quotation prasidhyed unanimous. FIXED 2026-09-28.",
+    "verdict": "fixed"
+   }
+  },
+  "3:9": {
+   "status": "MATCH"
+  },
+  "3:10": {
+   "status": "MATCH"
+  },
+  "3:11": {
+   "status": "MATCH"
+  },
+  "3:12": {
+   "status": "SANDHI-JOINT"
+  },
+  "3:13": {
+   "status": "MATCH"
+  },
+  "3:14": {
+   "status": "MATCH"
+  },
+  "3:15": {
+   "status": "MATCH"
+  },
+  "3:16": {
+   "status": "MATCH"
+  },
+  "3:17": {
+   "status": "MATCH"
+  },
+  "3:18": {
+   "status": "MATCH"
+  },
+  "3:19": {
+   "status": "MATCH"
+  },
+  "3:20": {
+   "status": "MATCH"
+  },
+  "3:21": {
+   "status": "MATCH"
+  },
+  "3:22": {
+   "status": "SANDHI-JOINT"
+  },
+  "3:23": {
+   "status": "MATCH"
+  },
+  "3:24": {
+   "status": "MATCH"
+  },
+  "3:25": {
+   "status": "MATCH"
+  },
+  "3:26": {
+   "status": "MATCH"
+  },
+  "3:27": {
+   "status": "MATCH"
+  },
+  "3:28": {
+   "status": "SANDHI-JOINT"
+  },
+  "3:29": {
+   "status": "MATCH"
+  },
+  "3:30": {
+   "status": "MATCH"
+  },
+  "3:31": {
+   "status": "MATCH"
+  },
+  "3:32": {
+   "status": "MATCH"
+  },
+  "3:33": {
+   "status": "MATCH"
+  },
+  "3:34": {
+   "status": "MATCH"
+  },
+  "3:35": {
+   "status": "MATCH"
+  },
+  "3:36": {
+   "status": "MATCH"
+  },
+  "3:37": {
+   "status": "SANDHI-JOINT"
+  },
+  "3:38": {
+   "status": "MATCH"
+  },
+  "3:39": {
+   "status": "MATCH"
+  },
+  "3:40": {
+   "status": "MATCH"
+  },
+  "3:41": {
+   "status": "MATCH"
+  },
+  "3:42": {
+   "status": "MATCH"
+  },
+  "3:43": {
+   "status": "MATCH"
+  },
+  "4:1": {
+   "status": "MATCH"
+  },
+  "4:2": {
+   "status": "MATCH"
+  },
+  "4:3": {
+   "status": "SANDHI-JOINT"
+  },
+  "4:4": {
+   "status": "MATCH"
+  },
+  "4:5": {
+   "status": "MATCH"
+  },
+  "4:6": {
+   "status": "MATCH"
+  },
+  "4:7": {
+   "status": "MATCH"
+  },
+  "4:8": {
+   "status": "MATCH"
+  },
+  "4:9": {
+   "status": "MATCH"
+  },
+  "4:10": {
+   "status": "MATCH"
+  },
+  "4:11": {
+   "status": "MATCH"
+  },
+  "4:12": {
+   "status": "SANDHI-JOINT"
+  },
+  "4:13": {
+   "status": "MATCH"
+  },
+  "4:14": {
+   "status": "MATCH"
+  },
+  "4:15": {
+   "status": "MATCH"
+  },
+  "4:16": {
+   "status": "MATCH"
+  },
+  "4:17": {
+   "status": "MATCH"
+  },
+  "4:18": {
+   "status": "MATCH"
+  },
+  "4:19": {
+   "status": "MATCH"
+  },
+  "4:20": {
+   "status": "MATCH"
+  },
+  "4:21": {
+   "status": "MATCH"
+  },
+  "4:22": {
+   "status": "MATCH"
+  },
+  "4:23": {
+   "status": "MATCH"
+  },
+  "4:24": {
+   "status": "MATCH"
+  },
+  "4:25": {
+   "status": "MATCH"
+  },
+  "4:26": {
+   "status": "SANDHI-JOINT"
+  },
+  "4:27": {
+   "status": "MATCH"
+  },
+  "4:28": {
+   "status": "MATCH"
+  },
+  "4:29": {
+   "status": "MATCH"
+  },
+  "4:30": {
+   "status": "MATCH"
+  },
+  "4:31": {
+   "status": "MATCH"
+  },
+  "4:32": {
+   "status": "MATCH"
+  },
+  "4:33": {
+   "status": "MATCH"
+  },
+  "4:34": {
+   "status": "MATCH"
+  },
+  "4:35": {
+   "status": "MATCH"
+  },
+  "4:36": {
+   "status": "MATCH"
+  },
+  "4:37": {
+   "status": "MATCH"
+  },
+  "4:38": {
+   "status": "MATCH"
+  },
+  "4:39": {
+   "status": "MATCH"
+  },
+  "4:40": {
+   "status": "MATCH"
+  },
+  "4:41": {
+   "status": "MATCH"
+  },
+  "4:42": {
+   "status": "MATCH"
+  },
+  "5:1": {
+   "status": "SANDHI-JOINT"
+  },
+  "5:2": {
+   "status": "MATCH"
+  },
+  "5:3": {
+   "status": "MATCH"
+  },
+  "5:4": {
+   "status": "MATCH"
+  },
+  "5:5": {
+   "status": "MATCH"
+  },
+  "5:6": {
+   "status": "MATCH"
+  },
+  "5:7": {
+   "status": "MATCH"
+  },
+  "5:8": {
+   "status": "MATCH",
+   "adjudication": {
+    "finding": "",
+    "note": "ours had श्रृण्वन् (double r-vowel, impossible conjunct); correct शृण्वन्. GRETIL sr̥nvan + Samkara quotation srnvan unanimous. FIXED 2026-09-28.",
+    "verdict": "fixed"
+   }
+  },
+  "5:9": {
+   "status": "SANDHI-JOINT"
+  },
+  "5:10": {
+   "status": "MATCH"
+  },
+  "5:11": {
+   "status": "MATCH"
+  },
+  "5:12": {
+   "status": "MATCH"
+  },
+  "5:13": {
+   "status": "MATCH"
+  },
+  "5:14": {
+   "status": "MATCH"
+  },
+  "5:15": {
+   "status": "MATCH"
+  },
+  "5:16": {
+   "status": "MATCH"
+  },
+  "5:17": {
+   "status": "MATCH"
+  },
+  "5:18": {
+   "status": "MATCH"
+  },
+  "5:19": {
+   "status": "MATCH"
+  },
+  "5:20": {
+   "status": "MATCH"
+  },
+  "5:21": {
+   "status": "MATCH"
+  },
+  "5:22": {
+   "status": "SANDHI-JOINT"
+  },
+  "5:23": {
+   "status": "MATCH"
+  },
+  "5:24": {
+   "status": "MATCH"
+  },
+  "5:25": {
+   "status": "MATCH"
+  },
+  "5:26": {
+   "status": "MATCH"
+  },
+  "5:27": {
+   "status": "MATCH"
+  },
+  "5:28": {
+   "status": "SANDHI-JOINT"
+  },
+  "5:29": {
+   "status": "MATCH"
+  },
+  "6:1": {
+   "status": "MATCH"
+  },
+  "6:2": {
+   "status": "MATCH"
+  },
+  "6:3": {
+   "status": "MATCH"
+  },
+  "6:4": {
+   "status": "MATCH"
+  },
+  "6:5": {
+   "status": "MATCH"
+  },
+  "6:6": {
+   "status": "MATCH"
+  },
+  "6:7": {
+   "status": "DIVERGENCE",
+   "detail": "div:@24: ours[..ःखेषुतथामानापमानयोः..] vs wit[..ःखेषुतथामानावमानयोः..]",
+   "ours": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः ।\nशीतोष्णसुखदुःखेषु तथा मानापमानयोः",
+   "witness": "jitātmanaḥ praśāntasya paramātmā samāhitaḥ / śītoṣṇasukhaduḥkheṣu tathā mānāvamānayoḥ",
+   "adjudication": {
+    "finding": "ours manapamanayoh (mana+apamana) vs GRETIL manavamanayoh",
+    "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "6:8": {
+   "status": "SANDHI-JOINT"
+  },
+  "6:9": {
+   "status": "MATCH"
+  },
+  "6:10": {
+   "status": "MATCH"
+  },
+  "6:11": {
+   "status": "MATCH"
+  },
+  "6:12": {
+   "status": "MATCH"
+  },
+  "6:13": {
+   "status": "MATCH"
+  },
+  "6:14": {
+   "status": "SANDHI-JOINT"
+  },
+  "6:15": {
+   "status": "MATCH"
+  },
+  "6:16": {
+   "status": "MATCH"
+  },
+  "6:17": {
+   "status": "MATCH"
+  },
+  "6:18": {
+   "status": "SANDHI-JOINT"
+  },
+  "6:19": {
+   "status": "MATCH"
+  },
+  "6:20": {
+   "status": "MATCH"
+  },
+  "6:21": {
+   "status": "MATCH"
+  },
+  "6:22": {
+   "status": "MATCH"
+  },
+  "6:23": {
+   "status": "MATCH"
+  },
+  "6:24": {
+   "status": "MATCH"
+  },
+  "6:25": {
+   "status": "MATCH"
+  },
+  "6:26": {
+   "status": "MATCH"
+  },
+  "6:27": {
+   "status": "MATCH"
+  },
+  "6:28": {
+   "status": "MATCH"
+  },
+  "6:29": {
+   "status": "MATCH"
+  },
+  "6:30": {
+   "status": "MATCH"
+  },
+  "6:31": {
+   "status": "MATCH"
+  },
+  "6:32": {
+   "status": "MATCH"
+  },
+  "6:33": {
+   "status": "MATCH"
+  },
+  "6:34": {
+   "status": "MATCH"
+  },
+  "6:35": {
+   "status": "MATCH"
+  },
+  "6:36": {
+   "status": "SANDHI-JOINT"
+  },
+  "6:37": {
+   "status": "MATCH"
+  },
+  "6:38": {
+   "status": "MATCH"
+  },
+  "6:39": {
+   "status": "MATCH"
+  },
+  "6:40": {
+   "status": "MATCH"
+  },
+  "6:41": {
+   "status": "MATCH"
+  },
+  "6:42": {
+   "status": "MATCH"
+  },
+  "6:43": {
+   "status": "MATCH"
+  },
+  "6:44": {
+   "status": "MATCH"
+  },
+  "6:45": {
+   "status": "MATCH"
+  },
+  "6:46": {
+   "status": "MATCH"
+  },
+  "6:47": {
+   "status": "MATCH"
+  },
+  "7:1": {
+   "status": "MATCH"
+  },
+  "7:2": {
+   "status": "MATCH"
+  },
+  "7:3": {
+   "status": "MATCH"
+  },
+  "7:4": {
+   "status": "SANDHI-JOINT"
+  },
+  "7:5": {
+   "status": "MATCH"
+  },
+  "7:6": {
+   "status": "MATCH"
+  },
+  "7:7": {
+   "status": "SANDHI-JOINT"
+  },
+  "7:8": {
+   "status": "MATCH"
+  },
+  "7:9": {
+   "status": "MATCH"
+  },
+  "7:10": {
+   "status": "MATCH"
+  },
+  "7:11": {
+   "status": "MATCH"
+  },
+  "7:12": {
+   "status": "SANDHI-JOINT"
+  },
+  "7:13": {
+   "status": "MATCH"
+  },
+  "7:14": {
+   "status": "MATCH"
+  },
+  "7:15": {
+   "status": "SANDHI-JOINT"
+  },
+  "7:16": {
+   "status": "MATCH"
+  },
+  "7:17": {
+   "status": "SANDHI-JOINT"
+  },
+  "7:18": {
+   "status": "SANDHI-JOINT"
+  },
+  "7:19": {
+   "status": "MATCH"
+  },
+  "7:20": {
+   "status": "MATCH"
+  },
+  "7:21": {
+   "status": "MATCH"
+  },
+  "7:22": {
+   "status": "MATCH"
+  },
+  "7:23": {
+   "status": "MATCH"
+  },
+  "7:24": {
+   "status": "MATCH"
+  },
+  "7:25": {
+   "status": "MATCH"
+  },
+  "7:26": {
+   "status": "MATCH"
+  },
+  "7:27": {
+   "status": "MATCH"
+  },
+  "7:28": {
+   "status": "MATCH"
+  },
+  "7:29": {
+   "status": "MATCH"
+  },
+  "7:30": {
+   "status": "MATCH"
+  },
+  "8:1": {
+   "status": "MATCH"
+  },
+  "8:2": {
+   "status": "MATCH"
+  },
+  "8:3": {
+   "status": "MATCH"
+  },
+  "8:4": {
+   "status": "MATCH"
+  },
+  "8:5": {
+   "status": "MATCH"
+  },
+  "8:6": {
+   "status": "MATCH"
+  },
+  "8:7": {
+   "status": "DIVERGENCE",
+   "detail": "div:@36: ours[..वैष्यस्यसंशयम्..] vs wit[..वैष्यस्यसंशयः..]",
+   "ours": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम्",
+   "witness": "tasmāt sarveṣu kāleṣu mām anusmara yudhya ca / mayy arpitamanobuddhir mām evaiṣyasy asaṃśayaḥ",
+   "adjudication": {
+    "finding": "ours asamsayam (accusative adverb, undoubtedly) vs asamsayah (nominative)",
+    "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "8:8": {
+   "status": "MATCH"
+  },
+  "8:9": {
+   "status": "MATCH"
+  },
+  "8:10": {
+   "status": "MATCH"
+  },
+  "8:11": {
+   "status": "MATCH"
+  },
+  "8:12": {
+   "status": "MATCH"
+  },
+  "8:13": {
+   "status": "MATCH"
+  },
+  "8:14": {
+   "status": "MATCH"
+  },
+  "8:15": {
+   "status": "MATCH"
+  },
+  "8:16": {
+   "status": "MATCH"
+  },
+  "8:17": {
+   "status": "MATCH"
+  },
+  "8:18": {
+   "status": "MATCH"
+  },
+  "8:19": {
+   "status": "SANDHI-JOINT"
+  },
+  "8:20": {
+   "status": "MATCH"
+  },
+  "8:21": {
+   "status": "SANDHI-JOINT"
+  },
+  "8:22": {
+   "status": "MATCH"
+  },
+  "8:23": {
+   "status": "MATCH"
+  },
+  "8:24": {
+   "status": "SANDHI-JOINT"
+  },
+  "8:25": {
+   "status": "MATCH"
+  },
+  "8:26": {
+   "status": "MATCH"
+  },
+  "8:27": {
+   "status": "MATCH"
+  },
+  "8:28": {
+   "status": "MATCH"
+  },
+  "9:1": {
+   "status": "MATCH"
+  },
+  "9:2": {
+   "status": "MATCH"
+  },
+  "9:3": {
+   "status": "MATCH"
+  },
+  "9:4": {
+   "status": "MATCH"
+  },
+  "9:5": {
+   "status": "MATCH"
+  },
+  "9:6": {
+   "status": "MATCH"
+  },
+  "9:7": {
+   "status": "MATCH"
+  },
+  "9:8": {
+   "status": "MATCH"
+  },
+  "9:9": {
+   "status": "MATCH"
+  },
+  "9:10": {
+   "status": "MATCH"
+  },
+  "9:11": {
+   "status": "MATCH"
+  },
+  "9:12": {
+   "status": "MATCH"
+  },
+  "9:13": {
+   "status": "MATCH"
+  },
+  "9:14": {
+   "status": "SANDHI-JOINT"
+  },
+  "9:15": {
+   "status": "MATCH"
+  },
+  "9:16": {
+   "status": "MATCH"
+  },
+  "9:17": {
+   "status": "SANDHI-JOINT"
+  },
+  "9:18": {
+   "status": "MATCH"
+  },
+  "9:19": {
+   "status": "MATCH"
+  },
+  "9:20": {
+   "status": "MATCH"
+  },
+  "9:21": {
+   "status": "MATCH"
+  },
+  "9:22": {
+   "status": "MATCH"
+  },
+  "9:23": {
+   "status": "MATCH"
+  },
+  "9:24": {
+   "status": "MATCH"
+  },
+  "9:25": {
+   "status": "MATCH"
+  },
+  "9:26": {
+   "status": "MATCH"
+  },
+  "9:27": {
+   "status": "MATCH"
+  },
+  "9:28": {
+   "status": "MATCH"
+  },
+  "9:29": {
+   "status": "MATCH"
+  },
+  "9:30": {
+   "status": "MATCH"
+  },
+  "9:31": {
+   "status": "MATCH"
+  },
+  "9:32": {
+   "status": "MATCH"
+  },
+  "9:33": {
+   "status": "MATCH"
+  },
+  "9:34": {
+   "status": "MATCH"
+  },
+  "10:1": {
+   "status": "SANDHI-JOINT"
+  },
+  "10:2": {
+   "status": "MATCH"
+  },
+  "10:3": {
+   "status": "MATCH"
+  },
+  "10:4": {
+   "status": "MATCH"
+  },
+  "10:5": {
+   "status": "SANDHI-JOINT"
+  },
+  "10:6": {
+   "status": "SANDHI-JOINT"
+  },
+  "10:7": {
+   "status": "MATCH"
+  },
+  "10:8": {
+   "status": "MATCH"
+  },
+  "10:9": {
+   "status": "MATCH"
+  },
+  "10:10": {
+   "status": "MATCH"
+  },
+  "10:11": {
+   "status": "MATCH"
+  },
+  "10:12": {
+   "status": "MATCH"
+  },
+  "10:13": {
+   "status": "MATCH"
+  },
+  "10:14": {
+   "status": "MATCH"
+  },
+  "10:15": {
+   "status": "MATCH"
+  },
+  "10:16": {
+   "status": "MATCH"
+  },
+  "10:17": {
+   "status": "MATCH"
+  },
+  "10:18": {
+   "status": "MATCH"
+  },
+  "10:19": {
+   "status": "MATCH"
+  },
+  "10:20": {
+   "status": "SANDHI-JOINT"
+  },
+  "10:21": {
+   "status": "DIVERGENCE",
+   "detail": "div:@33: ours[..्योतिषांरविरंशुमान्..] vs wit[..्योतिषांरविर्ंशुमान्..]",
+   "ours": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् ।\nमरीचिर्मरुतामस्मि नक्षत्राणामहं शशी",
+   "witness": "ādityānām ahaṃ viṣṇur jyotiṣāṃ ravir aṃśumān / marīcir marutām asmi nakṣatrāṇām ahaṃ śaśī",
+   "adjudication": {
+    "finding": "ours ravir amsuman (keeps initial a) vs GRETIL ravirmsuman (drops a; witness-side join glitch)",
+    "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "10:22": {
+   "status": "MATCH"
+  },
+  "10:23": {
+   "status": "MATCH"
+  },
+  "10:24": {
+   "status": "MATCH"
+  },
+  "10:25": {
+   "status": "MATCH"
+  },
+  "10:26": {
+   "status": "MATCH"
+  },
+  "10:27": {
+   "status": "MATCH"
+  },
+  "10:28": {
+   "status": "MATCH"
+  },
+  "10:29": {
+   "status": "MATCH"
+  },
+  "10:30": {
+   "status": "MATCH"
+  },
+  "10:31": {
+   "status": "MATCH"
+  },
+  "10:32": {
+   "status": "MATCH"
+  },
+  "10:33": {
+   "status": "MATCH"
+  },
+  "10:34": {
+   "status": "MATCH"
+  },
+  "10:35": {
+   "status": "MATCH"
+  },
+  "10:36": {
+   "status": "MATCH"
+  },
+  "10:37": {
+   "status": "MATCH"
+  },
+  "10:38": {
+   "status": "MATCH"
+  },
+  "10:39": {
+   "status": "MATCH"
+  },
+  "10:40": {
+   "status": "MATCH"
+  },
+  "10:41": {
+   "status": "MATCH"
+  },
+  "10:42": {
+   "status": "MATCH"
+  },
+  "11:1": {
+   "status": "MATCH"
+  },
+  "11:2": {
+   "status": "MATCH"
+  },
+  "11:3": {
+   "status": "MATCH"
+  },
+  "11:4": {
+   "status": "MATCH"
+  },
+  "11:5": {
+   "status": "MATCH"
+  },
+  "11:6": {
+   "status": "MATCH"
+  },
+  "11:7": {
+   "status": "MATCH"
+  },
+  "11:8": {
+   "status": "MATCH"
+  },
+  "11:9": {
+   "status": "MATCH"
+  },
+  "11:10": {
+   "status": "MATCH"
+  },
+  "11:11": {
+   "status": "MATCH"
+  },
+  "11:12": {
+   "status": "MATCH"
+  },
+  "11:13": {
+   "status": "MATCH"
+  },
+  "11:14": {
+   "status": "MATCH"
+  },
+  "11:15": {
+   "status": "MATCH"
+  },
+  "11:16": {
+   "status": "DIVERGENCE",
+   "detail": "div:@33: ours[..ंपश्यामित्वांसर्वतोनंतरू..] vs wit[..ंपश्यामित्वासर्वतोनंतरूप..]",
+   "ours": "अनेकबाहूदरवक्त्रनेत्रं\nपश्यामि त्वां सर्वतोऽनन्तरूपम् ।\nनान्तं न मध्यं न पुनस्तवादिं\nपश्यामि विश्वेश्वर विश्वरूप",
+   "witness": "anekabāhūdaravaktranetraṃ; paśyāmi tvā sarvato 'nantarūpam / nāntaṃ na madhyaṃ na punas tavādiṃ; paśyāmi viśveśvara viśvarūpa",
+   "adjudication": {
+    "finding": "ours tvam sarvato (with anusvara) vs tvā sarvato (dropped)",
+    "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "11:17": {
+   "status": "MATCH"
+  },
+  "11:18": {
+   "status": "MATCH"
+  },
+  "11:19": {
+   "status": "MATCH"
+  },
+  "11:20": {
+   "status": "DIVERGENCE",
+   "detail": "div:@18: ours[..वाद्भुतंरूपमुग्रंतवेदंलो..] vs wit[..वाद्भुतंरूपमिदंतवोग्रंलो..]",
+   "ours": "द्यावापृथिव्योरिदमन्तरं हि\nव्याप्तं त्वयैकेन दिशश्च सर्वाः ।\nदृष्ट्वाद्भुतं रूपमुग्रं तवेदं\nलोकत्रयं प्रव्यथितं महात्मन्",
+   "witness": "dyāvāpṛthivyor idam antaraṃ hi; vyāptaṃ tvayaikena diśaś ca sarvāḥ / dṛṣṭvādbhutaṃ rūpam idaṃ tavograṃ; lokatrayaṃ pravyathitaṃ mahātman",
+   "adjudication": {
+    "finding": "word order: ours rupam ugram tavedam vs rupam idam tavogram",
+    "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "11:21": {
+   "status": "DIVERGENCE",
+   "detail": "div:@9: ours[..अमीहित्वांसुरसंघाविशं..] vs wit[..अमीहित्वासुरसंघाविशंत..]",
+   "ours": "अमी हि त्वां सुरसंघा विशन्ति\nकेचिद्भीताः प्राञ्जलयो गृणन्ति ।\nस्वस्तीत्युक्त्वा महर्षिसिद्धसंघाः\nस्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः",
+   "witness": "amī hi tvā surasaṃghā viśanti; ke cid bhītāḥ prāñjalayo gṛṇanti / svastīty uktvā maharṣisiddhasaṃghāḥ; stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ",
+   "adjudication": {
+    "finding": "ours tvam vs GRETIL tva (Samkara paraphrase uses tvam visanti)",
+    "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "11:22": {
+   "status": "DIVERGENCE",
+   "detail": "div:@35: ours[..वीक्षंतेत्वांविस्मिताश्च..] vs wit[..वीक्षंतेत्वाविस्मिताश्चै..]",
+   "ours": "रुद्रादित्या वसवो ये च साध्या\nविश्वेऽश्विनौ मरुतश्चोष्मपाश्च ।\nगन्धर्वयक्षासुरसिद्धसंघा\nवीक्षन्ते त्वां विस्मिताश्चैव सर्वे",
+   "witness": "rudrādityā vasavo ye ca sādhyā; viśve 'śvinau marutaś coṣmapāś ca / gandharvayakṣāsurasiddhasaṃghā; vīkṣante tvā vismitāś caiva sarve",
+   "adjudication": {
+    "finding": "ours tvam vs GRETIL tva (same nasal family as 11:21)",
+    "note": "GRETIL-only divergence (no Samkara verse quotation available). Kept as vulgate-line reading; dissent quarantined. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "11:23": {
+   "status": "MATCH"
+  },
+  "11:24": {
+   "status": "MATCH"
+  },
+  "11:25": {
+   "status": "MATCH"
+  },
+  "11:26": {
+   "status": "MATCH"
+  },
+  "11:27": {
+   "status": "MATCH"
+  },
+  "11:28": {
+   "status": "MATCH"
+  },
+  "11:29": {
+   "status": "MATCH"
+  },
+  "11:30": {
+   "status": "MATCH"
+  },
+  "11:31": {
+   "status": "MATCH"
+  },
+  "11:32": {
+   "status": "DIVERGENCE",
+   "detail": "div:@9: ours[..ऋतेपित्वांनभविष्यंतिस..] vs wit[..ऋतेपित्वानभविष्यंतिसर..]",
+   "ours": "श्रीभगवानुवाच\nकालोऽस्मि लोकक्षयकृत्प्रवृद्धो\nलोकान्समाहर्तुमिह प्रवृत्तः ।\nऋतेऽपि त्वां न भविष्यन्ति सर्वे\nयेऽवस्थिताः प्रत्यनीकेषु योधाः",
+   "witness": "kālo 'smi lokakṣayakṛt pravṛddho; lokān samāhartum iha pravṛttaḥ / ṛte 'pi tvā na bhaviṣyanti sarve; ye 'vasthitāḥ pratyanīkeṣu yodhāḥ",
+   "adjudication": {
+    "finding": "ours tvam na vs tva na (both witnesses drop nasal)",
+    "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "11:33": {
+   "status": "MATCH"
+  },
+  "11:34": {
+   "status": "MATCH"
+  },
+  "11:35": {
+   "status": "SANDHI-JOINT"
+  },
+  "11:36": {
+   "status": "MATCH"
+  },
+  "11:37": {
+   "status": "MATCH"
+  },
+  "11:38": {
+   "status": "MATCH"
+  },
+  "11:39": {
+   "status": "MATCH"
+  },
+  "11:40": {
+   "status": "SANDHI-JOINT"
+  },
+  "11:41": {
+   "status": "MATCH"
+  },
+  "11:42": {
+   "status": "MATCH"
+  },
+  "11:43": {
+   "status": "MATCH"
+  },
+  "11:44": {
+   "status": "MATCH"
+  },
+  "11:45": {
+   "status": "MATCH"
+  },
+  "11:46": {
+   "status": "MATCH"
+  },
+  "11:47": {
+   "status": "MATCH"
+  },
+  "11:48": {
+   "status": "SANDHI-JOINT"
+  },
+  "11:49": {
+   "status": "MATCH"
+  },
+  "11:50": {
+   "status": "MATCH"
+  },
+  "11:51": {
+   "status": "MATCH"
+  },
+  "11:52": {
+   "status": "SANDHI-JOINT"
+  },
+  "11:53": {
+   "status": "SANDHI-JOINT"
+  },
+  "11:54": {
+   "status": "SANDHI-JOINT"
+  },
+  "11:55": {
+   "status": "MATCH"
+  },
+  "12:1": {
+   "status": "MATCH"
+  },
+  "12:2": {
+   "status": "SANDHI-JOINT"
+  },
+  "12:3": {
+   "status": "MATCH"
+  },
+  "12:4": {
+   "status": "MATCH"
+  },
+  "12:5": {
+   "status": "MATCH"
+  },
+  "12:6": {
+   "status": "SANDHI-JOINT"
+  },
+  "12:7": {
+   "status": "MATCH"
+  },
+  "12:8": {
+   "status": "SANDHI-JOINT"
+  },
+  "12:9": {
+   "status": "MATCH"
+  },
+  "12:10": {
+   "status": "MATCH"
+  },
+  "12:11": {
+   "status": "MATCH"
+  },
+  "12:12": {
+   "status": "MATCH"
+  },
+  "12:13": {
+   "status": "SANDHI-JOINT"
+  },
+  "12:14": {
+   "status": "MATCH"
+  },
+  "12:15": {
+   "status": "MATCH"
+  },
+  "12:16": {
+   "status": "SANDHI-JOINT"
+  },
+  "12:17": {
+   "status": "MATCH"
+  },
+  "12:18": {
+   "status": "DIVERGENCE",
+   "detail": "div:@24: ours[..त्रेचतथामानापमानयोः..] vs wit[..त्रेचतथामानावमानयोः..]",
+   "ours": "समः शत्रौ च मित्रे च तथा मानापमानयोः ।\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः",
+   "witness": "samaḥ śatrau ca mitre ca tathā mānāvamānayoḥ / śītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ",
+   "adjudication": {
+    "finding": "ours manapamanayoh vs GRETIL manavamanayoh (visarga fold now handles samah/samas half)",
+    "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "12:19": {
+   "status": "MATCH"
+  },
+  "12:20": {
+   "status": "MATCH"
+  },
+  "13:1": {
+   "status": "SANDHI-JOINT"
+  },
+  "13:2": {
+   "status": "MATCH"
+  },
+  "13:3": {
+   "status": "MATCH"
+  },
+  "13:4": {
+   "status": "MATCH"
+  },
+  "13:5": {
+   "status": "MATCH"
+  },
+  "13:6": {
+   "status": "MATCH"
+  },
+  "13:7": {
+   "status": "MATCH"
+  },
+  "13:8": {
+   "status": "SANDHI-JOINT"
+  },
+  "13:9": {
+   "status": "MATCH"
+  },
+  "13:10": {
+   "status": "MATCH"
+  },
+  "13:11": {
+   "status": "MATCH"
+  },
+  "13:12": {
+   "status": "MATCH"
+  },
+  "13:13": {
+   "status": "MATCH"
+  },
+  "13:14": {
+   "status": "MATCH"
+  },
+  "13:15": {
+   "status": "MATCH"
+  },
+  "13:16": {
+   "status": "MATCH"
+  },
+  "13:17": {
+   "status": "MATCH"
+  },
+  "13:18": {
+   "status": "SANDHI-JOINT"
+  },
+  "13:19": {
+   "status": "SANDHI-JOINT"
+  },
+  "13:20": {
+   "status": "DIVERGENCE",
+   "detail": "div:@6: ours[..कार्यकरणकर्तृत्वेह..] vs wit[..कार्यकारणकर्तृत्वे..]",
+   "ours": "कार्यकरणकर्तृत्वे हेतुः प्रकृतिरुच्यते ।\nपुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते",
+   "witness": "kāryakāraṇakartṛtve hetuḥ prakṛtir ucyate / puruṣaḥ sukhaduḥkhānāṃ bhoktṛtve hetur ucyate",
+   "adjudication": {
+    "finding": "ours karya-karana (short a) vs GRETIL karya-karana (long a)",
+    "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "13:21": {
+   "status": "MATCH"
+  },
+  "13:22": {
+   "status": "MATCH"
+  },
+  "13:23": {
+   "status": "SANDHI-JOINT"
+  },
+  "13:24": {
+   "status": "MATCH"
+  },
+  "13:25": {
+   "status": "SANDHI-JOINT"
+  },
+  "13:26": {
+   "status": "MATCH"
+  },
+  "13:27": {
+   "status": "MATCH"
+  },
+  "13:28": {
+   "status": "MATCH"
+  },
+  "13:29": {
+   "status": "MATCH"
+  },
+  "13:30": {
+   "status": "SANDHI-JOINT"
+  },
+  "13:31": {
+   "status": "MATCH"
+  },
+  "13:32": {
+   "status": "MATCH"
+  },
+  "13:33": {
+   "status": "MATCH"
+  },
+  "13:34": {
+   "status": "MATCH"
+  },
+  "14:1": {
+   "status": "MATCH"
+  },
+  "14:2": {
+   "status": "MATCH"
+  },
+  "14:3": {
+   "status": "MATCH"
+  },
+  "14:4": {
+   "status": "MATCH"
+  },
+  "14:5": {
+   "status": "SANDHI-JOINT"
+  },
+  "14:6": {
+   "status": "MATCH"
+  },
+  "14:7": {
+   "status": "MATCH"
+  },
+  "14:8": {
+   "status": "MATCH"
+  },
+  "14:9": {
+   "status": "MATCH"
+  },
+  "14:10": {
+   "status": "MATCH"
+  },
+  "14:11": {
+   "status": "SANDHI-JOINT"
+  },
+  "14:12": {
+   "status": "MATCH"
+  },
+  "14:13": {
+   "status": "SANDHI-JOINT"
+  },
+  "14:14": {
+   "status": "MATCH"
+  },
+  "14:15": {
+   "status": "MATCH"
+  },
+  "14:16": {
+   "status": "MATCH"
+  },
+  "14:17": {
+   "status": "SANDHI-JOINT"
+  },
+  "14:18": {
+   "status": "DIVERGENCE",
+   "detail": "div:@12: ours[..जघंयगुणवृत्तिस्थाअधोगच्छ..] vs wit[..जघंयगुणवृत्तस्थाधोगच्छंत..]",
+   "ours": "ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः ।\nजघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसाः",
+   "witness": "ūrdhvaṃ gacchanti sattvasthā madhye tiṣṭhanti rājasāḥ / jaghanyaguṇavṛttasthā adho gacchanti tāmasāḥ",
+   "adjudication": {
+    "finding": "ours guna-vrtti-stha vs guna-vrtta-stha",
+    "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "14:19": {
+   "status": "MATCH"
+  },
+  "14:20": {
+   "status": "MATCH"
+  },
+  "14:21": {
+   "status": "MATCH"
+  },
+  "14:22": {
+   "status": "MATCH"
+  },
+  "14:23": {
+   "status": "SANDHI-JOINT"
+  },
+  "14:24": {
+   "status": "MATCH"
+  },
+  "14:25": {
+   "status": "DIVERGENCE",
+   "detail": "div:@4: ours[..मानापमानयोस्तुल्..] vs wit[..मानावमानयोस्तुल्..]",
+   "ours": "मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः ।\nसर्वारम्भपरित्यागी गुणातीतः स उच्यते",
+   "witness": "mānāvamānayos tulyas tulyo mitrāripakṣayoḥ / sarvārambhaparityāgī guṇātītaḥ sa ucyate",
+   "adjudication": {
+    "finding": "ours manapamanayos vs GRETIL manavamanayos (same pa/va family as 6:7, 12:18)",
+    "note": "GRETIL-only divergence (no Samkara verse quotation available). Kept as vulgate-line reading; dissent quarantined. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "14:26": {
+   "status": "MATCH"
+  },
+  "14:27": {
+   "status": "MATCH"
+  },
+  "15:1": {
+   "status": "MATCH"
+  },
+  "15:2": {
+   "status": "MATCH"
+  },
+  "15:3": {
+   "status": "MATCH"
+  },
+  "15:4": {
+   "status": "MATCH"
+  },
+  "15:5": {
+   "status": "SANDHI-JOINT"
+  },
+  "15:6": {
+   "status": "MATCH"
+  },
+  "15:7": {
+   "status": "MATCH"
+  },
+  "15:8": {
+   "status": "MATCH"
+  },
+  "15:9": {
+   "status": "MATCH"
+  },
+  "15:10": {
+   "status": "MATCH"
+  },
+  "15:11": {
+   "status": "MATCH"
+  },
+  "15:12": {
+   "status": "MATCH"
+  },
+  "15:13": {
+   "status": "MATCH"
+  },
+  "15:14": {
+   "status": "MATCH"
+  },
+  "15:15": {
+   "status": "MATCH"
+  },
+  "15:16": {
+   "status": "SANDHI-JOINT"
+  },
+  "15:17": {
+   "status": "SANDHI-JOINT"
+  },
+  "15:18": {
+   "status": "MATCH"
+  },
+  "15:19": {
+   "status": "MATCH"
+  },
+  "15:20": {
+   "status": "MATCH"
+  },
+  "16:1": {
+   "status": "SANDHI-JOINT"
+  },
+  "16:2": {
+   "status": "MATCH"
+  },
+  "16:3": {
+   "status": "MATCH"
+  },
+  "16:4": {
+   "status": "DIVERGENCE",
+   "detail": "div:@9: ours[..दंभोदर्पोभिमानश्चक्रो..] vs wit[..दंभोदर्पोतिमानश्चक्रो..]",
+   "ours": "दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च ।\nअज्ञानं चाभिजातस्य पार्थ संपदमासुरीम्",
+   "witness": "dambho darpo 'timānaś ca krodhaḥ pāruṣyam eva ca / ajñānaṃ cābhijātasya pārtha saṃpadam āsurīm",
+   "adjudication": {
+    "finding": "ours abhimana vs atimana",
+    "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "16:5": {
+   "status": "MATCH"
+  },
+  "16:6": {
+   "status": "SANDHI-JOINT"
+  },
+  "16:7": {
+   "status": "MATCH"
+  },
+  "16:8": {
+   "status": "MATCH"
+  },
+  "16:9": {
+   "status": "MATCH"
+  },
+  "16:10": {
+   "status": "MATCH"
+  },
+  "16:11": {
+   "status": "SANDHI-JOINT"
+  },
+  "16:12": {
+   "status": "MATCH"
+  },
+  "16:13": {
+   "status": "DIVERGENCE",
+   "detail": "div:@15: ours[..द्यमयालब्धमिमंप्राप्स्ये..] vs wit[..द्यमयालब्धमिदंप्राप्स्ये..]",
+   "ours": "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् ।\nइदमस्तीदमपि मे भविष्यति पुनर्धनम्",
+   "witness": "idam adya mayā labdham idaṃ prāpsye manoratham / idam astīdam api me bhaviṣyati punar dhanam",
+   "adjudication": {
+    "finding": "ours imam prapsye (masc, agrees with manoratham) vs idam prapsye",
+    "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "16:14": {
+   "status": "MATCH"
+  },
+  "16:15": {
+   "status": "SANDHI-JOINT"
+  },
+  "16:16": {
+   "status": "MATCH"
+  },
+  "16:17": {
+   "status": "MATCH"
+  },
+  "16:18": {
+   "status": "MATCH"
+  },
+  "16:19": {
+   "status": "MATCH",
+   "adjudication": {
+    "finding": "",
+    "note": "ours had क्रुरान् (short u); word is क्रूर (cruel, long u). GRETIL kruran + Samkara quotation kruran unanimous. FIXED 2026-09-28.",
+    "verdict": "fixed"
+   }
+  },
+  "16:20": {
+   "status": "MATCH"
+  },
+  "16:21": {
+   "status": "MATCH"
+  },
+  "16:22": {
+   "status": "MATCH"
+  },
+  "16:23": {
+   "status": "MATCH"
+  },
+  "16:24": {
+   "status": "MATCH"
+  },
+  "17:1": {
+   "status": "MATCH"
+  },
+  "17:2": {
+   "status": "MATCH"
+  },
+  "17:3": {
+   "status": "SANDHI-JOINT"
+  },
+  "17:4": {
+   "status": "MATCH"
+  },
+  "17:5": {
+   "status": "MATCH"
+  },
+  "17:6": {
+   "status": "MATCH",
+   "adjudication": {
+    "finding": "",
+    "note": "ours had कर्षयन्तः (root krs, to drag); context is emaciation so √krs + Samkara karsayantah + GRETIL karsayantah. FIXED 2026-09-28.",
+    "verdict": "fixed"
+   }
+  },
+  "17:7": {
+   "status": "MATCH"
+  },
+  "17:8": {
+   "status": "SANDHI-JOINT"
+  },
+  "17:9": {
+   "status": "MATCH"
+  },
+  "17:10": {
+   "status": "MATCH"
+  },
+  "17:11": {
+   "status": "SANDHI-JOINT"
+  },
+  "17:12": {
+   "status": "MATCH"
+  },
+  "17:13": {
+   "status": "MATCH"
+  },
+  "17:14": {
+   "status": "SANDHI-JOINT"
+  },
+  "17:15": {
+   "status": "SANDHI-JOINT"
+  },
+  "17:16": {
+   "status": "MATCH"
+  },
+  "17:17": {
+   "status": "MATCH"
+  },
+  "17:18": {
+   "status": "MATCH"
+  },
+  "17:19": {
+   "status": "MATCH"
+  },
+  "17:20": {
+   "status": "MATCH"
+  },
+  "17:21": {
+   "status": "MATCH"
+  },
+  "17:22": {
+   "status": "MATCH"
+  },
+  "17:23": {
+   "status": "MATCH"
+  },
+  "17:24": {
+   "status": "MATCH"
+  },
+  "17:25": {
+   "status": "MATCH"
+  },
+  "17:26": {
+   "status": "MATCH"
+  },
+  "17:27": {
+   "status": "MATCH"
+  },
+  "17:28": {
+   "status": "MATCH"
+  },
+  "18:1": {
+   "status": "MATCH"
+  },
+  "18:2": {
+   "status": "MATCH"
+  },
+  "18:3": {
+   "status": "MATCH"
+  },
+  "18:4": {
+   "status": "MATCH"
+  },
+  "18:5": {
+   "status": "MATCH"
+  },
+  "18:6": {
+   "status": "MATCH"
+  },
+  "18:7": {
+   "status": "MATCH"
+  },
+  "18:8": {
+   "status": "MATCH"
+  },
+  "18:9": {
+   "status": "MATCH"
+  },
+  "18:10": {
+   "status": "MATCH"
+  },
+  "18:11": {
+   "status": "MATCH"
+  },
+  "18:12": {
+   "status": "MATCH"
+  },
+  "18:13": {
+   "status": "MATCH"
+  },
+  "18:14": {
+   "status": "MATCH"
+  },
+  "18:15": {
+   "status": "MATCH"
+  },
+  "18:16": {
+   "status": "MATCH"
+  },
+  "18:17": {
+   "status": "SANDHI-JOINT"
+  },
+  "18:18": {
+   "status": "MATCH"
+  },
+  "18:19": {
+   "status": "MATCH"
+  },
+  "18:20": {
+   "status": "MATCH"
+  },
+  "18:21": {
+   "status": "MATCH"
+  },
+  "18:22": {
+   "status": "MATCH"
+  },
+  "18:23": {
+   "status": "MATCH"
+  },
+  "18:24": {
+   "status": "MATCH"
+  },
+  "18:25": {
+   "status": "MATCH",
+   "adjudication": {
+    "finding": "",
+    "note": "ours had अनवेक्ष्य (ava+iks); standard compound is अनपेक्ष्य (apa+iks, without regard to). GRETIL anapeksya agrees. FIXED 2026-09-28.",
+    "verdict": "fixed"
+   }
+  },
+  "18:26": {
+   "status": "SANDHI-JOINT"
+  },
+  "18:27": {
+   "status": "MATCH"
+  },
+  "18:28": {
+   "status": "DIVERGENCE",
+   "detail": "div:@29: ours[..्तब्धश्शठोनैष्कृतिकोलसः..] vs wit[..्तब्धश्शठोनैकृतिकोलसः..]",
+   "ours": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः ।\nविषादी दीर्घसूत्री च कर्ता तामस उच्यते",
+   "witness": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naikṛtiko 'lasaḥ / viṣādī dīrghasūtrī ca kartā tāmasa ucyate",
+   "adjudication": {
+    "finding": "ours naiskrtika (with s, dishonest) vs naikrtika (drops s)",
+    "note": "GRETIL-only divergence (no Samkara verse quotation available). Kept as vulgate-line reading; dissent quarantined. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "18:29": {
+   "status": "MATCH"
+  },
+  "18:30": {
+   "status": "MATCH"
+  },
+  "18:31": {
+   "status": "MATCH"
+  },
+  "18:32": {
+   "status": "MATCH"
+  },
+  "18:33": {
+   "status": "MATCH"
+  },
+  "18:34": {
+   "status": "MATCH"
+  },
+  "18:35": {
+   "status": "MATCH"
+  },
+  "18:36": {
+   "status": "MATCH"
+  },
+  "18:37": {
+   "status": "MATCH"
+  },
+  "18:38": {
+   "status": "MATCH"
+  },
+  "18:39": {
+   "status": "MATCH"
+  },
+  "18:40": {
+   "status": "MATCH"
+  },
+  "18:41": {
+   "status": "MATCH"
+  },
+  "18:42": {
+   "status": "MATCH"
+  },
+  "18:43": {
+   "status": "DIVERGENCE",
+   "detail": "div:@18: ours[..्वरभावश्चक्षात्रंकर्मस्व..] vs wit[..्वरभावश्चक्षत्रकर्मस्वभा..]",
+   "ours": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् ।\nदानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्",
+   "witness": "śauryaṃ tejo dhṛtir dākṣyaṃ yuddhe cāpy apalāyanam / dānam īśvarabhāvaś ca kṣatrakarma svabhāvajam",
+   "adjudication": {
+    "finding": "ours ksatra (long a, adjective from ksatra) vs ksatra",
+    "note": "GRETIL-only divergence (no Samkara verse quotation available). Kept as vulgate-line reading; dissent quarantined. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "18:44": {
+   "status": "MATCH",
+   "adjudication": {
+    "finding": "",
+    "note": "ours had गौरक्ष्य (gau-); compound is गो-रक्ष्य (cow-protection). GRETIL goraksya agrees. FIXED 2026-09-28.",
+    "verdict": "fixed"
+   }
+  },
+  "18:45": {
+   "status": "MATCH"
+  },
+  "18:46": {
+   "status": "MATCH"
+  },
+  "18:47": {
+   "status": "MATCH"
+  },
+  "18:48": {
+   "status": "MATCH"
+  },
+  "18:49": {
+   "status": "MATCH"
+  },
+  "18:50": {
+   "status": "MATCH"
+  },
+  "18:51": {
+   "status": "MATCH",
+   "adjudication": {
+    "finding": "",
+    "note": "ours had विशुद्ध्या (drops a); instrumental of visuddhi is विशुद्धया. GRETIL visuddhaya agrees. FIXED 2026-09-28.",
+    "verdict": "fixed"
+   }
+  },
+  "18:52": {
+   "status": "MATCH"
+  },
+  "18:53": {
+   "status": "MATCH"
+  },
+  "18:54": {
+   "status": "MATCH"
+  },
+  "18:55": {
+   "status": "MATCH"
+  },
+  "18:56": {
+   "status": "MATCH"
+  },
+  "18:57": {
+   "status": "MATCH"
+  },
+  "18:58": {
+   "status": "MATCH"
+  },
+  "18:59": {
+   "status": "SANDHI-JOINT"
+  },
+  "18:60": {
+   "status": "MATCH"
+  },
+  "18:61": {
+   "status": "MATCH"
+  },
+  "18:62": {
+   "status": "MATCH"
+  },
+  "18:63": {
+   "status": "MATCH"
+  },
+  "18:64": {
+   "status": "MATCH"
+  },
+  "18:65": {
+   "status": "MATCH"
+  },
+  "18:66": {
+   "status": "DIVERGENCE",
+   "detail": "div:@7: ours[..अहंत्वांसर्वपापेभ्य..] vs wit[..अहंत्वासर्वपापेभ्यो..]",
+   "ours": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः",
+   "witness": "sarvadharmān parityajya mām ekaṃ śaraṇaṃ vraja / ahaṃ tvā sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ",
+   "adjudication": {
+    "finding": "ours tvam vs tva (nasal family)",
+    "note": "GRETIL-only divergence (no Samkara verse quotation available). Kept as vulgate-line reading; dissent quarantined. Keep-ours, recorded 2026-09-28.",
+    "verdict": "keep-ours"
+   }
+  },
+  "18:67": {
+   "status": "MATCH"
+  },
+  "18:68": {
+   "status": "SANDHI-JOINT",
+   "adjudication": {
+    "finding": "",
+    "note": "ours had इमं (masc); agrees with neuter गुह्यं so इदं required. GRETIL idam agrees; OJ sandhi now येदं matches. FIXED 2026-09-28.",
+    "verdict": "fixed"
+   }
+  },
+  "18:69": {
+   "status": "MATCH"
+  },
+  "18:70": {
+   "status": "SANDHI-JOINT"
+  },
+  "18:71": {
+   "status": "MATCH"
+  },
+  "18:72": {
+   "status": "MATCH"
+  },
+  "18:73": {
+   "status": "MATCH"
+  },
+  "18:74": {
+   "status": "MATCH"
+  },
+  "18:75": {
+   "status": "MATCH"
+  },
+  "18:76": {
+   "status": "MATCH"
+  },
+  "18:77": {
+   "status": "MATCH"
+  },
+  "18:78": {
+   "status": "MATCH"
+  }
+ },
+ "summary": {
+  "MATCH": 591,
+  "SANDHI-JOINT": 86,
+  "DIVERGENCE": 23
+ },
+ "encoding": []
+}

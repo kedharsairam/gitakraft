@@ -27,6 +27,8 @@ from iast import transliterate, detransliterate
 from drafting import cmd_draft, cmd_check_draft
 from review import cmd_review
 from verify import cmd_verify
+from witnesses import cmd_witness
+from concur import cmd_concur
 
 ROOT = Path(__file__).resolve().parents[2]
 RAW = ROOT / "data" / "content" / "raw"
@@ -531,9 +533,15 @@ def cmd_fetch(args) -> int:
 def _clean_line(line: str) -> str:
     # Wiki markup is presentation, not scripture: bold/italic quotes,
     # line-break tags, and non-breaking spaces are stripped before parsing.
+    # Zero-width/format chars (U+200B/C/D, U+FEFF, soft hyphen) are
+    # Wikisource artifacts with no standing in Sanskrit orthography;
+    # leaving a ZWNJ inside a conjunct (as in 1:22's योद्‌धुकामान्)
+    # visibly breaks ligatures on some fonts.
     line = line.replace("'''", "").replace("''", "")
     line = re.sub(r"<br\s*/?>", " ", line)
     line = line.replace("&nbsp;", " ")
+    for zw in ("\u200b", "\u200c", "\u200d", "\ufeff", "\u00ad"):
+        line = line.replace(zw, "")
     return line.strip()
 
 
@@ -562,6 +570,12 @@ def parse_verses(poem: str, chapter: int) -> list[dict]:
         nonlocal verse_no
         verse_no += 1
         text = "\n".join(buf).strip()
+        if not text:
+            # Bare marker line (no verse text): never mint an empty
+            # record — it would renumber-shift every verse downstream.
+            # Counts are enforced by cmd_validate, loudly.
+            verse_no -= 1
+            return
         records.append({
             "id": f"{chapter}:{verse_no}",
             "marker": {"chapter": marker_ch, "verse": marker_vs},
@@ -594,6 +608,14 @@ def parse_verses(poem: str, chapter: int) -> list[dict]:
             speaker = sp.group(1).strip()
         elif sp and started and not buf:
             speaker = sp.group(1).strip()
+        elif line.rstrip().endswith("।") and not started:
+            # Chapter-opening verse half with no speaker header (as in
+            # 15:1, or after a glued header like श्रीभगवानुवाच as in
+            # 13:1): a danda-terminated line is verse text, not preamble.
+            # Invocations (ॐ, नमः, अथ ...ध्यायः) never end in ।, so they
+            # still fall through to the preamble below.
+            started = True
+            buf.append(line)
         else:
             if not started and speaker is None:
                 preamble.append(line)
@@ -863,7 +885,7 @@ def main(argv: list[str] | None = None) -> int:
     sub = ap.add_subparsers(dest="cmd", required=True)
     for name in ("fetch", "normalize", "transliterate", "validate", "export",
                  "export_app", "fetch_en", "norm_en", "anchor_en", "triptych", "check_align",
-                 "draft", "check_draft", "verify", "review"):
+                 "draft", "check_draft", "verify", "review", "witness", "concur"):
         p = sub.add_parser(name)
         p.add_argument("--chapter", type=int, default=None)
         if name in ("export", "export_app"):
@@ -872,6 +894,8 @@ def main(argv: list[str] | None = None) -> int:
             p.add_argument("--status", action="store_true")
             p.add_argument("--sign-off", default=None)
             p.add_argument("--reopen", default=None)
+        if name == "witness":
+            p.add_argument("--fetch", action="store_true")
     args = ap.parse_args(argv)
     return {"fetch": cmd_fetch, "normalize": cmd_normalize,
             "transliterate": cmd_transliterate, "validate": cmd_validate,
@@ -879,7 +903,8 @@ def main(argv: list[str] | None = None) -> int:
             "norm_en": cmd_norm_en, "anchor_en": cmd_anchor_en,
             "triptych": cmd_triptych, "check_align": cmd_check_align,
             "draft": cmd_draft, "check_draft": cmd_check_draft,
-            "verify": cmd_verify, "review": cmd_review}[args.cmd](args)
+            "verify": cmd_verify, "review": cmd_review,
+            "witness": cmd_witness, "concur": cmd_concur}[args.cmd](args)
 
 
 if __name__ == "__main__":

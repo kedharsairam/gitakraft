@@ -76,5 +76,70 @@ class TestChapters(unittest.TestCase):
         self.assertEqual(sorted(CHAPTERS), list(range(1, 19)))
 
 
+class TestConcur(unittest.TestCase):
+    NV = None
+
+    @classmethod
+    def setUpClass(cls):
+        from concur import build_name_vocab
+        cls.NV = build_name_vocab([
+            "The blind king asks Sanjaya what happened.",
+            "Help arrives when grief is deepest.",
+        ])
+
+    def _rec(self, meaning, telang, arnold="Arnold paraphrase here"):
+        from concur import concur_verse
+        return concur_verse(meaning, telang, arnold, {}, self.NV)
+
+    def test_consensus(self):
+        r = self._rec("Grief overwhelms him and he spoke in despair.",
+                      "Grief overwhelmed him; he spoke in despair and sorrow.",
+                      "O'ercome by grief, he spake in deep despair.")
+        self.assertEqual(r["status"], "CONSENSUS")
+
+    def test_single_source_telang(self):
+        r = self._rec("Grief overwhelms him and he spoke in despair.",
+                      "Grief overwhelmed him; he spoke in despair and sorrow.",
+                      "The lotus blooms at dawn in spring.")
+        self.assertEqual(r["status"], "SINGLE-SOURCE")
+        self.assertIn("Telang covers", r["detail"])
+
+    def test_orphan(self):
+        r = self._rec("Quantum entanglement collapses the waveform.",
+                      "Grief overwhelmed him; he spoke in despair.",
+                      "The lotus blooms at dawn in spring.")
+        self.assertEqual(r["status"], "ORPHAN")
+
+    def test_arnold_absent(self):
+        from concur import concur_verse
+        r = concur_verse("Grief overwhelms him and despair follows after.",
+                         "Grief overwhelmed him in despair.", None, {},
+                         self.NV)
+        self.assertEqual(r["status"], "ARNOLD-ABSENT")
+
+    def test_names_stripped(self):
+        from concur import our_lemmas
+        # Dhritarashtra/Sanjaya are names; asks/blind/king are claims.
+        got = our_lemmas("The blind king Dhritarashtra asks Sanjaya.",
+                         self.NV)
+        self.assertNotIn("dhritarashtra", got)
+        self.assertNotIn("sanjaya", got)
+        self.assertIn("say", got)  # asks -> say family
+        self.assertIn("blind", got)
+
+    def test_archaic_bridge(self):
+        from concur import lemmas, expanded
+        # assembled (Telang) must cover our gathered via ARCHAIC map.
+        self.assertIn("gather", expanded(lemmas("they assembled together"),
+                                        {}))
+
+    def test_stem_regressions(self):
+        from concur import stem
+        self.assertEqual(stem("duties"), "duty")
+        self.assertEqual(stem("senses"), "sense")
+        self.assertEqual(stem("nothing"), "nothing")
+        self.assertEqual(stem("bows"), "bow")
+
+
 if __name__ == "__main__":
     unittest.main()

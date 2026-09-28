@@ -46,7 +46,8 @@ def pack_id(ch: int, k: int) -> str:
     return f"ch{ch:02d}-{k}"
 
 
-def render_pack(ch: int, k: int, verses: list, status: str) -> str:
+def render_pack(ch: int, k: int, verses: list, status: str,
+                witness: dict, concur: dict) -> str:
     _, _, traditional = CHAPTERS[ch]
     display = DISPLAY_TITLES[ch]
     first, last = verses[0]["id"], verses[-1]["id"]
@@ -81,6 +82,29 @@ def render_pack(ch: int, k: int, verses: list, status: str) -> str:
             for para, quotes in anchors:
                 quoted = " ".join(f'"{q}"' for q in quotes)
                 lines.append(f"**Telang [{para}]:** {quoted}")
+        w = witness.get(r["id"])
+        if w is not None and w.get("status") not in (None, "MATCH"):
+            lines.append("")
+            wline = f"**Witness [gretil]:** {w['status']}"
+            if w.get("detail"):
+                wline += f" — {w['detail'][:220]}"
+            if w.get("speaker_note"):
+                wline += f" (speaker: {w['speaker_note']})"
+            if w.get("adjudication"):
+                adj = w["adjudication"]
+                wline += (f" [adjudicated: {adj.get('verdict')} — "
+                          f"{adj.get('note', '')[:200]}]")
+            lines.append(wline)
+        c = concur.get(r["id"])
+        if c is not None and c.get("status") not in (None, "CONSENSUS"):
+            lines.append("")
+            if c["status"] == "SINGLE-SOURCE":
+                lines.append(f"**Consensus:** {c['status']} — {c['detail']}")
+            else:
+                cline = (f"**Consensus [{c['status']}]:** {c['detail']}")
+                if c.get("uncovered"):
+                    cline += f" — check: {', '.join(c['uncovered'][:10])}"
+                lines.append(cline)
         lines.append("")
     return "\n".join(lines)
 
@@ -110,6 +134,14 @@ def cmd_review(args) -> int:
     chapters = [args.chapter] if args.chapter else sorted(CHAPTERS)
     PACKS.mkdir(parents=True, exist_ok=True)
     status = load_status()
+    wpath = WORK / "witness_report.json"
+    wverses = {}
+    if wpath.exists():
+        wverses = json.loads(wpath.read_text(encoding="utf-8")).get("verses", {})
+    cpath = WORK / "concur_report.json"
+    cverses = {}
+    if cpath.exists():
+        cverses = json.loads(cpath.read_text(encoding="utf-8")).get("verses", {})
     total_packs = 0
     for ch in chapters:
         doc = json.loads((WORK / f"draft_ch{ch:02d}.json").read_text(encoding="utf-8"))
@@ -125,7 +157,8 @@ def cmd_review(args) -> int:
             st = status.get(pid, {"status": "pending"})
             status.setdefault(pid, {"status": "pending"})
             (PACKS / f"{pid}.md").write_text(
-                render_pack(ch, k + 1, chunk, st["status"]), encoding="utf-8")
+                render_pack(ch, k + 1, chunk, st["status"], wverses, cverses),
+                encoding="utf-8")
             total_packs += 1
     save_status(status)
     if args.status:

@@ -1,0 +1,162 @@
+{
+ "1:22": {
+  "finding": "ours निरिक्षे (short i) vs witness nirīkṣe; etymology (root īkṣ, 'to see') agrees with witness",
+  "note": "ours had निरिक्षे (short i); root is √īkṣ so निरीक्षे required. GRETIL nirīkṣe + Samkara-bhasya quotation nirīkṣe unanimous. FIXED 2026-09-28.",
+  "verdict": "fixed"
+ },
+ "1:28": {
+  "finding": "vulgate singular (drstvemam svajanam, yuyutsum samupasthitam) vs BORI plural (iman svajanan, yuyutsun samavasthitan)",
+  "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "1:34": {
+  "finding": "ours syalah (standard word) vs BORI syalah",
+  "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "1:37": {
+  "finding": "ours sva-bandhavan (Gita Press prints sva-) vs BORI sa-bandhavan",
+  "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "3:8": {
+  "finding": "",
+  "note": "ours had प्रसिद्ध्येद (double d); root is √sidh so प्रसिध्येद. GRETIL prasidhyed + Samkara quotation prasidhyed unanimous. FIXED 2026-09-28.",
+  "verdict": "fixed"
+ },
+ "5:8": {
+  "finding": "",
+  "note": "ours had श्रृण्वन् (double r-vowel, impossible conjunct); correct शृण्वन्. GRETIL sr̥nvan + Samkara quotation srnvan unanimous. FIXED 2026-09-28.",
+  "verdict": "fixed"
+ },
+ "16:19": {
+  "finding": "",
+  "note": "ours had क्रुरान् (short u); word is क्रूर (cruel, long u). GRETIL kruran + Samkara quotation kruran unanimous. FIXED 2026-09-28.",
+  "verdict": "fixed"
+ },
+ "17:6": {
+  "finding": "",
+  "note": "ours had कर्षयन्तः (root krs, to drag); context is emaciation so √krs + Samkara karsayantah + GRETIL karsayantah. FIXED 2026-09-28.",
+  "verdict": "fixed"
+ },
+ "18:25": {
+  "finding": "",
+  "note": "ours had अनवेक्ष्य (ava+iks); standard compound is अनपेक्ष्य (apa+iks, without regard to). GRETIL anapeksya agrees. FIXED 2026-09-28.",
+  "verdict": "fixed"
+ },
+ "18:44": {
+  "finding": "",
+  "note": "ours had गौरक्ष्य (gau-); compound is गो-रक्ष्य (cow-protection). GRETIL goraksya agrees. FIXED 2026-09-28.",
+  "verdict": "fixed"
+ },
+ "18:51": {
+  "finding": "",
+  "note": "ours had विशुद्ध्या (drops a); instrumental of visuddhi is विशुद्धया. GRETIL visuddhaya agrees. FIXED 2026-09-28.",
+  "verdict": "fixed"
+ },
+ "18:68": {
+  "finding": "",
+  "note": "ours had इमं (masc); agrees with neuter गुह्यं so इदं required. GRETIL idam agrees; OJ sandhi now येदं matches. FIXED 2026-09-28.",
+  "verdict": "fixed"
+ },
+ "2:5": {
+  "finding": "ours bhaiksyam (noun, begging) vs GRETIL bhaiksam (drops y)",
+  "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "2:26": {
+  "finding": "ours naivam vs GRETIL nainam",
+  "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "3:2": {
+  "finding": "ours vyamisreneva vs GRETIL vyamisrenaiva",
+  "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "6:7": {
+  "finding": "ours manapamanayoh (mana+apamana) vs GRETIL manavamanayoh",
+  "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "8:7": {
+  "finding": "ours asamsayam (accusative adverb, undoubtedly) vs asamsayah (nominative)",
+  "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "10:21": {
+  "finding": "ours ravir amsuman (keeps initial a) vs GRETIL ravirmsuman (drops a; witness-side join glitch)",
+  "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "11:16": {
+  "finding": "ours tvam sarvato (with anusvara) vs tvā sarvato (dropped)",
+  "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "11:20": {
+  "finding": "word order: ours rupam ugram tavedam vs rupam idam tavogram",
+  "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "11:21": {
+  "finding": "ours tvam vs GRETIL tva (Samkara paraphrase uses tvam visanti)",
+  "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "11:22": {
+  "finding": "ours tvam vs GRETIL tva (same nasal family as 11:21)",
+  "note": "GRETIL-only divergence (no Samkara verse quotation available). Kept as vulgate-line reading; dissent quarantined. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "11:32": {
+  "finding": "ours tvam na vs tva na (both witnesses drop nasal)",
+  "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "12:18": {
+  "finding": "ours manapamanayoh vs GRETIL manavamanayoh (visarga fold now handles samah/samas half)",
+  "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "13:20": {
+  "finding": "ours karya-karana (short a) vs GRETIL karya-karana (long a)",
+  "note": "Second witness (Samkara-bhasya, Gaudiya Grantha Mandira text) sides with OURS against GRETIL. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "14:18": {
+  "finding": "ours guna-vrtti-stha vs guna-vrtta-stha",
+  "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "14:25": {
+  "finding": "ours manapamanayos vs GRETIL manavamanayos (same pa/va family as 6:7, 12:18)",
+  "note": "GRETIL-only divergence (no Samkara verse quotation available). Kept as vulgate-line reading; dissent quarantined. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "16:4": {
+  "finding": "ours abhimana vs atimana",
+  "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "16:13": {
+  "finding": "ours imam prapsye (masc, agrees with manoratham) vs idam prapsye",
+  "note": "Both witnesses (GRETIL + Samkara-bhasya) agree against ours. Kept as vulgate/Vulgate-line reading per doctrine (Telang/Arnold provenance); dissent quarantined here, never averaged. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "18:28": {
+  "finding": "ours naiskrtika (with s, dishonest) vs naikrtika (drops s)",
+  "note": "GRETIL-only divergence (no Samkara verse quotation available). Kept as vulgate-line reading; dissent quarantined. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "18:43": {
+  "finding": "ours ksatra (long a, adjective from ksatra) vs ksatra",
+  "note": "GRETIL-only divergence (no Samkara verse quotation available). Kept as vulgate-line reading; dissent quarantined. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ },
+ "18:66": {
+  "finding": "ours tvam vs tva (nasal family)",
+  "note": "GRETIL-only divergence (no Samkara verse quotation available). Kept as vulgate-line reading; dissent quarantined. Keep-ours, recorded 2026-09-28.",
+  "verdict": "keep-ours"
+ }
+}

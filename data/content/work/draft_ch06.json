@@ -3,8 +3,8 @@
  "records": [
   {
    "id": "6:1",
-   "devanagari": "स संन्यासी च योगी च न निरग्निर्न चाक्रियः",
-   "iast": "sa saṃnyāsī ca yogī ca na niragnirna cākriyaḥ",
+   "devanagari": "अनाश्रितः कर्मफलं कार्यं कर्म करोति यः ।\nस संन्यासी च योगी च न निरग्निर्न चाक्रियः",
+   "iast": "anāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ |\nsa saṃnyāsī ca yogī ca na niragnirna cākriyaḥ",
    "speaker": null,
    "telang_context": "The Deity said :\n\nHe who, regardless of the fruit of actions, performs the actions which ought to be performed, is  the devotee and renonnccr ; not he who discards the  (sacred) fires*, nor he who performs no acts. Know,  O son of Pa«</u ! that what is called renunciation is  devotion : for nobody becomes a devotee who has  not renounced (all) fancies^. To the sage who wishes  to rise to devotion, action is said to be a means, and  to him, when he has risen to devotion, tranquillity •’  is said to be a means. When one does not attach  oneself to objects of sense, nor to action, renouncing  all fancies, then one is said to have risen to devotion.  (A man)*sh6uld elevate his self by his self®; he should  not debase his self, for even (a man’s) own self is his",
    "arnold_span": "D01",
@@ -399,8 +399,8 @@
   },
   {
    "id": "6:23",
-   "devanagari": "तं विद्याद्‌दुःखसंयोगवियोगं योगसंज्ञितम् ।\nस निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा",
-   "iast": "taṃ vidyād‌duḥkhasaṃyogaviyogaṃ yogasaṃjñitam |\nsa niścayena yoktavyo yogo'nirviṇṇacetasā",
+   "devanagari": "तं विद्याद्दुःखसंयोगवियोगं योगसंज्ञितम् ।\nस निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा",
+   "iast": "taṃ vidyādduḥkhasaṃyogaviyogaṃ yogasaṃjñitam |\nsa niścayena yoktavyo yogo'nirviṇṇacetasā",
    "speaker": null,
    "telang_context": "too, one seeing the self by the selfS is pleased in  the self; in which one experiences that infinite happiness which transcends the senses, and which can be  grasped by the understanding only ; and adhering to  which, one never swerves from the truth ; acquiring  which, one thinks no other acquisition higher than it ;  and adhering to which, one is not shaken off even by  great misery ; that should be understood to be called  devotion in which there is a severance of all connexion with pain. That devotion should be practised  with steadiness and with an undesponding heart.  Abandoning, without exception, all desires -, which  are produced from fancies, and restraining the whole  group of the senses on all sides by the mind only*,  one should by slow steps become quiescent *, with  a firm resolve coupled with courage®; and fixing  the mind upon the self, should think of nothing.  Wherever the active and unsteady mind breaks  forth ®, there one should ever restrain it, and fix it  steadily on the self alone. The highest happiness  comes to such a devotee, whose mind is fully  tranquil, in whom the quality of passion has been  suppressed, who is free from sin, and who is become  (one with) the Brahman. Thus constantly devoting  his self to abstraction, a devotee, freed from sin,  easily obtains that supreme happiness — contact with  the Brahman He who has devoted his self to abstraction, by devotion, looking alike on everything,",
    "arnold_span": "D07",
@@ -435,8 +435,8 @@
   },
   {
    "id": "6:25",
-   "devanagari": "शनैः शनैरुपरमेद्‌बुद्ध्या धृतिगृहीतया ।\nआत्मसंस्थं मनः कृत्वा न किंचिदपि चिन्तयेत्",
-   "iast": "śanaiḥ śanairuparamed‌buddhyā dhṛtigṛhītayā |\nātmasaṃsthaṃ manaḥ kṛtvā na kiṃcidapi cintayet",
+   "devanagari": "शनैः शनैरुपरमेद्बुद्ध्या धृतिगृहीतया ।\nआत्मसंस्थं मनः कृत्वा न किंचिदपि चिन्तयेत्",
+   "iast": "śanaiḥ śanairuparamedbuddhyā dhṛtigṛhītayā |\nātmasaṃsthaṃ manaḥ kṛtvā na kiṃcidapi cintayet",
    "speaker": null,
    "telang_context": "too, one seeing the self by the selfS is pleased in  the self; in which one experiences that infinite happiness which transcends the senses, and which can be  grasped by the understanding only ; and adhering to  which, one never swerves from the truth ; acquiring  which, one thinks no other acquisition higher than it ;  and adhering to which, one is not shaken off even by  great misery ; that should be understood to be called  devotion in which there is a severance of all connexion with pain. That devotion should be practised  with steadiness and with an undesponding heart.  Abandoning, without exception, all desires -, which  are produced from fancies, and restraining the whole  group of the senses on all sides by the mind only*,  one should by slow steps become quiescent *, with  a firm resolve coupled with courage®; and fixing  the mind upon the self, should think of nothing.  Wherever the active and unsteady mind breaks  forth ®, there one should ever restrain it, and fix it  steadily on the self alone. The highest happiness  comes to such a devotee, whose mind is fully  tranquil, in whom the quality of passion has been  suppressed, who is free from sin, and who is become  (one with) the Brahman. Thus constantly devoting  his self to abstraction, a devotee, freed from sin,  easily obtains that supreme happiness — contact with  the Brahman He who has devoted his self to abstraction, by devotion, looking alike on everything,",
    "arnold_span": "D08",
@@ -597,8 +597,8 @@
   },
   {
    "id": "6:34",
-   "devanagari": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्‌दृढम् ।\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्",
-   "iast": "cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad‌dṛḍham |\ntasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram",
+   "devanagari": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम् ।\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्",
+   "iast": "cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavaddṛḍham |\ntasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram",
    "speaker": null,
    "telang_context": "I cannot see, O destroyer of Madhu ! (how)  the sustained existence (is to be secured) of this  devotion by means of equanimity which you have  declared — in consequence of fickleness. For, O  Krfshwa ! the mind is fickle, boisterous ®, strong, and  obstinate; and I think that to restrain it is as  difficult as (to restrain) the wind.",
    "arnold_span": "D09",
@@ -705,8 +705,8 @@
   },
   {
    "id": "6:40",
-   "devanagari": "श्रीभगवानुवाच\nपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते ।\nन हि कल्याणकृत्कश्चिद्‌दुर्गतिं तात गच्छति",
-   "iast": "śrībhagavānuvāca\npārtha naiveha nāmutra vināśastasya vidyate |\nna hi kalyāṇakṛtkaścid‌durgatiṃ tāta gacchati",
+   "devanagari": "श्रीभगवानुवाच\nपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते ।\nन हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति",
+   "iast": "śrībhagavānuvāca\npārtha naiveha nāmutra vināśastasya vidyate |\nna hi kalyāṇakṛtkaściddurgatiṃ tāta gacchati",
    "speaker": null,
    "telang_context": "The Deity said ;\n\nO son of P;'fth^i ! neither in this world nor the  next, is ruin for him ; for, O dear friend ! none who  performs good (deeds) comes to an evil end. He  who is fallen from devotion attains the worlds of  those who perform meritorious acts, dwells (there) for  many a year, and is afterwards born into a family  of holy and illustrious ® men. Or he is even born  into a family of talented devotees ; for such a birth as  that in this world is more difficult to obtain. There  he comes into contact with the knowledge which  belonged to him in his former body, and then again,  O descendant of Kuru ! he works for perfection *.  For even though reluctant ®, he is led awa^ by the",
    "arnold_span": "D12",
