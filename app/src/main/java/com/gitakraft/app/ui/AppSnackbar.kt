@@ -3,29 +3,31 @@ package com.gitakraft.app.ui
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.widthIn
+import androidx.compose.foundation.layout.wrapContentWidth
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.BookmarkAdd
 import androidx.compose.material.icons.filled.BookmarkRemove
 import androidx.compose.material.icons.filled.Check
-import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material.icons.filled.Warning
 import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Snackbar
 import androidx.compose.material3.SnackbarData
-import androidx.compose.material3.SwipeToDismissBox
+import androidx.compose.material3.SnackbarHostState
+import androidx.compose.material3.SnackbarResult
 import androidx.compose.material3.TextButton
 import androidx.compose.material3.Text
-import androidx.compose.material3.rememberSwipeToDismissBoxState
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.unit.dp
+import kotlinx.coroutines.delay
 
 /**
  * The app's one notice look, used by every host (reader, settings).
@@ -52,48 +54,26 @@ private fun noticeIcon(message: String): ImageVector? = when {
     else -> null
 }
 
+/** Shared pill: wrap-content, capped width, centered by the host.
+ * M3 Snackbar always stretches full-bleed, so the island is a plain
+ * Surface driven by the same [SnackbarData] (message + Undo action). */
 @Composable
-fun AppSnackbar(data: SnackbarData) {
-    Snackbar(
-        snackbarData = data,
+private fun NoticePill(
+    message: String,
+    icon: ImageVector?,
+    actionLabel: String?,
+    onAction: () -> Unit,
+) {
+    androidx.compose.material3.Surface(
         shape = RoundedCornerShape(16.dp),
-        containerColor = MaterialTheme.colorScheme.surfaceContainerHighest,
-        contentColor = MaterialTheme.colorScheme.onSurface,
-        actionColor = MaterialTheme.colorScheme.primary,
-        dismissActionContentColor = MaterialTheme.colorScheme.onSurfaceVariant,
-        modifier = Modifier.padding(horizontal = 24.dp),
-    )
-}
-
-/** Rich variant: status icon + explicit X. Falls back to [AppSnackbar]
- * when the message carries no known key. */
-@Composable
-fun AppSnackbarWithIcon(data: SnackbarData) {
-    val icon = noticeIcon(data.visuals.message)
-    Snackbar(
-        shape = RoundedCornerShape(16.dp),
-        containerColor = MaterialTheme.colorScheme.surfaceContainerHighest,
-        contentColor = MaterialTheme.colorScheme.onSurface,
-        actionContentColor = MaterialTheme.colorScheme.primary,
-        dismissActionContentColor = MaterialTheme.colorScheme.onSurfaceVariant,
-        modifier = Modifier.padding(horizontal = 24.dp),
-        action = {
-            data.visuals.actionLabel?.let { label ->
-                TextButton(onClick = { data.performAction() }) {
-                    Text(text = label)
-                }
-            }
-        },
-        dismissAction = {
-            IconButton(onClick = { data.dismiss() }) {
-                Icon(
-                    imageVector = Icons.Filled.Close,
-                    contentDescription = "Dismiss",
-                )
-            }
-        },
+        color = MaterialTheme.colorScheme.surfaceContainerHighest,
+        shadowElevation = 6.dp,
+        modifier = Modifier
+            .wrapContentWidth()
+            .widthIn(max = 340.dp),
     ) {
         Row(
+            modifier = Modifier.padding(horizontal = 16.dp, vertical = 12.dp),
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.spacedBy(10.dp),
         ) {
@@ -105,37 +85,72 @@ fun AppSnackbarWithIcon(data: SnackbarData) {
                 )
             }
             Text(
-                text = data.visuals.message,
+                text = message,
                 style = MaterialTheme.typography.bodyMedium,
+                color = MaterialTheme.colorScheme.onSurface,
+                modifier = Modifier.weight(1f, fill = false),
             )
+            if (actionLabel != null) {
+                TextButton(onClick = onAction) {
+                    Text(text = actionLabel)
+                }
+            }
         }
     }
 }
 
-/** Swipe-to-dismiss wrapper: fling the island away. The X covers
- * precise taps; the timeout covers inattention. */
 @Composable
-fun AppSnackbarDismissible(data: SnackbarData) {
-    val state = rememberSwipeToDismissBoxState(
-        confirmValueChange = {
-            data.dismiss()
-            true
-        },
-    )
-    SwipeToDismissBox(
-        state = state,
-        backgroundContent = {},
-        content = { AppSnackbarWithIcon(data) },
+fun AppSnackbar(data: SnackbarData) {
+    NoticePill(
+        message = data.visuals.message,
+        icon = noticeIcon(data.visuals.message),
+        actionLabel = data.visuals.actionLabel,
+        onAction = { data.performAction() },
     )
 }
 
-/** Lifted variant: floats above the glass tab bar. Use in every
- * screen with bottom navigation (reader, settings). */
+/** Rich variant: status icon, no buttons except the notice's own
+ * action (Undo). Falls back to [AppSnackbar] when the message
+ * carries no known key. Dismissal is timeout-only, by design. */
+@Composable
+fun AppSnackbarWithIcon(data: SnackbarData) {
+    AppSnackbar(data)
+}
+
+/**
+ * The house timeout: 3 seconds. Long enough to read a one-liner and
+ * reach Undo; short enough to never feel stuck. Every notice in the
+ * app goes through here — one duration, no exceptions.
+ */
+const val NOTICE_TIMEOUT_MS = 3_000L
+
+suspend fun SnackbarHostState.showTimed(
+    message: String,
+    actionLabel: String? = null,
+    millis: Long = NOTICE_TIMEOUT_MS,
+): SnackbarResult {
+    var result: SnackbarResult = SnackbarResult.Dismissed
+    try {
+        kotlinx.coroutines.withTimeout(millis) {
+            result = showSnackbar(message, actionLabel)
+        }
+    } catch (_: kotlinx.coroutines.TimeoutCancellationException) {
+        currentSnackbarData?.dismiss()
+    }
+    return result
+}
+
+/** Lifted variant: a centered floating pill above the glass tab bar.
+ * Wrap-content (never full-bleed); side margins only bite on very
+ * long messages. Use in every screen with bottom navigation. */
 @Composable
 fun AppSnackbarLifted(data: SnackbarData) {
     Box(
-        modifier = Modifier.padding(bottom = SnackbarLift.AboveTabBar),
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(bottom = SnackbarLift.AboveTabBar),
+        contentAlignment = Alignment.Center,
     ) {
-        AppSnackbarDismissible(data)
+        AppSnackbarWithIcon(data)
     }
 }

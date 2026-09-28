@@ -128,7 +128,7 @@ fun ReaderScreen(
                                 val was = bookmarked
                                 vm.toggleBookmark(id, !was)
                                 scope.launch {
-                                    val r = snackbar.showSnackbar(
+                                    val r = snackbar.showTimed(
                                         if (!was) {
                                             "Verse $id saved"
                                         } else {

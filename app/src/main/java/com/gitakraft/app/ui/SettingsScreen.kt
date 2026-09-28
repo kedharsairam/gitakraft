@@ -102,18 +102,18 @@ fun SettingsScreen(vm: SettingsViewModel) {
         try {
             context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(url)))
         } catch (e: Exception) {
-            scope.launch { snackbar.showSnackbar("No browser found") }
+            scope.launch { snackbar.showTimed("No browser found") }
         }
     }
     // One-shot notices: up-to-date / failed report once, then reset.
     LaunchedEffect(updateState) {
         when (updateState) {
             is SettingsViewModel.UpdateUiState.UpToDate -> {
-                snackbar.showSnackbar("You're up to date")
+                snackbar.showTimed("You're up to date")
                 vm.consumeUpdateNotice()
             }
             is SettingsViewModel.UpdateUiState.Failed -> {
-                snackbar.showSnackbar("Check failed. Try again.")
+                snackbar.showTimed("Check failed. Try again.")
                 vm.consumeUpdateNotice()
             }
             else -> {}
@@ -522,7 +522,7 @@ fun SettingsScreen(vm: SettingsViewModel) {
                         vm.clearAllData()
                         confirmWipe = false
                         scope.launch {
-                            snackbar.showSnackbar("All data deleted")
+                            snackbar.showTimed("All data deleted")
                         }
                     },
                 ) {
