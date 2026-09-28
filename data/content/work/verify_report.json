@@ -1,0 +1,136 @@
+{
+ "chapters": {
+  "1": {
+   "verses": 47,
+   "approved": 47,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "2": {
+   "verses": 72,
+   "approved": 72,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "3": {
+   "verses": 43,
+   "approved": 43,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "4": {
+   "verses": 42,
+   "approved": 42,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "5": {
+   "verses": 29,
+   "approved": 29,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "6": {
+   "verses": 47,
+   "approved": 47,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "7": {
+   "verses": 30,
+   "approved": 30,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "8": {
+   "verses": 28,
+   "approved": 28,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "9": {
+   "verses": 34,
+   "approved": 34,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "10": {
+   "verses": 42,
+   "approved": 42,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "11": {
+   "verses": 55,
+   "approved": 55,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "12": {
+   "verses": 20,
+   "approved": 20,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "13": {
+   "verses": 34,
+   "approved": 34,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "14": {
+   "verses": 27,
+   "approved": 27,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "15": {
+   "verses": 20,
+   "approved": 20,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "16": {
+   "verses": 24,
+   "approved": 24,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "17": {
+   "verses": 28,
+   "approved": 28,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  },
+  "18": {
+   "verses": 78,
+   "approved": 78,
+   "draft": true,
+   "align": true,
+   "sanskrit": true
+  }
+ },
+ "global": {
+  "feelings": true,
+  "bundle": true
+ },
+ "failures": [],
+ "failures_total": 0
+}

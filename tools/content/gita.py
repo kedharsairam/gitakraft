@@ -25,6 +25,7 @@ from chapters import CHAPTERS, EXPECTED_TOTAL, WIKISOURCE_API
 from chapters import EN_WIKISOURCE_API, TELANG_INDEX, TELANG_PAGE_FROM, TELANG_PAGE_TO
 from iast import transliterate, detransliterate
 from drafting import cmd_draft, cmd_check_draft
+from verify import cmd_verify
 
 ROOT = Path(__file__).resolve().parents[2]
 RAW = ROOT / "data" / "content" / "raw"
@@ -861,7 +862,7 @@ def main(argv: list[str] | None = None) -> int:
     sub = ap.add_subparsers(dest="cmd", required=True)
     for name in ("fetch", "normalize", "transliterate", "validate", "export",
                  "export_app", "fetch_en", "norm_en", "anchor_en", "triptych", "check_align",
-                 "draft", "check_draft"):
+                 "draft", "check_draft", "verify"):
         p = sub.add_parser(name)
         p.add_argument("--chapter", type=int, default=None)
         if name in ("export", "export_app"):
@@ -872,7 +873,8 @@ def main(argv: list[str] | None = None) -> int:
             "export": cmd_export, "export_app": cmd_export_app, "fetch_en": cmd_fetch_en,
             "norm_en": cmd_norm_en, "anchor_en": cmd_anchor_en,
             "triptych": cmd_triptych, "check_align": cmd_check_align,
-            "draft": cmd_draft, "check_draft": cmd_check_draft}[args.cmd](args)
+            "draft": cmd_draft, "check_draft": cmd_check_draft,
+            "verify": cmd_verify}[args.cmd](args)
 
 
 if __name__ == "__main__":
