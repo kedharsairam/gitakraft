@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
-    <background android:drawable="@android:color/black" />
-    <foreground>
-        <vector
-            android:width="108dp"
-            android:height="108dp"
-            android:viewportWidth="108"
-            android:viewportHeight="108">
-            <path
-                android:fillColor="#FF9F0A"
-                android:pathData="M54,28 L78,68 L30,68 Z" />
-        </vector>
-    </foreground>
-    <monochrome>
-        <vector
-            android:width="108dp"
-            android:height="108dp"
-            android:viewportWidth="108"
-            android:viewportHeight="108">
-            <path
-                android:fillColor="#FFFFFF"
-                android:pathData="M54,28 L78,68 L30,68 Z" />
-        </vector>
-    </monochrome>
+    <background android:drawable="@color/ic_launcher_background" />
+    <!-- Full-bleed teaching-scene artwork; the OS mask shapes it. -->
+    <foreground android:drawable="@mipmap/ic_launcher_foreground" />
+    <!-- Themed-icon variant: white gi glyph (Noto Serif Devanagari),
+         rendered at build time; the launcher tints it. -->
+    <monochrome android:drawable="@mipmap/ic_launcher_monochrome" />
 </adaptive-icon>
