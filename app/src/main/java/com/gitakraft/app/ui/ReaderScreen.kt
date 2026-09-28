@@ -210,7 +210,7 @@ fun ReaderScreen(
                 }
             }
         },
-        snackbarHost = { SnackbarHost(snackbar) },
+        snackbarHost = { SnackbarHost(snackbar) { AppSnackbarLifted(it) } },
     ) { padding ->
         if (v == null) {
             Column(

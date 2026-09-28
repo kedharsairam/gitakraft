@@ -124,17 +124,10 @@ fun SettingsScreen(vm: SettingsViewModel) {
             TopAppBar(title = { Text("Settings") })
         },
         snackbarHost = {
-            // Lifted above the floating pill (which would otherwise
-            // swallow it) and styled: amber action, soft container.
+            // House style (high-contrast pill), lifted above the
+            // floating tab bar which would otherwise swallow it.
             SnackbarHost(snackbar) { data ->
-                Snackbar(
-                    snackbarData = data,
-                    shape = RoundedCornerShape(16.dp),
-                    containerColor = MaterialTheme.colorScheme.surfaceVariant,
-                    contentColor = MaterialTheme.colorScheme.onSurfaceVariant,
-                    actionColor = MaterialTheme.colorScheme.primary,
-                    modifier = Modifier.padding(bottom = 150.dp),
-                )
+                AppSnackbarLifted(data)
             }
         },
     ) { padding ->
