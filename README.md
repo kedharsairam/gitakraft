@@ -28,4 +28,4 @@ Sources are public domain. Where editions disagree, the app follows the vulgate 
 
 ## Status
 
-v1.1.0 — verified content, first-run welcome, redesigned verse rows and notices.
+v1.2.0 — verified content, first-run welcome, redesigned verse rows and notices.
