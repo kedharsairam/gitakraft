@@ -135,10 +135,12 @@ class TestConcur(unittest.TestCase):
 
     def test_stem_regressions(self):
         from concur import stem
-        self.assertEqual(stem("duties"), "duty")
+        self.assertEqual(stem("duties"), "duti")  # Porter y->i
         self.assertEqual(stem("senses"), "sense")
         self.assertEqual(stem("nothing"), "nothing")
         self.assertEqual(stem("bows"), "bow")
+        self.assertEqual(stem("passes"), "pass")
+        self.assertEqual(stem("wishes"), "wish")
 
 
 class TestIast2(unittest.TestCase):

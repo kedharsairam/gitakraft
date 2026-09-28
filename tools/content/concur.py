@@ -37,8 +37,18 @@ STOPWORDS = set("""a an the and or but of to in on at for with by from as is are
     then than too very much many more most own same all both each every any
     some few one two first thus hence therefore wherefore nay yea
     neither nor either without whoever whoso whatever whichever only merely
-    solely whether alike thus plus non
+    solely whether alike thus plus non myself yourself himself herself
+    itself ourselves themselves oneself un re along
     """.split())
+
+# NEG-prefix dual emission: ONLY where the prefix is unambiguously
+# negation. "un-" (minus under/until/unless) and an allowlist of "dis-"
+# roots. Dropped "in-/im-/dis-" generally: imperishable->perishable or
+# invisible->visible would match OPPOSITES (silent passes — the one
+# unforgivable failure mode). "dislike"->like and "unseen"->seen stay.
+NEG_EXCEPT = {"until", "unless"}
+DIS_ROOTS = {"like", "agree", "approve", "comfort", "trust", "honest",
+             "loyal", "regard", "respect", "obey", "please", "appear"}
 
 # Proper-noun aliases -> canonical lemma. Both translations rename
 # freely (Arnold: Driver for Krishna, Scourge of Foes for Parantapa).
@@ -64,15 +74,24 @@ def stem(word: str) -> str:
         return word
     if len(word) <= 1:
         return ""
-    if word.endswith("ies") and len(word) - 3 >= 3:
-        return word[:-3] + "y"  # duties -> duty (not duti/dutie)
+    if word.endswith("ies") and len(word) - 3 >= 2:
+        return word[:-3] + "i"  # duties -> duti (Porter y->i: duty -> duti)
+    if word.endswith("lves") and len(word) - 4 >= 3:
+        return word[:-4] + "lf"  # selves -> self (serves keeps its e)
     if word.endswith("ied") and len(word) - 3 >= 3:
-        return word[:-3] + "y"
-    if word.endswith("ses") and len(word) - 3 >= 4:
-        return word[:-1]  # senses -> sense (not sens)
+        return word[:-3] + "i"
+    if word.endswith("sses"):
+        return word[:-2]  # passes -> pass (not passe)
+    if word.endswith(("shes", "ches", "xes", "zes")):
+        return word[:-2]  # wishes -> wish (not wishe)
+    if word.endswith("es") and len(word) - 1 >= 4:
+        return word[:-1]  # horses -> horse, senses -> sense
     if word.endswith("s") and len(word) - 1 >= 3 and not word.endswith("ss"):
-        return word[:-1]  # short plurals: bows -> bow (stopwords like
+        return word[:-1]  # bows -> bow (stopwords like
     # this/thus/as/is never reach the stemmer; was/has/his have bases < 3)
+    if len(word) > 3 and word.endswith("y") and word[-2] not in "aeiou":
+        return word[:-1] + "i"  # Porter consonant-y: duty/family/sky match
+    # their plurals (duties/families/skies all fold to duti/famili/ski)
     if len(word) <= 4:
         return word
     if word.endswith("eth") and len(word) - 3 >= 4:
@@ -105,21 +124,25 @@ for _canon, _forms in {
     "fight": {"fight", "fights", "fought", "fighting", "battle",
               "battles", "war"},
     "know": {"know", "knows", "knew", "known", "knowing",
-             "understand", "understands", "understood", "understanding"},
+             "understand", "understands", "understood", "understanding",
+             "knower", "knowers"},
     "do": {"do", "does", "did", "done", "doing", "wrought"},
-    "go": {"go", "goes", "went", "gone", "going"},
+    "go": {"go", "goes", "went", "gone", "going", "repair",
+           "repairs", "proceed", "proceeds", "tread", "walk",
+           "walks", "cease", "ceases", "stop", "halt"},
     "come": {"come", "comes", "came", "coming"},
-    "think": {"think", "thinks", "thought", "thinking"},
+    "think": {"think", "thinks", "thought", "thinking", "seem",
+              "seems", "seeming"},
     "feel": {"feel", "feels", "felt", "feeling"},
     "give": {"give", "gives", "gave", "given", "giving",
              "renounce", "renounces", "renounced", "renouncing",
              "renunciation", "bestow", "bestows", "bestowed"},
     "take": {"take", "takes", "took", "taken", "taking", "seek",
              "seeks", "sought", "seeking", "cast", "casts", "casting",
-             "arise", "arises", "arose", "arisen", "result", "results",
-             "resulted", "receive", "receives", "received", "accept",
-             "accepts", "accepted", "seize", "seizes", "seized"},
-    "make": {"make", "makes", "made", "making"},
+             "arise", "arises", "arose", "arisen", "receive", "receives",
+             "received", "accept", "accepts", "accepted", "seize",
+             "seizes", "seized"},
+    "make": {"make", "makes", "made", "making", "maker", "makers"},
     "do": {"do", "does", "did", "done", "doing", "wrought", "perform",
            "performs", "performed", "performing"},
     "die": {"die", "dies", "died", "dying", "dead", "death", "mortal",
@@ -130,19 +153,22 @@ for _canon, _forms in {
                "sorrow", "sorrows", "weep", "weeps", "wept"},
     "win": {"win", "wins", "won", "winning", "victory", "triumph",
             "conquer", "conquers", "conquered", "conquering", "conquest",
-            "prevail", "prevails", "prevailed"},
+            "prevail", "prevails", "prevailed", "obtain", "obtains",
+            "obtained", "obtaining"},
     "hear": {"hear", "hears", "heard", "hearing", "listen", "listens",
              "listened", "hark"},
     "want": {"want", "wants", "wanted", "wanting", "desire", "desires",
              "desired", "desiring", "wish", "wishes", "wished",
              "wishing", "crave", "craves", "craved", "craving", "covet",
-             "covets", "coveted", "long", "longs", "longed", "longing"},
+             "covets", "coveted", "long", "longs", "longed", "longing",
+             "ambitious", "aspirant"},
     "leave": {"leave", "leaves", "left", "leaving", "abandon", "abandons",
-              "abandoned", "abandoning", "forsake", "forsakes", "forsook",
-              "forsaken", "relinquish", "relinquished", "renounce",
-              "quit", "drop", "drops", "dropped", "dropping", "desert",
-              "deserted", "resign", "resigns", "resigned", "submit",
-              "submits", "submitted", "yield", "yields", "yielded"},
+              "abandoned", "abandoning", "abandonment", "forsake",
+              "forsakes", "forsook", "forsaken", "relinquish",
+              "relinquished", "renounce", "quit", "drop", "drops",
+              "dropped", "dropping", "desert", "deserted", "resign",
+              "resigns", "resigned", "refusal", "submit", "submits",
+              "submitted", "yield", "yields", "yielded"},
     "begin": {"begin", "begins", "began", "begun", "beginning",
               "commence", "commences", "commenced", "commencing",
               "start", "starts", "started", "starting"},
@@ -154,144 +180,470 @@ for _canon, _forms in {
 # so discipline/disciplined/devotion all meet. Applied as SOURCE-side
 # expansion only: our lemmas must be found in the source.
 CONCEPTS = {
-    "pity": {"pity", "compassion", "compassionate", "merciful", "mercy"},
-    "grief": {"grief", "sorrow", "woe", "sad", "mourn"},
-    "duty": {"duty", "duties"},
-    "battle": {"battle", "war", "fight", "combat", "warfare"},
-    "warrior": {"warrior", "brave", "hero", "soldier", "fighter"},
-    "fear": {"fear", "afraid", "dread", "terror", "fright"},
-    "anger": {"anger", "wrath", "rage", "angry", "fury"},
-    "desire": {"desire", "lust", "craving"},
-    "mind": {"mind", "heart", "thought", "intellect"},
-    "soul": {"soul", "self", "spirit"},
-    "wise": {"wise", "wisdom", "sage", "learned", "sensible"},
-    "foolish": {"foolish", "folly", "ignorant", "deluded", "delusion"},
-    "pleasure": {"pleasure", "joy", "delight", "happy", "bliss"},
-    "pain": {"pain", "suffering", "sorrow", "misery"},
-    "eyes": {"eye", "eyes", "vision", "sight"},
-    "tears": {"tear", "tears", "weep", "cry"},
-    "bow": {"bow", "shaft", "arrow", "archer", "archery", "bowman"},
-    "chariot": {"chariot", "car"},
-    "king": {"king", "prince", "monarch", "ruler", "sovereign"},
-    "heaven": {"heaven", "paradise", "celestial"},
-    "action": {"action", "act", "deed", "work"},
-    "knowledge": {"knowledge", "wisdom", "learning", "lore"},
-    "faith": {"faith", "believe", "trust", "devotion", "devoted"},
-    "god": {"god", "lord", "divine", "supreme"},
-    "world": {"world", "earth", "universe", "creation"},
-    "body": {"body", "bodies", "frame", "corporeal", "embodied"},
-    "senses": {"sense", "senses"},
-    "peace": {"peace", "tranquillity", "calm", "rest", "serene"},
-    "truth": {"truth", "true", "real", "reality", "actual"},
-    "discipline": {"discipline", "disciplined", "devotion", "devoted",
-                   "application", "perseverance", "practice", "practise",
-                   "austerity", "austere", "penance"},
-    "wrong": {"wrong", "evil", "sinful", "wicked", "unrighteous",
-              "astray", "corrupt", "corrupted", "depraved", "improper",
-              "unbecoming"},
-    "ultimate": {"ultimate", "supreme", "highest", "absolute",
-                 "transcendent", "paramount"},
-    "being": {"being", "beings", "creature", "creatures", "living",
-              "existence", "mortal", "mortals"},
-    "person": {"person", "man", "men"},
-    "steady": {"steady", "steadfast", "firm", "fixed", "resolute",
-               "stable", "constant", "unshaken", "unshakable"},
-    "beyond": {"beyond", "above", "transcend", "transcending", "across"},
-    "free": {"free", "liberated", "delivered", "release", "released",
-             "emancipate", "unfettered"},
-    "stand": {"stand", "arise", "rise", "arisen", "abide", "abides",
-              "abiding", "dwell", "dwells", "reside"},
-    "back": {"back", "return", "revert", "restore", "restored"},
-    "hold": {"hold", "restrain", "restrained", "curb", "check", "uphold"},
-    "doer": {"doer", "agent"},
-    "rule": {"rule", "govern", "reign", "sovereignty", "kingdom"},
-    "hard": {"hard", "difficult", "arduous"},
-    "chain": {"chain", "bond", "bonds", "fetter", "fetters", "tie"},
-    "turn": {"turn", "resort", "betake"},
-    "goal": {"goal", "aim", "object", "purpose"},
-    "form": {"form", "shape", "figure", "embodiment"},
-    "confuse": {"confusion", "confused", "confound", "confounded",
-                "delusion", "deluded", "bewilder", "bewildered",
-                "perplex", "perplexed"},
-    "mood": {"mood", "moods", "quality", "qualities", "state", "humour"},
-    "rite": {"rite", "rites", "ritual", "sacrifice", "sacrifices",
-             "worship", "ceremony", "observance"},
-    "measure": {"measure", "measureless", "numberless", "countless",
-                "unlimited", "infinite", "small", "little", "limited"},
-    "clear": {"clear", "pure", "clean", "lucid", "stainless", "spotless"},
-    "reach": {"reach", "reaches", "attain", "attains", "attained",
-              "obtain", "arrive", "gain"},
-    "resolve": {"resolve", "determination", "determined", "resolution",
-                "decide", "decided", "decisive"},
-    "teacher": {"teacher", "preceptor", "master", "tutor", "instructor",
-                "guru"},
-    "army": {"army", "host", "hosts", "rank", "ranks", "force", "troops",
-             "array"},
-    "imperishable": {"imperishable", "indestructible", "undying",
-                     "deathless", "immutable", "immortal", "immortality"},
-    "indivisible": {"undivided", "indivisible", "unseparated", "impartite"},
-    "deathless": {"deathless", "deathlessness", "immortal", "immortality"},
-    "path": {"path", "way", "course", "road"},
-    "nature": {"nature", "essence", "character", "disposition"},
-    "wrong": {"wrong", "evil", "sinful", "wicked", "unrighteous"},
-    "born": {"born", "birth", "begotten"},
-    "surrender": {"surrender", "yield", "resign", "submit", "devote"},
-    "ego": {"ego", "egoism", "selfhood"},
-    "observe": {"observe", "behold", "watch", "witness"},
-    "knower": {"knower", "knowers", "knowledgeable"},
-    "useful": {"useful", "use", "uses", "utility", "avail"},
-    "tank": {"tank", "reservoir", "cistern", "pond"},
-    "attach": {"attach", "attached", "attachment", "cling", "adhere"},
-    "practitioner": {"practitioner", "devotee", "yogin", "ascetic",
-                     "votary"},
-    "wind": {"wind", "air", "breeze", "gale"},
-    "serve": {"serve", "worship", "worshipper", "adore", "minister"},
-    "glory": {"glory", "greatness", "majesty", "splendour", "splendor",
-              "grandeur"},
-    "sattva": {"clarity", "clear", "goodness", "luminous", "illumination"},
-    "neglect": {"neglect", "heedless", "heedlessness", "indolence",
-                "indolent", "negligent", "careless"},
-    "priest": {"priest", "priests", "twice-born", "brahmana", "brahmanas",
-               "brahmin"},
-    "mix": {"mix", "mixing", "mixture", "intermixture", "intermingle"},
     "abide": {"abide", "abides", "abiding", "dwell", "dwells", "reside"},
-    "weapon": {"weapon", "weapons", "missile", "missiles", "arms",
-               "armament"},
-    "carry": {"bear", "bears", "bearing", "carry", "carries", "carried"},
-    "understand": {"know", "knowledge", "understand", "understanding",
-                   "devotion", "devoted", "wisdom", "intellect", "mind",
-                   "discernment"},
-    "duty": {"duty", "duties", "rite", "rites", "ritual", "caste"},
-    "push": {"push", "prompt", "urge", "impel"},
-    "teach": {"teach", "teaches", "instruct", "impart", "preach",
-              "enlighten"},
-    "shake": {"shake", "agitate", "agitated", "disturb", "perturb",
-              "tremble"},
-    "drive": {"drive", "station", "stationed", "place", "post", "lead",
-              "guide"},
-    "suit": {"suit", "suitable", "fit", "proper", "worthy", "becoming"},
-    "detach": {"detach", "detached", "unattached", "disinterested"},
-    "restless": {"restless", "fickle", "wavering", "unsteady"},
-    "love": {"love", "affection", "fondness", "beloved", "dear"},
-    "selfish": {"selfish", "self-seeking", "egoistic"},
-    "freedom": {"freedom", "emancipation", "deliverance", "liberation"},
-    "inertia": {"inertia", "inert", "sloth", "torpor"},
+    "ablaze": {"ablaze", "aflame", "blaze", "blazing", "fiery", "flaming"},
+    "action": {"act", "action", "deed", "work"},
+    "activity": {"action", "actions", "activity"},
+    "adept": {"accomplished", "adept", "perfected", "siddha"},
+    "after": {"after", "following", "later", "subsequent"},
+    "agape": {"agape", "gaping", "yawning"},
+    "age": {"age", "cycle", "eon", "era", "kalpa"},
+    "alone": {"alone", "elsewhere", "exclusive", "otherwhere", "solely"},
+    "anger": {"anger", "angry", "fury", "rage", "wrath"},
+    "anxiety": {"anxieties", "anxiety", "care", "solicitude", "worry"},
+    "apprehend": {"apprehend", "apprehended"},
+    "armed": {"armed", "endowed", "equipped", "possessed"},
+    "army": {"army", "array", "force", "host", "hosts", "rank", "ranks",
+             "troops"},
+    "arrive": {"arrive", "arrived", "ascended", "attained", "reached",
+             "risen"},
+    "assign": {"allot", "allotted", "appointed", "apportion", "assign", "assigned", "distinguish", "distinguished", "fixed", "ordain"},
+    "attach": {"adhere", "attach", "attached", "attachment", "cling"},
+    "away": {"aside", "away", "off"},
+    "back": {"back", "restore", "restored", "return", "revert"},
+    "bad": {"bad", "disagreeable", "unpleasant"},
+    "badly": {"bad", "badly", "ill", "imperfect"},
+    "balance": {"balance", "equality", "equanimity", "evenness"},
+    "battle": {"battle", "combat", "fight", "war", "warfare"},
+    "beat": {"beat", "beats", "best", "better", "excel", "superior",
+             "surpass"},
+    "before": {"ahead", "before", "front", "presence"},
+    "begin": {"ancient", "begin", "beginning", "first"},
+    "beginner": {"aspirant", "beginner", "candidate", "novice", "seeker"},
+    "being": {"being", "beings", "creature", "creatures", "existence",
+             "living", "mortal", "mortals"},
+    "beyond": {"above", "across", "beyond", "transcend", "transcending"},
+    "bid": {"bid", "bidding", "command", "order"},
+    "bind": {"bind", "binds", "bound", "fasten", "tie"},
+    "body": {"bodies", "body", "corporeal", "embodied", "frame"},
+    "born": {"begotten", "birth", "born"},
+    "borrow": {"alien", "another", "borrow", "borrowed", "foreign",
+             "strange"},
+    "bound": {"bound", "tethered", "tied"},
+    "bow": {"archer", "archery", "arrow", "bow", "bowman", "shaft"},
+    "brave": {"bold", "brave", "courage", "courageous", "fearless",
+             "valiant"},
+    "call": {"call", "calls", "designate", "name", "term"},
+    "carry": {"bear", "bearing", "bears", "carried", "carries", "carry"},
+    "caste": {"caste", "castes", "class", "order", "social"},
+    "cause": {"cause", "decide", "determine", "effect"},
+    "celibate": {"brahmacharya", "celibacy", "celibate", "chaste",
+             "continent"},
+    "chain": {"bond", "bonds", "chain", "fetter", "fetters", "tie"},
+    "chariot": {"car", "chariot"},
+    "cheer": {"cheer", "elation", "exult", "exultation", "glad",
+             "jubilant", "rejoice", "thrill", "thrilled"},
+    "child": {"child", "children", "offspring", "progeny", "son", "sons"},
+    "clan": {"clan", "clansman", "house", "kinsman", "race", "tribe"},
     "clarity": {"clarity", "clear", "elucidate", "lucidity", "perspicuous"},
-    "truth": {"truth", "true", "real", "reality", "actual", "brahma",
-              "brahman"},
-    "person": {"person", "man", "men", "people", "peoples"},
-    "naught": {"nothing", "naught", "nought"},
-    "whole": {"everything", "whole", "entire", "total"},
-    "like": {"like", "equal", "equals", "alike", "similar", "same",
-             "resemble"},
-    "great": {"great", "vast", "mighty", "eminent", "grand"},
-    "hero": {"hero", "heroes", "chief", "chiefs", "champion", "captain",
+    "clean": {"clean", "cleanliness", "cleansing", "pure", "purity"},
+    "clear": {"clean", "clear", "good", "lucid", "pure", "purity",
+             "spotless", "stainless"},
+    "closed": {"closed", "deaf", "disobedient", "unheeding"},
+    "compare": {"comparable", "compare", "matchless", "peerless",
+             "surpass", "unsurpassed"},
+    "complete": {"complete", "completely", "entirely", "fully", "totally",
+             "wholly"},
+    "concern": {"care", "concerned", "involve", "involved"},
+    "confuse": {"bewilder", "bewildered", "blind", "blinded", "confound",
+             "confounded", "confused", "confusion", "deluded", "delusion",
+             "perplex", "perplexed"},
+    "constrain": {"coerce", "compel", "constrain", "constrained", "force",
+             "oblige"},
+    "continence": {"celibacy", "chastity", "restraint"},
+    "council": {"assembly", "company", "council", "gathering"},
+    "create": {"create", "creates", "emit", "fashion", "make", "produce",
+             "project"},
+    "cruel": {"base", "churlish", "cruel", "pitiless", "ruthless"},
+    "curious": {"curious", "inquisitive", "seeker", "yearning"},
+    "cut": {"cut", "destroy", "destroyed", "destruction", "dispel",
+             "disperse", "remove", "sever", "sunder"},
+    "deathless": {"deathless", "deathlessness", "immortal", "immortality"},
+    "desire": {"craving", "desire", "lust"},
+    "destroyed": {"destroyed", "destruction"},
+    "detach": {"detach", "detached", "disinterested", "unattached"},
+    "devour": {"consume", "devour", "devourer", "swallow"},
+    "discipline": {"application", "austere", "austerity", "devoted",
+             "devotion", "discipline", "disciplined", "penance",
+             "perseverance", "practice", "practise"},
+    "discontent": {"discontent", "discontented", "dissatisfied",
+             "unfulfilled"},
+    "disgust": {"aversion", "disgust", "disgusted", "loathing",
+             "revulsion"},
+    "display": {"display", "hypocrisy", "ostentation", "pretence", "show"},
+    "distinguish": {"distinguished", "marked"},
+    "dive": {"dive", "dives", "plunge", "rush"},
+    "divide": {"different", "distinct", "divide", "divided", "separate"},
+    "divine": {"divine", "godlike", "godly"},
+    "doctrine": {"doctrine", "lore", "teaching"},
+    "doer": {"agent", "doer"},
+    "down": {"below", "beneath", "down", "downward", "downwards", "low"},
+    "drawn": {"arrayed", "drawn", "embattled", "marshalled", "ranked"},
+    "dream": {"brood", "dream", "dreaming", "dreams", "fancy", "muse",
+             "think"},
+    "drive": {"dispel", "drive", "expel", "guide", "impulse", "lead",
+             "place", "post", "propensity", "station", "stationed"},
+    "drunk": {"besotted", "drunk", "full", "intoxicated"},
+    "duty": {"caste", "duties", "duty", "rite", "rites", "ritual"},
+    "dwell": {"contemplate", "dwell", "dwells", "meditate", "ponder"},
+    "easy": {"ease", "easy", "simple"},
+    "efficient": {"able", "competent", "dexterous", "efficient", "skilful"},
+    "ego": {"ego", "egoism", "selfhood", "selfish"},
+    "emit": {"discharge", "emanate", "emit", "issue", "pour", "send"},
+    "enchain": {"bind", "chain", "fetter"},
+    "end": {"cease", "ceased", "end", "ended", "ending", "final", "last"},
+    "endless": {"endless", "interminable", "unending"},
+    "energetic": {"energetic", "energy", "enthusiastic", "vigorous",
+             "zealous"},
+    "every": {"everybody", "everyone"},
+    "excellent": {"excellent", "fine", "splendid", "superb"},
+    "eyes": {"eye", "eyes", "sight", "vision"},
+    "face": {"face", "faces", "facing", "headed", "mouth"},
+    "fail": {"fail", "failing", "fails", "lack", "lacks"},
+    "faint": {"faint", "faintness", "feeble", "weak", "weakness"},
+    "faith": {"believe", "devoted", "devotion", "devout", "faith",
+             "faithful", "trust"},
+    "faithful": {"devout", "faith", "faithful"},
+    "faithless": {"devoted", "devotion", "faithless", "infidel", "skeptical", "unbelieving"},
+    "false": {"false", "falsehood", "untrue"},
+    "fame": {"disgrace", "dishonour", "fame", "infamy", "renown"},
+    "fear": {"afraid", "dread", "fear", "fright", "terror"},
+    "fed": {"enlarged", "fed", "nourish", "nourished", "sustained"},
+    "fill": {"fill", "fills", "imbue", "permeate", "pervade", "pervades"},
+    "filthy": {"dirty", "filthy", "foul", "impure", "unclean"},
+    "final": {"conclusive", "decided", "decisive", "final"},
+    "flame": {"blaze", "fire", "flame"},
+    "flow": {"emanate", "flow", "flowing", "stream"},
+    "foe": {"adversary", "enemy", "foe", "opponent"},
+    "fold": {"absorb", "dissolve", "enter", "fold", "merge", "withdraw"},
+    "foolish": {"deluded", "delusion", "folly", "foolish", "ignorance", "ignorant", "know", "knowing", "unwise"},
+    "force": {"energy", "force", "might", "power", "strength"},
+    "form": {"embodiment", "figure", "form", "shape"},
+    "fragment": {"fragment", "morsel", "part", "particle", "piece",
+             "portion", "section"},
+    "free": {"delivered", "emancipate", "free", "liberated", "release",
+             "released", "unfettered"},
+    "freedom": {"deliverance", "emancipation", "freedom", "liberation"},
+    "gain": {"acquisition", "attainment", "gain", "profit"},
+    "generous": {"bounty", "charitable", "charity", "generosity",
+             "generous", "giving", "liberal"},
+    "gift": {"benefit", "blessing", "boon", "favour", "gift"},
+    "glory": {"glory", "grandeur", "greatness", "majesty", "splendor",
+             "splendour"},
+    "go": {"cease", "ceases", "halt", "stop"},
+    "goal": {"aim", "goal", "object", "purpose"},
+    "god": {"divine", "god", "lord", "supreme"},
+    "gone": {"gone"},
+    "good": {"good", "moral", "righteous", "virtuous"},
+    "grace": {"favor", "favour", "grace", "kindness", "mercy"},
+    "grant": {"bestow", "confer", "grant"},
+    "great": {"eminent", "grand", "great", "greater", "heaviest", "heavy",
+             "higher", "mighty", "vast"},
+    "greed": {"avarice", "avaricious", "cupidity", "greed"},
+    "grief": {"grief", "mourn", "sad", "sorrow", "woe"},
+    "grow": {"grow", "grows", "increase", "multiply", "prosper", "thrive"},
+    "hand": {"hand", "hands"},
+    "happy": {"cheerful", "glad", "happiness", "happy", "joyful",
+             "unhappiness", "unhappy"},
+    "hard": {"arduous", "difficult", "hard", "harder", "hardest"},
+    "harm": {"harm", "hurt", "injure", "injures", "injured", "injury",
+             "violence"},
+    "harsh": {"harsh", "severe", "stern"},
+    "harvest": {"crop", "fruit", "harvest", "produce", "yield"},
+    "hasten": {"hasten", "quick", "rapid", "rapidly", "swift"},
+    "hate": {"animosity", "averse", "aversion", "dislike", "dislikes",
+             "enmity", "hate", "hatred", "hostile"},
+    "heaven": {"celestial", "heaven", "paradise"},
+    "helpless": {"helpless", "involuntary", "powerless", "unwilling"},
+    "herd": {"cattle", "graze", "herd", "herding", "pastoral", "tend",
+             "tending"},
+    "hereafter": {"afterlife", "hereafter"},
+    "hero": {"captain", "champion", "chief", "chiefs", "hero", "heroes",
              "leader", "leaders"},
-    "warrior": {"warrior", "warriors", "fighter", "soldier", "champion"},
-    "drawn": {"drawn", "arrayed", "ranked", "marshalled", "embattled"},
+    "hidden": {"esoteric", "hidden", "mysterious", "mystery", "occult",
+             "secret"},
+    "hold": {"check", "contain", "curb", "hold", "rest", "restrain", "restrained", "uphold"},
+    "honest": {"honest", "honesty", "truthful", "upright", "uprightness"},
+    "honor": {"disgrace", "dishonour", "honor", "honour", "respect"},
+    "horse": {"equine", "horse", "horsemen", "stallion", "steed"},
+    "house": {"abode", "dwelling", "frame", "house"},
+    "human": {"human", "humans", "mankind", "mortal", "mortals"},
+    "hypocrite": {"charlatan", "cheat", "fraud", "hypocrite", "pretender"},
+    "imperishable": {"deathless", "eternal", "everlasting", "forever",
+             "immortal", "immortality", "immutable", "imperishable",
+             "indestructible", "undying"},
+    "inborn": {"birth", "born", "constitutional", "inborn", "inherent", "innate"},
+    "indivisible": {"impartite", "indivisible", "undivided", "unseparated"},
+    "inertia": {"inert", "inertia", "sloth", "torpor"},
+    "infamy": {"disgrace", "disrepute", "ignominy", "infamy", "shame"},
+    "inside": {"inside", "inward", "within"},
+    "instant": {"instant", "moment", "trice"},
+    "intent": {"intent", "intention", "motive", "purpose"},
+    "jest": {"jest", "jesting", "joke", "joking", "merriment", "mirth", "play", "playing", "sport"},
+    "join": {"apply", "endowed", "join", "resort", "unite"},
+    "keep": {"continue", "continues", "keep", "keeps", "persist"},
+    "kind": {"class", "kind", "kinds", "sort", "sorts", "type"},
+    "king": {"chief", "chiefs", "king", "lord", "lords", "monarch",
+             "prince", "regal", "royal", "ruler", "sovereign"},
+    "kingly": {"chief", "king", "regal", "royal", "sovereign"},
+    "knower": {"knower", "knowers", "knowledgeable"},
+    "knowledge": {"knowledge", "learning", "lore", "wisdom"},
+    "lawless": {"impiety", "impious", "lawless", "lawlessness"},
+    "leave": {"abandonment", "refusal"},
+    "lie": {"lying", "recline", "rest"},
+    "lifetime": {"accustomed", "habitual", "lifelong", "lifetime"},
+    "lift": {"elevate", "lift", "raise", "uplift"},
+    "light": {"careless", "casual", "casually", "contempt", "contemptuous", "gentle", "gently", "incautious", "incautiously", "light", "lightly", "mild"},
+    "like": {"alike", "equal", "equals", "like", "resemble", "same", "similar", "such"},
+    "lock": {"close", "curb", "lock", "locks", "restrain", "shut"},
+    "loss": {"defeat", "failure", "lose", "loss"},
+    "love": {"affection", "beloved", "dear", "dearly", "fondness", "love", "loved", "loving"},
+    "maker": {"creator", "maker", "making", "ordainer",
+             "unmaking"},
+    "mark": {"characteristic", "mark", "marks", "sign", "symptom", "token"},
+    "meal": {"dine", "dinner", "eat", "eating", "feast", "food", "meal", "meals", "repast", "supper"},
+    "measure": {"countless", "infinite", "limited", "little", "measure",
+             "measureless", "numberless", "small", "unlimited"},
+    "meet": {"combine", "join", "meet", "meeting", "union"},
+    "memory": {"memory", "mindfulness", "recall", "recollect", "recover",
+             "regain", "remember"},
+    "merchant": {"merchant", "trader"},
+    "midway": {"intermediate", "middle", "midst", "midway"},
+    "mind": {"heart", "intellect", "mind", "thought"},
+    "mix": {"intermingle", "intermixture", "mix", "mixing", "mixture"},
+    "mood": {"humour", "mood", "moods", "qualities", "quality", "state"},
+    "move": {"motion", "movable", "move", "moves", "moving", "stir",
+             "roam", "roams", "wander", "wanders"},
+    "multitude": {"assemblage", "gathering", "host", "multitude", "throng"},
+    "nature": {"character", "disposition", "essence", "nature"},
+    "naught": {"another", "naught", "never", "nobody", "none", "nothing", "nought", "other"},
+    "near": {"afar", "close", "far", "near", "nearer", "nearly", "nigh"},
+    "neglect": {"careless", "heedless", "heedlessness", "indolence",
+             "indolent", "neglect", "negligent"},
+    "neutral": {"impartial", "indifferent", "neutral"},
+    "next": {"coming", "following", "next", "subsequent"},
+    "nitpick": {"carp", "carping", "cavil", "nitpick", "nitpicking",
+             "quibble"},
+    "noble": {"gentle", "honourable", "noble", "virtuous", "worthy"},
+    "nowhere": {"another", "else", "nowhere", "other", "single",
+             "undivided", "alone"},
+    "observe": {"behold", "observe", "watch", "witness"},
+    "oppose": {"against", "contrary", "oppose", "opposed", "violate"},
+    "outcome": {"consequence", "fruit", "issue", "outcome", "result",
+             "results"},
+    "over": {"above", "across", "over", "upon"},
+    "pain": {"misery", "pain", "sorrow", "suffering"},
+    "pair": {"compound", "couple", "dual", "pair", "pairing"},
+    "path": {"course", "path", "road", "way"},
+    "peace": {"calm", "peace", "rest", "serene", "tranquillity"},
+    "peak": {"hill", "mountain", "peak", "summit"},
+    "perilous": {"danger", "dangerous", "dreadful", "fearful", "peril",
+             "perilous"},
+    "person": {"man", "men", "people", "peoples", "person"},
+    "petty": {"base", "low", "mean", "petty", "trivial"},
+    "pity": {"compassion", "compassionate", "merciful", "mercy", "pity"},
+    "place": {"fix", "place", "placed", "set", "station"},
+    "pleasant": {"agreeable", "delightful", "pleasant", "pleasing"},
+    "pleasure": {"bliss", "delight", "happy", "joy", "pleasure", "sugary",
+             "sweet"},
+    "pledge": {"pledge", "resolve", "undertake", "vow"},
+    "plow": {"agriculture", "cultivate", "farm", "plough", "plow", "till"},
+    "practitioner": {"ascetic", "devotee", "practitioner", "votary",
+             "yogin"},
+    "praise": {"extol", "glorify", "glorifying", "hymn", "laud", "praise"},
+    "pray": {"pray", "prays", "propitiate", "supplicate"},
+    "priest": {"brahman", "brahmana", "brahmanas", "brahmin", "priest", "priests", "twice"},
+    "purify": {"cleanse", "hallow", "purifies", "purify", "sanctification",
+             "sanctify"},
+    "push": {"impel", "prompt", "push", "urge"},
+    "raft": {"bark", "boat", "raft", "vessel"},
+    "reach": {"arrive", "attain", "attained", "attains", "gain", "obtain",
+             "reach", "reaches"},
+    "ready": {"prepared", "ready", "willing"},
+    "rebirth": {"again", "rebirth", "reborn", "repeated"},
+    "rectitude": {"honesty", "uprightness", "veracity"},
+    "refuse": {"decline", "refuse", "reject", "unwilling"},
+    "remain": {"remain", "remains", "rest", "stay", "stayed"},
+    "remnant": {"leavings", "leftover", "remains", "remnant", "rest"},
+    "require": {"enjoined", "mandatory", "ordained", "prescribed",
+             "require", "required"},
+    "resolve": {"decide", "decided", "decisive", "determination",
+             "determined", "resolution", "resolve"},
+    "restless": {"fickle", "restless", "unsteady", "wavering"},
+    "right": {"correct", "due", "fitting", "just", "proper", "right"},
+    "rise": {"ascend", "attain", "attained", "mount", "rise", "rising"},
+    "rite": {"ceremony", "oblation", "observance", "offer", "offering",
+             "rite", "rites", "ritual", "sacrifice", "sacrifices", "vow",
+             "vows", "worship"},
+    "rival": {"matchless", "peerless", "rival", "rivalled", "unrivalled"},
+    "root": {"adhere", "adhering", "anchored", "grounded", "repose",
+             "rest", "root", "rooted", "lie", "lying", "recline"},
+    "round": {"cycle", "realm", "round", "world", "worlds"},
+    "ruin": {"destruction", "doom", "ruin"},
+    "rule": {"control", "controlled", "govern", "kingdom", "reign",
+             "restrain", "restrained", "rule", "ruled", "ruling",
+             "sovereignty"},
+    "run": {"escape", "fled", "flee", "run", "runs", "rush"},
+    "sattva": {"calm", "clarity", "clear", "goodness", "illumination",
+             "luminous", "peaceful", "serene"},
+    "scheme": {"design", "enterprise", "plan", "project", "scheme",
+             "undertaking"},
+    "scoff": {"deride", "jeer", "mock", "mocker", "scoff", "scoffer",
+             "scorn"},
+    "secure": {"carry", "preserve", "protect", "provide", "secure"},
+    "seeker": {"aspirant", "seeker", "seeking", "student"},
+    "selfish": {"egoistic", "self-seeking", "selfish"},
+    "senses": {"sense", "senses"},
+    "serve": {"adore", "minister", "serve", "worship", "worshipper",
+             "worshippers"},
+    "settle": {"settle", "settled"},
+    "shackle": {"bond", "chain", "fetter", "shackle", "shackles"},
+    "shake": {"agitate", "agitated", "disturb", "perturb", "shake",
+             "shaken", "shook", "tremble", "trembled", "trembles"},
+    "shape": {"formed", "moulded", "shape", "shaped"},
+    "shoot": {"bud", "shoot", "shoots", "sprout", "sprouts"},
+    "single": {"single", "sole"},
+    "sinner": {"criminal", "guilty", "offender", "sinful", "sinner"},
+    "sit": {"seat", "seated", "sit", "sits", "sitting"},
+    "slack": {"lax", "negligent", "remiss", "slack"},
+    "sleep": {"asleep", "drowsy", "insomniac", "oversleeper", "sleep",
+             "sleeping", "sleeps", "slept", "slumber", "vigil", "vigils",
+             "wake", "waking"},
+    "soul": {"self", "soul", "spirit"},
+    "spiteful": {"malevolent", "malicious", "spite", "spiteful"},
+    "spouse": {"consort", "husband", "spouse", "wife"},
+    "spread": {"expand", "extend", "extended", "spread", "stretch"},
+    "stand": {"abide", "abides", "abiding", "arise", "arisen", "dwell",
+             "dwells", "reside", "rise", "stand"},
+    "steady": {"constant", "firm", "fixed", "resolute", "stable",
+             "steadfast", "steady", "unshakable", "unshaken"},
+    "steal": {"cheat", "cheated", "deceive", "rob", "steal", "stolen"},
+    "stillness": {"quiet", "still", "stillness", "tranquillity"},
+    "straight": {"erect", "even", "straight", "upright"},
+    "strive": {"attempt", "endeavor", "exert", "labour", "strive"},
+    "stubborn": {"headstrong", "obstinate", "stubborn", "willful"},
+    "subtle": {"subtle", "subtlety"},
+    "success": {"success", "successful", "triumph"},
+    "suffer": {"afflicted", "distressed", "miserable", "suffer", "suffers",
+             "weep"},
+    "suit": {"becoming", "fit", "proper", "suit", "suitable", "worthy"},
+    "surrender": {"abandon", "abandonment", "devote", "hand", "hands",
+             "resign", "submit", "surrender", "yield"},
+    "sustain": {"maintain", "support", "sustain"},
+    "tank": {"cistern", "pond", "reservoir", "tank"},
+    "taste": {"enjoy", "experience", "taste"},
+    "teach": {"enlighten", "impart", "instruct", "preach", "proclaim",
+             "proclaimed", "teach", "teaches"},
+    "teacher": {"guru", "instructor", "master", "preceptor", "teacher",
+             "tutor"},
+    "tears": {"cry", "tear", "tears", "weep"},
+    "terror": {"awe", "scorch", "scorcher", "terrible", "terror"},
+    "timeless": {"ageless", "ancient", "eternal", "everlasting",
+             "immemorial", "timeless"},
+    "trade": {"commerce", "trade", "trading"},
+    "transcend": {"surmount", "surpass", "transcend", "transcended"},
+    "triple": {"three", "threefold", "triple"},
+    "truly": {"indeed", "really", "truly"},
+    "truth": {"actual", "brahma", "brahman", "knowledge", "real",
+             "reality", "true", "truth", "wisdom"},
+    "turn": {"become", "betake", "grow", "grown", "resort", "turn"},
+    "ultimate": {"absolute", "highest", "paramount", "supreme",
+             "transcendent", "ultimate"},
+    "unbeaten": {"invincible", "unbeaten", "unconquered"},
+    "unbroken": {"constant", "continuous", "unbroken", "uninterrupted"},
+    "understand": {"devoted", "devotion", "discernment", "grasp", "grasps",
+             "intellect", "know", "knowledge", "mind", "understand",
+             "understanding", "wisdom"},
+    "unity": {"identity", "oneness", "union", "unity"},
+    "unseen": {"hidden", "imperceptible", "invisible", "unmanifest",
+             "unseen"},
+    "friend": {"companion", "comrade", "friend", "mate"},
+    "get": {"acquire", "gain", "get", "gets", "obtain", "procure"},
+    "seek": {"quest", "search", "seek", "seeking", "seeks"},
+    "way": {"direction", "everywhere", "pervade", "pervading", "way", "where"},
+    "space": {"ether", "firmament", "sky", "space", "void"},
+    "thing": {"entity", "matter", "object", "thing", "things"},
+    "forgive": {"absolve", "excuse", "forgive", "forgives", "pardon", "pardons"},
+    "up": {"above", "below", "beneath", "down", "downward", "downwards", "high", "low", "up", "upward", "upwards"},
+    "uphold": {"bear", "maintain", "support", "sustain", "uphold"},
+    "useful": {"avail", "use", "useful", "uses", "utility"},
+    "vary": {"diverse", "manifold", "varied", "various", "vary"},
+    "vehicle": {"instrument", "means", "vehicle"},
+    "vulgar": {"coarse", "uncultured", "unrefined", "vulgar"},
+    "warrior": {"champion", "fighter", "soldier", "warrior", "warriors"},
+    "weapon": {"armament", "arms", "missile", "missiles", "weapon",
+             "weapons"},
+    "wed": {"join", "joined", "marry", "unite", "wed", "wedded"},
+    "welcome": {"desired", "disliked", "liked", "undesired", "unwelcome",
+             "welcome"},
+    "whole": {"entire", "everything", "total", "whole"},
+    "wind": {"air", "breeze", "gale", "wind"},
+    "wipe": {"efface", "erase", "expunge", "obliterate", "subvert", "wipe",
+             "wipes"},
+    "wise": {"learned", "sage", "sensible", "wisdom", "wise"},
+    "word": {"bid", "bidding", "decision", "decree", "judgment", "opinion",
+             "speech", "utterance", "verdict", "word", "words"},
+    "world": {"creation", "earth", "universe", "world"},
+    "wrong": {"evil", "misdeed", "misdeeds", "sin", "sins", "sinful",
+              "wicked", "unrighteous", "astray", "corrupt",
+              "corrupted", "depraved", "improper", "unbecoming",
+              "wrong"},
+    "yoke": {"harnessed", "steadfast", "united", "yoke", "yoked"}
 }
 
-# Archaic/poetic diction -> plain equivalent (SOURCE-side expansion).
+
+TERMS = {
+    "adhibhuta": {"lord", "being", "beings"},
+    "adhidaiva": {"lord", "god", "gods"},
+    "adhiyajna": {"sacrifice", "lord"},
+    "adhyatma": {"self", "inner", "soul"},
+    "brahman": {"ultimate", "reality", "supreme", "truth", "god",
+                "creator"},
+    "karma": {"action", "work", "deed", "rite"},
+    "dharma": {"duty", "law", "religion"},
+    "yoga": {"discipline", "devotion", "practice"},
+    "yogin": {"practitioner", "devotee", "disciplined"},
+    "atman": {"self", "soul"},
+    "ahankara": {"ego", "selfish"},
+    "buddhi": {"understand", "understanding", "intellect", "mind"},
+    "manas": {"mind"},
+    "prakriti": {"nature", "matter"},
+    "purusha": {"person", "spirit", "self"},
+    "guna": {"quality", "mood"},
+    "moksha": {"freedom", "liberation", "release"},
+    "samsara": {"rebirth", "cycle"},
+    "tapas": {"discipline", "austerity"},
+    "jnana": {"knowledge", "wisdom"},
+    "bhakti": {"love", "devotion"},
+    "bhakta": {"devotee"},
+    "sannyasa": {"renounce", "abandon"},
+    "vairagya": {"dispassion", "detachment"},
+    "sattva": {"clarity", "good", "pure"},
+    "rajas": {"passion", "activity"},
+    "tamas": {"dark", "inertia", "ignorance"},
+    "avidya": {"ignorance"},
+    "maya": {"illusion"},
+    "marut": {"storm", "wind"},
+    "rudra": {"storm", "howl", "terrible"},
+    "aditya": {"sun", "lord"},
+    "vasu": {"bright", "wealth"},
+    "ashvin": {"twin", "horse"},
+    "kubera": {"wealth", "keeper", "treasure"},
+    "siddha": {"adept", "perfect"},
+    "rakshasa": {"demon", "monster"},
+    "asura": {"demon", "titan"},
+    "meru": {"peak", "mountain"},
+    "prajapati": {"creator", "lord"},
+    "kalpa": {"age", "eon"},
+    "vrishni": {"clan", "tribe"},
+    "vaisya": {"merchant", "trade"},
+    "sudra": {"laborer", "servant", "service", "worker"},
+    "yadu": {"clan", "tribe"},
+    "yadava": {"clan", "tribe"},
+    "vaishya": {"merchant", "trade", "trader"},
+    "shudra": {"laborer", "servant", "service", "worker"},
+    "kshatriya": {"warrior", "ruler"},
+}
 ARCHAIC = {
     "assembled": "gather", "assemble": "gather",
     "desirous": "eager", "rended": "tear", "rent": "torn",
@@ -322,16 +674,53 @@ def _canon(word: str) -> str:
     return stem(word)
 
 
-# Precomputed stemmed sets: lookups run on stemmed lemmas, so keys
-# must be stemmed too (assembled->assembl was the silent killer).
+def _neg_root(word: str):
+    """Negation root or None. un- (guarded) + dis-allowlist only.
+
+    in-/im- dropped outright: imperishable->perishable would match
+    OPPOSITES (silent passes — the unforgivable failure mode).
+    """
+    if (word.startswith("un") and len(word) - 2 >= 5
+            and word not in NEG_EXCEPT
+            and not word.startswith(("under", "univers"))):
+        return word[2:]
+    if word.startswith("dis"):
+        rest = word[3:]
+        if rest in DIS_ROOTS:
+            return rest
+    return None
+
+
+def _norm(word: str) -> str:
+    """Full normalization: negation-replace, then canonical path.
+
+    REPLACE semantics (not dual-emit): dislike -> like ONLY, so no
+    phantom uncoverable lemmas. Consistent between query (lemmas) and
+    index (precompute) — asymmetry here would manufacture flags.
+    """
+    root = _neg_root(word)
+    return _canon(root if root is not None else word)
+
+
+# Precomputed stemmed sets: normalized with the SAME _norm pipeline
+# as queries (verb families, negation roots included). Any asymmetry
+# between index and query manufactures flags out of thin air.
 _CONCEPT_SETS = []
 for _concept, _members in CONCEPTS.items():
-    _CONCEPT_SETS.append({stem(_m) for _m in _members})
-_ARCHAIC_MAP = {stem(_k): _canon(_v) for _k, _v in ARCHAIC.items()}
+    _CONCEPT_SETS.append({_norm(_m) for _m in _members})
+_ARCHAIC_MAP = {_norm(_k): _norm(_v) for _k, _v in ARCHAIC.items()}
+_TERM_GLOSS = {_norm(_t): {_norm(_g) for _g in _gloss}
+               for _t, _gloss in TERMS.items()}
 
 
 def lemmas(text: str) -> set:
-    """English text -> content-lemma set."""
+    """English text -> content-lemma set.
+
+    NEG-prefix dual emission: undeluded -> {undeluded, deluded}, so our
+    plain negation meets Telang's "not deluded" (not is a stopword on
+    both sides). Applies to both sides identically; exempt words
+    (under/until/...) never split.
+    """
     text = unicodedata.normalize("NFC", text.lower())
     text = text.replace("^", "")  # Telang OCR carets (Saw^aya)
     text = re.sub(r"[^a-z ]", " ", text)
@@ -339,9 +728,18 @@ def lemmas(text: str) -> set:
     for word in text.split():
         if not word or word in STOPWORDS:
             continue
-        word = _canon(word)
+        word = _norm(word)
         if word:
             out.add(word)
+    # *ily dual emission: family->famili (y->i) AND fami (ly-strip),
+    # so families/family, easy/easily, steady/steadily all meet.
+    # Both forms share one root — no opposite-match risk.
+    for word in text.split():
+        if len(word) > 5 and word.endswith("ily"):
+            extra = stem(word[:-2])
+            if extra:
+                out.add(extra)
+    return out
     return out
 
 
@@ -359,6 +757,20 @@ def expanded(lemma_set: set, glossary: dict) -> set:
                 grown |= members
         if lemma in _ARCHAIC_MAP:
             grown.add(_ARCHAIC_MAP[lemma])
+        if lemma in _TERM_GLOSS:
+            grown |= _TERM_GLOSS[lemma]
+        elif len(lemma) >= 7:
+            # OCR-tolerant term match (Adhibhilta for adhibhuta):
+            # Telang's scan mangles transliterated terms worst of all.
+            for term, gloss in _TERM_GLOSS.items():
+                if len(term) >= 6 and _lev(lemma, term) <= 2:
+                    grown |= gloss
+                    break
+        elif len(lemma) >= 6:
+            for term, gloss in _TERM_GLOSS.items():
+                if len(term) == 6 and _lev(lemma, term) <= 1:
+                    grown |= gloss
+                    break
     for term, plain in glossary.items():
         t, p = stem(term.lower()), stem(plain.lower())
         if t in lemma_set:
@@ -478,6 +890,16 @@ def concur_verse(meaning: str, telang_ctx: str, arnold_text,
                 "cov_arnold": None, "uncovered": [],
                 "detail": "meaning is names only; carried by anchors"}
     cov_t, unc_t = coverage(ours, expanded(lemmas(telang_ctx), glossary))
+    if not telang_ctx.strip():
+        # Known Telang scan gaps (6:38 p72 missing; 7:29-30, 17:27-28
+        # unaligned): Arnold + Sanskrit carry these by construction.
+        arn = arnold_text or ""
+        cov_a, unc_a = coverage(ours, expanded(lemmas(arn), glossary)) \
+            if arn else (0.0, ours)
+        return {"status": "TELANG-ABSENT",
+                "cov_telang": None, "cov_arnold": round(cov_a, 2),
+                "uncovered": sorted(unc_a),
+                "detail": "Telang text missing (scan gap); Arnold-only"}
     if arnold_text is None:
         return {"status": "ARNOLD-ABSENT", "cov_telang": round(cov_t, 2),
                 "cov_arnold": None, "uncovered": sorted(unc_t),
