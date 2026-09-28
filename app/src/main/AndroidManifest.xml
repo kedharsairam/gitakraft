@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!-- No INTERNET permission, by design: the entire library ships on-device.
-         The OS itself cannot let this app phone home. -->
+    <!-- Single exception to offline-by-design: manual GitHub Releases
+         check from Settings. User-initiated only — no auto-checks,
+         no background network, no analytics. -->
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"

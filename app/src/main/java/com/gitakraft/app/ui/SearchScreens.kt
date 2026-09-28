@@ -1,9 +1,16 @@
 package com.gitakraft.app.ui
 
+import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.expandHorizontally
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.shrinkHorizontally
 import androidx.compose.foundation.ExperimentalFoundationApi
+import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.combinedClickable
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
 import androidx.compose.foundation.layout.FlowRow
@@ -15,6 +22,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.filled.CheckCircle
@@ -45,6 +53,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.focus.FocusRequester
 import androidx.compose.ui.focus.focusRequester
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
@@ -82,25 +91,47 @@ fun SavedVerseCard(
                 .padding(12.dp),
             verticalAlignment = Alignment.Top,
         ) {
-            if (selectionMode) {
-                Icon(
-                    imageVector = if (selected) {
-                        Icons.Filled.CheckCircle
-                    } else {
-                        Icons.Outlined.RadioButtonUnchecked
-                    },
-                    contentDescription = if (selected) {
-                        "Selected"
-                    } else {
-                        "Not selected"
-                    },
-                    tint = if (selected) {
-                        MaterialTheme.colorScheme.primary
-                    } else {
-                        MaterialTheme.colorScheme.onSurfaceVariant
-                    },
-                    modifier = Modifier.padding(end = 8.dp, top = 2.dp),
-                )
+            // Always composed, driven by visibility: the badge slides
+            // in/out instead of popping (appearing views must never
+            // shove laid-out content — the jerk). Wrapping in `if`
+            // would skip the enter animation entirely.
+            AnimatedVisibility(
+                visible = selectionMode,
+                enter = expandHorizontally() + fadeIn(),
+                exit = shrinkHorizontally() + fadeOut(),
+            ) {
+                Box(
+                    contentAlignment = Alignment.Center,
+                    modifier = Modifier
+                        .padding(end = 8.dp, top = 2.dp)
+                        .size(44.dp)
+                        .clip(CircleShape)
+                        .background(
+                            if (selected) {
+                                MaterialTheme.colorScheme.primary
+                            } else {
+                                MaterialTheme.colorScheme.tertiaryContainer
+                            },
+                        ),
+                ) {
+                    Icon(
+                        imageVector = if (selected) {
+                            Icons.Filled.CheckCircle
+                        } else {
+                            Icons.Outlined.RadioButtonUnchecked
+                        },
+                        contentDescription = if (selected) {
+                            "Selected"
+                        } else {
+                            "Not selected"
+                        },
+                        tint = if (selected) {
+                            MaterialTheme.colorScheme.onPrimary
+                        } else {
+                            MaterialTheme.colorScheme.primary
+                        },
+                    )
+                }
             }
             Column(modifier = Modifier.weight(1f)) {
                 Text(

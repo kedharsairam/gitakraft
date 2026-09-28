@@ -29,6 +29,10 @@ class SettingsRepo(context: Context) {
         store.edit { it[Keys.IAST] = show }
     }
 
+    suspend fun clearAll() {
+        store.edit { it.clear() }
+    }
+
     private object Keys {
         val FONT = floatPreferencesKey("font_scale")
         val IAST = booleanPreferencesKey("iast_default")

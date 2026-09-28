@@ -87,6 +87,14 @@ class GitaRepository private constructor(private val db: GitaDatabase) {
         if (ids.isNotEmpty()) dao.removeBookmarks(ids.toList())
     }
 
+    /** Fresh-install state: progress + bookmarks gone, content + seed stamp kept. */
+    suspend fun clearUserData() {
+        db.withTransaction {
+            dao.clearProgress()
+            dao.clearBookmarks()
+        }
+    }
+
     fun readPerChapter(): Flow<List<ChapterRead>> = dao.readPerChapter()
 
     fun readIds(): Flow<List<String>> = dao.readIds()

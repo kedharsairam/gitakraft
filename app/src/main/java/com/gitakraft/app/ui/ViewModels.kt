@@ -7,14 +7,18 @@ import androidx.lifecycle.viewmodel.CreationExtras
 import com.gitakraft.app.data.ChapterProgress
 import com.gitakraft.app.data.GitaRepository
 import com.gitakraft.app.data.SettingsRepo
+import com.gitakraft.app.data.UpdateCheck
+import com.gitakraft.app.data.UpdateChecker
 import com.gitakraft.app.data.VerseRow
 import com.gitakraft.app.data.libraryProgress
 import com.gitakraft.app.domain.Reading
+import com.gitakraft.app.domain.Updates
 import kotlinx.coroutines.FlowPreview
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
+import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.combine
 import kotlinx.coroutines.flow.debounce
 import kotlinx.coroutines.flow.first
@@ -179,6 +183,49 @@ class SettingsViewModel(
 
     fun setFontScale(scale: Float) {
         viewModelScope.launch { settings.setFontScale(scale) }
+    }
+
+    fun clearAllData() {
+        viewModelScope.launch {
+            repo.clearUserData()
+            settings.clearAll()
+        }
+    }
+
+    sealed interface UpdateUiState {
+        data object Idle : UpdateUiState
+        data object Checking : UpdateUiState
+        data class Available(val info: Updates.Available) : UpdateUiState
+        data object UpToDate : UpdateUiState
+        data object Failed : UpdateUiState
+    }
+
+    private val updateBacking =
+        MutableStateFlow<UpdateUiState>(UpdateUiState.Idle)
+    val updateState: StateFlow<UpdateUiState> = updateBacking.asStateFlow()
+
+    fun checkUpdates() {
+        if (updateBacking.value == UpdateUiState.Checking) return
+        updateBacking.value = UpdateUiState.Checking
+        viewModelScope.launch {
+            updateBacking.value = when (val r = UpdateChecker.checkLatest()) {
+                is UpdateCheck.Available -> UpdateUiState.Available(r.info)
+                UpdateCheck.UpToDate -> UpdateUiState.UpToDate
+                UpdateCheck.Failed -> UpdateUiState.Failed
+            }
+        }
+    }
+
+    fun consumeUpdateNotice() {
+        if (updateBacking.value == UpdateUiState.UpToDate ||
+            updateBacking.value == UpdateUiState.Failed
+        ) {
+            updateBacking.value = UpdateUiState.Idle
+        }
+    }
+
+    fun dismissUpdate() {
+        updateBacking.value = UpdateUiState.Idle
     }
 
     fun setIastDefault(show: Boolean) {

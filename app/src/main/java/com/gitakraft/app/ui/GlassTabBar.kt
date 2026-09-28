@@ -53,7 +53,7 @@ data class GlassTab(
 )
 
 @Composable
-private fun rememberReduceMotion(): Boolean {
+internal fun rememberReduceMotion(): Boolean {
     val context = LocalContext.current
     return remember {
         if (Build.VERSION.SDK_INT < Build.VERSION_CODES.O) return@remember false

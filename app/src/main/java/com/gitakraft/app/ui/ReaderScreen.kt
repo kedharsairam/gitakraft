@@ -23,12 +23,12 @@ import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.SnackbarHost
 import androidx.compose.material3.SnackbarHostState
@@ -174,9 +174,11 @@ fun ReaderScreen(
                         horizontalArrangement = Arrangement.SpaceBetween,
                         verticalAlignment = Alignment.CenterVertically,
                     ) {
-                        // Uniform 120dp buttons: equal widths keep the
-                        // counter optically centered whatever the labels.
-                        OutlinedButton(
+                        // Uniform 120dp solid buttons: equal widths center the
+                        // counter geometrically; matching solid fills center
+                        // it optically (an outline against a fill reads
+                        // off-center even when the math is exact).
+                        FilledTonalButton(
                             onClick = { prevId?.let(onNavigate) },
                             enabled = prevId != null,
                             modifier = Modifier.width(120.dp),
@@ -191,7 +193,13 @@ fun ReaderScreen(
                             modifier = Modifier.weight(1f),
                         )
                         Button(
-                            onClick = { nextId?.let(onNavigate) },
+                            onClick = {
+                                // Pressing Next means this verse is read:
+                                // dwell alone misses fast tappers, which used
+                                // to starve the chapter-complete sheet.
+                                vm.markRead(id)
+                                nextId?.let(onNavigate)
+                            },
                             enabled = nextId != null,
                             modifier = Modifier.width(120.dp),
                         ) {
