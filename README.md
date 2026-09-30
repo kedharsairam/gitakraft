@@ -1,16 +1,44 @@
 # GitaKraft
 
-The Bhagavad Gita in plain English. All 700 verses — original Sanskrit, transliteration, one simple meaning, and one line to carry with you.
+The Bhagavad Gita in plain English. All 700 verses across 18 chapters — original Sanskrit, transliteration, one simple meaning, and one line to carry with you.
 
-No accounts. No ads. No tracking. Fully offline; the internet permission exists for one thing only: a manual update check you trigger yourself.
+You can also start from how you feel. Twelve states — grieving, afraid, angry, confused, doubtful, restless, failing, guilty, envious, indecisive, weary, seeking purpose — each mapped to the verses that actually speak to it, because "what does the Gita say about feeling like this" is a more honest way in than the table of contents.
 
-## Get it
+No accounts. No ads. No tracking. Fully offline. The internet permission exists for one thing only: an update check **you** trigger.
 
-Latest release (APK): [Releases](https://github.com/kedharsairam/gitakraft/releases)
+<p align="center">
+  <a href="https://github.com/kedharsairam/gitakraft/releases/latest"><img src="https://img.shields.io/github/v/release/kedharsairam/gitakraft?style=for-the-badge&label=Download" alt="Download APK"></a>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License">
+  <img src="https://img.shields.io/badge/Android-8.0%2B-blue?style=for-the-badge" alt="Android 8.0 and newer">
+</p>
+
+---
+
+## What it does
+
+**Reads** — Chapter list, verse rows, and a reader tuned for long-form text: adjustable type, and a takeaway line on every verse so you can leave with one sentence instead of a page.
+
+**Searches** — Across the whole text, in the Sanskrit, the transliteration and the English.
+
+**Starts from a feeling** — Pick a state, get the verses for it. Twelve mappings, written rather than keyword-matched.
+
+**Bookmarks** — Keep the verses you want to come back to.
+
+**Works on a plane** — The entire text is in the bundle. Nothing is fetched to read a verse.
+
+## Permissions
+
+One, and it is not used unless you ask for it:
+
+| Permission | Used by | Why |
+| --- | --- | --- |
+| `INTERNET` | the update check, which you trigger | To tell you a newer version exists. No verse is ever fetched. |
+
+---
 
 ## How the text is verified
 
-Every verse passed through a five-stage verification engine before shipping:
+Every verse passed through a five-stage engine before shipping. This is the part of the project that took the longest and the part that matters most, because a plain-English rendering of a sacred text is only worth reading if somebody checked it.
 
 1. **Mechanical** — structure, grading (grade ≤ 8 reading level), provenance, glossary
 2. **Sanskrit witnesses** — each verse diffed against the GRETIL critical edition, seconded by Śaṅkara's commentary; disagreements quarantined, never averaged
@@ -20,15 +48,30 @@ Every verse passed through a five-stage verification engine before shipping:
 
 Sources are public domain. Where editions disagree, the app follows the vulgate text and says so.
 
-## Project layout
+---
 
-- `app/` — Android app (Kotlin + Compose, Room, DataStore)
-- `tools/content/` — content pipeline CLI (Python, standard library only)
-- `data/content/` — staged records: `raw/` → `work/` → `review/` (every stage diffable)
+<details>
+<summary><strong>Build from source</strong></summary>
 
-## Status
+```bash
+git clone https://github.com/kedharsairam/gitakraft.git
+cd gitakraft
+./gradlew :app:assembleDebug
+./gradlew :app:testDebugUnitTest        # 13 unit tests
+./gradlew :app:connectedDebugAndroidTest  # 7 instrumented, needs a device
+```
 
-v1.2.0 — verified content, first-run welcome, redesigned verse rows and notices.
+Kotlin and Compose, Room, DataStore. JDK 17, `minSdk 26`.
+
+The content pipeline is separate and deliberately dull — Python, standard library only — so the text can be rebuilt and diffed without a toolchain:
+
+```
+tools/content/   the pipeline CLI
+data/content/    staged records: raw/ → work/ → review/ → frozen
+app/src/main/assets/gita-bundle.json   the 700 verses that ship
+```
+
+</details>
 
 ## Support
 
