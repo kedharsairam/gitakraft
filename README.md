@@ -29,3 +29,15 @@ Sources are public domain. Where editions disagree, the app follows the vulgate 
 ## Status
 
 v1.2.0 — verified content, first-run welcome, redesigned verse rows and notices.
+
+## Support
+
+If you enjoy GitaKraft, buy me a coffee:
+
+<p align="center">
+  <a href="https://buymeacoffee.com/kedhartech"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="182"></a>
+</p>
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
