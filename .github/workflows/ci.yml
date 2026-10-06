@@ -1,0 +1,60 @@
+name: CI
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+# GitaKraft builds against a composite build: settings.gradle.kts does
+# includeBuild("../kraft-foundation"), so the foundation repo must exist as
+# a SIBLING directory. Both checkouts below therefore use explicit `path`s
+# that place gitakraft/ and kraft-foundation/ side by side in the workspace.
+#
+# This workflow did not exist until the app passed kraft-lint for the first
+# time. Four of the nine apps in this portfolio still have no CI at all, which
+# is how a manifest permission and a README that contradicted it sat together
+# for as long as they did.
+defaults:
+  run:
+    working-directory: gitakraft
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout GitaKraft
+        uses: actions/checkout@v4
+        with:
+          path: gitakraft
+
+      # kraft-foundation is public, so no credentials are needed — the default
+      # GITHUB_TOKEN can clone it unauthenticated. An app that adopted the
+      # foundation while it was still private needed a read-only deploy key per
+      # app; a public repository makes the problem zero instead of nine.
+      - name: Checkout kraft-foundation (composite-build sibling)
+        uses: actions/checkout@v4
+        with:
+          repository: kedharsairam/kraft-foundation
+          path: kraft-foundation
+
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      # The gate, and the standard it enforces. `quality.ci-runs-the-gate`
+      # fails if this step is removed.
+      - name: Quality gate
+        run: node kraft-foundation/tools/kraft-lint/kraft-lint.js . --format github
+
+      # `quality.ci-runs-tests` fails if this step is removed.
+      - name: Unit tests
+        run: ./gradlew testDebugUnitTest --no-daemon
+
+      - name: Lint
+        run: ./gradlew lintDebug --no-daemon
+
+      - name: Build debug APK
+        run: ./gradlew assembleDebug --no-daemon
