@@ -46,12 +46,13 @@ jobs:
 
       # The gate, and the standard it enforces. `quality.ci-runs-the-gate`
       # fails if this step is removed.
+      #
+      # `../` because `working-directory` above is gitakraft/, and the foundation is a
+      # sibling of that directory rather than a child of it. Without the prefix this
+      # resolves to gitakraft/kraft-foundation/ and the step dies with
+      # MODULE_NOT_FOUND, which is what the first run of this workflow did.
       - name: Quality gate
-        # `../` because `working-directory` above is gitakraft/, and the foundation is a
-      # sibling of it rather than a child. Without the prefix this resolves to
-      # gitakraft/kraft-foundation/ and the step dies with MODULE_NOT_FOUND, which is
-      # what the first run of this workflow did.
-      run: node ../kraft-foundation/tools/kraft-lint/kraft-lint.js . --format github
+        run: node ../kraft-foundation/tools/kraft-lint/kraft-lint.js . --format github
 
       # `quality.ci-runs-tests` fails if this step is removed.
       - name: Unit tests
