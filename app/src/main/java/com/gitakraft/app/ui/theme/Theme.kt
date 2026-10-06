@@ -12,6 +12,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.kraft.ui.tokens.KraftRadius
+import com.kraft.ui.tokens.KraftTypeScale
 
 // -- Brand --
 val Saffron = Color(0xFFFF9F0A)
@@ -50,20 +51,20 @@ val GitaShapes = Shapes(
 )
 
 val GitaTypography = Typography(
-    displayLarge = TextStyle(fontSize = 34.sp, fontWeight = FontWeight.Bold, lineHeight = 40.sp),
-    headlineMedium = TextStyle(fontSize = 22.sp, fontWeight = FontWeight.SemiBold, lineHeight = 28.sp),
-    titleLarge = TextStyle(fontSize = 20.sp, fontWeight = FontWeight.SemiBold, lineHeight = 26.sp),
-    titleMedium = TextStyle(fontSize = 16.sp, fontWeight = FontWeight.SemiBold, lineHeight = 22.sp),
-    bodyLarge = TextStyle(fontSize = 17.sp, fontWeight = FontWeight.Normal, lineHeight = 26.sp),
-    bodyMedium = TextStyle(fontSize = 15.sp, fontWeight = FontWeight.Normal, lineHeight = 22.sp),
-    labelMedium = TextStyle(fontSize = 12.sp, fontWeight = FontWeight.Medium, letterSpacing = 0.8.sp),
+    displayLarge = TextStyle(fontSize = KraftTypeScale.LargeTitle, fontWeight = FontWeight.Bold, lineHeight = 40.sp),
+    headlineMedium = TextStyle(fontSize = KraftTypeScale.Title2, fontWeight = FontWeight.SemiBold, lineHeight = 28.sp),
+    titleLarge = TextStyle(fontSize = KraftTypeScale.Title3, fontWeight = FontWeight.SemiBold, lineHeight = 26.sp),
+    titleMedium = TextStyle(fontSize = KraftTypeScale.Callout, fontWeight = FontWeight.SemiBold, lineHeight = 22.sp),
+    bodyLarge = TextStyle(fontSize = KraftTypeScale.Body, fontWeight = FontWeight.Normal, lineHeight = 26.sp),
+    bodyMedium = TextStyle(fontSize = KraftTypeScale.Subheadline, fontWeight = FontWeight.Normal, lineHeight = 22.sp),
+    labelMedium = TextStyle(fontSize = KraftTypeScale.Caption1, fontWeight = FontWeight.Medium, letterSpacing = 0.8.sp),
 )
 
 /** Devanagari verse: large with liturgical air. */
-val VerseSanskrit = TextStyle(fontSize = 28.sp, fontWeight = FontWeight.Medium, lineHeight = 42.sp)
+val VerseSanskrit = TextStyle(fontSize = KraftTypeScale.Title1, fontWeight = FontWeight.Medium, lineHeight = 42.sp)
 
 /** IAST transliteration: quiet companion line. */
-val VerseIast = TextStyle(fontSize = 15.sp, fontWeight = FontWeight.Normal, lineHeight = 22.sp)
+val VerseIast = TextStyle(fontSize = KraftTypeScale.Subheadline, fontWeight = FontWeight.Normal, lineHeight = 22.sp)
 
 @Composable
 fun GitaKraftTheme(content: @Composable () -> Unit) {
