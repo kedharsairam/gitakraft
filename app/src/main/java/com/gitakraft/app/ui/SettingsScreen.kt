@@ -80,6 +80,9 @@ import com.gitakraft.app.BuildConfig
 import com.gitakraft.app.R
 import com.gitakraft.app.domain.Updates
 import kotlinx.coroutines.launch
+import com.kraft.ui.tokens.KraftSpacing
+import com.gitakraft.app.ui.theme.GitaMetrics
+import com.gitakraft.app.ui.theme.GitaTints
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -135,8 +138,8 @@ fun SettingsScreen(vm: SettingsViewModel) {
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
-            contentPadding = PaddingValues(top = 12.dp, bottom = 150.dp),
-            verticalArrangement = Arrangement.spacedBy(20.dp),
+            contentPadding = PaddingValues(top = KraftSpacing.Spacing12, bottom = GitaMetrics.AboveTabBar),
+            verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing20),
         ) {
             // No app header: WallKraft settings open straight into groups.
             item {
@@ -157,13 +160,13 @@ fun SettingsScreen(vm: SettingsViewModel) {
                         },
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding(top = 8.dp)
+                            .padding(top = KraftSpacing.Spacing8)
                             .clip(MaterialTheme.shapes.small),
                     )
                     Row(
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding(top = 12.dp),
+                            .padding(top = KraftSpacing.Spacing12),
                         horizontalArrangement = Arrangement.SpaceEvenly,
                     ) {
                         JourneyStat(value = "$totalRead", label = "verses")
@@ -182,7 +185,7 @@ fun SettingsScreen(vm: SettingsViewModel) {
                 ) {
                     SettingSliderRow(
                         icon = Icons.Filled.FormatSize,
-                        tint = Color(0xFF0A84FF),
+                        tint = GitaTints.Info,
                         label = "Text size",
                         value = "${(fontScale * 100).toInt()}%",
                     ) {
@@ -205,12 +208,12 @@ fun SettingsScreen(vm: SettingsViewModel) {
                             textAlign = TextAlign.Center,
                             modifier = Modifier
                                 .fillMaxWidth()
-                                .padding(top = 4.dp),
+                                .padding(top = KraftSpacing.Spacing4),
                         )
                     }
                     SettingSwitchRow(
                         icon = Icons.Filled.Translate,
-                        tint = Color(0xFF30D158),
+                        tint = GitaTints.Active,
                         label = "Transliteration",
                         sublabel = "Show roman script under verses",
                         checked = iastDefault,
@@ -226,7 +229,7 @@ fun SettingsScreen(vm: SettingsViewModel) {
                         text = "If you enjoy GitaKraft, buy me a coffee:",
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
-                        modifier = Modifier.padding(bottom = 12.dp),
+                        modifier = Modifier.padding(bottom = KraftSpacing.Spacing12),
                     )
                     BuyMeACoffeeButton(
                         onClick = { openLink("https://buymeacoffee.com/kedhartech") },
@@ -239,10 +242,10 @@ fun SettingsScreen(vm: SettingsViewModel) {
                 SettingGroup(title = "About") {
                     Row(
                         verticalAlignment = Alignment.CenterVertically,
-                        horizontalArrangement = Arrangement.spacedBy(12.dp),
+                        horizontalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing12),
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding(vertical = 6.dp),
+                            .padding(vertical = KraftSpacing.Spacing6),
                     ) {
                         // Your GitHub avatar, bundled as an asset: the app is
                         // offline, so the photo ships inside the APK instead
@@ -251,8 +254,8 @@ fun SettingsScreen(vm: SettingsViewModel) {
                             painter = painterResource(R.drawable.avatar),
                             contentDescription = "Kedhar",
                             modifier = Modifier
-                                .size(40.dp)
-                                .clip(RoundedCornerShape(12.dp)),
+                                .size(KraftSpacing.Spacing40)
+                                .clip(RoundedCornerShape(KraftSpacing.Spacing12)),
                         )
                         Column(modifier = Modifier.weight(1f)) {
                             Text(
@@ -263,16 +266,16 @@ fun SettingsScreen(vm: SettingsViewModel) {
                                 text = "Developer & Designer",
                                 style = MaterialTheme.typography.bodyMedium,
                                 color = MaterialTheme.colorScheme.onSurfaceVariant,
-                                modifier = Modifier.padding(top = 4.dp),
+                                modifier = Modifier.padding(top = KraftSpacing.Spacing4),
                             )
                         }
                     }
-                    HorizontalDivider(modifier = Modifier.padding(vertical = 2.dp))
+                    HorizontalDivider(modifier = Modifier.padding(vertical = KraftSpacing.Spacing2))
                     Row(
                         verticalAlignment = Alignment.CenterVertically,
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding(vertical = 6.dp),
+                            .padding(vertical = KraftSpacing.Spacing6),
                     ) {
                         Text(
                             text = "GitaKraft version",
@@ -285,7 +288,7 @@ fun SettingsScreen(vm: SettingsViewModel) {
                             color = MaterialTheme.colorScheme.onSurfaceVariant,
                         )
                     }
-                    HorizontalDivider(modifier = Modifier.padding(vertical = 2.dp))
+                    HorizontalDivider(modifier = Modifier.padding(vertical = KraftSpacing.Spacing2))
                     SettingInfoRow(
                         icon = null,
                         tint = Color.Transparent,
@@ -305,18 +308,18 @@ fun SettingsScreen(vm: SettingsViewModel) {
                         trailing = {
                             Box(
                                 contentAlignment = Alignment.CenterEnd,
-                                modifier = Modifier.width(104.dp),
+                                modifier = Modifier.width(GitaMetrics.UpdateSlotWidth),
                             ) {
                                 when (updateState) {
                                     is SettingsViewModel.UpdateUiState.Checking ->
                                         CircularProgressIndicator(
-                                            modifier = Modifier.size(20.dp),
-                                            strokeWidth = 2.dp,
+                                            modifier = Modifier.size(KraftSpacing.Spacing20),
+                                            strokeWidth = KraftSpacing.Spacing2,
                                         )
                                     is SettingsViewModel.UpdateUiState.Available ->
                                         Box(
                                             modifier = Modifier
-                                                .size(8.dp)
+                                                .size(KraftSpacing.Spacing8)
                                                 .clip(CircleShape)
                                                 .background(
                                                     MaterialTheme.colorScheme.primary,
@@ -327,8 +330,8 @@ fun SettingsScreen(vm: SettingsViewModel) {
                                     else -> Button(
                                         onClick = { vm.checkUpdates() },
                                         contentPadding = PaddingValues(
-                                            horizontal = 16.dp,
-                                            vertical = 8.dp,
+                                            horizontal = KraftSpacing.Spacing16,
+                                            vertical = KraftSpacing.Spacing8,
                                         ),
                                     ) {
                                         Text("Check")
@@ -337,7 +340,7 @@ fun SettingsScreen(vm: SettingsViewModel) {
                             }
                         },
                     )
-                    HorizontalDivider(modifier = Modifier.padding(vertical = 2.dp))
+                    HorizontalDivider(modifier = Modifier.padding(vertical = KraftSpacing.Spacing2))
                     SettingInfoRow(
                         icon = null,
                         tint = Color.Transparent,
@@ -346,35 +349,35 @@ fun SettingsScreen(vm: SettingsViewModel) {
                         onClick = { openLink("https://github.com/kedharsairam") },
                         markRes = R.drawable.github_mark,
                     )
-                    HorizontalDivider(modifier = Modifier.padding(vertical = 2.dp))
+                    HorizontalDivider(modifier = Modifier.padding(vertical = KraftSpacing.Spacing2))
                     SettingInfoRow(
                         icon = Icons.Filled.Book,
-                        tint = Color(0xFFFF9F0A),
+                        tint = GitaTints.Reference,
                         label = "Sources",
                         sublabel = "Telang (1882) and Arnold renderings, public domain. " +
                             "Numbering follows Gita Press.",
                     )
-                    HorizontalDivider(modifier = Modifier.padding(vertical = 2.dp))
+                    HorizontalDivider(modifier = Modifier.padding(vertical = KraftSpacing.Spacing2))
                     SettingInfoRow(
                         icon = Icons.Filled.Info,
-                        tint = Color(0xFF0A84FF),
+                        tint = GitaTints.Info,
                         label = "Recension",
                         sublabel = "The Kashmir recension differs in places. " +
                             "This app follows the vulgate text.",
                     )
-                    HorizontalDivider(modifier = Modifier.padding(vertical = 2.dp))
+                    HorizontalDivider(modifier = Modifier.padding(vertical = KraftSpacing.Spacing2))
                     SettingInfoRow(
                         icon = Icons.Filled.Lock,
-                        tint = Color(0xFF30D158),
+                        tint = GitaTints.Active,
                         label = "Privacy",
                         sublabel = "No account, no tracking. GitHub is contacted " +
                             "only when you check for updates.",
                         onClick = { showPrivacy = true },
                     )
-                    HorizontalDivider(modifier = Modifier.padding(vertical = 2.dp))
+                    HorizontalDivider(modifier = Modifier.padding(vertical = KraftSpacing.Spacing2))
                     SettingInfoRow(
                         icon = Icons.Filled.LibraryBooks,
-                        tint = Color(0xFFFF9F0A),
+                        tint = GitaTints.Reference,
                         label = "Open-source licenses",
                         sublabel = "Every library in this app, and its license.",
                         onClick = { showLicenses = true },
@@ -385,7 +388,7 @@ fun SettingsScreen(vm: SettingsViewModel) {
                 SettingGroup(title = "Danger zone") {
                     SettingInfoRow(
                         icon = Icons.Filled.DeleteForever,
-                        tint = Color(0xFFFF453A),
+                        tint = GitaTints.Destructive,
                         label = "Delete all data",
                         sublabel = "Progress, saved verses and settings, gone.",
                     )
@@ -397,7 +400,7 @@ fun SettingsScreen(vm: SettingsViewModel) {
                         ),
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding(top = 12.dp),
+                            .padding(top = KraftSpacing.Spacing12),
                     ) {
                         Text("Delete all data")
                     }
@@ -434,7 +437,7 @@ fun SettingsScreen(vm: SettingsViewModel) {
             onDismissRequest = { showLicenses = false },
             title = { Text("Open-source licenses") },
             text = {
-                Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                Column(verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing8)) {
                     LicenseRow("Jetpack Compose + Material 3", "Apache 2.0")
                     LicenseRow("Room", "Apache 2.0")
                     LicenseRow("DataStore", "Apache 2.0")
@@ -467,7 +470,7 @@ fun SettingsScreen(vm: SettingsViewModel) {
             },
             title = { Text("Update available") },
             text = {
-                Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                Column(verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing8)) {
                     Text(
                         text = "Version ${updateInfo.version} " +
                             "(${Updates.formatBytes(updateInfo.sizeBytes)})",
@@ -544,15 +547,15 @@ private fun SettingGroup(
     footer: String? = null,
     content: @Composable () -> Unit,
 ) {
-    Column(modifier = Modifier.padding(horizontal = 16.dp)) {
+    Column(modifier = Modifier.padding(horizontal = KraftSpacing.Spacing16)) {
         Text(
             text = title.uppercase(),
             style = MaterialTheme.typography.labelMedium,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
-            modifier = Modifier.padding(start = 16.dp, bottom = 8.dp),
+            modifier = Modifier.padding(start = KraftSpacing.Spacing16, bottom = KraftSpacing.Spacing8),
         )
         Card(modifier = Modifier.fillMaxWidth()) {
-            Column(modifier = Modifier.padding(16.dp)) {
+            Column(modifier = Modifier.padding(KraftSpacing.Spacing16)) {
                 content()
             }
         }
@@ -561,7 +564,7 @@ private fun SettingGroup(
                 text = footer,
                 style = MaterialTheme.typography.bodyMedium,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
-                modifier = Modifier.padding(start = 16.dp, end = 16.dp, top = 8.dp),
+                modifier = Modifier.padding(start = KraftSpacing.Spacing16, end = KraftSpacing.Spacing16, top = KraftSpacing.Spacing8),
             )
         }
     }
@@ -572,15 +575,15 @@ private fun IconTile(icon: ImageVector, tint: Color) {
     Box(
         contentAlignment = Alignment.Center,
         modifier = Modifier
-            .size(32.dp)
-            .clip(RoundedCornerShape(8.dp))
+            .size(KraftSpacing.Spacing32)
+            .clip(RoundedCornerShape(KraftSpacing.Spacing8))
             .background(tint),
     ) {
         Icon(
             imageVector = icon,
             contentDescription = null,
             tint = Color.White,
-            modifier = Modifier.size(20.dp),
+            modifier = Modifier.size(KraftSpacing.Spacing20),
         )
     }
 }
@@ -595,7 +598,7 @@ private fun SettingSliderRow(
 ) {
     Row(
         verticalAlignment = Alignment.CenterVertically,
-        horizontalArrangement = Arrangement.spacedBy(12.dp),
+        horizontalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing12),
         modifier = Modifier.fillMaxWidth(),
     ) {
         IconTile(icon = icon, tint = tint)
@@ -610,10 +613,10 @@ private fun SettingSliderRow(
             color = MaterialTheme.colorScheme.onSurfaceVariant,
         )
     }
-    Column(modifier = Modifier.padding(top = 4.dp)) {
+    Column(modifier = Modifier.padding(top = KraftSpacing.Spacing4)) {
         content()
     }
-    HorizontalDivider(modifier = Modifier.padding(vertical = 8.dp))
+    HorizontalDivider(modifier = Modifier.padding(vertical = KraftSpacing.Spacing8))
 }
 
 @Composable
@@ -627,7 +630,7 @@ private fun SettingSwitchRow(
 ) {
     Row(
         verticalAlignment = Alignment.CenterVertically,
-        horizontalArrangement = Arrangement.spacedBy(12.dp),
+        horizontalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing12),
         modifier = Modifier.fillMaxWidth(),
     ) {
         IconTile(icon = icon, tint = tint)
@@ -637,7 +640,7 @@ private fun SettingSwitchRow(
                 text = sublabel,
                 style = MaterialTheme.typography.bodyMedium,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
-                modifier = Modifier.padding(top = 4.dp),
+                modifier = Modifier.padding(top = KraftSpacing.Spacing4),
             )
         }
         Switch(checked = checked, onCheckedChange = onChecked)
@@ -676,12 +679,12 @@ private fun BuyMeACoffeeButton(onClick: () -> Unit) {
             painter = painterResource(R.drawable.bmc_button),
             contentDescription = "Buy me a coffee",
             modifier = Modifier
-                .width(182.dp)
+                .width(GitaMetrics.SponsorButtonWidth)
                 .graphicsLayer {
                     scaleX = scale
                     scaleY = scale
                 }
-                .clip(RoundedCornerShape(12.dp))
+                .clip(RoundedCornerShape(KraftSpacing.Spacing12))
                 .clickable {
                     pressed = true
                     haptic.performHapticFeedback(HapticFeedbackType.TextHandleMove)
@@ -731,11 +734,11 @@ private fun SettingInfoRow(
     trailing: @Composable (() -> Unit)? = null,
 ) {
     Row(
-        horizontalArrangement = Arrangement.spacedBy(12.dp),
+        horizontalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing12),
         verticalAlignment = Alignment.CenterVertically,
         modifier = Modifier
             .fillMaxWidth()
-            .padding(vertical = 6.dp)
+            .padding(vertical = KraftSpacing.Spacing6)
             .then(if (onClick != null) Modifier.clickable(onClick = onClick) else Modifier),
     ) {
         // Brand marks (GitHub) use the standard rounded-square tile
@@ -744,14 +747,14 @@ private fun SettingInfoRow(
             Box(
                 contentAlignment = Alignment.Center,
                 modifier = Modifier
-                    .size(32.dp)
-                    .clip(RoundedCornerShape(8.dp))
+                    .size(KraftSpacing.Spacing32)
+                    .clip(RoundedCornerShape(KraftSpacing.Spacing8))
                     .background(Color.Black),
             ) {
                 Image(
                     painter = painterResource(markRes),
                     contentDescription = null,
-                    modifier = Modifier.size(20.dp),
+                    modifier = Modifier.size(KraftSpacing.Spacing20),
                 )
             }
         } else if (icon != null) {
@@ -763,7 +766,7 @@ private fun SettingInfoRow(
                 text = sublabel,
                 style = MaterialTheme.typography.bodyMedium,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
-                modifier = Modifier.padding(top = 4.dp),
+                modifier = Modifier.padding(top = KraftSpacing.Spacing4),
             )
         }
         trailing?.invoke()

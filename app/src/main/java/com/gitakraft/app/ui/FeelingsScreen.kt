@@ -28,6 +28,7 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import com.kraft.ui.tokens.KraftSpacing
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -59,8 +60,8 @@ fun FeelingDetailScreen(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
-            contentPadding = PaddingValues(bottom = 24.dp),
-            verticalArrangement = Arrangement.spacedBy(4.dp),
+            contentPadding = PaddingValues(bottom = KraftSpacing.Spacing24),
+            verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing4),
         ) {
             if (line.isNotBlank()) {
                 item {
@@ -68,7 +69,7 @@ fun FeelingDetailScreen(
                         text = line,
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
-                        modifier = Modifier.padding(horizontal = 16.dp, vertical = 8.dp),
+                        modifier = Modifier.padding(horizontal = KraftSpacing.Spacing16, vertical = KraftSpacing.Spacing8),
                     )
                 }
             }
@@ -76,10 +77,10 @@ fun FeelingDetailScreen(
                 Card(
                     modifier = Modifier
                         .fillMaxWidth()
-                        .padding(horizontal = 16.dp, vertical = 2.dp)
+                        .padding(horizontal = KraftSpacing.Spacing16, vertical = KraftSpacing.Spacing2)
                         .clickable { onVerse(v.id) },
                 ) {
-                    Column(modifier = Modifier.padding(12.dp)) {
+                    Column(modifier = Modifier.padding(KraftSpacing.Spacing12)) {
                         Text(
                             text = v.id,
                             style = MaterialTheme.typography.labelMedium,
@@ -88,7 +89,7 @@ fun FeelingDetailScreen(
                         Text(
                             text = v.takeaway,
                             style = MaterialTheme.typography.bodyMedium,
-                            modifier = Modifier.padding(top = 4.dp),
+                            modifier = Modifier.padding(top = KraftSpacing.Spacing4),
                         )
                     }
                 }

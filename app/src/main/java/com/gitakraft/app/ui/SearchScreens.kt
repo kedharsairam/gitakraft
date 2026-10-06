@@ -60,6 +60,8 @@ import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.gitakraft.app.data.VerseRow
+import com.kraft.ui.tokens.KraftSpacing
+import com.gitakraft.app.ui.theme.GitaMetrics
 
 @Composable
 fun VerseSearchRow(verse: VerseRow, onOpen: () -> Unit) {
@@ -79,7 +81,7 @@ fun SavedVerseCard(
     Card(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(horizontal = 16.dp, vertical = 2.dp)
+            .padding(horizontal = KraftSpacing.Spacing16, vertical = KraftSpacing.Spacing2)
             .combinedClickable(
                 onClick = { if (selectionMode) onToggleSelect() else onOpen() },
                 onLongClick = onToggleSelect,
@@ -88,7 +90,7 @@ fun SavedVerseCard(
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(12.dp),
+                .padding(KraftSpacing.Spacing12),
             verticalAlignment = Alignment.Top,
         ) {
             // Always composed, driven by visibility: the badge slides
@@ -103,8 +105,8 @@ fun SavedVerseCard(
                 Box(
                     contentAlignment = Alignment.Center,
                     modifier = Modifier
-                        .padding(end = 8.dp, top = 2.dp)
-                        .size(44.dp)
+                        .padding(end = KraftSpacing.Spacing8, top = KraftSpacing.Spacing2)
+                        .size(KraftSpacing.TouchTarget)
                         .clip(CircleShape)
                         .background(
                             if (selected) {
@@ -142,7 +144,7 @@ fun SavedVerseCard(
                 Text(
                     text = verse.takeaway,
                     style = MaterialTheme.typography.bodyMedium,
-                    modifier = Modifier.padding(top = 4.dp),
+                    modifier = Modifier.padding(top = KraftSpacing.Spacing4),
                 )
             }
             if (!selectionMode) {
@@ -227,43 +229,43 @@ fun SearchScreen(
                 },
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(horizontal = 16.dp)
-                    .padding(top = 4.dp, bottom = 8.dp)
+                    .padding(horizontal = KraftSpacing.Spacing16)
+                    .padding(top = KraftSpacing.Spacing4, bottom = KraftSpacing.Spacing8)
                     .focusRequester(focusRequester),
             ) {}
             if (query.isBlank()) {
                 Column(
                     modifier = Modifier
                         .fillMaxWidth()
-                        .padding(top = 24.dp),
+                        .padding(top = KraftSpacing.Spacing24),
                     horizontalAlignment = Alignment.CenterHorizontally,
                 ) {
                     Icon(
                         imageVector = Icons.Filled.Search,
                         contentDescription = null,
                         tint = MaterialTheme.colorScheme.onSurfaceVariant,
-                        modifier = Modifier.size(48.dp),
+                        modifier = Modifier.size(KraftSpacing.Spacing48),
                     )
                     Text(
                         text = "Search meanings and takeaways.",
                         style = MaterialTheme.typography.titleMedium,
                         fontWeight = FontWeight.SemiBold,
-                        modifier = Modifier.padding(top = 16.dp),
+                        modifier = Modifier.padding(top = KraftSpacing.Spacing16),
                     )
                     Text(
                         text = "Try a word below to begin.",
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
-                        modifier = Modifier.padding(top = 4.dp),
+                        modifier = Modifier.padding(top = KraftSpacing.Spacing4),
                     )
                     FlowRow(
-                        modifier = Modifier.padding(horizontal = 24.dp)
-                            .padding(top = 16.dp),
+                        modifier = Modifier.padding(horizontal = KraftSpacing.Spacing24)
+                            .padding(top = KraftSpacing.Spacing16),
                         horizontalArrangement = Arrangement.spacedBy(
-                            8.dp,
+                            KraftSpacing.Spacing8,
                             Alignment.CenterHorizontally,
                         ),
-                        verticalArrangement = Arrangement.spacedBy(4.dp),
+                        verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing4),
                     ) {
                         for (s in SEARCH_SUGGESTIONS) {
                             FilterChip(
@@ -289,7 +291,7 @@ fun SearchScreen(
                         text = "Try a single word, or browse by feeling.",
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
-                        modifier = Modifier.padding(top = 4.dp),
+                        modifier = Modifier.padding(top = KraftSpacing.Spacing4),
                     )
                 }
             } else {
@@ -297,11 +299,11 @@ fun SearchScreen(
                     text = "${results.size} result${if (results.size == 1) "" else "s"}",
                     style = MaterialTheme.typography.labelMedium,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
-                    modifier = Modifier.padding(horizontal = 16.dp, vertical = 4.dp),
+                    modifier = Modifier.padding(horizontal = KraftSpacing.Spacing16, vertical = KraftSpacing.Spacing4),
                 )
                 LazyColumn(
-                    contentPadding = PaddingValues(bottom = 24.dp),
-                    verticalArrangement = Arrangement.spacedBy(4.dp),
+                    contentPadding = PaddingValues(bottom = KraftSpacing.Spacing24),
+                    verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing4),
                 ) {
                     items(results, key = { it.id }) { v ->
                         VerseSearchRow(verse = v, onOpen = { onVerse(v.id) })
@@ -412,7 +414,7 @@ fun BookmarksScreen(vm: BookmarksViewModel, onVerse: (String) -> Unit) {
                     text = "Star any verse while reading.",
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
-                    modifier = Modifier.padding(top = 4.dp),
+                    modifier = Modifier.padding(top = KraftSpacing.Spacing4),
                 )
             }
             return@Scaffold
@@ -421,26 +423,26 @@ fun BookmarksScreen(vm: BookmarksViewModel, onVerse: (String) -> Unit) {
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
-            contentPadding = PaddingValues(bottom = 150.dp),
-            verticalArrangement = Arrangement.spacedBy(4.dp),
+            contentPadding = PaddingValues(bottom = GitaMetrics.AboveTabBar),
+            verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing4),
         ) {
             item {
                 Text(
                     text = "${marks.size} saved verse${if (marks.size == 1) "" else "s"}",
                     style = MaterialTheme.typography.titleMedium,
-                    modifier = Modifier.padding(horizontal = 16.dp, vertical = 8.dp),
+                    modifier = Modifier.padding(horizontal = KraftSpacing.Spacing16, vertical = KraftSpacing.Spacing8),
                 )
             }
             groups.forEach { (ch, verses) ->
                 stickyHeader {
-                    Surface(shadowElevation = 2.dp) {
+                    Surface(shadowElevation = KraftSpacing.Spacing2) {
                         Text(
                             text = "Chapter $ch · ${titleOf[ch] ?: ""}",
                             style = MaterialTheme.typography.labelMedium,
                             color = MaterialTheme.colorScheme.onSurfaceVariant,
                             modifier = Modifier
                                 .fillMaxWidth()
-                                .padding(horizontal = 16.dp, vertical = 8.dp),
+                                .padding(horizontal = KraftSpacing.Spacing16, vertical = KraftSpacing.Spacing8),
                         )
                     }
                 }

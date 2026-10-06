@@ -73,6 +73,21 @@ app/src/main/assets/gita-bundle.json   the 700 verses that ship
 
 </details>
 
+## Design
+
+Spacing, type, radius, motion and touch targets come from
+[kraft-foundation](https://github.com/kedharsairam/kraft-foundation), which is also where the
+standard this app is built to is written down. It targets **standard 1.0.0**, and
+`kraft-lint` in that repository is what checks it — 22 of the standard's 29 rules are decided
+by reading source, and this app passes all of them.
+
+The accent and the app's own dimensions stay local. `GitaTints` and `GitaMetrics` in
+`ui/theme/` hold the handful of values that would be wrong in any other app, each with the
+reason it has the value it has. That is the same test the standard applies to colour: a
+speed test and a barometer should not look like the same product.
+
+GitaKraft is the first of nine apps to move. The others still carry their own spacing.
+
 ## Support
 
 If you enjoy GitaKraft, buy me a coffee:

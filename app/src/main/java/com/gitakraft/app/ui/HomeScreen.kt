@@ -40,6 +40,8 @@ import androidx.compose.ui.unit.dp
 import java.time.LocalDate
 import java.time.LocalTime
 import java.time.format.FormatStyle
+import com.kraft.ui.tokens.KraftSpacing
+import com.gitakraft.app.ui.theme.GitaMetrics
 
 private fun greeting(): String {
     val h = LocalTime.now().hour
@@ -94,13 +96,13 @@ fun HomeScreen(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
-            contentPadding = PaddingValues(bottom = 150.dp),
-            verticalArrangement = Arrangement.spacedBy(16.dp),
+            contentPadding = PaddingValues(bottom = GitaMetrics.AboveTabBar),
+            verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing16),
         ) {
             item {
                 Column(
-                    modifier = Modifier.padding(horizontal = 16.dp)
-                        .padding(top = 12.dp),
+                    modifier = Modifier.padding(horizontal = KraftSpacing.Spacing16)
+                        .padding(top = KraftSpacing.Spacing12),
                 ) {
                     Text(
                         text = LocalDate.now().format(
@@ -123,7 +125,7 @@ fun HomeScreen(
                     Card(
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding(horizontal = 16.dp)
+                            .padding(horizontal = KraftSpacing.Spacing16)
                             .clickable { onVerse(target) },
                         colors = CardDefaults.cardColors(
                             containerColor = MaterialTheme.colorScheme.primary,
@@ -132,7 +134,7 @@ fun HomeScreen(
                         Row(
                             modifier = Modifier
                                 .fillMaxWidth()
-                                .padding(16.dp),
+                                .padding(KraftSpacing.Spacing16),
                             verticalAlignment = Alignment.CenterVertically,
                         ) {
                             Column(modifier = Modifier.weight(1f)) {
@@ -167,7 +169,7 @@ fun HomeScreen(
                     Card(
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding(horizontal = 16.dp)
+                            .padding(horizontal = KraftSpacing.Spacing16)
                             .clickable { onVerse(vod.id) },
                         colors = CardDefaults.cardColors(
                             containerColor = MaterialTheme.colorScheme.tertiaryContainer,
@@ -176,7 +178,7 @@ fun HomeScreen(
                         Row(
                             modifier = Modifier
                                 .fillMaxWidth()
-                                .padding(20.dp),
+                                .padding(KraftSpacing.Spacing20),
                             verticalAlignment = Alignment.CenterVertically,
                         ) {
                             Column(modifier = Modifier.weight(1f)) {
@@ -189,12 +191,12 @@ fun HomeScreen(
                                     text = "॥ ${devDigits(vod.ch)} · ${devDigits(vod.n)} ॥",
                                     style = MaterialTheme.typography.displayLarge,
                                     color = MaterialTheme.colorScheme.primary,
-                                    modifier = Modifier.padding(top = 8.dp),
+                                    modifier = Modifier.padding(top = KraftSpacing.Spacing8),
                                 )
                                 Text(
                                     text = vod.takeaway,
                                     style = MaterialTheme.typography.titleLarge,
-                                    modifier = Modifier.padding(top = 8.dp),
+                                    modifier = Modifier.padding(top = KraftSpacing.Spacing8),
                                 )
                             }
                             Icon(
@@ -212,13 +214,13 @@ fun HomeScreen(
                         text = "How are you feeling?",
                         style = MaterialTheme.typography.titleLarge,
                         fontWeight = FontWeight.SemiBold,
-                        modifier = Modifier.padding(horizontal = 16.dp),
+                        modifier = Modifier.padding(horizontal = KraftSpacing.Spacing16),
                     )
                     FlowRow(
-                        modifier = Modifier.padding(horizontal = 12.dp)
-                            .padding(top = 8.dp),
-                        horizontalArrangement = Arrangement.spacedBy(8.dp),
-                        verticalArrangement = Arrangement.spacedBy(4.dp),
+                        modifier = Modifier.padding(horizontal = KraftSpacing.Spacing12)
+                            .padding(top = KraftSpacing.Spacing8),
+                        horizontalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing8),
+                        verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing4),
                     ) {
                         for (f in feelings) {
                             FilterChip(

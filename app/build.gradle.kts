@@ -65,6 +65,10 @@ dependencies {
     implementation("androidx.compose.material:material-icons-extended")
     implementation("androidx.datastore:datastore-preferences:1.2.1")
 
+    // Kraft Foundation — composite build, substituted in settings.gradle.kts.
+    implementation("com.kraft:kraft-ui")
+    implementation("com.kraft:kraft-core")
+
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.9.0")
     implementation("androidx.room:room-runtime:2.8.5")
     implementation("androidx.room:room-ktx:2.8.5")

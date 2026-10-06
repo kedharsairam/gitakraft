@@ -54,6 +54,7 @@ import com.gitakraft.app.ui.SettingsScreen
 import com.gitakraft.app.ui.SettingsViewModel
 import com.gitakraft.app.ui.glass.GlassBox
 import com.gitakraft.app.ui.glass.GlassContainerWithHidden
+import com.kraft.ui.tokens.KraftSpacing
 
 @Composable
 fun AppNav(factory: RepoFactory, iastDefault: Boolean) {
@@ -78,7 +79,7 @@ fun AppNav(factory: RepoFactory, iastDefault: Boolean) {
         val density = LocalDensity.current
         val navBarBottom = maxOf(
             WindowInsets.navigationBars.asPaddingValues(density).calculateBottomPadding(),
-            8.dp,
+            KraftSpacing.Spacing8,
         )
         GlassContainerWithHidden(
             modifier = Modifier
@@ -177,14 +178,14 @@ fun AppNav(factory: RepoFactory, iastDefault: Boolean) {
                     modifier = Modifier
                         .align(Alignment.BottomCenter)
                         .padding(bottom = navBarBottom)
-                        .padding(vertical = 2.dp)
-                        .padding(horizontal = 24.dp)
+                        .padding(vertical = KraftSpacing.Spacing2)
+                        .padding(horizontal = KraftSpacing.Spacing24)
                         .fillMaxWidth(),
                     blur = 0.95f,
                     scale = 0.12f,
                     centerDistortion = 0f,
                     shape = RoundedCornerShape(percent = 50),
-                    elevation = 8.dp,
+                    elevation = KraftSpacing.Spacing8,
                     tint = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.08f),
                     darkness = 0.10f,
                     warpEdges = 0.22f,

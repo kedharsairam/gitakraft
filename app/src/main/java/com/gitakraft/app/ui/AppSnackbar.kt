@@ -28,6 +28,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.delay
+import com.kraft.ui.tokens.KraftSpacing
+import com.gitakraft.app.ui.theme.GitaMetrics
 
 /**
  * The app's one notice look, used by every host (reader, settings).
@@ -38,7 +40,7 @@ import kotlinx.coroutines.delay
  * Dismissible three ways: X button, swipe away, or timeout.
  */
 object SnackbarLift {
-    val AboveTabBar = 150.dp
+    val AboveTabBar = GitaMetrics.AboveTabBar
 }
 
 /** Message-keyed leading icon. Messages are fixed strings; the map
@@ -65,17 +67,17 @@ private fun NoticePill(
     onAction: () -> Unit,
 ) {
     androidx.compose.material3.Surface(
-        shape = RoundedCornerShape(16.dp),
+        shape = RoundedCornerShape(KraftSpacing.Spacing16),
         color = MaterialTheme.colorScheme.surfaceContainerHighest,
-        shadowElevation = 6.dp,
+        shadowElevation = KraftSpacing.Spacing6,
         modifier = Modifier
             .wrapContentWidth()
-            .widthIn(max = 340.dp),
+            .widthIn(max = GitaMetrics.NoticePillMaxWidth),
     ) {
         Row(
-            modifier = Modifier.padding(horizontal = 16.dp, vertical = 12.dp),
+            modifier = Modifier.padding(horizontal = KraftSpacing.Spacing16, vertical = KraftSpacing.Spacing12),
             verticalAlignment = Alignment.CenterVertically,
-            horizontalArrangement = Arrangement.spacedBy(10.dp),
+            horizontalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing8),
         ) {
             if (icon != null) {
                 Icon(

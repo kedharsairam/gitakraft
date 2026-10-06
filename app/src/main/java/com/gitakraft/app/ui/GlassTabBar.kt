@@ -37,6 +37,8 @@ import androidx.compose.ui.platform.LocalHapticFeedback
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
+import com.kraft.ui.tokens.KraftSpacing
+import com.gitakraft.app.ui.theme.GitaMetrics
 
 /**
  * Floating glass pill tab bar (WallKraft pattern, GitaKraft tokens).
@@ -74,14 +76,14 @@ fun GlassTabBar(
     Row(
         modifier = Modifier
             .fillMaxWidth()
-            .shadow(8.dp, CircleShape)
+            .shadow(KraftSpacing.Spacing8, CircleShape)
             // Frost stack, WallKraft values: these layers sit over the
             // shader-warped backdrop, so they stay translucent here.
             .background(MaterialTheme.colorScheme.background.copy(alpha = 0.22f), CircleShape)
             .background(MaterialTheme.colorScheme.onBackground.copy(alpha = 0.22f), CircleShape)
             .background(MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.45f), CircleShape)
             .background(MaterialTheme.colorScheme.surface.copy(alpha = 0.15f), CircleShape)
-            .padding(horizontal = 4.dp, vertical = 4.dp),
+            .padding(horizontal = KraftSpacing.Spacing4, vertical = KraftSpacing.Spacing4),
         horizontalArrangement = Arrangement.SpaceEvenly,
         verticalAlignment = Alignment.CenterVertically,
     ) {
@@ -141,7 +143,7 @@ private fun GlassTabItem(
                     onClick()
                 },
             )
-            .padding(top = 12.dp, bottom = 4.dp),
+            .padding(top = KraftSpacing.Spacing12, bottom = KraftSpacing.Spacing4),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center,
     ) {
@@ -149,9 +151,9 @@ private fun GlassTabItem(
             imageVector = if (selected) tab.selectedIcon else tab.unselectedIcon,
             contentDescription = tab.label,
             tint = tint,
-            modifier = Modifier.size(26.dp),
+            modifier = Modifier.size(GitaMetrics.GlassTabIcon),
         )
-        Spacer(Modifier.height(2.dp))
+        Spacer(Modifier.height(KraftSpacing.Spacing2))
         Text(
             text = tab.label,
             fontSize = MaterialTheme.typography.labelMedium.fontSize,

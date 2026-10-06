@@ -38,6 +38,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.gitakraft.app.data.ChapterProgress
 import com.gitakraft.app.domain.Reading
+import com.kraft.ui.tokens.KraftSpacing
+import com.gitakraft.app.ui.theme.GitaMetrics
 
 private val DEV_DIGITS = listOf("०", "१", "२", "३", "४", "५", "६", "७", "८", "९")
 
@@ -74,12 +76,12 @@ fun ChaptersScreen(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
-            contentPadding = PaddingValues(bottom = 150.dp),
-            verticalArrangement = Arrangement.spacedBy(8.dp),
+            contentPadding = PaddingValues(bottom = GitaMetrics.AboveTabBar),
+            verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing8),
         ) {
             stickyHeader {
-                Surface(shadowElevation = 2.dp) {
-                    Column(modifier = Modifier.padding(horizontal = 16.dp, vertical = 8.dp)) {
+                Surface(shadowElevation = KraftSpacing.Spacing2) {
+                    Column(modifier = Modifier.padding(horizontal = KraftSpacing.Spacing16, vertical = KraftSpacing.Spacing8)) {
                         Text(
                             text = "$totalRead of 700 verses",
                             style = MaterialTheme.typography.titleMedium,
@@ -88,7 +90,7 @@ fun ChaptersScreen(
                             progress = { Reading.fraction(totalRead, 700) },
                             modifier = Modifier
                                 .fillMaxWidth()
-                                .padding(top = 8.dp)
+                                .padding(top = KraftSpacing.Spacing8)
                                 .clip(MaterialTheme.shapes.small)
                                 .semantics {
                                     contentDescription =
@@ -112,24 +114,24 @@ private fun ChapterRow(row: ChapterProgress, onOpen: () -> Unit) {
     Card(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(horizontal = 16.dp)
+            .padding(horizontal = KraftSpacing.Spacing16)
             .clickable(onClick = onOpen),
     ) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(16.dp),
+                .padding(KraftSpacing.Spacing16),
             verticalAlignment = Alignment.CenterVertically,
-            horizontalArrangement = Arrangement.spacedBy(16.dp),
+            horizontalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing16),
         ) {
             Box(
                 contentAlignment = Alignment.Center,
-                modifier = Modifier.size(56.dp),
+                modifier = Modifier.size(KraftSpacing.Spacing56),
             ) {
                 CircularProgressIndicator(
                     progress = { fraction },
                     modifier = Modifier
-                        .size(56.dp)
+                        .size(KraftSpacing.Spacing56)
                         .semantics {
                             contentDescription =
                                 "${row.read} of ${row.chapter.verseCount} read"
@@ -161,7 +163,7 @@ private fun ChapterRow(row: ChapterProgress, onOpen: () -> Unit) {
                     },
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
-                    modifier = Modifier.padding(top = 4.dp),
+                    modifier = Modifier.padding(top = KraftSpacing.Spacing4),
                 )
             }
             if (complete) {

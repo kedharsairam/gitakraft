@@ -37,6 +37,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.gitakraft.app.data.VerseRow
 import com.gitakraft.app.domain.Reading
+import com.kraft.ui.tokens.KraftSpacing
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -73,15 +74,15 @@ fun ChapterScreen(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding),
-            contentPadding = PaddingValues(bottom = 24.dp),
-            verticalArrangement = Arrangement.spacedBy(4.dp),
+            contentPadding = PaddingValues(bottom = KraftSpacing.Spacing24),
+            verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing4),
         ) {
             item {
                 // Chapter hero: giant numeral + title + woven-in progress.
                 // Deliberately not the sticky strip from the library list.
                 Column(
-                    modifier = Modifier.padding(horizontal = 24.dp)
-                        .padding(top = 16.dp, bottom = 12.dp),
+                    modifier = Modifier.padding(horizontal = KraftSpacing.Spacing24)
+                        .padding(top = KraftSpacing.Spacing16, bottom = KraftSpacing.Spacing12),
                 ) {
                     Text(
                         text = devDigits(n),
@@ -92,24 +93,24 @@ fun ChapterScreen(
                         text = "Chapter $n",
                         style = MaterialTheme.typography.labelMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
-                        modifier = Modifier.padding(top = 4.dp),
+                        modifier = Modifier.padding(top = KraftSpacing.Spacing4),
                     )
                     Text(
                         text = title,
                         style = MaterialTheme.typography.headlineMedium,
-                        modifier = Modifier.padding(top = 2.dp),
+                        modifier = Modifier.padding(top = KraftSpacing.Spacing2),
                     )
                     Text(
                         text = "$read of $verseCount verses read",
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant,
-                        modifier = Modifier.padding(top = 8.dp),
+                        modifier = Modifier.padding(top = KraftSpacing.Spacing8),
                     )
                     LinearProgressIndicator(
                         progress = { Reading.fraction(read, verseCount) },
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding(top = 8.dp)
+                            .padding(top = KraftSpacing.Spacing8)
                             .clip(MaterialTheme.shapes.small),
                     )
                 }
@@ -144,15 +145,15 @@ fun VerseListRow(
         ),
         modifier = Modifier
             .fillMaxWidth()
-            .padding(horizontal = 16.dp, vertical = 2.dp)
+            .padding(horizontal = KraftSpacing.Spacing16, vertical = KraftSpacing.Spacing2)
             .clickable(onClick = onOpen),
     ) {
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(12.dp),
+                .padding(KraftSpacing.Spacing12),
             verticalAlignment = Alignment.CenterVertically,
-            horizontalArrangement = Arrangement.spacedBy(12.dp),
+            horizontalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing12),
         ) {
             // Numeral badge: chapter rows carry rings + titles, verse rows
             // carry a tonal badge instead (Devanagari within a chapter,
@@ -174,7 +175,7 @@ fun VerseListRow(
             Box(
                 contentAlignment = Alignment.Center,
                 modifier = Modifier
-                    .size(44.dp)
+                    .size(KraftSpacing.TouchTarget)
                     .clip(CircleShape)
                     .background(
                         if (read) {
@@ -202,7 +203,7 @@ fun VerseListRow(
             }
             Column(
                 modifier = Modifier.weight(1f),
-                verticalArrangement = Arrangement.spacedBy(2.dp),
+                verticalArrangement = Arrangement.spacedBy(KraftSpacing.Spacing2),
             ) {
                 // Speaker eyebrow only on dialogue turns (Arjuna's
                 // questions, Sanjaya's narration): 669 Krishna verses

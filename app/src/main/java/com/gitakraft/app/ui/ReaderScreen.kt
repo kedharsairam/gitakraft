@@ -55,6 +55,8 @@ import com.gitakraft.app.ui.theme.VerseIast
 import com.gitakraft.app.ui.theme.VerseSanskrit
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
+import com.kraft.ui.tokens.KraftSpacing
+import com.gitakraft.app.ui.theme.GitaMetrics
 
 private const val DWELL_MS = 1500L
 
@@ -163,12 +165,12 @@ fun ReaderScreen(
             // Pinned transport: counter, hairline and prev/next never
             // scroll with the verse — they behave like a bottom bar.
             if (v != null && siblings.isNotEmpty()) {
-                Column(modifier = Modifier.padding(horizontal = 24.dp)) {
+                Column(modifier = Modifier.padding(horizontal = KraftSpacing.Spacing24)) {
                     LinearProgressIndicator(
                         progress = { (idx + 1).toFloat() / siblings.size },
                         modifier = Modifier.fillMaxWidth(),
                     )
-                    Spacer(modifier = Modifier.height(8.dp))
+                    Spacer(modifier = Modifier.height(KraftSpacing.Spacing8))
                     Row(
                         modifier = Modifier.fillMaxWidth(),
                         horizontalArrangement = Arrangement.SpaceBetween,
@@ -181,7 +183,7 @@ fun ReaderScreen(
                         FilledTonalButton(
                             onClick = { prevId?.let(onNavigate) },
                             enabled = prevId != null,
-                            modifier = Modifier.width(120.dp),
+                            modifier = Modifier.width(GitaMetrics.ReaderTextColumn),
                         ) {
                             Text("Previous")
                         }
@@ -201,12 +203,12 @@ fun ReaderScreen(
                                 nextId?.let(onNavigate)
                             },
                             enabled = nextId != null,
-                            modifier = Modifier.width(120.dp),
+                            modifier = Modifier.width(GitaMetrics.ReaderTextColumn),
                         ) {
                             Text("Next")
                         }
                     }
-                    Spacer(modifier = Modifier.height(12.dp))
+                    Spacer(modifier = Modifier.height(KraftSpacing.Spacing12))
                 }
             }
         },
@@ -240,9 +242,9 @@ fun ReaderScreen(
                 .fillMaxSize()
                 .padding(padding)
                 .verticalScroll(rememberScrollState())
-                .padding(horizontal = 24.dp),
+                .padding(horizontal = KraftSpacing.Spacing24),
         ) {
-            Spacer(modifier = Modifier.height(16.dp))
+            Spacer(modifier = Modifier.height(KraftSpacing.Spacing16))
             Text(
                 text = v.devanagari,
                 style = VerseSanskrit.copy(
@@ -260,13 +262,13 @@ fun ReaderScreen(
                     textAlign = TextAlign.Center,
                     modifier = Modifier
                         .fillMaxWidth()
-                        .padding(top = 12.dp),
+                        .padding(top = KraftSpacing.Spacing12),
                 )
             }
             TextButton(onClick = { showIast = !showIast }) {
                 Text(if (showIast) "Hide transliteration" else "Show transliteration")
             }
-            HorizontalDivider(modifier = Modifier.padding(vertical = 8.dp))
+            HorizontalDivider(modifier = Modifier.padding(vertical = KraftSpacing.Spacing8))
             Text(
                 text = v.meaning,
                 style = MaterialTheme.typography.bodyLarge.copy(
@@ -277,12 +279,12 @@ fun ReaderScreen(
             Card(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(top = 16.dp),
+                    .padding(top = KraftSpacing.Spacing16),
                 colors = CardDefaults.cardColors(
                     containerColor = MaterialTheme.colorScheme.tertiaryContainer,
                 ),
             ) {
-                Column(modifier = Modifier.padding(16.dp)) {
+                Column(modifier = Modifier.padding(KraftSpacing.Spacing16)) {
                     Text(
                         text = "TAKEAWAY",
                         style = MaterialTheme.typography.labelMedium,
@@ -294,11 +296,11 @@ fun ReaderScreen(
                             fontSize = MaterialTheme.typography.bodyMedium.fontSize * fontScale,
                         ),
                         fontWeight = FontWeight.Medium,
-                        modifier = Modifier.padding(top = 8.dp),
+                        modifier = Modifier.padding(top = KraftSpacing.Spacing8),
                     )
                 }
             }
-            Spacer(modifier = Modifier.height(16.dp))
+            Spacer(modifier = Modifier.height(KraftSpacing.Spacing16))
         }
     }
 }

@@ -11,6 +11,7 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.kraft.ui.tokens.KraftRadius
 
 // -- Brand --
 val Saffron = Color(0xFFFF9F0A)
@@ -42,10 +43,10 @@ private val DarkColorScheme = darkColorScheme(
 )
 
 val GitaShapes = Shapes(
-    small = RoundedCornerShape(8.dp),
-    medium = RoundedCornerShape(12.dp),
-    large = RoundedCornerShape(16.dp),
-    extraLarge = RoundedCornerShape(20.dp),
+    small = RoundedCornerShape(KraftRadius.Small),
+    medium = RoundedCornerShape(KraftRadius.Standard),
+    large = RoundedCornerShape(KraftRadius.Medium),
+    extraLarge = RoundedCornerShape(KraftRadius.Hero),
 )
 
 val GitaTypography = Typography(
